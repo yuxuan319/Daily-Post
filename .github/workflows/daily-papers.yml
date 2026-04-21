@@ -1,0 +1,42 @@
+name: Daily Paper Digest
+
+on:
+  schedule:
+    # 06:00 UTC = 08:00 Amsterdam (CEST, summer UTC+2)
+    # Change to "0 7 * * *" in winter (CET, UTC+1)
+    - cron: "0 6 * * *"
+  workflow_dispatch: # ← lets you click "Run workflow" manually to test
+
+jobs:
+  send-papers:
+    runs-on: ubuntu-latest
+
+    # Allow the job to push the updated seen_papers.json back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run paper digest
+        env:
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python fetch_papers.py
+
+      - name: Save seen-papers log back to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_papers.json
+          git diff --staged --quiet || git commit -m "chore: update seen papers log [skip ci]"
+          git push
