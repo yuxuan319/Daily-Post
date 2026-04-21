@@ -1,10 +1,10 @@
 """
 Daily Paper Digest — Semantic Scholar API only, no AI API needed.
 Strategy:
-  - Multiple keyword searches across 3 themes (rotated by day)
-  - Venue sweep on top of keyword results
+  - Use a fixed set of field-coverage slots every day
+  - Build broader queries from mechanism + haptic + context keywords
   - Deduplicate against seen_papers.json
-  - Rank: recent (last 12 months) + venue match, sorted by citation count
+  - Prefer one strong paper per slot for better daily diversity
   - Pick top 5, push to ntfy.sh
 """
 
@@ -35,50 +35,52 @@ VENUE_KEYWORDS = [
     "Nature Electronics", "Nature Communications",
 ]
 
-# ── Keyword pools per theme ────────────────────────────────────────────────
-THEME_KEYWORDS = {
-    "devices": {
-        "core": ["haptic", "tactile", "vibrotactile", "mid-air haptics", "thermal feedback"],
-        "mechanism": ["actuator", "device", "interface", "glove", "fingertip", "ultrasound"],
-        "context": ["wearable", "soft robotic", "pneumatic", "electrohydraulic", "handheld"],
+# ── Field coverage slots ───────────────────────────────────────────────────
+# Based on Qamar et al. (CHI 2018): stretchable, deployable,
+# variable stiffness, and shape memory mechanisms. We add a dedicated
+# metamaterial slot and keep haptics central in every query.
+QUERY_SLOTS = [
+    {
+        "name": "stretchable",
+        "haptic": ["haptic", "tactile", "vibrotactile", "thermal haptic"],
+        "mechanism": ["elastomer", "stretchable electronics", "soft actuator", "pneumatic"],
+        "context": ["wearable", "interface", "skin", "glove"],
     },
-    "materials": {
-        "core": ["soft actuator", "tactile sensor", "soft robotics", "smart material"],
-        "mechanism": ["stretchable electronics", "hydrogel", "liquid crystal elastomer", "dielectric elastomer"],
-        "context": ["reconfigurable", "origami", "magnetic", "skin", "flexible"],
+    {
+        "name": "deployable",
+        "haptic": ["haptic", "tactile", "shape-changing"],
+        "mechanism": ["origami", "kirigami", "deployable structure", "inflatable"],
+        "context": ["interface", "display", "wearable", "device"],
     },
-    "metamaterials": {
-        "core": ["metamaterial", "mechanical metamaterial", "acoustic metamaterial"],
-        "mechanism": ["tactile", "haptic", "actuator", "interface", "vibration control"],
-        "context": ["wearable", "soft robot", "programmable", "reconfigurable", "structure"],
+    {
+        "name": "variable_stiffness",
+        "haptic": ["haptic", "tactile", "kinaesthetic"],
+        "mechanism": ["variable stiffness", "layer jamming", "granular jamming", "stiffness changing"],
+        "context": ["wearable", "interface", "gripper", "virtual reality"],
     },
-    "experience": {
-        "core": ["haptic perception", "tactile feedback", "haptic interaction", "social touch"],
-        "mechanism": ["user study", "psychophysics", "texture rendering", "multimodal"],
-        "context": ["virtual reality", "wearable", "embodiment", "affective", "user centered"],
+    {
+        "name": "shape_memory",
+        "haptic": ["haptic", "tactile", "shape-changing"],
+        "mechanism": ["shape memory alloy", "shape memory polymer", "SMA", "SMP"],
+        "context": ["interface", "display", "wearable", "actuator"],
     },
-}
-
-# Day-of-week rotation
-DAILY_MIX = [
-    ["devices", "materials"],                    # Mon
-    ["experience", "devices"],                   # Tue
-    ["materials", "metamaterials"],              # Wed
-    ["devices", "experience", "materials"],      # Thu — broad sweep
-    ["experience", "metamaterials"],             # Fri
-    ["devices", "materials"],                    # Sat
-    ["experience", "devices", "metamaterials"],  # Sun
+    {
+        "name": "metamaterial",
+        "haptic": ["haptic", "tactile", "vibrotactile"],
+        "mechanism": ["mechanical metamaterial", "auxetic", "multistable", "metamaterial"],
+        "context": ["interface", "wearable", "soft robot", "vibration control"],
+    },
 ]
 
 VENUE_SWEEP_QUERIES = [
-    "soft haptic actuator CHI",
+    "haptic interface CHI",
     "tactile feedback UIST",
     "wearable haptics IEEE Haptics",
-    "soft robotics Nature",
-    "mechanical metamaterial tactile Nature",
+    "haptic device Science Robotics",
+    "mechanical metamaterial haptic Nature",
     "haptic perception World Haptics",
-    "smart material actuator Advanced Materials",
-    "soft robot skin tactile Science Robotics",
+    "smart material haptic Advanced Materials",
+    "soft robot tactile Nature Communications",
 ]
 
 
@@ -160,14 +162,17 @@ def paper_url(paper: dict) -> str:
     return f"https://www.semanticscholar.org/paper/{pid}" if pid else ""
 
 
-def build_theme_queries(theme: str, count: int = 3) -> list[str]:
-    buckets = THEME_KEYWORDS[theme]
+def build_slot_queries(slot: dict, count: int = 2) -> list[str]:
     seen_queries = set()
     queries = []
     max_attempts = count * 8
 
     for _ in range(max_attempts):
-        parts = [random.choice(buckets[name]) for name in ("core", "mechanism", "context")]
+        parts = [
+            random.choice(slot["haptic"]),
+            random.choice(slot["mechanism"]),
+            random.choice(slot["context"]),
+        ]
         query = " ".join(dict.fromkeys(parts))
         if query not in seen_queries:
             seen_queries.add(query)
@@ -180,33 +185,40 @@ def build_theme_queries(theme: str, count: int = 3) -> list[str]:
 
 # ── Fetch & select ─────────────────────────────────────────────────────────
 
-def fetch_candidates(themes: list) -> list:
-    candidates = []
-    seen_pids  = set()
+def fetch_candidates() -> tuple[dict, list]:
+    slot_candidates = {slot["name"]: [] for slot in QUERY_SLOTS}
+    all_candidates = []
+    seen_pids = set()
 
-    def add(results):
+    def add(results, target: list):
         for p in results:
             pid = p.get("paperId")
             if pid and pid not in seen_pids:
                 seen_pids.add(pid)
-                candidates.append(p)
+                if target is not all_candidates:
+                    target.append(p)
+                all_candidates.append(p)
 
-    # Compose a few broader keyword combinations per active theme.
-    for theme in themes:
-        for q in build_theme_queries(theme, count=3):
-            print(f"  [{theme}] {q!r}")
-            add(s2_search(q, limit=40))
+    # Every day uses the same field map; diversity comes from one slot per paper.
+    for slot in QUERY_SLOTS:
+        for q in build_slot_queries(slot, count=2):
+            print(f"  [{slot['name']}] {q!r}")
+            add(s2_search(q, limit=40), slot_candidates[slot["name"]])
 
     # Venue sweep (2 random queries)
     for q in random.sample(VENUE_SWEEP_QUERIES, 2):
         print(f"  [venue] {q!r}")
-        add(s2_search(q, limit=30))
+        add(s2_search(q, limit=30), all_candidates)
 
-    return candidates
+    return slot_candidates, all_candidates
 
 
-def select_papers(candidates: list, seen: set) -> list:
-    fresh = [p for p in candidates if not is_duplicate(p, seen)]
+def rank_papers(candidates: list, seen: set, excluded: set | None = None) -> list:
+    excluded = excluded or set()
+    fresh = [
+        p for p in candidates
+        if not is_duplicate(p, seen) and p.get("paperId") not in excluded
+    ]
 
     # Bucket: recent+venue > recent only > older+venue
     rv = sorted([p for p in fresh if is_recent(p) and venue_match(p)],
@@ -215,15 +227,49 @@ def select_papers(candidates: list, seen: set) -> list:
                 key=lambda p: p.get("citationCount") or 0, reverse=True)
     ov = sorted([p for p in fresh if not is_recent(p) and venue_match(p)],
                 key=lambda p: p.get("citationCount") or 0, reverse=True)
+    oo = sorted([p for p in fresh if not is_recent(p) and not venue_match(p)],
+                key=lambda p: p.get("citationCount") or 0, reverse=True)
 
     pool, seen_pool = [], set()
-    for p in rv + ro + ov:
+    for p in rv + ro + ov + oo:
         pid = p.get("paperId")
         if pid not in seen_pool:
             seen_pool.add(pid)
             pool.append(p)
 
-    return pool[:5]
+    return pool
+
+
+def select_papers(slot_candidates: dict, all_candidates: list, seen: set) -> list:
+    selected = []
+    selected_ids = set()
+    overflow = []
+
+    for slot in QUERY_SLOTS:
+        ranked = rank_papers(slot_candidates[slot["name"]], seen, selected_ids)
+        if ranked:
+            chosen = ranked[0]
+            selected.append(chosen)
+            if chosen.get("paperId"):
+                selected_ids.add(chosen["paperId"])
+            overflow.extend(ranked[1:])
+
+    if len(selected) < 5:
+        overflow.extend(rank_papers(all_candidates, seen, selected_ids))
+
+    final = []
+    final_ids = set()
+    for p in selected + overflow:
+        pid = p.get("paperId")
+        key = pid or (p.get("title") or "")[:40].lower()
+        if key in final_ids:
+            continue
+        final_ids.add(key)
+        final.append(p)
+        if len(final) >= 5:
+            break
+
+    return final
 
 
 # ── Format & push ──────────────────────────────────────────────────────────
@@ -280,18 +326,18 @@ def push_ntfy(title: str, text: str, click_url: str):
 # ── Entry point ────────────────────────────────────────────────────────────
 
 def main():
-    today  = datetime.date.today()
-    themes = DAILY_MIX[today.weekday()]
-    print(f"Date: {today}  |  Themes: {themes}")
+    today = datetime.date.today()
+    slot_names = [slot["name"] for slot in QUERY_SLOTS]
+    print(f"Date: {today}  |  Slots: {slot_names}")
 
     seen    = load_seen()
     seen_s  = build_seen_set(seen)
     print(f"Seen-papers log: {len(seen)} entries")
 
-    candidates = fetch_candidates(themes)
-    print(f"Candidates: {len(candidates)}")
+    slot_candidates, all_candidates = fetch_candidates()
+    print(f"Candidates: {len(all_candidates)}")
 
-    papers = select_papers(candidates, seen_s)
+    papers = select_papers(slot_candidates, all_candidates, seen_s)
     print(f"Selected: {len(papers)}")
 
     if not papers:
