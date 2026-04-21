@@ -36,48 +36,38 @@ VENUE_KEYWORDS = [
 ]
 
 # ── Keyword pools per theme ────────────────────────────────────────────────
-THEME_QUERIES = {
-    "devices": [
-        "wearable haptic actuator",
-        "pneumatic soft haptic device",
-        "vibrotactile feedback wearable",
-        "hydraulic soft actuator fingertip",
-        "thermal haptic feedback wearable",
-        "mid-air haptics ultrasound",
-        "electrohydraulic soft actuator haptics",
-        "soft robotic glove tactile",
-    ],
-    "materials": [
-        "soft actuator smart material",
-        "shape memory polymer soft robotics",
-        "stretchable electronics tactile sensor",
-        "liquid crystal elastomer actuator",
-        "dielectric elastomer actuator haptic",
-        "hydrogel soft robot actuator",
-        "origami soft robot reconfigurable",
-        "magnetic soft robot skin",
-    ],
-    "experience": [
-        "haptic perception user study",
-        "tactile feedback psychophysics",
-        "affective haptics social touch",
-        "multimodal haptic interaction",
-        "haptic texture rendering",
-        "embodiment wearable haptic",
-        "haptic feedback virtual reality experience",
-        "haptic design user centered",
-    ],
+THEME_KEYWORDS = {
+    "devices": {
+        "core": ["haptic", "tactile", "vibrotactile", "mid-air haptics", "thermal feedback"],
+        "mechanism": ["actuator", "device", "interface", "glove", "fingertip", "ultrasound"],
+        "context": ["wearable", "soft robotic", "pneumatic", "electrohydraulic", "handheld"],
+    },
+    "materials": {
+        "core": ["soft actuator", "tactile sensor", "soft robotics", "smart material"],
+        "mechanism": ["stretchable electronics", "hydrogel", "liquid crystal elastomer", "dielectric elastomer"],
+        "context": ["reconfigurable", "origami", "magnetic", "skin", "flexible"],
+    },
+    "metamaterials": {
+        "core": ["metamaterial", "mechanical metamaterial", "acoustic metamaterial"],
+        "mechanism": ["tactile", "haptic", "actuator", "interface", "vibration control"],
+        "context": ["wearable", "soft robot", "programmable", "reconfigurable", "structure"],
+    },
+    "experience": {
+        "core": ["haptic perception", "tactile feedback", "haptic interaction", "social touch"],
+        "mechanism": ["user study", "psychophysics", "texture rendering", "multimodal"],
+        "context": ["virtual reality", "wearable", "embodiment", "affective", "user centered"],
+    },
 }
 
 # Day-of-week rotation
 DAILY_MIX = [
     ["devices", "materials"],                    # Mon
     ["experience", "devices"],                   # Tue
-    ["materials", "experience"],                 # Wed
-    ["devices", "experience", "materials"],      # Thu — all themes
-    ["experience", "materials"],                 # Fri
+    ["materials", "metamaterials"],              # Wed
+    ["devices", "experience", "materials"],      # Thu — broad sweep
+    ["experience", "metamaterials"],             # Fri
     ["devices", "materials"],                    # Sat
-    ["experience", "devices"],                   # Sun
+    ["experience", "devices", "metamaterials"],  # Sun
 ]
 
 VENUE_SWEEP_QUERIES = [
@@ -85,6 +75,7 @@ VENUE_SWEEP_QUERIES = [
     "tactile feedback UIST",
     "wearable haptics IEEE Haptics",
     "soft robotics Nature",
+    "mechanical metamaterial tactile Nature",
     "haptic perception World Haptics",
     "smart material actuator Advanced Materials",
     "soft robot skin tactile Science Robotics",
@@ -169,6 +160,24 @@ def paper_url(paper: dict) -> str:
     return f"https://www.semanticscholar.org/paper/{pid}" if pid else ""
 
 
+def build_theme_queries(theme: str, count: int = 3) -> list[str]:
+    buckets = THEME_KEYWORDS[theme]
+    seen_queries = set()
+    queries = []
+    max_attempts = count * 8
+
+    for _ in range(max_attempts):
+        parts = [random.choice(buckets[name]) for name in ("core", "mechanism", "context")]
+        query = " ".join(dict.fromkeys(parts))
+        if query not in seen_queries:
+            seen_queries.add(query)
+            queries.append(query)
+        if len(queries) >= count:
+            break
+
+    return queries
+
+
 # ── Fetch & select ─────────────────────────────────────────────────────────
 
 def fetch_candidates(themes: list) -> list:
@@ -182,10 +191,9 @@ def fetch_candidates(themes: list) -> list:
                 seen_pids.add(pid)
                 candidates.append(p)
 
-    # Keyword searches per theme (3 random queries per theme)
+    # Compose a few broader keyword combinations per active theme.
     for theme in themes:
-        pool = THEME_QUERIES[theme]
-        for q in random.sample(pool, min(3, len(pool))):
+        for q in build_theme_queries(theme, count=3):
             print(f"  [{theme}] {q!r}")
             add(s2_search(q, limit=40))
 
