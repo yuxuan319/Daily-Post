@@ -220,36 +220,42 @@ def select_papers(candidates: list, seen: set) -> list:
 
 # ── Format & push ──────────────────────────────────────────────────────────
 
-def format_card(i: int, p: dict) -> str:
+def format_card(i: int, total: int, p: dict) -> tuple[str, str]:
     title   = p.get("title") or "Untitled"
     authors = p.get("authors") or []
-    author_str = ", ".join(a["name"] for a in authors[:3])
+    author_str = ", ".join(a["name"] for a in authors[:3]) or "Unknown authors"
     if len(authors) > 3:
         author_str += " et al."
     venue   = p.get("venue") or "Unknown venue"
     year    = p.get("year") or ""
     cites   = p.get("citationCount") or 0
-    abstract = ((p.get("abstract") or "No abstract.")[:280]).rstrip() + "…"
+    abstract = (p.get("abstract") or "No abstract.").strip()
+    if len(abstract) > 280:
+        abstract = abstract[:277].rstrip() + "..."
     url     = paper_url(p)
-    return (
-        f"{i}. {title}\n"
-        f"   {author_str} — {venue}, {year}  [{cites} citations]\n"
-        f"   {abstract}\n"
-        f"   {url}"
+    body = (
+        f"{author_str}\n"
+        f"{venue}, {year}  [{cites} citations]\n\n"
+        f"{abstract}\n\n"
+        f"Link: {url}"
     )
+    return f"{i}/{total} {title}", body
 
 
-def push_ntfy(text: str, n: int):
-    today = datetime.date.today().strftime("%b %d")
+def push_ntfy(title: str, text: str, click_url: str):
+    headers = {
+        "Title":    title,
+        "Priority": "default",
+        "Tags":     "books",
+        "Content-Type": "text/plain; charset=utf-8",
+    }
+    if click_url:
+        headers["Click"] = click_url
+
     r = requests.post(
         NTFY_URL,
         data=text.encode("utf-8"),
-        headers={
-            "Title":    f"{n} Papers - {today}",
-            "Priority": "default",
-            "Tags":     "books",
-            "Content-Type": "text/plain; charset=utf-8",
-        },
+        headers=headers,
         timeout=15,
     )
     r.raise_for_status()
@@ -277,11 +283,12 @@ def main():
         print("No new papers found — skipping push.")
         return
 
-    header  = f"SOFT-TOUCH Daily Digest — {today.strftime('%A, %b %d')}\n"
-    cards   = "\n\n".join(format_card(i, p) for i, p in enumerate(papers, 1))
-    message = header + "\n" + cards
-
-    push_ntfy(message, len(papers))
+    total = len(papers)
+    for i, p in enumerate(papers, 1):
+        url = paper_url(p)
+        title, message = format_card(i, total, p)
+        push_ntfy(title, message, url)
+        time.sleep(0.5)
 
     for p in papers:
         seen.append({
