@@ -242,15 +242,22 @@ def format_card(i: int, total: int, p: dict) -> tuple[str, str]:
     return f"{i}/{total} {title}", body
 
 
+def sanitize_header(value: str) -> str:
+    # HTTP headers must be latin-1 encodable and must not contain newlines.
+    value = value.replace("\r", " ").replace("\n", " ")
+    return value.encode("latin-1", "replace").decode("latin-1")
+
+
 def push_ntfy(title: str, text: str, click_url: str):
     headers = {
-        "Title":    title,
+        "Title":    sanitize_header(title),
         "Priority": "default",
         "Tags":     "books",
         "Content-Type": "text/plain; charset=utf-8",
     }
     if click_url:
-        headers["Click"] = click_url
+        headers["Click"] = sanitize_header(click_url)
+        headers["Actions"] = sanitize_header(f"view, Open DOI, {click_url}, clear=true")
 
     r = requests.post(
         NTFY_URL,
