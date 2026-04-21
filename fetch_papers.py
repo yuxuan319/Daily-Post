@@ -12,6 +12,7 @@ import os
 import json
 import datetime
 import random
+import time
 import requests
 
 S2_API_KEY = os.environ.get("S2_API_KEY", "")  # optional, raises rate limit
@@ -114,18 +115,27 @@ def build_seen_set(seen: list) -> set:
 
 def s2_search(query: str, limit: int = 50) -> list:
     headers = {"x-api-key": S2_API_KEY} if S2_API_KEY else {}
-    try:
-        r = requests.get(
-            S2_SEARCH,
-            params={"query": query, "limit": limit, "fields": FIELDS},
-            headers=headers,
-            timeout=20,
-        )
-        r.raise_for_status()
-        return r.json().get("data", [])
-    except Exception as e:
-        print(f"  Search error ({query!r}): {e}")
-        return []
+    for attempt in range(3):
+        try:
+            r = requests.get(
+                S2_SEARCH,
+                params={"query": query, "limit": limit, "fields": FIELDS},
+                headers=headers,
+                timeout=20,
+            )
+            if r.status_code == 429:
+                wait = 10 * (attempt + 1)
+                print(f"  Rate limited, waiting {wait}s …")
+                time.sleep(wait)
+                continue
+            r.raise_for_status()
+            time.sleep(1.5)  # polite delay between requests
+            return r.json().get("data", [])
+        except Exception as e:
+            print(f"  Search error ({query!r}): {e}")
+            return []
+    print(f"  Giving up on {query!r} after 3 attempts")
+    return []
 
 
 def is_recent(paper: dict, months: int = 36) -> bool:
@@ -235,9 +245,10 @@ def push_ntfy(text: str, n: int):
         NTFY_URL,
         data=text.encode("utf-8"),
         headers={
-            "Title":    f"📄 {n} Papers · {today}",
+            "Title":    f"{n} Papers - {today}",
             "Priority": "default",
             "Tags":     "books",
+            "Content-Type": "text/plain; charset=utf-8",
         },
         timeout=15,
     )
@@ -266,7 +277,7 @@ def main():
         print("No new papers found — skipping push.")
         return
 
-    header  = f"📚 SOFT-TOUCH Daily Digest — {today.strftime('%A, %b %d')}\n"
+    header  = f"SOFT-TOUCH Daily Digest — {today.strftime('%A, %b %d')}\n"
     cards   = "\n\n".join(format_card(i, p) for i, p in enumerate(papers, 1))
     message = header + "\n" + cards
 
