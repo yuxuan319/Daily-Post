@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "paperId": "50102584999eee23254eedb6a3d84087d40fbb11",
+    "title": "Multiresponsive MXene Actuators with Asymmetric Quantum\u2010Confined Superfluidic Structures",
+    "url": "https://doi.org/10.1002/adfm.202308317",
+    "date": "2026-04-21"
+  },
+  {
+    "paperId": "f3996b0487122bcb16e6aed1af8194be2c07ada1",
+    "title": "4D Encryption System: Hydrophilic\u2013Hydrophobic Polyurethane Actuators with Smart Color Switching for High\u2010Capacity Data Storage",
+    "url": "https://doi.org/10.1002/adfm.202501801",
+    "date": "2026-04-21"
+  },
+  {
+    "paperId": "9b452f629096dacd90605f6af159bc093658f7ba",
+    "title": "Jellyfish-Inspired Soft Robot Driven by Pneumatic Bistable Actuators",
+    "url": "https://doi.org/10.1089/soro.2023.0212",
+    "date": "2026-04-21"
+  },
+  {
+    "paperId": "8263aa6a5d3cd8d2db39a7a21aa6859adfcfb298",
+    "title": "Biodegradable Electrohydraulic Soft Actuators",
+    "url": "https://doi.org/10.1002/aisy.202200239",
+    "date": "2026-04-21"
+  },
+  {
+    "paperId": "e212848dd5e4ed144e42e58059db31133ecd5d3e",
+    "title": "Effect of Vibrotactile Feedback on the Control of the Interaction Force of a Supernumerary Robotic Arm",
+    "url": "https://doi.org/10.3390/machines11121085",
+    "date": "2026-04-21"
+  }
+]
