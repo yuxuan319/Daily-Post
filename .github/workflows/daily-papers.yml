@@ -7,11 +7,13 @@ on:
     - cron: "0 6 * * *"
   workflow_dispatch: # ← lets you click "Run workflow" manually to test
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   send-papers:
     runs-on: ubuntu-latest
 
-    # Allow the job to push the updated seen_papers.json back to the repo
     permissions:
       contents: write
 
@@ -22,7 +24,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12"
 
       - name: Install dependencies
         run: pip install requests
