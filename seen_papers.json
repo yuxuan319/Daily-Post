@@ -1,13 +1,13 @@
 [
   {
     "paperId": "50102584999eee23254eedb6a3d84087d40fbb11",
-    "title": "Multiresponsive MXene Actuators with Asymmetric Quantum\u2010Confined Superfluidic Structures",
+    "title": "Multiresponsive MXene Actuators with Asymmetric Quantum‐Confined Superfluidic Structures",
     "url": "https://doi.org/10.1002/adfm.202308317",
     "date": "2026-04-21"
   },
   {
     "paperId": "f3996b0487122bcb16e6aed1af8194be2c07ada1",
-    "title": "4D Encryption System: Hydrophilic\u2013Hydrophobic Polyurethane Actuators with Smart Color Switching for High\u2010Capacity Data Storage",
+    "title": "4D Encryption System: Hydrophilic–Hydrophobic Polyurethane Actuators with Smart Color Switching for High‐Capacity Data Storage",
     "url": "https://doi.org/10.1002/adfm.202501801",
     "date": "2026-04-21"
   },
@@ -79,13 +79,13 @@
   },
   {
     "paperId": "3789c861bc5af618edeb644a40c540f63640dc33",
-    "title": "Interactive Haptic System with Multimodal Tactile Sensing and Hydraulic Feedback for Realistic Human\u2013Machine Interaction",
+    "title": "Interactive Haptic System with Multimodal Tactile Sensing and Hydraulic Feedback for Realistic Human–Machine Interaction",
     "url": "https://doi.org/10.1002/aisy.202400578",
     "date": "2026-04-21"
   },
   {
     "paperId": "7eecfdac40c0797b77016ec0ea1e42df2e4bdd6b",
-    "title": "Embodied Auxetic Intelligence in a Glove\u2010Type Wearable Haptic Interface Connecting Humans to Robots and the Metaverse",
+    "title": "Embodied Auxetic Intelligence in a Glove‐Type Wearable Haptic Interface Connecting Humans to Robots and the Metaverse",
     "url": "https://doi.org/10.1002/adfm.202502222",
     "date": "2026-04-21"
   },
@@ -148,5 +148,35 @@
     "title": "Bioelastic state recovery for haptic sensory substitution",
     "url": "https://doi.org/10.1038/s41586-024-08155-9",
     "date": "2026-04-21"
+  },
+  {
+    "title": "Haptic Empathy: Investigating Individual Differences in Affective Haptic Communications",
+    "url": "https://arxiv.org/abs/2503.14999",
+    "date": "2026-04-22",
+    "paperId": "30f758add2ea61154b626417b8d6083a224f0bc6"
+  },
+  {
+    "title": "Tactile Rendering Using Three Basic Stimulus Components in Ultrasound Midair Haptics",
+    "url": "https://arxiv.org/abs/2601.16767",
+    "date": "2026-04-22",
+    "paperId": "a20c29a7e789719fc5515f7206bcd4dd6a72021a"
+  },
+  {
+    "title": "Ultralight Soft Wearable Haptic Interface with Shear-Normal-Vibration Feedback",
+    "url": "https://doi.org/10.1002/aisy.202500374",
+    "date": "2026-04-22",
+    "paperId": "f9f9c21074132081d2005f5d6858f9f488ad51fc"
+  },
+  {
+    "title": "Three-Dimensional Stretchable Tactile Sensors for Robotic Bionic Skin",
+    "url": "https://doi.org/10.1002/adma.202522250",
+    "date": "2026-04-22",
+    "paperId": "4a1985465f18ad4b44a7eb0c22667dd8d2e22e20"
+  },
+  {
+    "title": "Tactile Emotions: Multimodal Affective Captioning with Haptics Improves Narrative Engagement for d/Deaf and Hard-of-Hearing Viewers",
+    "url": "https://doi.org/10.1145/3706598.3713304",
+    "date": "2026-04-22",
+    "paperId": "027d773258dc924433d095fe6eb19c19f71fc1ab"
   }
 ]
