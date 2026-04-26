@@ -268,5 +268,35 @@
     "title": "All-in-One Haptic Thimble for Vibration, Pressure, and Thermal Feedback: Investigating the Impact of Vibration Frequency on Thermal Perception",
     "url": "https://doi.org/10.1109/WHC64065.2025.11123341",
     "date": "2026-04-25"
+  },
+  {
+    "paperId": "9e72c3dd986cb2cadaf35668b916d8a731bb0962",
+    "title": "Multichannel Vibrotactile Glove: Validation of a New Device Designed to Sense Vibrations",
+    "url": "https://doi.org/10.1109/TOH.2024.3475740",
+    "date": "2026-04-26"
+  },
+  {
+    "paperId": "d17ec05b0bc627d53de49929ba37d2de2cec55bd",
+    "title": "Modular shape-changing tensegrity-blocks enable self-assembling robotic structures",
+    "url": "https://doi.org/10.1038/s41467-025-60982-0",
+    "date": "2026-04-26"
+  },
+  {
+    "paperId": "6bbffb10974e2437cdb97fec6bf088cd332a5881",
+    "title": "A Bioinspired Robotic Finger for Multimodal Tactile Sensing Powered by Fiber Optic Sensors",
+    "url": "https://doi.org/10.1002/aisy.202400175",
+    "date": "2026-04-26"
+  },
+  {
+    "paperId": "da856272326402d9d22d8cfe72d39f7ef5bfe31a",
+    "title": "A Multi-Layer Stacked Microfluidic Tactile Display With High Spatial Resolution",
+    "url": "https://doi.org/10.1109/TOH.2024.3367708",
+    "date": "2026-04-26"
+  },
+  {
+    "paperId": "b1b9f9f73ed826fd0844cef6e8bd7fc9904a05a5",
+    "title": "HiPalm: Wearable Device for Affective Tactile Interpersonal Communication",
+    "url": "https://doi.org/10.1145/3689050.3705974",
+    "date": "2026-04-26"
   }
 ]
