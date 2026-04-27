@@ -298,5 +298,35 @@
     "title": "HiPalm: Wearable Device for Affective Tactile Interpersonal Communication",
     "url": "https://doi.org/10.1145/3689050.3705974",
     "date": "2026-04-26"
+  },
+  {
+    "paperId": "0ed2967bd31ca84738ecfa147eba166ef966a2fe",
+    "title": "Active electronic skin: an interface towards ambient haptic feedback on physical surfaces",
+    "url": "https://doi.org/10.1038/s41528-024-00311-5",
+    "date": "2026-04-27"
+  },
+  {
+    "paperId": "eb0269c11531cf9a4a577678da21406e95e86363",
+    "title": "Robotecture: A Modular Shape-changing Interface Using Actuated Support Beams",
+    "url": "https://doi.org/10.1145/3689050.3704925",
+    "date": "2026-04-27"
+  },
+  {
+    "paperId": "c6128aeae19673dd7564c85ce056f4bc28fbfb34",
+    "title": "A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation",
+    "url": "https://doi.org/10.3390/machines13010027",
+    "date": "2026-04-27"
+  },
+  {
+    "paperId": "4b5700aaeb4a262b4be7cc3b4e7ab58dfcba2a35",
+    "title": "Bridging the digital\u2013physical divide using haptic and wearable technologies",
+    "url": "https://doi.org/10.1038/s41928-024-01325-7",
+    "date": "2026-04-27"
+  },
+  {
+    "paperId": "6c00d45bdc4d24e9b9c8589cab652eb306e37dc1",
+    "title": "Toward Sustainable Haptics: A Wearable Vibrotactile Solar\u2010Powered System with Biodegradable Components",
+    "url": "https://doi.org/10.1002/admt.202301265",
+    "date": "2026-04-27"
   }
 ]
