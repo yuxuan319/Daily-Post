@@ -358,5 +358,35 @@
     "title": "A Motion\u2010Sensing Integrated Soft Robot with Triboelectric Nanogenerator for Pipeline Inspection",
     "url": "https://doi.org/10.1002/aisy.202400643",
     "date": "2026-04-28"
+  },
+  {
+    "paperId": "b80828cf159f5491f36de47b7222bdced1c570bc",
+    "title": "Strain-invariant stretchable radio-frequency electronics",
+    "url": "https://doi.org/10.1038/s41586-024-07383-3",
+    "date": "2026-04-29"
+  },
+  {
+    "paperId": "974299a45d04bd3f000132bae2fb0377e0372045",
+    "title": "Haptic Sensing and Feedback Techniques toward Virtual Reality",
+    "url": "https://doi.org/10.34133/research.0333",
+    "date": "2026-04-29"
+  },
+  {
+    "paperId": "afa90b07d29e0b95b67bc44680e53ee258b27839",
+    "title": "An 18-g haptic feedback ring with a three-axis force-sensing skin",
+    "url": "https://doi.org/10.1038/s41928-025-01515-x",
+    "date": "2026-04-29"
+  },
+  {
+    "paperId": "9468240bd1c618d494b2faa998c10b1cdbeef544",
+    "title": "Slip-actuated bionic tactile sensing system with dynamic DC generator integrated E-textile for dexterous robotic manipulation",
+    "url": "https://doi.org/10.1038/s41467-025-61843-6",
+    "date": "2026-04-29"
+  },
+  {
+    "paperId": "918c05be3b25d975720c5e88423203f8c9c85cf3",
+    "title": "Additively Manufactured 3D Auxetic Metamaterials for Structurally Guided Capacitive and Resistive Tactile Sensing",
+    "url": "https://doi.org/10.1002/adfm.202509704",
+    "date": "2026-04-29"
   }
 ]
