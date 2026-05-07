@@ -568,5 +568,35 @@
     "title": "Wearable High-Resolution Haptic Display Using Suction Stimuli to Represent Cutaneous Contact Information on Finger Pad",
     "url": "https://doi.org/10.1109/TOH.2023.3280391",
     "date": "2026-05-05"
+  },
+  {
+    "paperId": "9f007638db375085ccaedb83ecc28e6b27f98971",
+    "title": "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices",
+    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520855",
+    "date": "2026-05-07"
+  },
+  {
+    "paperId": "426638fe2a8ff5bfb6c6370ab1df31b0a1398460",
+    "title": "Perception of and Response to a Haptic Device as a Function of Signal Complexity",
+    "url": "https://doi.org/10.1109/WHC56415.2023.10224490",
+    "date": "2026-05-07"
+  },
+  {
+    "paperId": "f8e595c6b756775e6cee83c97d9475ae9b3a1adf",
+    "title": "Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels",
+    "url": "https://doi.org/10.1089/soro.2023.0185",
+    "date": "2026-05-07"
+  },
+  {
+    "paperId": "126f0a22daee9d511f3e1c17449bb8e6b4a2ed23",
+    "title": "A Wearable Soft Actuator for Directional Tactile Stimulation: Design and Testing",
+    "url": "https://doi.org/10.1002/aisy.202400899",
+    "date": "2026-05-07"
+  },
+  {
+    "paperId": "e4e207dc1d419cd6cf2fabf06738117bf4254249",
+    "title": "Multimodal Haptic Feedback for Virtual Collisions Combining Vibrotactile and Electrical Muscle Stimulation",
+    "url": "https://doi.org/10.1109/TOH.2024.3354268",
+    "date": "2026-05-07"
   }
 ]
