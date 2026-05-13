@@ -748,5 +748,35 @@
     "title": "Three-dimensional micro strain gauges as flexible, modular tactile sensors for versatile integration with micro- and macroelectronics",
     "url": "https://doi.org/10.1126/sciadv.adp6094",
     "date": "2026-05-12"
+  },
+  {
+    "paperId": "30b3c35dcc55650cdbb071be7ee4f79f2fa76005",
+    "title": "Creep-free polyelectrolyte elastomer for drift-free iontronic sensing",
+    "url": "https://doi.org/10.1038/s41563-024-01848-6",
+    "date": "2026-05-13"
+  },
+  {
+    "paperId": "cf50e8b4c9e45f852d8267f471b9ec98d6f022c6",
+    "title": "The HapticSpider: A 7-DoF Wearable Device for Cutaneous Interaction with the Palm",
+    "url": "https://doi.org/10.1007/978-3-031-70058-3_23",
+    "date": "2026-05-13"
+  },
+  {
+    "paperId": "8b9a91918254ea71c7a894ab468d539f9839b85c",
+    "title": "Mechano-gated iontronic piezomemristor for temporal-tactile neuromorphic plasticity",
+    "url": "https://doi.org/10.1038/s41467-025-56393-w",
+    "date": "2026-05-13"
+  },
+  {
+    "paperId": "0f0a5648683501e840bbef415b9d41391ca4eb11",
+    "title": "From Gentle Touch to Sharp Scratch: A Shape-Changing Haptic Interface Driven by Shape-Memory Alloy for Affective Touch",
+    "url": "https://doi.org/10.1145/3746058.3758431",
+    "date": "2026-05-13"
+  },
+  {
+    "paperId": "ee42dd6c1c79034a0b79438ce9550246c488717c",
+    "title": "Enhancing haptic continuity in virtual reality using a continuity reinforcement skeleton",
+    "url": "https://doi.org/10.1038/s41467-025-58318-z",
+    "date": "2026-05-13"
   }
 ]
