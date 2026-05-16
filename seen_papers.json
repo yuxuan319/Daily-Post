@@ -838,5 +838,35 @@
     "title": "HaptoRoom: Designing Spatial and Reconfigurable Haptic Experience using Vibrotactile Floor Interface",
     "url": "https://doi.org/10.1145/3689050.3704939",
     "date": "2026-05-15"
+  },
+  {
+    "paperId": "1010f5d7a781cc156419f205743b8373c2cb044c",
+    "title": "Triboelectric sensor with ultra-wide linear range based on water-containing elastomer and ion-rich interface",
+    "url": "https://doi.org/10.1038/s41467-024-54980-x",
+    "date": "2026-05-16"
+  },
+  {
+    "paperId": "1927c4c8e78ac35e8523be4d835a5c7a7a979325",
+    "title": "Dancing with Inflatables: Design Bistable Inflatable Wearables for Choreographic Tools",
+    "url": "https://doi.org/10.1145/3746058.3758387",
+    "date": "2026-05-16"
+  },
+  {
+    "paperId": "cdb8ef70f4d89e33b9cfff299382edfd6e9998cc",
+    "title": "A Physically Intelligent, Multimodal Universal Soft Gripper Using Granular Materials",
+    "url": "https://doi.org/10.1002/adfm.202418549",
+    "date": "2026-05-16"
+  },
+  {
+    "paperId": "d14ee458ef79c3a6c1fa59bf0a385fbb765bb5bc",
+    "title": "Programmable Multimodal Shape Evolution of Shape Memory Polymers Through Non\u2010Equilibrium Processes",
+    "url": "https://doi.org/10.1002/adfm.202524981",
+    "date": "2026-05-16"
+  },
+  {
+    "paperId": "f71e1f2d7d8a3f1a7af875b07cad3824bb2cf190",
+    "title": "Metamaterial Soft Snake Robot for Rectilinear Locomotion",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522037",
+    "date": "2026-05-16"
   }
 ]
