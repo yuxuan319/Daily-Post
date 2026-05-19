@@ -928,5 +928,35 @@
     "title": "Soft Pneumatic Haptic Wearable to Create the Illusion of Human Touch",
     "url": "https://doi.org/10.1109/TOH.2023.3305495",
     "date": "2026-05-18"
+  },
+  {
+    "paperId": "636a6abc2456b3cacaad82528ec5ee79bab27fd9",
+    "title": "Achieving tissue-level softness on stretchable electronics through a generalizable soft interlayer design",
+    "url": "https://doi.org/10.1038/s41467-023-40191-3",
+    "date": "2026-05-19"
+  },
+  {
+    "paperId": "1ca91fabde31b16e4f3f1bfb3943bec31de76200",
+    "title": "Info-Motion: Using the Metaphor of Plant Motion for Information Communication in Shape-changing Interface: Info-motion",
+    "url": "https://doi.org/10.1145/3623509.3633397",
+    "date": "2026-05-19"
+  },
+  {
+    "paperId": "d5f7ddba698ede0334c0f4cd78456c26e6dcd40a",
+    "title": "PnuTac: A Vision-Based Pneumatic Tactile Sensor for Slip Detection and Object Classification",
+    "url": "https://doi.org/10.1109/M2VIP58386.2023.10413420",
+    "date": "2026-05-19"
+  },
+  {
+    "paperId": "096a1fb19c9fe51c889c8dcc66e09f45670295ad",
+    "title": "Evaluating Affective Touch Generated via a Shape-Memory-Alloy Arm-Sleeve by Subjective Report and Facial Muscle Activity",
+    "url": "https://doi.org/10.1109/TOH.2024.3502785",
+    "date": "2026-05-19"
+  },
+  {
+    "paperId": "637468ba5e1bc2dcd797be08d899a47c35cbf982",
+    "title": "Wearable Haptic Devices for Realistic Scenario Applications",
+    "url": "https://doi.org/10.1007/978-3-031-70539-7",
+    "date": "2026-05-19"
   }
 ]
