@@ -1168,5 +1168,35 @@
     "title": "A Reversible, Versatile Skin\u2010Attached Haptic Interface Platform with Bioinspired Interconnection Architectures Capable of Resisting Sweat and Vibration",
     "url": "https://doi.org/10.1002/adfm.202311167",
     "date": "2026-05-26"
+  },
+  {
+    "paperId": "928e06068299b19fccdc4a8af58525d340246d61",
+    "title": "Soft Flexible Magnetic Micro-Structures for a Haptic Surface",
+    "url": "https://doi.org/10.1109/WHC64065.2025.11123415",
+    "date": "2026-05-27"
+  },
+  {
+    "paperId": "c427d71471e7e994dd3557b82f15636b55408d61",
+    "title": "Origami-based Haptic Syringe for Local Anesthesia Simulator.",
+    "url": "https://doi.org/10.1109/TOH.2024.3353924",
+    "date": "2026-05-27"
+  },
+  {
+    "paperId": "5556a8f8de54cbb25c2febc4d92c2c655194ca50",
+    "title": "Thermoelectric\u2010Thermochromic Dual\u2010Mode Passive Flexible Tactile Sensor for Fine Liquid Recognition Under Non\u2010Contact Mode",
+    "url": "https://doi.org/10.1002/adfm.202514339",
+    "date": "2026-05-27"
+  },
+  {
+    "paperId": "8fd4868c3eaf563c133ba674069e1771302a2b21",
+    "title": "Modeling and Application of an SMA-Actuated Lightweight Human-Inspired Gripper for Aerial Manipulation",
+    "url": "https://doi.org/10.3390/machines11090859",
+    "date": "2026-05-27"
+  },
+  {
+    "paperId": "7063bfe2df6d3b01cdf238d15630bd3b8c7373d2",
+    "title": "ROMEO: Towards the Design of Robot with Haptic Mediation for Remote Conflict",
+    "url": "https://doi.org/10.1145/3613905.3650781",
+    "date": "2026-05-27"
   }
 ]
