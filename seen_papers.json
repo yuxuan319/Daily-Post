@@ -1228,5 +1228,35 @@
     "title": "Studying the Perception of Vibrotactile Stimulation on the Arm via a Modular Wearable Sleeve",
     "url": "https://doi.org/10.1109/WHC64065.2025.11123226",
     "date": "2026-05-28"
+  },
+  {
+    "paperId": "e38dcbdf77b0db4f250f5515463eba8a9e5344eb",
+    "title": "Microfluidic-enabled three-dimensional stretchable thermoelectrics",
+    "url": "https://doi.org/10.1038/s41528-025-00429-0",
+    "date": "2026-05-29"
+  },
+  {
+    "paperId": "b70399e1e81688d5d644c34fa39ad4abd27ab487",
+    "title": "Templated Laser-Induced-Graphene-Based Tactile Sensors Enable Wearable Health Monitoring and Texture Recognition via Deep Neural Network.",
+    "url": "https://doi.org/10.1021/acsnano.3c05838",
+    "date": "2026-05-29"
+  },
+  {
+    "paperId": "59435d1b6fb8db60967dcae0f897006e3015877e",
+    "title": "A Wearable Triboelectric\u2010Iontronic Hybrid Smart Finger Ring with Self\u2010Powered Static\u2010Dynamic Tactile Sensing for Advanced Human\u2010Machine Interactions",
+    "url": "https://doi.org/10.1002/adfm.202527394",
+    "date": "2026-05-29"
+  },
+  {
+    "paperId": "94320a807f6c10ac560ffc4dfeccd01b96f7ba2b",
+    "title": "4D Printing of Magnetically Responsive Shape Memory Polymers: Toward Sustainable Solutions in Soft Robotics, Wearables, and Biomedical Devices",
+    "url": "https://doi.org/10.1002/advs.202513091",
+    "date": "2026-05-29"
+  },
+  {
+    "paperId": "0f353a857aa3f0fa905139b6c6d5df53448da704",
+    "title": "MagSnap: Electromagnetically Controlled Bistable Transition Dynamics for Expressive Tactile Feedback",
+    "url": "https://doi.org/10.1145/3772363.3799080",
+    "date": "2026-05-29"
   }
 ]
