@@ -1258,5 +1258,35 @@
     "title": "MagSnap: Electromagnetically Controlled Bistable Transition Dynamics for Expressive Tactile Feedback",
     "url": "https://doi.org/10.1145/3772363.3799080",
     "date": "2026-05-29"
+  },
+  {
+    "paperId": "3ad2b247f11999764e3a18de13d9322a1db0d236",
+    "title": "HaptiYarn: Development of an Actuator Yarn That Can Transform Everyday Textiles Into Haptic Devices",
+    "url": "https://doi.org/10.1109/TOH.2024.3371831",
+    "date": "2026-05-30"
+  },
+  {
+    "paperId": "c48cdfa04183f516e6431796fab58c43861a6583",
+    "title": "Dynamically reconfigurable shape-morphing and tactile display via hydraulically coupled mergeable and splittable PVC gel actuator",
+    "url": "https://doi.org/10.1126/sciadv.adq2024",
+    "date": "2026-05-30"
+  },
+  {
+    "paperId": "3af07642c6549bc570065018573919ec72839022",
+    "title": "Deep Learning\u2013Powered Robust Tactile Perception: Bridging Graphene Electronic Skin and Dynamic Decoding",
+    "url": "https://doi.org/10.1002/aisy.202400909",
+    "date": "2026-05-30"
+  },
+  {
+    "paperId": "85783c6485d75d819b0721c7561ba69f5f12ec66",
+    "title": "Fingertip haptic interaction via a serpentine SMA actuator for VR/AR and assistive technologies",
+    "url": "https://doi.org/10.1007/s40843-025-3896-7",
+    "date": "2026-05-30"
+  },
+  {
+    "paperId": "ae128445cb81beea1bd359fffb0df679474e741f",
+    "title": "High\u2010Load Capable Soft Tactile Sensors: Incorporating Magnetorheological Elastomer for Accurate Contact Detection and Classification of Asymmetric Mechanical Components",
+    "url": "https://doi.org/10.1002/aisy.202400275",
+    "date": "2026-05-30"
   }
 ]
