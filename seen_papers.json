@@ -1288,5 +1288,35 @@
     "title": "High\u2010Load Capable Soft Tactile Sensors: Incorporating Magnetorheological Elastomer for Accurate Contact Detection and Classification of Asymmetric Mechanical Components",
     "url": "https://doi.org/10.1002/aisy.202400275",
     "date": "2026-05-30"
+  },
+  {
+    "paperId": "7334daa1273ef4c06843d62a4625a30544c45795",
+    "title": "Digital Light Processing 3D\u2010Printed Multilayer Dielectric Elastomer Actuator for Vibrotactile Device",
+    "url": "https://doi.org/10.1002/admt.202301642",
+    "date": "2026-05-31"
+  },
+  {
+    "paperId": "509fed11e173299d66a3361603df574bdbc5fa69",
+    "title": "Bio-inspired artificial mechanoreceptors with built-in synaptic functions for intelligent tactile skin",
+    "url": "https://doi.org/10.1038/s41563-025-02204-y",
+    "date": "2026-05-31"
+  },
+  {
+    "paperId": "3405f030edd9b12797513f3eaccc2211410c37cd",
+    "title": "BBAD: Blockchain-Backed Assault Detection for Cyber Physical Systems",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3404656",
+    "date": "2026-05-31"
+  },
+  {
+    "paperId": "74632a8c8b13b6f5c18dfefc0afbfc89966160ea",
+    "title": "Numerical and Experimental Study of a Wearable Exo-Glove for Telerehabilitation Application Using Shape Memory Alloy Actuators",
+    "url": "https://doi.org/10.3390/act13100409",
+    "date": "2026-05-31"
+  },
+  {
+    "paperId": "51f48962b3877d98bbad1f678a7367fe2042c9f8",
+    "title": "Haptic Interface With Force and Torque Feedback for Robot-Assisted Endovascular Catheterization",
+    "url": "https://doi.org/10.1109/TMECH.2023.3290492",
+    "date": "2026-05-31"
   }
 ]
