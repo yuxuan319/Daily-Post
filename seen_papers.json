@@ -1318,5 +1318,35 @@
     "title": "Haptic Interface With Force and Torque Feedback for Robot-Assisted Endovascular Catheterization",
     "url": "https://doi.org/10.1109/TMECH.2023.3290492",
     "date": "2026-05-31"
+  },
+  {
+    "paperId": "6c78d9c0f5e47f26d067c66fdf3bd64cba70cba4",
+    "title": "Omnidirectionally Strain\u2010Unperturbed Tactile Array from Modulus Regulation in Quasi\u2010Homogeneous Elastomer Meshes",
+    "url": "https://doi.org/10.1002/adfm.202307475",
+    "date": "2026-06-01"
+  },
+  {
+    "paperId": "486d2e3a5ce482d36dcb2b5ea3ec84622e98adbd",
+    "title": "Wearable 3D Shape Display for Dynamic Interfaces Rendering",
+    "url": "https://doi.org/10.1109/WHC56415.2023.10224493",
+    "date": "2026-06-01"
+  },
+  {
+    "paperId": "571054d344d8c0bddd59e603f22226e73cd8ccad",
+    "title": "Combining Augmented Reality Guidance and Virtual Constraints for Skilled Epidural Needle Placement",
+    "url": "https://doi.org/10.3390/machines14040446",
+    "date": "2026-06-01"
+  },
+  {
+    "paperId": "1e0c831b1d34b1e7c5922d1d20b7dfa1c762a851",
+    "title": "Reconfigurable 4D printing via mechanically robust covalent adaptable network shape memory polymer",
+    "url": "https://doi.org/10.1126/sciadv.adl4387",
+    "date": "2026-06-01"
+  },
+  {
+    "paperId": "a36e1a7886b21634244f0b9bac0b7686685ffbd3",
+    "title": "Architected Elastomers as Load Bearing Actuators for Untethered Soft Robot Walking",
+    "url": "https://doi.org/10.1002/admt.202500503",
+    "date": "2026-06-01"
   }
 ]
