@@ -1348,5 +1348,35 @@
     "title": "Architected Elastomers as Load Bearing Actuators for Untethered Soft Robot Walking",
     "url": "https://doi.org/10.1002/admt.202500503",
     "date": "2026-06-01"
+  },
+  {
+    "paperId": "157e22dcecb2dac91e68e0ef73de131c2f3873e0",
+    "title": "Silicone-Based Haptic Interfaces: Enhancing Multimodal Interactions through Pneumatic Tactile Feedback",
+    "url": "https://doi.org/10.1109/IHMSC62065.2024.00039",
+    "date": "2026-06-02"
+  },
+  {
+    "paperId": "3226698f52c0a36a4d7c28f18862c9c32be6f15c",
+    "title": "ThreadTessel: A Modularized Tangible Toolkit Leveraging Origami Tessellation for Designing Thread-actuated Shape-changing Structures",
+    "url": "https://doi.org/10.1145/3689050.3704929",
+    "date": "2026-06-02"
+  },
+  {
+    "paperId": "cb16539a28aa8862d548a0843fe60dc5e9b0f2bb",
+    "title": "Stiffening iron particles to modulate physical interactions",
+    "url": "https://doi.org/10.1038/s41467-025-65479-4",
+    "date": "2026-06-02"
+  },
+  {
+    "paperId": "f1dae50b8f8bd5ac06b1b1ee0a09a8149396b7f8",
+    "title": "FIRE: Mid-Air Thermo-Tactile Display",
+    "url": "https://doi.org/10.1145/3610541.3614584",
+    "date": "2026-06-02"
+  },
+  {
+    "paperId": "50d0a4844a059d90700a98e25a8c8f251ada186b",
+    "title": "Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications",
+    "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522837",
+    "date": "2026-06-02"
   }
 ]
