@@ -1588,5 +1588,35 @@
     "title": "Auxetic cTPU Soft Strain Sensor Augmented with Artificial Intelligence for Human Gait Analytics",
     "url": "https://doi.org/10.1109/ICHMS65439.2025.11154316",
     "date": "2026-06-09"
+  },
+  {
+    "paperId": "37c15d9e77ec1203f0e9ce090a527fb0a1a1d49b",
+    "title": "Fishbone and nettle fiber inspired stretchable strain sensor with high sensitivity and wide sensing range for wearable electronics",
+    "url": "https://doi.org/10.1016/j.cej.2024.152281",
+    "date": "2026-06-10"
+  },
+  {
+    "paperId": "e32d6056e9296eb9992c7fb0bce2ab9093c33f1b",
+    "title": "Perceptually Inspired C0-Continuity Haptic Shape Display with Trichamber Soft Actuators",
+    "url": "https://doi.org/10.1089/soro.2023.0148",
+    "date": "2026-06-10"
+  },
+  {
+    "paperId": "23647175626672603a7d2cdb4bd74be0884dec15",
+    "title": "A Variable Stiffness Bioinspired Swallowing Gripper Based on Particle Jamming",
+    "url": "https://doi.org/10.1089/soro.2023.0241",
+    "date": "2026-06-10"
+  },
+  {
+    "paperId": "5005f8f7c0d08b9e25a6a9651a9c0680bf7283f1",
+    "title": "Wet\u2010Spinning Carbon Nanotube/Shape Memory Polymer Composite Fibers with High Actuation Stress and Predesigned Shape Change",
+    "url": "https://doi.org/10.1002/advs.202404913",
+    "date": "2026-06-10"
+  },
+  {
+    "paperId": "4beb1fc208fa17b836a05e05f0bb80e81655d562",
+    "title": "ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface",
+    "url": "https://doi.org/10.48550/arXiv.2504.06156",
+    "date": "2026-06-10"
   }
 ]
