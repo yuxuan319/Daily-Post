@@ -1618,5 +1618,35 @@
     "title": "ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface",
     "url": "https://doi.org/10.48550/arXiv.2504.06156",
     "date": "2026-06-10"
+  },
+  {
+    "paperId": "b3f8c994b2819580c42ba1df854a496ba02f81f1",
+    "title": "Hydrogel\u2013elastomer-based conductive nanomembranes for soft bioelectronics",
+    "url": "https://doi.org/10.1038/s41565-025-02031-x",
+    "date": "2026-06-11"
+  },
+  {
+    "paperId": "ea99c25954a9098d893fbeac2aa5b6dbf79f85f1",
+    "title": "Rapid Fabrication of Haptic and Electric Input Interfaces using 4D Printed Origami",
+    "url": "https://doi.org/10.1145/3613905.3651022",
+    "date": "2026-06-11"
+  },
+  {
+    "paperId": "7627ccbb274d47cb96a499c83fe2e21632472e5a",
+    "title": "Physical Maxillofacial Simulator with Variable-Stiffness Sensorized Soft Tissues",
+    "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522826",
+    "date": "2026-06-11"
+  },
+  {
+    "paperId": "3ccad3010b2d96fa409029608b151e01330b94a3",
+    "title": "A self-damping triboelectric tactile patch for self-powered wearable electronics",
+    "url": "https://doi.org/10.1016/j.esci.2024.100324",
+    "date": "2026-06-11"
+  },
+  {
+    "paperId": "0aeadd602a05b318dcaf1c1530856f0ce4c81f51",
+    "title": "Active magneto-mechanical metamaterial with the wave transmission and Poisson\u2019s ratio controlled via the magnetic field",
+    "url": "https://doi.org/10.1016/j.jsv.2024.118784",
+    "date": "2026-06-11"
   }
 ]
