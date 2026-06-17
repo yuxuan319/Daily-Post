@@ -1798,5 +1798,35 @@
     "title": "Demonstration of Meta-antenna: Mechanically Frequency Reconfigurable Metamaterial Antennas",
     "url": "https://doi.org/10.1145/3746058.3758991",
     "date": "2026-06-16"
+  },
+  {
+    "paperId": "06730834100b15e19d26175b70a751d9cd915eac",
+    "title": "Soft tactile chip with in-situ sensing for haptic rendering and reverse feedback enhanced gross to fine teleoperation.",
+    "url": "https://doi.org/10.1038/s41467-026-73000-8",
+    "date": "2026-06-17"
+  },
+  {
+    "paperId": "392684c2cdb4b485a11077cb91b56e79a419b85a",
+    "title": "TacSuit: A Wearable Large-Area, Bioinspired Multimodal Tactile Skin for Collaborative Robots",
+    "url": "https://doi.org/10.1109/TIE.2023.3253921",
+    "date": "2026-06-17"
+  },
+  {
+    "paperId": "22e2d1b2854d29f452b4e9afc3eb3641e31797a8",
+    "title": "Haptic Feedback Device Using 3D-Printed Flexible, Multilayered Piezoelectric Coating for In-Car Touchscreen Interface",
+    "url": "https://doi.org/10.3390/mi14081553",
+    "date": "2026-06-17"
+  },
+  {
+    "paperId": "b75b41d3e0e226908ab9bf2f1359bb86b6416f06",
+    "title": "Design and Evaluation of Smart Textile Actuator with Chain Structure",
+    "url": "https://doi.org/10.3390/ma16165517",
+    "date": "2026-06-17"
+  },
+  {
+    "paperId": "093e9fc0ccca3c08c2109fc0c88f617347223675",
+    "title": "Highly Programmable Haptic Decoding and Self\u2010Adaptive Spatiotemporal Feedback Toward Embodied Intelligence",
+    "url": "https://doi.org/10.1002/adfm.202500633",
+    "date": "2026-06-17"
   }
 ]
