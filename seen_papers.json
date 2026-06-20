@@ -1888,5 +1888,35 @@
     "title": "Vibration\u2013Color\u2013Emotion Correspondences for Affective Haptic Feedback",
     "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495492",
     "date": "2026-06-19"
+  },
+  {
+    "paperId": "2447ea4df85d9e666c69550e32d40ed0eac3a445",
+    "title": "AI-Infused Soft Fluidic Tactile Sensing",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522049",
+    "date": "2026-06-20"
+  },
+  {
+    "paperId": "fdb304ecea1a7919da3bfeabf3b2b1c921734469",
+    "title": "3D dual-mode tactile sensor with decoupled temperature and pressure sensing: Toward biological skins for wearable devices and smart robotics",
+    "url": "https://doi.org/10.1016/j.snb.2023.135255",
+    "date": "2026-06-20"
+  },
+  {
+    "paperId": "ab989b80e6644d258cd4397e564b0e2ac5ac060b",
+    "title": "A Woven Soft Wrist-Gripper Composite End-Effector with Variable Stiffness: Design, Modeling, and Characterization",
+    "url": "https://doi.org/10.3390/machines13111042",
+    "date": "2026-06-20"
+  },
+  {
+    "paperId": "3de068a583fcb7146298c253e61ad06344121fed",
+    "title": "Wearable High-Performance MWCNTs/PDMS Nanocomposite-Based Triboelectric Nanogenerators for Haptic Applications",
+    "url": "https://doi.org/10.1109/JFLEX.2024.3446756",
+    "date": "2026-06-20"
+  },
+  {
+    "paperId": "3340701d14015a8244d5748eaa9c0bc0146fcdd2",
+    "title": "A Single-Wire Soft Sensor for Seamless Multimodal Tactile Sensing",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020975",
+    "date": "2026-06-20"
   }
 ]
