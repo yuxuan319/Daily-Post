@@ -2218,5 +2218,35 @@
     "title": "Programmable Shape\u2010Preserving Soft Robotics Arm via Multimodal Multistability",
     "url": "https://doi.org/10.1002/adfm.202407651",
     "date": "2026-06-30"
+  },
+  {
+    "paperId": "fb39d206ca245abd3c650a7fbb47620c13c912e9",
+    "title": "Magnetic Hair Tactile Sensor for Directional Pressure Detection",
+    "url": "https://doi.org/10.1002/aisy.202400106",
+    "date": "2026-07-01"
+  },
+  {
+    "paperId": "e91057b25d725b359e0762ca4fd88a190121c4d7",
+    "title": "Mechanical Metamaterial With Shape\u2010Encoded Reprogrammable Properties",
+    "url": "https://doi.org/10.1002/adfm.75001",
+    "date": "2026-07-01"
+  },
+  {
+    "paperId": "358f592dae89e289a0fe59680f36525b05f05eb3",
+    "title": "TactPrint: 3D Printing Lattice-based Tactile Displays with Optimized and Local Vibration",
+    "url": "https://doi.org/10.1145/3613905.3648665",
+    "date": "2026-07-01"
+  },
+  {
+    "paperId": "fa6d01432133e86a4209b0dfd74b76c1e5f36453",
+    "title": "Skin\u2010Inspired Capacitive Flexible Tactile Sensor with an Asymmetric Structure for Detecting Directional Shear Forces",
+    "url": "https://doi.org/10.1002/advs.202305883",
+    "date": "2026-07-01"
+  },
+  {
+    "paperId": "fc5a5552161ff642b323418011d455b0705a5684",
+    "title": "Ion trap and release dynamics enables nonintrusive tactile augmentation in monolithic sensory neuron",
+    "url": "https://doi.org/10.1126/sciadv.adi3827",
+    "date": "2026-07-01"
   }
 ]
