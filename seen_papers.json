@@ -2308,5 +2308,35 @@
     "title": "Skin-integrated haptic interface system based on a stretchable pressure sensor array for wireless tactile visualization applications",
     "url": "https://doi.org/10.1016/j.nanoen.2025.110911",
     "date": "2026-07-03"
+  },
+  {
+    "paperId": "929f2a80c6871c9ac59615d43399f588b932c336",
+    "title": "Soft Nanomembrane Sensor-Enabled Wearable Multimodal Sensing and Feedback System for Upper-Limb Sensory Impairment Assistance",
+    "url": "https://doi.org/10.1021/acsnano.4c15530",
+    "date": "2026-07-04"
+  },
+  {
+    "paperId": "48efc17f48b3230a6116fd1db9fa39f0e7988102",
+    "title": "Origami-inspired highly stretchable and breathable 3D wearable sensors for in-situ and online monitoring of plant growth and microclimate.",
+    "url": "https://doi.org/10.1016/j.bios.2024.116379",
+    "date": "2026-07-04"
+  },
+  {
+    "paperId": "d0abb5d68c525b88b5c428704beac8010953d650",
+    "title": "Optimizing Curve-Based Selection with On-Body Surfaces in Virtual Environments",
+    "url": "https://doi.org/10.1145/3706599.3719908",
+    "date": "2026-07-04"
+  },
+  {
+    "paperId": "70c76c28930e6611fb56fce7f2ee90e990bbd3ad",
+    "title": "A Wearable Strain Sensor Utilizing Shape Memory Polymer/Carbon Nanotube Composites Measuring Respiration Movements",
+    "url": "https://doi.org/10.3390/polym16030373",
+    "date": "2026-07-04"
+  },
+  {
+    "paperId": "2ad050d60abbc2b7ce7bca5572b13e16314c471d",
+    "title": "Evaluation on Human Perception of Various Vibrotactile Encoding Methods Through a High Density Haptic Feedback Interface",
+    "url": "https://doi.org/10.1109/TOH.2025.3568705",
+    "date": "2026-07-04"
   }
 ]
