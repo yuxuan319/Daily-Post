@@ -2338,5 +2338,35 @@
     "title": "Evaluation on Human Perception of Various Vibrotactile Encoding Methods Through a High Density Haptic Feedback Interface",
     "url": "https://doi.org/10.1109/TOH.2025.3568705",
     "date": "2026-07-04"
+  },
+  {
+    "paperId": "fb1afc9cfd8c47d0f314b701007c3731764767a5",
+    "title": "A universal method for constructing stretchable and conductive connections in flexible electronics",
+    "url": "https://doi.org/10.1038/s41528-025-00449-w",
+    "date": "2026-07-05"
+  },
+  {
+    "paperId": "dc2a6126803f85408532ad85193a0ccfec7b5867",
+    "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
+    "url": "https://doi.org/10.1145/3613904.3642069",
+    "date": "2026-07-05"
+  },
+  {
+    "paperId": "baa44fb67e6b1a2b702d04069db50d5fef46efc4",
+    "title": "Tactile-Transparent Wearable Sensor for Clinician-Friendly Pulse Wave Velocity Monitoring and Cardiovascular Risk Profiling",
+    "url": "https://doi.org/10.1021/acsnano.5c11375",
+    "date": "2026-07-05"
+  },
+  {
+    "paperId": "2f31f98b91b6632379883b011ab946f150af9fff",
+    "title": "DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove",
+    "url": "https://doi.org/10.48550/arXiv.2502.07730",
+    "date": "2026-07-05"
+  },
+  {
+    "paperId": "65a02b84e28e226d1b40538402b078806d493c6a",
+    "title": "Vision-based tactile intelligence with soft robotic metamaterial",
+    "url": "https://doi.org/10.1016/j.matdes.2024.112629",
+    "date": "2026-07-05"
   }
 ]
