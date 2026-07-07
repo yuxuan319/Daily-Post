@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "50102584999eee23254eedb6a3d84087d40fbb11",
-    "title": "Multiresponsive MXene Actuators with Asymmetric Quantum\u2010Confined Superfluidic Structures",
-    "url": "https://doi.org/10.1002/adfm.202308317",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "f3996b0487122bcb16e6aed1af8194be2c07ada1",
-    "title": "4D Encryption System: Hydrophilic\u2013Hydrophobic Polyurethane Actuators with Smart Color Switching for High\u2010Capacity Data Storage",
-    "url": "https://doi.org/10.1002/adfm.202501801",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "9b452f629096dacd90605f6af159bc093658f7ba",
-    "title": "Jellyfish-Inspired Soft Robot Driven by Pneumatic Bistable Actuators",
-    "url": "https://doi.org/10.1089/soro.2023.0212",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "8263aa6a5d3cd8d2db39a7a21aa6859adfcfb298",
-    "title": "Biodegradable Electrohydraulic Soft Actuators",
-    "url": "https://doi.org/10.1002/aisy.202200239",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "e212848dd5e4ed144e42e58059db31133ecd5d3e",
-    "title": "Effect of Vibrotactile Feedback on the Control of the Interaction Force of a Supernumerary Robotic Arm",
-    "url": "https://doi.org/10.3390/machines11121085",
-    "date": "2026-04-21"
-  },
-  {
     "paperId": "c3b86a5b16da2ef23e2a6d0eb3585b89f901eea7",
     "title": "A skin-integrated multimodal haptic interface for immersive tactile feedback",
     "url": "https://doi.org/10.1038/s41928-023-01074-z",
@@ -2398,5 +2368,35 @@
     "title": "Vibration Simulation of Sandwich Nano-Smart Plate with an Auxetic Core and Piezo-Electromagnetic Face Layers Based on Sinusoidal Higher-Order Theory",
     "url": "https://doi.org/10.1007/s13369-024-09746-4",
     "date": "2026-07-06"
+  },
+  {
+    "paperId": "30bd1174147e6bd09939b09b4d54e08522846790",
+    "title": "Sign Language Vocabulary Recognition Only with Tactile Sensing Glove",
+    "url": "https://doi.org/10.1109/MCSoC64144.2024.00029",
+    "date": "2026-07-07"
+  },
+  {
+    "paperId": "e0ae67443cc54777a6810d1ca5e8c95bc486d5d0",
+    "title": "A Review of Olfactory Display Designs for Virtual Reality Environments",
+    "url": "https://doi.org/10.1145/3665243",
+    "date": "2026-07-07"
+  },
+  {
+    "paperId": "31137812e0d61dff9879a5bfc40ebe150b5059eb",
+    "title": "Wearable bioadhesive ultrasound shear wave elastography",
+    "url": "https://doi.org/10.1126/sciadv.adk8426",
+    "date": "2026-07-07"
+  },
+  {
+    "paperId": "f12de9c01d70f399e3036912a2d536f7204c869d",
+    "title": "A review of electro-active shape memory polymer composites: Materials engineering strategies for shape memory enhancement",
+    "url": "https://doi.org/10.1016/j.eurpolymj.2024.112861",
+    "date": "2026-07-07"
+  },
+  {
+    "paperId": "0999946f9557ed78f04667cb0ca37cac2e99abac",
+    "title": "Advances in Piezoelectret Materials\u2010Based Bidirectional Haptic Communication Devices",
+    "url": "https://doi.org/10.1002/adma.202405308",
+    "date": "2026-07-07"
   }
 ]
