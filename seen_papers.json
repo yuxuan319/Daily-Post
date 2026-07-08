@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c3b86a5b16da2ef23e2a6d0eb3585b89f901eea7",
-    "title": "A skin-integrated multimodal haptic interface for immersive tactile feedback",
-    "url": "https://doi.org/10.1038/s41928-023-01074-z",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "d89b6940f30b946eed2e0ac5e1faac5deb2fe3a1",
-    "title": "Artificial organic afferent nerves enable closed-loop tactile feedback for intelligent robot",
-    "url": "https://doi.org/10.1038/s41467-024-51403-9",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "c7ed7605f88f6f198fa5f6df300391e0a7625625",
-    "title": "Deformation Characteristics of Three-Dimensional Spiral Soft Actuator Driven by Water Hydraulics for Underwater Manipulator",
-    "url": "https://doi.org/10.1089/soro.2023.0085",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "8564103749bb01cd4f86ae07da23ff2f9a281e85",
-    "title": "Single and Bi-Layered 2-D Acoustic Soft Tactile Skin",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522056",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "0e4b9e6b650c4c79883c87211cbde2f283141ea1",
-    "title": "Feel the Breeze: Promoting Relaxation in Virtual Reality using Mid-Air Haptics",
-    "url": "https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00070",
-    "date": "2026-04-21"
-  },
-  {
     "paperId": "74011a4ad39160f9e012ef2e70574e5c5b4888ef",
     "title": "Soft robotic hand with tactile palm-finger coordination",
     "url": "https://doi.org/10.1038/s41467-025-57741-6",
@@ -2398,5 +2368,35 @@
     "title": "Advances in Piezoelectret Materials\u2010Based Bidirectional Haptic Communication Devices",
     "url": "https://doi.org/10.1002/adma.202405308",
     "date": "2026-07-07"
+  },
+  {
+    "paperId": "56143c7fb04029c6779a5e29a33dfba6e0115d60",
+    "title": "Tough soldering for stretchable electronics by small-molecule modulated interfacial assemblies",
+    "url": "https://doi.org/10.1038/s41467-023-43574-8",
+    "date": "2026-07-08"
+  },
+  {
+    "paperId": "983b2f020b89a2288881eb7b064ce2279f3b14c7",
+    "title": "Design and Development of a Novel Soft and Inflatable Tactile Sensing Balloon for Early Diagnosis of Colorectal Cancer Polyps",
+    "url": "https://doi.org/10.1109/IROS55552.2023.10342343",
+    "date": "2026-07-08"
+  },
+  {
+    "paperId": "bd5ad067a91229d08bd9cdb6e80673080ad2f803",
+    "title": "Immersive Learning: A Systematic Literature Review on Transforming Engineering Education Through Virtual Reality",
+    "url": "https://doi.org/10.3390/virtualworlds3040026",
+    "date": "2026-07-08"
+  },
+  {
+    "paperId": "2b8926463bd709d0d1a1a90b643f2ca92034d007",
+    "title": "Review of Shape-Memory Polymer Nanocomposites and Their Applications",
+    "url": "https://doi.org/10.3390/app15052419",
+    "date": "2026-07-08"
+  },
+  {
+    "paperId": "184cabee46dac54ac8312382fe64c527ce7599fa",
+    "title": "Functional Tactile Sensor Based on Arrayed Triboelectric Nanogenerators",
+    "url": "https://doi.org/10.1002/aenm.202403289",
+    "date": "2026-07-08"
   }
 ]
