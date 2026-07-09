@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "74011a4ad39160f9e012ef2e70574e5c5b4888ef",
-    "title": "Soft robotic hand with tactile palm-finger coordination",
-    "url": "https://doi.org/10.1038/s41467-025-57741-6",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "6aa7a0a005980825c12d5510bd1b91c2feb939bc",
-    "title": "Wearable multi-sensory haptic devices",
-    "url": "https://doi.org/10.1038/s44222-025-00274-w",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "75d66f119c8091786d1274cb4b2a59d134b02775",
-    "title": "Wearable Haptic Feedback Interfaces for Augmenting Human Touch",
-    "url": "https://doi.org/10.1002/adfm.202417906",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "3789c861bc5af618edeb644a40c540f63640dc33",
-    "title": "Interactive Haptic System with Multimodal Tactile Sensing and Hydraulic Feedback for Realistic Human\u2013Machine Interaction",
-    "url": "https://doi.org/10.1002/aisy.202400578",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "7eecfdac40c0797b77016ec0ea1e42df2e4bdd6b",
-    "title": "Embodied Auxetic Intelligence in a Glove\u2010Type Wearable Haptic Interface Connecting Humans to Robots and the Metaverse",
-    "url": "https://doi.org/10.1002/adfm.202502222",
-    "date": "2026-04-21"
-  },
-  {
     "paperId": "ebf5c70ac6f9b22235ce9ad53014b1415428eb84",
     "title": "Clinical validation of a wearable ultrasound sensor of blood pressure",
     "url": "https://doi.org/10.1038/s41551-024-01279-3",
@@ -2398,5 +2368,35 @@
     "title": "Functional Tactile Sensor Based on Arrayed Triboelectric Nanogenerators",
     "url": "https://doi.org/10.1002/aenm.202403289",
     "date": "2026-07-08"
+  },
+  {
+    "paperId": "876acdd2c3f0e73520231fbf3fb349f371c78b3b",
+    "title": "An Ultrathin and Lightweight Soft Inflatable Actuator for Natural Tactile Sensory Feedback",
+    "url": "https://doi.org/10.1002/aisy.202500262",
+    "date": "2026-07-09"
+  },
+  {
+    "paperId": "f8969a370e48cbcc0deb191bb8fbdbdd84fb89ca",
+    "title": "Untethered shape-changing devices in the gastrointestinal tract",
+    "url": "https://doi.org/10.1080/17425247.2023.2291450",
+    "date": "2026-07-09"
+  },
+  {
+    "paperId": "37f3a7855140f4ee2d24f83381c98a1c30bb2088",
+    "title": "SGPL: An Intelligent Game-Based Secure Collaborative Communication Scheme for Metaverse Over 5G and Beyond Networks",
+    "url": "https://doi.org/10.1109/JSAC.2023.3345403",
+    "date": "2026-07-09"
+  },
+  {
+    "paperId": "7b8097273646c89ccaab5d2c048b1248a0cc992e",
+    "title": "Switchable Adhesive Based on Shape Memory Polymer with Micropillars of Different Heights for Laser-Driven Noncontact Transfer Printing.",
+    "url": "https://doi.org/10.1021/acsami.3c16282",
+    "date": "2026-07-09"
+  },
+  {
+    "paperId": "e1c63e8034cdb43520d639ee8de7123fad458471",
+    "title": "Soft multistable magnetic-responsive metamaterials",
+    "url": "https://doi.org/10.1126/sciadv.adu3749",
+    "date": "2026-07-09"
   }
 ]
