@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "ebf5c70ac6f9b22235ce9ad53014b1415428eb84",
-    "title": "Clinical validation of a wearable ultrasound sensor of blood pressure",
-    "url": "https://doi.org/10.1038/s41551-024-01279-3",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "ae07d7bd79cc604f0bb1676f9dce4b17a9ca45a3",
-    "title": "Wearable flexible ultrasound microneedle patch for cancer immunotherapy",
-    "url": "https://doi.org/10.1038/s41467-025-58075-z",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "9c3020a62a5d255075d4782d03797bd1077e1596",
-    "title": "Estimation of joint torque in dynamic activities using wearable A-mode ultrasound",
-    "url": "https://doi.org/10.1038/s41467-024-50038-0",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "2d92a65dc01619e94b1fcc21ced6111095dd6e5f",
-    "title": "Wearable ultrasound technology",
-    "url": "https://doi.org/10.1038/s44222-025-00329-y",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "00c319068875b87eadbd39199cae3c79d53606b5",
-    "title": "Bioadhesive hydrogel-coupled and miniaturized ultrasound transducer system for long-term, wearable neuromodulation",
-    "url": "https://doi.org/10.1038/s41467-025-60181-x",
-    "date": "2026-04-21"
-  },
-  {
     "paperId": "c53e79e45db8131e99976a6946dc5354e3fc8897",
     "title": "Validation of a Soft Pneumatic Unit Cell (PUC) in a VR Experience: A Comparison Between Vibrotactile and Soft Pneumatic Haptic Feedback",
     "url": "https://doi.org/10.1109/TOH.2023.3307872",
@@ -2398,5 +2368,35 @@
     "title": "Soft multistable magnetic-responsive metamaterials",
     "url": "https://doi.org/10.1126/sciadv.adu3749",
     "date": "2026-07-09"
+  },
+  {
+    "paperId": "c3b86a5b16da2ef23e2a6d0eb3585b89f901eea7",
+    "title": "A skin-integrated multimodal haptic interface for immersive tactile feedback",
+    "url": "https://doi.org/10.1038/s41928-023-01074-z",
+    "date": "2026-07-10"
+  },
+  {
+    "paperId": "c92fef4b106cfac0bdf0f9b9554470937c6af117",
+    "title": "Tactile Sensing and Rendering Patch with Dynamic and Static Sensing and Haptic Feedback for Immersive Communication.",
+    "url": "https://doi.org/10.1021/acsami.4c11050",
+    "date": "2026-07-10"
+  },
+  {
+    "paperId": "6d31ed9a5d49e1ab6c3a609321dea26b9c0e1d94",
+    "title": "Design, Control, and Applications of Granular Jamming Grippers in Soft Robotics",
+    "url": "https://doi.org/10.3390/robotics14100132",
+    "date": "2026-07-10"
+  },
+  {
+    "paperId": "5211419791890c84f7c624b01aea3e07515cc54d",
+    "title": "Tuning the Properties of Multi\u2010Stable Structures Post\u2010Fabrication Via the Two\u2010Way Shape Memory Polymer Effect",
+    "url": "https://doi.org/10.1002/advs.202308903",
+    "date": "2026-07-10"
+  },
+  {
+    "paperId": "74011a4ad39160f9e012ef2e70574e5c5b4888ef",
+    "title": "Soft robotic hand with tactile palm-finger coordination",
+    "url": "https://doi.org/10.1038/s41467-025-57741-6",
+    "date": "2026-07-10"
   }
 ]
