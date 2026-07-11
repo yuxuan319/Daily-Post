@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c53e79e45db8131e99976a6946dc5354e3fc8897",
-    "title": "Validation of a Soft Pneumatic Unit Cell (PUC) in a VR Experience: A Comparison Between Vibrotactile and Soft Pneumatic Haptic Feedback",
-    "url": "https://doi.org/10.1109/TOH.2023.3307872",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "0f28bd6b4ded72c17bc3ad1bf014a14ab1126b4e",
-    "title": "Diffusive kinks turn kirigami into machines",
-    "url": "https://doi.org/10.1038/s41467-024-45602-7",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "49edb78f18a872f34044192877a0117f206e1344",
-    "title": "Active mechanical haptics with high-fidelity perceptions for immersive virtual reality",
-    "url": "https://doi.org/10.1038/s42256-023-00671-z",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "4039a8dc1e166acd9b9772aa0f16974e403360b7",
-    "title": "Recent Advances in Shape Memory Polymers: Multifunctional Materials, Multiscale Structures, and Applications",
-    "url": "https://doi.org/10.1002/adfm.202312036",
-    "date": "2026-04-21"
-  },
-  {
-    "paperId": "b3292e2254e9391f02d875f2896cfbf64c9b3428",
-    "title": "Bioelastic state recovery for haptic sensory substitution",
-    "url": "https://doi.org/10.1038/s41586-024-08155-9",
-    "date": "2026-04-21"
-  },
-  {
     "paperId": "3a4c672122b5133876df3c65159004e13f3187c8",
     "title": "Low-voltage wearable tactile display with thermo-pneumatic actuation",
     "url": "https://doi.org/10.1038/s41528-025-00426-3",
@@ -2398,5 +2368,35 @@
     "title": "Soft robotic hand with tactile palm-finger coordination",
     "url": "https://doi.org/10.1038/s41467-025-57741-6",
     "date": "2026-07-10"
+  },
+  {
+    "paperId": "0189285990176f7b04f49149716191e51acc8291",
+    "title": "A Soft Robotic Glove Providing Proprioceptive Feedback for Grip Force Regulation Training",
+    "url": "https://doi.org/10.1109/robosoft67810.2026.11522873",
+    "date": "2026-07-11"
+  },
+  {
+    "paperId": "6aa7a0a005980825c12d5510bd1b91c2feb939bc",
+    "title": "Wearable multi-sensory haptic devices",
+    "url": "https://doi.org/10.1038/s44222-025-00274-w",
+    "date": "2026-07-11"
+  },
+  {
+    "paperId": "a61bd8952f42d643e98e480b4e4b5601d207e90a",
+    "title": "The Feeling of Virtual: XR, Haptics, and 3D Graphics",
+    "url": "https://doi.org/10.1145/3750069.3757882",
+    "date": "2026-07-11"
+  },
+  {
+    "paperId": "2138a708d95a980cd00fd68d3cc3e930dc17c18f",
+    "title": "SoftBioMorph: Fabricating Sustainable Shape-changing Interfaces using Soft Biopolymers",
+    "url": "https://doi.org/10.1145/3643834.3661610",
+    "date": "2026-07-11"
+  },
+  {
+    "paperId": "e044e7cf0cd7b2b17fcdc2d374d91fc3d0bd2ff9",
+    "title": "Multistable nonlinear energy sink with variable stiffness of seismic vibration control",
+    "url": "https://doi.org/10.1016/j.engstruct.2024.119552",
+    "date": "2026-07-11"
   }
 ]
