@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "3a4c672122b5133876df3c65159004e13f3187c8",
-    "title": "Low-voltage wearable tactile display with thermo-pneumatic actuation",
-    "url": "https://doi.org/10.1038/s41528-025-00426-3",
-    "date": "2026-04-22"
-  },
-  {
-    "paperId": "8c5032df55202f71dbe67cdac263c487ad26ec42",
-    "title": "Enhancing antibody responses by multivalent antigen display on thymus-independent DNA origami scaffolds",
-    "url": "https://doi.org/10.1038/s41467-024-44869-0",
-    "date": "2026-04-22"
-  },
-  {
-    "paperId": "810f1bbd7932f67e10bd331ad3e17ae84bd70b27",
-    "title": "Multimodal 5\u2010DOF Stretchable Electromagnetic Actuators toward Haptic Information Delivery",
-    "url": "https://doi.org/10.1002/adfm.202314515",
-    "date": "2026-04-22"
-  },
-  {
-    "paperId": "7772d62340b0fb3d7c64f6906178e3a0c3d9b86e",
-    "title": "A flexible skin-mounted haptic interface for multimodal cutaneous feedback",
-    "url": "https://doi.org/10.1038/s41928-025-01443-w",
-    "date": "2026-04-22"
-  },
-  {
-    "paperId": "5db424eb9c46fb10b9fb54053b4208d7a744d265",
-    "title": "Metamaterial\u2010Based Electronic Skin with Conformality and Multisensory Integration",
-    "url": "https://doi.org/10.1002/adfm.202406789",
-    "date": "2026-04-22"
-  },
-  {
     "paperId": "23008b24615b0713ff3b064b2ed774ffc0293806",
     "title": "Stretchable ionic\u2013electronic bilayer hydrogel electronics enable in situ detection of solid-state epidermal biomarkers",
     "url": "https://doi.org/10.1038/s41563-024-01918-9",
@@ -2398,5 +2368,35 @@
     "title": "Multistable nonlinear energy sink with variable stiffness of seismic vibration control",
     "url": "https://doi.org/10.1016/j.engstruct.2024.119552",
     "date": "2026-07-11"
+  },
+  {
+    "paperId": "2c2c1620c8333aeae8c3892bed25bd660a6102e3",
+    "title": "Perception Threshold for Pressure by a Soft Textile Actuator",
+    "url": "https://doi.org/10.1109/TOH.2024.3370835",
+    "date": "2026-07-12"
+  },
+  {
+    "paperId": "ace3756fc453d1a40d1067be9a2674c29464e351",
+    "title": "Demonstrating the Octopi-1.5 Visual-Tactile-Language Model",
+    "url": "https://doi.org/10.48550/arXiv.2507.09985",
+    "date": "2026-07-12"
+  },
+  {
+    "paperId": "7eecfdac40c0797b77016ec0ea1e42df2e4bdd6b",
+    "title": "Embodied Auxetic Intelligence in a Glove\u2010Type Wearable Haptic Interface Connecting Humans to Robots and the Metaverse",
+    "url": "https://doi.org/10.1002/adfm.202502222",
+    "date": "2026-07-12"
+  },
+  {
+    "paperId": "49e6d8e909829224d56028bcf299bb4b699945cc",
+    "title": "4D printing and programming of continuous fibre-reinforced shape memory polymer composites",
+    "url": "https://doi.org/10.1016/j.eurpolymj.2024.112988",
+    "date": "2026-07-12"
+  },
+  {
+    "paperId": "b87a04d4a67c57d61259c442822792474e7b2dbe",
+    "title": "Metamaterial-Reinforced Origami Soft Actuators: Reconfigurable Stiffness and Deformation",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020826",
+    "date": "2026-07-12"
   }
 ]
