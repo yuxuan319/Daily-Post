@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "23008b24615b0713ff3b064b2ed774ffc0293806",
-    "title": "Stretchable ionic\u2013electronic bilayer hydrogel electronics enable in situ detection of solid-state epidermal biomarkers",
-    "url": "https://doi.org/10.1038/s41563-024-01918-9",
-    "date": "2026-04-23"
-  },
-  {
-    "paperId": "467c8ef9e35d229ba00ffaea5faa4adb36db229b",
-    "title": "A portable inflatable soft wearable robot to assist the shoulder during industrial work",
-    "url": "https://doi.org/10.1126/scirobotics.adi2377",
-    "date": "2026-04-23"
-  },
-  {
-    "paperId": "f0871986c12ff23a86ace74a66a5ee70282d1d8a",
-    "title": "Energy-efficient dynamic 3D metasurfaces via spatiotemporal jamming interleaved assemblies for tactile interfaces",
-    "url": "https://doi.org/10.1038/s41467-024-51865-x",
-    "date": "2026-04-23"
-  },
-  {
-    "paperId": "8f906355bc306ad5d554baa5fc6c9b50bd4251d4",
-    "title": "A skin-like multimodal haptic interface",
-    "url": "https://doi.org/10.1038/s41928-023-01093-w",
-    "date": "2026-04-23"
-  },
-  {
-    "paperId": "e2d7758c83d5dbe232c6fed09088559d1d0d2b94",
-    "title": "Bidirectional Zero Poisson's Ratio Elastomers with Self\u2010Deformable Soft Mechanical Metamaterials for Stretchable Displays",
-    "url": "https://doi.org/10.1002/adfm.202406725",
-    "date": "2026-04-23"
-  },
-  {
     "paperId": "ae7c605e83bab6187975fb70c04fb153bddb4602",
     "title": "Large-area, untethered, metamorphic, and omnidirectionally stretchable multiplexing self-powered triboelectric skins",
     "url": "https://doi.org/10.1038/s41467-024-45611-6",
@@ -2398,5 +2368,35 @@
     "title": "Metamaterial-Reinforced Origami Soft Actuators: Reconfigurable Stiffness and Deformation",
     "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020826",
     "date": "2026-07-12"
+  },
+  {
+    "paperId": "75d66f119c8091786d1274cb4b2a59d134b02775",
+    "title": "Wearable Haptic Feedback Interfaces for Augmenting Human Touch",
+    "url": "https://doi.org/10.1002/adfm.202417906",
+    "date": "2026-07-13"
+  },
+  {
+    "paperId": "e209477fa3457c412ae0ba5ab1b73eb5fbccc03c",
+    "title": "Dynamic braille display based on surface-structured PVC gel",
+    "url": "https://doi.org/10.1088/1361-665X/ad254b",
+    "date": "2026-07-13"
+  },
+  {
+    "paperId": "1f5f977fc1c60275c3132eea2e18f85f09f06c8b",
+    "title": "Plant-Inspired Elastic-Hydraulic Tactile Sensing Enables Quantitative Stiffness Estimation in Soft Robots.",
+    "url": "https://doi.org/10.1177/21695172261453210",
+    "date": "2026-07-13"
+  },
+  {
+    "paperId": "b3292e2254e9391f02d875f2896cfbf64c9b3428",
+    "title": "Bioelastic state recovery for haptic sensory substitution",
+    "url": "https://doi.org/10.1038/s41586-024-08155-9",
+    "date": "2026-07-13"
+  },
+  {
+    "paperId": "dca922247cc38d7e3bdb8cea42662d798485f06c",
+    "title": "Hierarchical Gradient Structural Porous Metamaterial with Selective Spectral Response for Daytime Passive Radiative Cooling",
+    "url": "https://doi.org/10.1002/adfm.202406393",
+    "date": "2026-07-13"
   }
 ]
