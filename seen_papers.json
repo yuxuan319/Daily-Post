@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "ae7c605e83bab6187975fb70c04fb153bddb4602",
-    "title": "Large-area, untethered, metamorphic, and omnidirectionally stretchable multiplexing self-powered triboelectric skins",
-    "url": "https://doi.org/10.1038/s41467-024-45611-6",
-    "date": "2026-04-24"
-  },
-  {
-    "paperId": "25afa467b99196db50faf82bc7273e69f3d9e6d6",
-    "title": "Adaptive tactile interaction transfer via digitally embroidered smart gloves",
-    "url": "https://doi.org/10.1038/s41467-024-45059-8",
-    "date": "2026-04-24"
-  },
-  {
-    "paperId": "a6deab8efce378b032abb7ca53d62a4ef5175095",
-    "title": "Multimodal, Ultrasensitive, and Biomimetic Electronic Skin Based on Gradient Micro\u2010Frustum Ionogel for Imaginary Keyboard and Haptic Cognition",
-    "url": "https://doi.org/10.1002/adfm.202414936",
-    "date": "2026-04-24"
-  },
-  {
-    "paperId": "938360581968e70be64c01950dde4fcd700d2b79",
-    "title": "Shape memory polymer with programmable recovery onset",
-    "url": "https://doi.org/10.1038/s41586-023-06520-8",
-    "date": "2026-04-24"
-  },
-  {
-    "paperId": "3ea6dd3486f08f9f27b49f52acf92ef936c46170",
-    "title": "Perceived Realism of Virtual Textures Rendered by a Vibrotactile Wearable Ring Display",
-    "url": "https://doi.org/10.1109/TOH.2023.3304899",
-    "date": "2026-04-24"
-  },
-  {
     "paperId": "c639be9482cc7c26971b429b0f1475acee95da3b",
     "title": "Stretchable and Leakage\u2010Free Liquid Metal Networks for Thermal Management",
     "url": "https://doi.org/10.1002/adfm.202420839",
@@ -2398,5 +2368,35 @@
     "title": "Hierarchical Gradient Structural Porous Metamaterial with Selective Spectral Response for Daytime Passive Radiative Cooling",
     "url": "https://doi.org/10.1002/adfm.202406393",
     "date": "2026-07-13"
+  },
+  {
+    "paperId": "8f906355bc306ad5d554baa5fc6c9b50bd4251d4",
+    "title": "A skin-like multimodal haptic interface",
+    "url": "https://doi.org/10.1038/s41928-023-01093-w",
+    "date": "2026-07-14"
+  },
+  {
+    "paperId": "810f1bbd7932f67e10bd331ad3e17ae84bd70b27",
+    "title": "Multimodal 5\u2010DOF Stretchable Electromagnetic Actuators toward Haptic Information Delivery",
+    "url": "https://doi.org/10.1002/adfm.202314515",
+    "date": "2026-07-14"
+  },
+  {
+    "paperId": "403fdcb070374f409763035e1144f070edb6121c",
+    "title": "Development of a Two-Finger Haptic Robotic Hand with Novel Stiffness Detection and Impedance Control",
+    "url": "https://doi.org/10.3390/s24082585",
+    "date": "2026-07-14"
+  },
+  {
+    "paperId": "4039a8dc1e166acd9b9772aa0f16974e403360b7",
+    "title": "Recent Advances in Shape Memory Polymers: Multifunctional Materials, Multiscale Structures, and Applications",
+    "url": "https://doi.org/10.1002/adfm.202312036",
+    "date": "2026-07-14"
+  },
+  {
+    "paperId": "879562c89d705f91e1aa61c68fef6a2f4532252a",
+    "title": "Soft tissue surgical robot for minimally invasive surgery: a review",
+    "url": "https://doi.org/10.1007/s13534-023-00326-3",
+    "date": "2026-07-14"
   }
 ]
