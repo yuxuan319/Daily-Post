@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c639be9482cc7c26971b429b0f1475acee95da3b",
-    "title": "Stretchable and Leakage\u2010Free Liquid Metal Networks for Thermal Management",
-    "url": "https://doi.org/10.1002/adfm.202420839",
-    "date": "2026-04-25"
-  },
-  {
-    "paperId": "29aeec7e5e86794e983519ce1370bd0e11cb1d55",
-    "title": "Solar-powered shape-changing origami microfliers",
-    "url": "https://doi.org/10.1126/scirobotics.adg4276",
-    "date": "2026-04-25"
-  },
-  {
-    "paperId": "8ba5f12eb100c7075ad675a091abe3a16386bb1a",
-    "title": "Flexible Electromagnetic Tactile Sensor Based on Double\u2010Layer High\u2010Density MEMS Coils and Tilted Magnetic Column Array",
-    "url": "https://doi.org/10.1002/admt.202302076",
-    "date": "2026-04-25"
-  },
-  {
-    "paperId": "d314c3cdb03a58305d0fe27e36c47b415e61342a",
-    "title": "Clutchable Fabric Actuator for Energy\u2010Efficient Wearable Robots",
-    "url": "https://doi.org/10.1002/adfm.202415099",
-    "date": "2026-04-25"
-  },
-  {
-    "paperId": "8fc011eb49bfafd5d36d7040067fd67e2fd47211",
-    "title": "All-in-One Haptic Thimble for Vibration, Pressure, and Thermal Feedback: Investigating the Impact of Vibration Frequency on Thermal Perception",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123341",
-    "date": "2026-04-25"
-  },
-  {
     "paperId": "9e72c3dd986cb2cadaf35668b916d8a731bb0962",
     "title": "Multichannel Vibrotactile Glove: Validation of a New Device Designed to Sense Vibrations",
     "url": "https://doi.org/10.1109/TOH.2024.3475740",
@@ -2398,5 +2368,35 @@
     "title": "Soft tissue surgical robot for minimally invasive surgery: a review",
     "url": "https://doi.org/10.1007/s13534-023-00326-3",
     "date": "2026-07-14"
+  },
+  {
+    "paperId": "fb38607cbab4c3fcdec6cb0c9d88787e2b7603d4",
+    "title": "Simultaneous decoding of static, dynamic, and thermal tactile stimuli by using pulsed spike signals in ion-electronic skin",
+    "url": "https://doi.org/10.1038/s41528-025-00490-9",
+    "date": "2026-07-15"
+  },
+  {
+    "paperId": "467c8ef9e35d229ba00ffaea5faa4adb36db229b",
+    "title": "A portable inflatable soft wearable robot to assist the shoulder during industrial work",
+    "url": "https://doi.org/10.1126/scirobotics.adi2377",
+    "date": "2026-07-15"
+  },
+  {
+    "paperId": "f0871986c12ff23a86ace74a66a5ee70282d1d8a",
+    "title": "Energy-efficient dynamic 3D metasurfaces via spatiotemporal jamming interleaved assemblies for tactile interfaces",
+    "url": "https://doi.org/10.1038/s41467-024-51865-x",
+    "date": "2026-07-15"
+  },
+  {
+    "paperId": "938360581968e70be64c01950dde4fcd700d2b79",
+    "title": "Shape memory polymer with programmable recovery onset",
+    "url": "https://doi.org/10.1038/s41586-023-06520-8",
+    "date": "2026-07-15"
+  },
+  {
+    "paperId": "38abce674316308ca35e6875ce03e15e747afa7e",
+    "title": "Self\u2010Locking Multistable Metamaterials with Programmable Mechanical Properties and Static Non\u2010Reciprocity",
+    "url": "https://doi.org/10.1002/adfm.202507732",
+    "date": "2026-07-15"
   }
 ]
