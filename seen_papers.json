@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "9e72c3dd986cb2cadaf35668b916d8a731bb0962",
-    "title": "Multichannel Vibrotactile Glove: Validation of a New Device Designed to Sense Vibrations",
-    "url": "https://doi.org/10.1109/TOH.2024.3475740",
-    "date": "2026-04-26"
-  },
-  {
-    "paperId": "d17ec05b0bc627d53de49929ba37d2de2cec55bd",
-    "title": "Modular shape-changing tensegrity-blocks enable self-assembling robotic structures",
-    "url": "https://doi.org/10.1038/s41467-025-60982-0",
-    "date": "2026-04-26"
-  },
-  {
-    "paperId": "6bbffb10974e2437cdb97fec6bf088cd332a5881",
-    "title": "A Bioinspired Robotic Finger for Multimodal Tactile Sensing Powered by Fiber Optic Sensors",
-    "url": "https://doi.org/10.1002/aisy.202400175",
-    "date": "2026-04-26"
-  },
-  {
-    "paperId": "da856272326402d9d22d8cfe72d39f7ef5bfe31a",
-    "title": "A Multi-Layer Stacked Microfluidic Tactile Display With High Spatial Resolution",
-    "url": "https://doi.org/10.1109/TOH.2024.3367708",
-    "date": "2026-04-26"
-  },
-  {
-    "paperId": "b1b9f9f73ed826fd0844cef6e8bd7fc9904a05a5",
-    "title": "HiPalm: Wearable Device for Affective Tactile Interpersonal Communication",
-    "url": "https://doi.org/10.1145/3689050.3705974",
-    "date": "2026-04-26"
-  },
-  {
     "paperId": "0ed2967bd31ca84738ecfa147eba166ef966a2fe",
     "title": "Active electronic skin: an interface towards ambient haptic feedback on physical surfaces",
     "url": "https://doi.org/10.1038/s41528-024-00311-5",
@@ -2398,5 +2368,35 @@
     "title": "Self\u2010Locking Multistable Metamaterials with Programmable Mechanical Properties and Static Non\u2010Reciprocity",
     "url": "https://doi.org/10.1002/adfm.202507732",
     "date": "2026-07-15"
+  },
+  {
+    "paperId": "ae7c605e83bab6187975fb70c04fb153bddb4602",
+    "title": "Large-area, untethered, metamorphic, and omnidirectionally stretchable multiplexing self-powered triboelectric skins",
+    "url": "https://doi.org/10.1038/s41467-024-45611-6",
+    "date": "2026-07-16"
+  },
+  {
+    "paperId": "7772d62340b0fb3d7c64f6906178e3a0c3d9b86e",
+    "title": "A flexible skin-mounted haptic interface for multimodal cutaneous feedback",
+    "url": "https://doi.org/10.1038/s41928-025-01443-w",
+    "date": "2026-07-16"
+  },
+  {
+    "paperId": "154b7e306ead1a675ad312e9af1b74d91f969f0a",
+    "title": "A Stiffness-Tunable Soft Actuator with Adjustable Jamming for Dexterous Manipulation.",
+    "url": "https://doi.org/10.1177/21695172251405996",
+    "date": "2026-07-16"
+  },
+  {
+    "paperId": "e12d11087b75064eb54ff91417c36de497bf1fa0",
+    "title": "Research on variable stiffness robotic joint actuator based on shape memory alloy",
+    "url": "https://doi.org/10.1007/s12206-025-0135-3",
+    "date": "2026-07-16"
+  },
+  {
+    "paperId": "d8c5441e8b04eeb3b5fd4a1cb5bcb3b08af7f47c",
+    "title": "Mechanical non-reciprocity programmed by shear jamming in soft composite solids",
+    "url": "https://doi.org/10.1038/s41563-025-02407-3",
+    "date": "2026-07-16"
   }
 ]
