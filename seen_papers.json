@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "0ed2967bd31ca84738ecfa147eba166ef966a2fe",
-    "title": "Active electronic skin: an interface towards ambient haptic feedback on physical surfaces",
-    "url": "https://doi.org/10.1038/s41528-024-00311-5",
-    "date": "2026-04-27"
-  },
-  {
-    "paperId": "eb0269c11531cf9a4a577678da21406e95e86363",
-    "title": "Robotecture: A Modular Shape-changing Interface Using Actuated Support Beams",
-    "url": "https://doi.org/10.1145/3689050.3704925",
-    "date": "2026-04-27"
-  },
-  {
-    "paperId": "c6128aeae19673dd7564c85ce056f4bc28fbfb34",
-    "title": "A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation",
-    "url": "https://doi.org/10.3390/machines13010027",
-    "date": "2026-04-27"
-  },
-  {
-    "paperId": "4b5700aaeb4a262b4be7cc3b4e7ab58dfcba2a35",
-    "title": "Bridging the digital\u2013physical divide using haptic and wearable technologies",
-    "url": "https://doi.org/10.1038/s41928-024-01325-7",
-    "date": "2026-04-27"
-  },
-  {
-    "paperId": "6c00d45bdc4d24e9b9c8589cab652eb306e37dc1",
-    "title": "Toward Sustainable Haptics: A Wearable Vibrotactile Solar\u2010Powered System with Biodegradable Components",
-    "url": "https://doi.org/10.1002/admt.202301265",
-    "date": "2026-04-27"
-  },
-  {
     "paperId": "cc48c5c9289e338164c6a43fbeb0cc0e7d55332c",
     "title": "ReKnit-Care: A Seamless-Knitted Sensing Glove for Sensory Rehabilitation and Adaptive Haptic Feedback",
     "url": "https://doi.org/10.1145/3689050.3705979",
@@ -2398,5 +2368,35 @@
     "title": "Mechanical non-reciprocity programmed by shear jamming in soft composite solids",
     "url": "https://doi.org/10.1038/s41563-025-02407-3",
     "date": "2026-07-16"
+  },
+  {
+    "paperId": "23008b24615b0713ff3b064b2ed774ffc0293806",
+    "title": "Stretchable ionic\u2013electronic bilayer hydrogel electronics enable in situ detection of solid-state epidermal biomarkers",
+    "url": "https://doi.org/10.1038/s41563-024-01918-9",
+    "date": "2026-07-17"
+  },
+  {
+    "paperId": "0f28bd6b4ded72c17bc3ad1bf014a14ab1126b4e",
+    "title": "Diffusive kinks turn kirigami into machines",
+    "url": "https://doi.org/10.1038/s41467-024-45602-7",
+    "date": "2026-07-17"
+  },
+  {
+    "paperId": "1d6d38783a49557a445763003b2cc310eb38e1b2",
+    "title": "A novel approach to enhancing smart stiffness of soft robotic gripper fingers for wider grasping capability",
+    "url": "https://doi.org/10.1007/s41315-024-00398-z",
+    "date": "2026-07-17"
+  },
+  {
+    "paperId": "4864e8f8e23cd9ce06730a2b92f49493d2e6faa8",
+    "title": "Pneumatically Controlled Wearable Tactile Actuator for Multi-Modal Haptic Feedback",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3376753",
+    "date": "2026-07-17"
+  },
+  {
+    "paperId": "3ea6dd3486f08f9f27b49f52acf92ef936c46170",
+    "title": "Perceived Realism of Virtual Textures Rendered by a Vibrotactile Wearable Ring Display",
+    "url": "https://doi.org/10.1109/TOH.2023.3304899",
+    "date": "2026-07-17"
   }
 ]
