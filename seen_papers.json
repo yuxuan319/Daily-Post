@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "cc48c5c9289e338164c6a43fbeb0cc0e7d55332c",
-    "title": "ReKnit-Care: A Seamless-Knitted Sensing Glove for Sensory Rehabilitation and Adaptive Haptic Feedback",
-    "url": "https://doi.org/10.1145/3689050.3705979",
-    "date": "2026-04-28"
-  },
-  {
-    "paperId": "e53bc5e578445759e17096a3a17a002fe6848abe",
-    "title": "A Wearable Haptic Device for the Hand With Interchangeable End-Effectors",
-    "url": "https://doi.org/10.1109/TOH.2023.3284980",
-    "date": "2026-04-28"
-  },
-  {
-    "paperId": "dd6e615c52700336c76de8c67eae58be41973cb1",
-    "title": "A Variable Stiffness Soft Gripper Based on Rotational Layer Jamming",
-    "url": "https://doi.org/10.1089/soro.2022.0232",
-    "date": "2026-04-28"
-  },
-  {
-    "paperId": "c9d325e8089b0c3582562ad01ffa2de151d1b0d9",
-    "title": "Integration of a Shape Memory Alloy with a Soft Pneumatic Actuator to Improve the Haptic Interaction Performance of a Soft Social Robot",
-    "url": "https://doi.org/10.1145/3613905.3650922",
-    "date": "2026-04-28"
-  },
-  {
-    "paperId": "edabf6f8c9715060eadd4fa1ee22a8afb20d3a09",
-    "title": "A Motion\u2010Sensing Integrated Soft Robot with Triboelectric Nanogenerator for Pipeline Inspection",
-    "url": "https://doi.org/10.1002/aisy.202400643",
-    "date": "2026-04-28"
-  },
-  {
     "paperId": "b80828cf159f5491f36de47b7222bdced1c570bc",
     "title": "Strain-invariant stretchable radio-frequency electronics",
     "url": "https://doi.org/10.1038/s41586-024-07383-3",
@@ -2398,5 +2368,35 @@
     "title": "Perceived Realism of Virtual Textures Rendered by a Vibrotactile Wearable Ring Display",
     "url": "https://doi.org/10.1109/TOH.2023.3304899",
     "date": "2026-07-17"
+  },
+  {
+    "paperId": "6c5938dad35f1dc69ddb99d3f4a7f552ecd31ed9",
+    "title": "A temperature-adaptive component-dynamic-coordinated strategy for high-performance elastic conductive fibers",
+    "url": "https://doi.org/10.1038/s41467-025-62140-y",
+    "date": "2026-07-18"
+  },
+  {
+    "paperId": "259f85c32438e77fbc52249fdb6e702e23feb9ee",
+    "title": "A Fabric\u2010Based Multimodal Flexible Tactile Sensor With Precise Sensing and Discrimination Capabilities for Pressure\u2010Proximity\u2010Magnetic Field Signals",
+    "url": "https://doi.org/10.1002/adfm.202420445",
+    "date": "2026-07-18"
+  },
+  {
+    "paperId": "8ba5f12eb100c7075ad675a091abe3a16386bb1a",
+    "title": "Flexible Electromagnetic Tactile Sensor Based on Double\u2010Layer High\u2010Density MEMS Coils and Tilted Magnetic Column Array",
+    "url": "https://doi.org/10.1002/admt.202302076",
+    "date": "2026-07-18"
+  },
+  {
+    "paperId": "25afa467b99196db50faf82bc7273e69f3d9e6d6",
+    "title": "Adaptive tactile interaction transfer via digitally embroidered smart gloves",
+    "url": "https://doi.org/10.1038/s41467-024-45059-8",
+    "date": "2026-07-18"
+  },
+  {
+    "paperId": "5db424eb9c46fb10b9fb54053b4208d7a744d265",
+    "title": "Metamaterial\u2010Based Electronic Skin with Conformality and Multisensory Integration",
+    "url": "https://doi.org/10.1002/adfm.202406789",
+    "date": "2026-07-18"
   }
 ]
