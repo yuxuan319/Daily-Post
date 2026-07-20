@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c31a65a906ac6503b1b27dffa553eab73be5f3c7",
-    "title": "Connective tissue inspired elastomer-based hydrogel for artificial skin via radiation-indued penetrating polymerization",
-    "url": "https://doi.org/10.1038/s41467-024-44949-1",
-    "date": "2026-04-30"
-  },
-  {
-    "paperId": "fa6d9d8521b8317c91f3e092c729acd8b36a3095",
-    "title": "Soft Growing Pin for High-Extension Shape-Changing Displays",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522001",
-    "date": "2026-04-30"
-  },
-  {
-    "paperId": "74f71490adb1f973718e436562340d1ab29a0861",
-    "title": "Perception of Soft Objects in Virtual Environments Under Conflicting Visual and Haptic Cues",
-    "url": "https://doi.org/10.1109/TOH.2023.3322189",
-    "date": "2026-04-30"
-  },
-  {
-    "paperId": "41eecae2f4e87e1c478fd1f06d1e5159f935d6a6",
-    "title": "In\u2010Sensor Tactile Fusion and Logic for Accurate Intention Recognition",
-    "url": "https://doi.org/10.1002/adma.202407329",
-    "date": "2026-04-30"
-  },
-  {
-    "paperId": "a09f79e7bf7c455bd9316bfb2fe11e580cc819ad",
-    "title": "Zero\u2010Power Shape Retention in Soft Pneumatic Actuators with Extensional and Bending Multistability",
-    "url": "https://doi.org/10.1002/adfm.202304151",
-    "date": "2026-04-30"
-  },
-  {
     "paperId": "0f46d869ce5696b3f0362ca53ed85ed99bd2ee57",
     "title": "Soft Electromagnetic Actuator and Oscillator",
     "url": "https://doi.org/10.1002/admt.202400982",
@@ -2398,5 +2368,35 @@
     "title": "Toward Sustainable Haptics: A Wearable Vibrotactile Solar\u2010Powered System with Biodegradable Components",
     "url": "https://doi.org/10.1002/admt.202301265",
     "date": "2026-07-19"
+  },
+  {
+    "paperId": "3a4c672122b5133876df3c65159004e13f3187c8",
+    "title": "Low-voltage wearable tactile display with thermo-pneumatic actuation",
+    "url": "https://doi.org/10.1038/s41528-025-00426-3",
+    "date": "2026-07-20"
+  },
+  {
+    "paperId": "b1b9f9f73ed826fd0844cef6e8bd7fc9904a05a5",
+    "title": "HiPalm: Wearable Device for Affective Tactile Interpersonal Communication",
+    "url": "https://doi.org/10.1145/3689050.3705974",
+    "date": "2026-07-20"
+  },
+  {
+    "paperId": "afa90b07d29e0b95b67bc44680e53ee258b27839",
+    "title": "An 18-g haptic feedback ring with a three-axis force-sensing skin",
+    "url": "https://doi.org/10.1038/s41928-025-01515-x",
+    "date": "2026-07-20"
+  },
+  {
+    "paperId": "96be4de724f6b3d9ade2735b51ef40931b71fd8f",
+    "title": "Design Models and Performance Analysis for a Novel Shape Memory Alloy-Actuated Wearable Hand Exoskeleton for Rehabilitation",
+    "url": "https://doi.org/10.1109/LRA.2024.3455901",
+    "date": "2026-07-20"
+  },
+  {
+    "paperId": "9fc9b425099931e6ef374b058817a12a7db5463a",
+    "title": "Free vibration and buckling analysis of FG graphene origami-enabled auxetic metamaterial beams in a thermal environment",
+    "url": "https://doi.org/10.1007/s00707-024-04197-2",
+    "date": "2026-07-20"
   }
 ]
