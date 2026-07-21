@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "0f46d869ce5696b3f0362ca53ed85ed99bd2ee57",
-    "title": "Soft Electromagnetic Actuator and Oscillator",
-    "url": "https://doi.org/10.1002/admt.202400982",
-    "date": "2026-05-01"
-  },
-  {
-    "paperId": "5d28e37b735eead90d411d80b45a631b76db5512",
-    "title": "Extremely durable electrical impedance tomography\u2013based soft and ultrathin wearable e-skin for three-dimensional tactile interfaces",
-    "url": "https://doi.org/10.1126/sciadv.adr1099",
-    "date": "2026-05-01"
-  },
-  {
-    "paperId": "83b14a3daee88ec4f7e92f3fe833c74cd2bb9c48",
-    "title": "JamTac: A Tactile Jamming Gripper for Searching and Grasping in Low-Visibility Environments",
-    "url": "https://doi.org/10.1089/soro.2022.0134",
-    "date": "2026-05-01"
-  },
-  {
-    "paperId": "c744ce820a7abcf522d7d53c6b24dfb5f8722326",
-    "title": "Woven Fabric Muscle for Soft Wearable Robotic Application Using Two-Dimensional Zigzag Shape Memory Alloy Actuator",
-    "url": "https://doi.org/10.1089/soro.2023.0171",
-    "date": "2026-05-01"
-  },
-  {
-    "paperId": "0d95760f9ac0a71ba51c9dc3bdd15a85f56d9651",
-    "title": "Recent Advances in Wearable Electromechanical Sensors Based on Auxetic Textiles",
-    "url": "https://doi.org/10.1002/adfm.202409242",
-    "date": "2026-05-01"
-  },
-  {
     "paperId": "349653762db1e2667cb3ec4937d96e3bd97318f9",
     "title": "Kirigami\u2010Inspired 3D\u2010Printable MXene Organohydrogels for Soft Electronics",
     "url": "https://doi.org/10.1002/adfm.202308487",
@@ -2398,5 +2368,35 @@
     "title": "Free vibration and buckling analysis of FG graphene origami-enabled auxetic metamaterial beams in a thermal environment",
     "url": "https://doi.org/10.1007/s00707-024-04197-2",
     "date": "2026-07-20"
+  },
+  {
+    "paperId": "dd05c78204c3cdb7d327d31d00809058f82763b2",
+    "title": "A Reconfigurable Soft Actuator with Tunable Deformation and Stiffness",
+    "url": "https://doi.org/10.1002/admt.202500772",
+    "date": "2026-07-21"
+  },
+  {
+    "paperId": "974299a45d04bd3f000132bae2fb0377e0372045",
+    "title": "Haptic Sensing and Feedback Techniques toward Virtual Reality",
+    "url": "https://doi.org/10.34133/research.0333",
+    "date": "2026-07-21"
+  },
+  {
+    "paperId": "74f71490adb1f973718e436562340d1ab29a0861",
+    "title": "Perception of Soft Objects in Virtual Environments Under Conflicting Visual and Haptic Cues",
+    "url": "https://doi.org/10.1109/TOH.2023.3322189",
+    "date": "2026-07-21"
+  },
+  {
+    "paperId": "a9f52d736cda17a871956e4da1227035d6f57db4",
+    "title": "Fluxable: A Tool for Making 3D Printable Sensors and Actuators",
+    "url": "https://doi.org/10.1145/3672539.3686342",
+    "date": "2026-07-21"
+  },
+  {
+    "paperId": "805a1994e3cb8d25648cbb899ae243018fcd7c34",
+    "title": "3D-printed multifunctional chiral metamaterial with invariant sound absorption under large deformation and low-frequency vibration control",
+    "url": "https://doi.org/10.1080/17452759.2024.2425386",
+    "date": "2026-07-21"
   }
 ]
