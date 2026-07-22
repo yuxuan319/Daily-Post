@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "349653762db1e2667cb3ec4937d96e3bd97318f9",
-    "title": "Kirigami\u2010Inspired 3D\u2010Printable MXene Organohydrogels for Soft Electronics",
-    "url": "https://doi.org/10.1002/adfm.202308487",
-    "date": "2026-05-02"
-  },
-  {
-    "paperId": "d6ef28f951493f1ef505a124c931757ef79c2583",
-    "title": "breatHaptics: Enabling Granular Rendering of Breath Signals via Haptics using Shape-Changing Soft Interfaces",
-    "url": "https://doi.org/10.1145/3623509.3633372",
-    "date": "2026-05-02"
-  },
-  {
-    "paperId": "f29487e767295ff57c79e817f901b9bbc84f4c31",
-    "title": "Flexible Electrical Energy Storage Structure with Variable Stiffness for Soft Robotics and Wearable Electronics",
-    "url": "https://doi.org/10.1089/soro.2024.0098",
-    "date": "2026-05-02"
-  },
-  {
-    "paperId": "a9c031f291ab29e8ae9189a1cc06c02e99b21f6c",
-    "title": "Shape-memory polyurethanes for polar wearables with ultrasensitive multi-monitoring",
-    "url": "https://doi.org/10.1038/s41467-025-66422-3",
-    "date": "2026-05-02"
-  },
-  {
-    "paperId": "d5626f37c33a54b2dc89c7ef0fb91fd1bb0823b2",
-    "title": "Multistable Soft Robots Assembled from Bistable Auxetic Building Blocks",
-    "url": "https://doi.org/10.1002/aisy.202400529",
-    "date": "2026-05-02"
-  },
-  {
     "paperId": "5b7c56fbbe9bb45859366642f3921ff42b584823",
     "title": "Closed\u2010Loop Haptic\u2013Thermal Perception with Memristor\u2010Based Spiking Neurons for Embodied Neuromorphic Intelligence",
     "url": "https://doi.org/10.1002/adfm.202523270",
@@ -2398,5 +2368,35 @@
     "title": "3D-printed multifunctional chiral metamaterial with invariant sound absorption under large deformation and low-frequency vibration control",
     "url": "https://doi.org/10.1080/17452759.2024.2425386",
     "date": "2026-07-21"
+  },
+  {
+    "paperId": "77b730645d9c3e204c07fa9f764f48efb02c8104",
+    "title": "Origami-Inspired Vibrotactile Actuator (OriVib): Design and Characterization",
+    "url": "https://doi.org/10.1109/TOH.2023.3348189",
+    "date": "2026-07-22"
+  },
+  {
+    "paperId": "0709687b8ab43b3db0d3191811f973d56afaba5b",
+    "title": "Preoperative interactive virtual simulation applying three-dimensional multifusion images using a haptic device for lumbosacral lipoma",
+    "url": "https://doi.org/10.1007/s00381-023-06234-2",
+    "date": "2026-07-22"
+  },
+  {
+    "paperId": "45fa6fbcfa16f908085c964a77e05d37ab921213",
+    "title": "An individual\u2019s skin stiffness predicts their tactile discrimination of compliance",
+    "url": "https://doi.org/10.1113/JP285271",
+    "date": "2026-07-22"
+  },
+  {
+    "paperId": "9468240bd1c618d494b2faa998c10b1cdbeef544",
+    "title": "Slip-actuated bionic tactile sensing system with dynamic DC generator integrated E-textile for dexterous robotic manipulation",
+    "url": "https://doi.org/10.1038/s41467-025-61843-6",
+    "date": "2026-07-22"
+  },
+  {
+    "paperId": "4b5700aaeb4a262b4be7cc3b4e7ab58dfcba2a35",
+    "title": "Bridging the digital\u2013physical divide using haptic and wearable technologies",
+    "url": "https://doi.org/10.1038/s41928-024-01325-7",
+    "date": "2026-07-22"
   }
 ]
