@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "5b7c56fbbe9bb45859366642f3921ff42b584823",
-    "title": "Closed\u2010Loop Haptic\u2013Thermal Perception with Memristor\u2010Based Spiking Neurons for Embodied Neuromorphic Intelligence",
-    "url": "https://doi.org/10.1002/adfm.202523270",
-    "date": "2026-05-03"
-  },
-  {
-    "paperId": "3b8c29b7ea58000546fa8cd5e33cc2083d850470",
-    "title": "Height-renderable morphable tactile display enabled by programmable modulation of local stiffness in photothermally active polymer",
-    "url": "https://doi.org/10.1038/s41467-024-46709-7",
-    "date": "2026-05-03"
-  },
-  {
-    "paperId": "fefeba43c4acabd33e9b3bc515b2b2d460a39804",
-    "title": "BiasBuzz: Combining Visual Guidance with Haptic Feedback to Increase Awareness of Analytic Behavior during Visual Data Analysis",
-    "url": "https://doi.org/10.1145/3613905.3651064",
-    "date": "2026-05-03"
-  },
-  {
-    "paperId": "d1b5294bd40df254e34f3e50d9d241e852307f25",
-    "title": "Soft Artificial Muscle Based on Pre-Detwinned Shape Memory Alloy Spring Actuator Achieving High Passive Assistive Torque for Wearable Robot",
-    "url": "https://doi.org/10.1089/soro.2023.0154",
-    "date": "2026-05-03"
-  },
-  {
-    "paperId": "78079a7d0c16b669b379103a38e929c12142090a",
-    "title": "A robust near-field body area network based on coaxially-shielded textile metamaterial",
-    "url": "https://doi.org/10.1038/s41467-024-51061-x",
-    "date": "2026-05-03"
-  },
-  {
     "paperId": "1342c819ce6c4a662d7d07b4fe77bb4c36e577ca",
     "title": "Advanced Stretchable Aerogels and Foams for Flexible Electronics and Beyond",
     "url": "https://doi.org/10.1002/adfm.202408707",
@@ -2398,5 +2368,35 @@
     "title": "Bridging the digital\u2013physical divide using haptic and wearable technologies",
     "url": "https://doi.org/10.1038/s41928-024-01325-7",
     "date": "2026-07-22"
+  },
+  {
+    "paperId": "c53e79e45db8131e99976a6946dc5354e3fc8897",
+    "title": "Validation of a Soft Pneumatic Unit Cell (PUC) in a VR Experience: A Comparison Between Vibrotactile and Soft Pneumatic Haptic Feedback",
+    "url": "https://doi.org/10.1109/TOH.2023.3307872",
+    "date": "2026-07-23"
+  },
+  {
+    "paperId": "d6ef28f951493f1ef505a124c931757ef79c2583",
+    "title": "breatHaptics: Enabling Granular Rendering of Breath Signals via Haptics using Shape-Changing Soft Interfaces",
+    "url": "https://doi.org/10.1145/3623509.3633372",
+    "date": "2026-07-23"
+  },
+  {
+    "paperId": "a6deab8efce378b032abb7ca53d62a4ef5175095",
+    "title": "Multimodal, Ultrasensitive, and Biomimetic Electronic Skin Based on Gradient Micro\u2010Frustum Ionogel for Imaginary Keyboard and Haptic Cognition",
+    "url": "https://doi.org/10.1002/adfm.202414936",
+    "date": "2026-07-23"
+  },
+  {
+    "paperId": "1d0237f05687c3991e2c440b2a87d1e11b6988f5",
+    "title": "Towards Multimodal Interaction with AI-Infused Shape-Changing Interfaces",
+    "url": "https://doi.org/10.1145/3672539.3686315",
+    "date": "2026-07-23"
+  },
+  {
+    "paperId": "501e6cbbca4d2c852e10185519a60d068b462ff2",
+    "title": "Extremely durable electrical impedance tomography\u2013based soft and ultrathin wearable e-skin for three-dimensional tactile interfaces",
+    "url": "https://doi.org/10.1126/sciadv.adr1099",
+    "date": "2026-07-23"
   }
 ]
