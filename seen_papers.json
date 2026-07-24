@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "1342c819ce6c4a662d7d07b4fe77bb4c36e577ca",
-    "title": "Advanced Stretchable Aerogels and Foams for Flexible Electronics and Beyond",
-    "url": "https://doi.org/10.1002/adfm.202408707",
-    "date": "2026-05-04"
-  },
-  {
-    "paperId": "80c87e64338b503202e9ebaa18d27ffb0e2e72b6",
-    "title": "Wearable Electrohydraulic Actuation For Salient Full\u2010Fingertip Haptic Feedback",
-    "url": "https://doi.org/10.1002/admt.202401525",
-    "date": "2026-05-04"
-  },
-  {
-    "paperId": "75462f81afdec9c207b568e65410f029e7b2e083",
-    "title": "Tremendous Stiffness\u2010Changing Polymer Networks Enabled by Touch\u2010Induced Crystallization",
-    "url": "https://doi.org/10.1002/adfm.202411560",
-    "date": "2026-05-04"
-  },
-  {
-    "paperId": "b13fb55e4347328a07aada20804f5f6372ba52ff",
-    "title": "Tailoring Photoweldable Shape Memory Polyurethane with Intrinsic Photothermal / Fluorescence Via Engineering Metal\u2010Phenolic Systems",
-    "url": "https://doi.org/10.1002/adfm.202402592",
-    "date": "2026-05-04"
-  },
-  {
-    "paperId": "4b4ce63a8a5cdc98ed4dee072bc0ae261ab02466",
-    "title": "Recent Advances of Auxetic Metamaterials in Smart Materials and Structural Systems",
-    "url": "https://doi.org/10.1002/adfm.202421746",
-    "date": "2026-05-04"
-  },
-  {
     "paperId": "81f3bb175ba2b475fce52daec32f53cfb47c22c1",
     "title": "Anti-friction gold-based stretchable electronics enabled by interfacial diffusion-induced cohesion",
     "url": "https://doi.org/10.1038/s41467-024-45393-x",
@@ -2398,5 +2368,35 @@
     "title": "Extremely durable electrical impedance tomography\u2013based soft and ultrathin wearable e-skin for three-dimensional tactile interfaces",
     "url": "https://doi.org/10.1126/sciadv.adr1099",
     "date": "2026-07-23"
+  },
+  {
+    "paperId": "256cedfe23b18bd3faf32a8198b7f3ea5ff82d18",
+    "title": "Room\u2010Temperature, High\u2010Resolution Soft Anisotropic Conductive Film for Electrical Interfacing in Stretchable Electronics",
+    "url": "https://doi.org/10.1002/adfm.202516217",
+    "date": "2026-07-24"
+  },
+  {
+    "paperId": "d17ec05b0bc627d53de49929ba37d2de2cec55bd",
+    "title": "Modular shape-changing tensegrity-blocks enable self-assembling robotic structures",
+    "url": "https://doi.org/10.1038/s41467-025-60982-0",
+    "date": "2026-07-24"
+  },
+  {
+    "paperId": "fcc7224b13b36797774c14f4ffc4553a7f430141",
+    "title": "Reshaping the peripersonal space in virtual reality",
+    "url": "https://doi.org/10.1038/s41598-024-52383-y",
+    "date": "2026-07-24"
+  },
+  {
+    "paperId": "aaeacfe9124d7612803b60aed4b847d87c5684de",
+    "title": "Soft wearable thermo+touch haptic interface for virtual reality",
+    "url": "https://doi.org/10.1016/j.isci.2024.111303",
+    "date": "2026-07-24"
+  },
+  {
+    "paperId": "c6128aeae19673dd7564c85ce056f4bc28fbfb34",
+    "title": "A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation",
+    "url": "https://doi.org/10.3390/machines13010027",
+    "date": "2026-07-24"
   }
 ]
