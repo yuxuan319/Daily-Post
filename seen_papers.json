@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "9f007638db375085ccaedb83ecc28e6b27f98971",
-    "title": "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices",
-    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520855",
-    "date": "2026-05-07"
-  },
-  {
-    "paperId": "426638fe2a8ff5bfb6c6370ab1df31b0a1398460",
-    "title": "Perception of and Response to a Haptic Device as a Function of Signal Complexity",
-    "url": "https://doi.org/10.1109/WHC56415.2023.10224490",
-    "date": "2026-05-07"
-  },
-  {
-    "paperId": "f8e595c6b756775e6cee83c97d9475ae9b3a1adf",
-    "title": "Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels",
-    "url": "https://doi.org/10.1089/soro.2023.0185",
-    "date": "2026-05-07"
-  },
-  {
-    "paperId": "126f0a22daee9d511f3e1c17449bb8e6b4a2ed23",
-    "title": "A Wearable Soft Actuator for Directional Tactile Stimulation: Design and Testing",
-    "url": "https://doi.org/10.1002/aisy.202400899",
-    "date": "2026-05-07"
-  },
-  {
-    "paperId": "e4e207dc1d419cd6cf2fabf06738117bf4254249",
-    "title": "Multimodal Haptic Feedback for Virtual Collisions Combining Vibrotactile and Electrical Muscle Stimulation",
-    "url": "https://doi.org/10.1109/TOH.2024.3354268",
-    "date": "2026-05-07"
-  },
-  {
     "paperId": "7d9a436b0e3555004d37c2c8b19ee1f5c614458d",
     "title": "SWIMVR: Simulating Water Interaction Using Multimodal Vibro-Thermal Rendering",
     "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495451",
@@ -2398,5 +2368,35 @@
     "title": "A Motion\u2010Sensing Integrated Soft Robot with Triboelectric Nanogenerator for Pipeline Inspection",
     "url": "https://doi.org/10.1002/aisy.202400643",
     "date": "2026-07-25"
+  },
+  {
+    "paperId": "df0f1fcdbb3bf95c84a7b1f9a5ff20bafce64a3d",
+    "title": "Vibration control of graphene-origami-enabled meta-material beams with magnetostrictive coatings under temperature gradient",
+    "url": "https://doi.org/10.1007/s00707-023-03823-9",
+    "date": "2026-07-26"
+  },
+  {
+    "paperId": "ec4cf37e226a1ea738a629a7bb699c24c3e61a1d",
+    "title": "Tactile Perception-Based Depth and Angle Control During Robot-Assisted Bent Bone Grinding",
+    "url": "https://doi.org/10.1109/TII.2023.3256369",
+    "date": "2026-07-26"
+  },
+  {
+    "paperId": "b39c8782a1090c40aab54c3873ad217578c92e09",
+    "title": "Machine learning-assisted investigation on nonlinear vibration analysis of bio-inspired auxetic tubes",
+    "url": "https://doi.org/10.1108/ijsi-12-2024-0206",
+    "date": "2026-07-26"
+  },
+  {
+    "paperId": "824b88d53b7fd5ba487e1c13397dc037f6c8e98b",
+    "title": "Thermomechanical active vibration control of auxetic plates with magnetostrictive layers",
+    "url": "https://doi.org/10.1007/s40430-023-04597-w",
+    "date": "2026-07-26"
+  },
+  {
+    "paperId": "644d3561e530c0b0fd16f98535b74460b2013911",
+    "title": "The effect of hexachiral auxetic metamaterial on the thermomechanical vibration response of doubly\u2010curved sandwich nanoplates with foam FGM face layers",
+    "url": "https://doi.org/10.1002/zamm.70202",
+    "date": "2026-07-26"
   }
 ]
