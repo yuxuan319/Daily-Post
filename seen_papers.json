@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "7d9a436b0e3555004d37c2c8b19ee1f5c614458d",
-    "title": "SWIMVR: Simulating Water Interaction Using Multimodal Vibro-Thermal Rendering",
-    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495451",
-    "date": "2026-05-08"
-  },
-  {
-    "paperId": "66c9ca7431865f4d883c18f90c8d3222950b139c",
-    "title": "A DNA origami device spatially controls CD95 signalling to induce immune tolerance in rheumatoid arthritis",
-    "url": "https://doi.org/10.1038/s41563-024-01865-5",
-    "date": "2026-05-08"
-  },
-  {
-    "paperId": "2e3f419d402528c34606ec7c9985e63b6c484ab5",
-    "title": "Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove",
-    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520848",
-    "date": "2026-05-08"
-  },
-  {
-    "paperId": "36a525ed0f9ad0836d2954291190b0385d402af6",
-    "title": "Dual Cross-linked Eucommia Ulmoides Gum with Reprocessibility, Shape Memory Capability and Broadband Sound Absorption at Low Frequency",
-    "url": "https://doi.org/10.1007/s10118-025-3384-9",
-    "date": "2026-05-08"
-  },
-  {
-    "paperId": "11710e53c156ecadecf8976e812f558f7ec17057",
-    "title": "Integrated mechanical computing for autonomous soft machines",
-    "url": "https://doi.org/10.1038/s41467-024-47201-y",
-    "date": "2026-05-08"
-  },
-  {
     "paperId": "2d2081142aca4e3ea42076ce6c63c1cb83596322",
     "title": "High Thermal Conductivity of Liquid Crystal Elastomer for Stress\u2010Less Flexible Perovskite Solar Cells",
     "url": "https://doi.org/10.1002/adfm.202405250",
@@ -2398,5 +2368,35 @@
     "title": "The effect of hexachiral auxetic metamaterial on the thermomechanical vibration response of doubly\u2010curved sandwich nanoplates with foam FGM face layers",
     "url": "https://doi.org/10.1002/zamm.70202",
     "date": "2026-07-26"
+  },
+  {
+    "paperId": "160dc611076bc764247ff910006f82b696b24972",
+    "title": "Haptiknit: Distributed stiffness knitting for wearable haptics",
+    "url": "https://doi.org/10.1126/scirobotics.ado3887",
+    "date": "2026-07-27"
+  },
+  {
+    "paperId": "eb0269c11531cf9a4a577678da21406e95e86363",
+    "title": "Robotecture: A Modular Shape-changing Interface Using Actuated Support Beams",
+    "url": "https://doi.org/10.1145/3689050.3704925",
+    "date": "2026-07-27"
+  },
+  {
+    "paperId": "56eabb3bf68d53963ac9e5b3e33df4336043ead8",
+    "title": "In-Hand Singulation and Scooping Manipulation with a 5 DOF Tactile Gripper",
+    "url": "https://doi.org/10.1109/IROS58592.2024.10801940",
+    "date": "2026-07-27"
+  },
+  {
+    "paperId": "80c87e64338b503202e9ebaa18d27ffb0e2e72b6",
+    "title": "Wearable Electrohydraulic Actuation For Salient Full\u2010Fingertip Haptic Feedback",
+    "url": "https://doi.org/10.1002/admt.202401525",
+    "date": "2026-07-27"
+  },
+  {
+    "paperId": "d5626f37c33a54b2dc89c7ef0fb91fd1bb0823b2",
+    "title": "Multistable Soft Robots Assembled from Bistable Auxetic Building Blocks",
+    "url": "https://doi.org/10.1002/aisy.202400529",
+    "date": "2026-07-27"
   }
 ]
