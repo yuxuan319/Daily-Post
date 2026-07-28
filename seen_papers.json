@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "2d2081142aca4e3ea42076ce6c63c1cb83596322",
-    "title": "High Thermal Conductivity of Liquid Crystal Elastomer for Stress\u2010Less Flexible Perovskite Solar Cells",
-    "url": "https://doi.org/10.1002/adfm.202405250",
-    "date": "2026-05-09"
-  },
-  {
-    "paperId": "378b4cc29a196749dc516e07f3702513997f66fe",
-    "title": "Stretch-based kirigami structure with folding lines for stretchable electronics",
-    "url": "https://doi.org/10.1038/s41528-025-00409-4",
-    "date": "2026-05-09"
-  },
-  {
-    "paperId": "9e91e242c98057687cbad5e3e9310b67bfd53501",
-    "title": "Tactile Feedback in Upper Limb Prosthetics: A Pilot Study on Trans-Radial Amputees Comparing Different Haptic Modalities",
-    "url": "https://doi.org/10.1109/TOH.2023.3322559",
-    "date": "2026-05-09"
-  },
-  {
-    "paperId": "de86990a95949b7208c6e3bcc646eb13c86cb399",
-    "title": "Full freedom-of-motion actuators as advanced haptic interfaces.",
-    "url": "https://doi.org/10.1126/science.adt2481",
-    "date": "2026-05-09"
-  },
-  {
-    "paperId": "b9c9a2ca60b5094b1b970f6a5e7192be030aefb7",
-    "title": "Selective Actuation Enabled Multifunctional Magneto\u2010Mechanical Metamaterial for Programming Elastic Wave Propagation",
-    "url": "https://doi.org/10.1002/adfm.202422325",
-    "date": "2026-05-09"
-  },
-  {
     "paperId": "4b25049ba109a0ca753abc3e167f142a564c3e78",
     "title": "Highly Stretchable Thermoelectric Fiber with Embedded Copper(I) Iodide Nanoparticles for a Multimodal Temperature, Strain, and Pressure Sensor in Wearable Electronics",
     "url": "https://doi.org/10.1002/adfm.202407759",
@@ -2398,5 +2368,35 @@
     "title": "Multistable Soft Robots Assembled from Bistable Auxetic Building Blocks",
     "url": "https://doi.org/10.1002/aisy.202400529",
     "date": "2026-07-27"
+  },
+  {
+    "paperId": "62635f6630aed8d89bd6d58db37c96548e4e8095",
+    "title": "MemoGlove: Capturing and Recreating XR Memory with Haptic Interaction Traces",
+    "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00025",
+    "date": "2026-07-28"
+  },
+  {
+    "paperId": "9660b5b96b351e159742768ed0133cb59efb08a7",
+    "title": "WireShape - A Hybrid Prototyping Process for Fast & Reliable Manufacturing of Inflatable Interface Props with CNC-Fabricated Heat\u2013Sealing Tools",
+    "url": "https://doi.org/10.1145/3623263.3623363",
+    "date": "2026-07-28"
+  },
+  {
+    "paperId": "dccbc07a9659cc727aa4375cd7bc8d256b34c1a9",
+    "title": "Tuning interfacial properties of phospholipid stabilised oil-water interfaces by changing the phospholipid headgroup or fatty acyl chain.",
+    "url": "https://doi.org/10.1016/j.jcis.2025.01.215",
+    "date": "2026-07-28"
+  },
+  {
+    "paperId": "53e05521336d93b6a767bd74ed8f579bf244af64",
+    "title": "Evaluating ActuAir: Building Occupants' Experiences of a Shape-Changing Air Quality Display",
+    "url": "https://doi.org/10.1145/3613904.3642396",
+    "date": "2026-07-28"
+  },
+  {
+    "paperId": "c9d325e8089b0c3582562ad01ffa2de151d1b0d9",
+    "title": "Integration of a Shape Memory Alloy with a Soft Pneumatic Actuator to Improve the Haptic Interaction Performance of a Soft Social Robot",
+    "url": "https://doi.org/10.1145/3613905.3650922",
+    "date": "2026-07-28"
   }
 ]
