@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "4b25049ba109a0ca753abc3e167f142a564c3e78",
-    "title": "Highly Stretchable Thermoelectric Fiber with Embedded Copper(I) Iodide Nanoparticles for a Multimodal Temperature, Strain, and Pressure Sensor in Wearable Electronics",
-    "url": "https://doi.org/10.1002/adfm.202407759",
-    "date": "2026-05-10"
-  },
-  {
-    "paperId": "c19d6a2c88cd92180063894c26a03573427156a3",
-    "title": "MilliWare: Parametric Modeling and Simulation of Millifluidic Shape-changing Interface",
-    "url": "https://doi.org/10.1145/3629606.3629654",
-    "date": "2026-05-10"
-  },
-  {
-    "paperId": "4da68d7c9eca88c28fbb4aeaf8a4a3c4480c21b1",
-    "title": "Impedance for Assistance: Upper-Limb Assistive Soft Robotic Suit Using Linked-Layer Jamming Mechanisms",
-    "url": "https://doi.org/10.1089/soro.2023.0146",
-    "date": "2026-05-10"
-  },
-  {
-    "paperId": "85c3b8431a1c4adf6eedb24ed1331481f7a88e90",
-    "title": "Shape-Adaptive Robotics: Programmable Morphing through SMA and SMP Integration",
-    "url": "https://doi.org/10.1177/21695172261437932",
-    "date": "2026-05-10"
-  },
-  {
-    "paperId": "f8b77c91e6b5c7f7b00789a5ab60e08b1c78f4ca",
-    "title": "Acceptance and Usability of a Soft Robotic, Haptic Feedback Seat for Autonomy Level Transitions in Highly Automated Vehicles",
-    "url": "https://doi.org/10.1109/TOH.2024.3392473",
-    "date": "2026-05-10"
-  },
-  {
     "paperId": "921dc9adc5ee145834f1969869ed76ecb8c42e84",
     "title": "Super\u2010Stretchable, Anti\u2010Freezing, Anti\u2010Drying Organogel Ionic Conductor for Multi\u2010Mode Flexible Electronics",
     "url": "https://doi.org/10.1002/adfm.202304625",
@@ -2398,5 +2368,35 @@
     "title": "Integration of a Shape Memory Alloy with a Soft Pneumatic Actuator to Improve the Haptic Interaction Performance of a Soft Social Robot",
     "url": "https://doi.org/10.1145/3613905.3650922",
     "date": "2026-07-28"
+  },
+  {
+    "paperId": "42f1f4aa366fd9a8fe4feefb4d4767d50b602ea5",
+    "title": "A Real\u2010Time Imaging Sensing System to Visualize Elastomer Surface Profile Evolution for Dynamic Tactile Recognition",
+    "url": "https://doi.org/10.1002/adfm.202416731",
+    "date": "2026-07-29"
+  },
+  {
+    "paperId": "de86990a95949b7208c6e3bcc646eb13c86cb399",
+    "title": "Full freedom-of-motion actuators as advanced haptic interfaces.",
+    "url": "https://doi.org/10.1126/science.adt2481",
+    "date": "2026-07-29"
+  },
+  {
+    "paperId": "e316866c610c9cfad49a2601ecba1a6657e4f811",
+    "title": "VR Calm+: Furry Stress Ball as a Haptic Modality for Relaxation in Virtual Reality",
+    "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00128",
+    "date": "2026-07-29"
+  },
+  {
+    "paperId": "e0895fda844a2f3b45f10eb05eaf01d94c1439ca",
+    "title": "Design development and testing of a morphable vehicle underbody shield actuated by shape memory alloys",
+    "url": "https://doi.org/10.1088/1361-665X/addeb1",
+    "date": "2026-07-29"
+  },
+  {
+    "paperId": "9e72c3dd986cb2cadaf35668b916d8a731bb0962",
+    "title": "Multichannel Vibrotactile Glove: Validation of a New Device Designed to Sense Vibrations",
+    "url": "https://doi.org/10.1109/TOH.2024.3475740",
+    "date": "2026-07-29"
   }
 ]
