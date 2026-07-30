@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "921dc9adc5ee145834f1969869ed76ecb8c42e84",
-    "title": "Super\u2010Stretchable, Anti\u2010Freezing, Anti\u2010Drying Organogel Ionic Conductor for Multi\u2010Mode Flexible Electronics",
-    "url": "https://doi.org/10.1002/adfm.202304625",
-    "date": "2026-05-11"
-  },
-  {
-    "paperId": "245284fce7976cf84da7c680d0e982ec0a604fe7",
-    "title": "Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids",
-    "url": "https://doi.org/10.1038/s41587-023-02081-3",
-    "date": "2026-05-11"
-  },
-  {
-    "paperId": "2b5680132b694d899aaa7ebec22d1fd9f230234e",
-    "title": "HaptGlove\u2014Untethered Pneumatic Glove for Multimode Haptic Feedback in Reality\u2013Virtuality Continuum",
-    "url": "https://doi.org/10.1002/advs.202301044",
-    "date": "2026-05-11"
-  },
-  {
-    "paperId": "b7c16b686ece39cc0795fecbaa5303d38f1ea125",
-    "title": "4D Printing of 3D Carbon\u2010Medium Reinforced Thermosetting Shape Memory Polymer Composites with Superior Load\u2010Bearing and Fast\u2010Response Shape Reconfiguration",
-    "url": "https://doi.org/10.1002/adfm.202409611",
-    "date": "2026-05-11"
-  },
-  {
-    "paperId": "c4d8b5d002cd26e25a5d0e567d05ce5dab915199",
-    "title": "A Flexible, Architected Soft Robotic Actuator for Motorized Extensional Motion",
-    "url": "https://doi.org/10.1002/aisy.202300866",
-    "date": "2026-05-11"
-  },
-  {
     "paperId": "1d30c5947f7d7a81556386aac38d041957d57856",
     "title": "Atmospheric Doping of Stretchable Polymer Semiconductors for Skin Electronics",
     "url": "https://doi.org/10.1002/adfm.202506882",
@@ -2398,5 +2368,35 @@
     "title": "Multichannel Vibrotactile Glove: Validation of a New Device Designed to Sense Vibrations",
     "url": "https://doi.org/10.1109/TOH.2024.3475740",
     "date": "2026-07-29"
+  },
+  {
+    "paperId": "a38be9634f88f9ff3e7db67660efb927ee963d89",
+    "title": "Electroactive soft actuators utilizing PEDOT:PSS and 3D lithium-ion-conducting phosphate columnar liquid crystals embedded in a porous polyethylene membrane",
+    "url": "https://doi.org/10.1080/14686996.2025.2475738",
+    "date": "2026-07-30"
+  },
+  {
+    "paperId": "378b4cc29a196749dc516e07f3702513997f66fe",
+    "title": "Stretch-based kirigami structure with folding lines for stretchable electronics",
+    "url": "https://doi.org/10.1038/s41528-025-00409-4",
+    "date": "2026-07-30"
+  },
+  {
+    "paperId": "d3db554d16cee7dc9428e781bdb1e74d0e9f4557",
+    "title": "Co-Design of Soft Gripper with Neural Physics",
+    "url": "https://doi.org/10.48550/arXiv.2505.20404",
+    "date": "2026-07-30"
+  },
+  {
+    "paperId": "85c3b8431a1c4adf6eedb24ed1331481f7a88e90",
+    "title": "Shape-Adaptive Robotics: Programmable Morphing through SMA and SMP Integration.",
+    "url": "https://doi.org/10.1177/21695172261437932",
+    "date": "2026-07-30"
+  },
+  {
+    "paperId": "f6a059fd01f3ea43ba044ad73a5d452a18b0cf73",
+    "title": "Digital Mechanical Metamaterial: Encoding Mechanical Information with Graphical Stiffness Pattern for Adaptive Soft Machines",
+    "url": "https://doi.org/10.1002/adma.202304302",
+    "date": "2026-07-30"
   }
 ]
