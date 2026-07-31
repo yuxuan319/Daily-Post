@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "1d30c5947f7d7a81556386aac38d041957d57856",
-    "title": "Atmospheric Doping of Stretchable Polymer Semiconductors for Skin Electronics",
-    "url": "https://doi.org/10.1002/adfm.202506882",
-    "date": "2026-05-12"
-  },
-  {
-    "paperId": "a2e60ecd6df6b2a15ae49068cab389beb7a0baef",
-    "title": "4D Printing of Polyethylene Glycol\u2010Grafted Carbon Nanotube\u2010Reinforced Polyvinyl Chloride\u2013Polycaprolactone Composites for Enhanced Shape Recovery and Thermomechanical Performance",
-    "url": "https://doi.org/10.1002/aisy.202500113",
-    "date": "2026-05-12"
-  },
-  {
-    "paperId": "3799b4928aa68fc3bdbfea668d721c2d9749c2eb",
-    "title": "Deep Fusion Intelligence: Enhancing 5G Security Against Over-the-Air Attacks",
-    "url": "https://doi.org/10.1109/TMLCN.2025.3533427",
-    "date": "2026-05-12"
-  },
-  {
-    "paperId": "a989ea1f4bbd8470b5a4570fa13964f6a294c835",
-    "title": "4D Printing Micelle-enhanced Shape Memory Polymer for Minimally Invasive Implant",
-    "url": "https://doi.org/10.1007/s10118-025-3423-6",
-    "date": "2026-05-12"
-  },
-  {
-    "paperId": "4fa8e5360ae4317d2a61e7f08f5b8702e69c6a97",
-    "title": "Three-dimensional micro strain gauges as flexible, modular tactile sensors for versatile integration with micro- and macroelectronics",
-    "url": "https://doi.org/10.1126/sciadv.adp6094",
-    "date": "2026-05-12"
-  },
-  {
     "paperId": "30b3c35dcc55650cdbb071be7ee4f79f2fa76005",
     "title": "Creep-free polyelectrolyte elastomer for drift-free iontronic sensing",
     "url": "https://doi.org/10.1038/s41563-024-01848-6",
@@ -2398,5 +2368,35 @@
     "title": "Digital Mechanical Metamaterial: Encoding Mechanical Information with Graphical Stiffness Pattern for Adaptive Soft Machines",
     "url": "https://doi.org/10.1002/adma.202304302",
     "date": "2026-07-30"
+  },
+  {
+    "paperId": "1ba2f877d52edd388aafb714e4a9d6b33a6f9ec1",
+    "title": "Fiery Hands: Designing Thermal Glove through Thermal and Tactile Integration for Virtual Object Manipulation",
+    "url": "https://doi.org/10.1145/3654777.3676457",
+    "date": "2026-07-31"
+  },
+  {
+    "paperId": "223b3f0a3600b0b8db677be59182573d952c6bd3",
+    "title": "Inflatable Textures: Creating Dynamic Haptic Surfaces with Inflatables",
+    "url": "https://doi.org/10.1145/3623509.3635268",
+    "date": "2026-07-31"
+  },
+  {
+    "paperId": "9e91e242c98057687cbad5e3e9310b67bfd53501",
+    "title": "Tactile Feedback in Upper Limb Prosthetics: A Pilot Study on Trans-Radial Amputees Comparing Different Haptic Modalities",
+    "url": "https://doi.org/10.1109/TOH.2023.3322559",
+    "date": "2026-07-31"
+  },
+  {
+    "paperId": "a0c9f20afa18c32530ed79d491f4f0717283213f",
+    "title": "Synergistic effects of strain rate and temperature on the superelastic\u2013plastic behaviors of nanocrystalline NiTi shape memory alloy: A molecular dynamic study",
+    "url": "https://doi.org/10.1063/5.0266283",
+    "date": "2026-07-31"
+  },
+  {
+    "paperId": "b9c9a2ca60b5094b1b970f6a5e7192be030aefb7",
+    "title": "Selective Actuation Enabled Multifunctional Magneto\u2010Mechanical Metamaterial for Programming Elastic Wave Propagation",
+    "url": "https://doi.org/10.1002/adfm.202422325",
+    "date": "2026-07-31"
   }
 ]
