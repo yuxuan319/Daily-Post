@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "203d10a2929048c2f3cc5edf58bd28e7f0e0a22c",
-    "title": "ThermoShift: Enhancing VR Immersion with Thermal Motion Simulation",
-    "url": "https://doi.org/10.1145/3758871.3758886",
-    "date": "2026-05-14"
-  },
-  {
-    "paperId": "2bfb528a09b8bb33b9d485d83b291ece4e5f5038",
-    "title": "MorphMatrix: A Toolkit Facilitating Shape-Changing Interface Design",
-    "url": "https://doi.org/10.1145/3623509.3633383",
-    "date": "2026-05-14"
-  },
-  {
-    "paperId": "d05f9e0ae80c2c902a3ced6f7653740f700958b9",
-    "title": "Everything-Grasping Gripper: A Universal Gripper with Synergistic Suction\u2013Grasping Capabilities for Cross-Scale and Cross-State Manipulation",
-    "url": "https://doi.org/10.1177/21695172251400144",
-    "date": "2026-05-14"
-  },
-  {
-    "paperId": "a45a0139d6cb9880055cab39eb847f3f138553ca",
-    "title": "Self-healing, adaptive and shape memory polymer-based thermal interface phase change materials via boron ester cross-linking",
-    "url": "https://doi.org/10.1016/j.cej.2024.153789",
-    "date": "2026-05-14"
-  },
-  {
-    "paperId": "711d5e64a06ebcdccddd140b6331620468023b20",
-    "title": "Multifunctional Multi\u2010Scale 3D Hilbert Metamaterial With Integrated Mechanical\u2010Sensing Capabilities",
-    "url": "https://doi.org/10.1002/adfm.202525154",
-    "date": "2026-05-14"
-  },
-  {
     "paperId": "9601f46230b6f290a236c7fd801ffb8ac844cd37",
     "title": "Ultralight Soft Wearable Haptic Interface with Shear\u2010Normal\u2010Vibration Feedback",
     "url": "https://doi.org/10.1002/aisy.202500374",
@@ -2398,5 +2368,35 @@
     "title": "Recent Advances of Auxetic Metamaterials in Smart Materials and Structural Systems",
     "url": "https://doi.org/10.1002/adfm.202421746",
     "date": "2026-08-01"
+  },
+  {
+    "paperId": "8fc011eb49bfafd5d36d7040067fd67e2fd47211",
+    "title": "All-in-One Haptic Thimble for Vibration, Pressure, and Thermal Feedback: Investigating the Impact of Vibration Frequency on Thermal Perception",
+    "url": "https://doi.org/10.1109/WHC64065.2025.11123341",
+    "date": "2026-08-02"
+  },
+  {
+    "paperId": "cee296661ae892a7cd386b61989ad855fa4967e7",
+    "title": "2D material-enhanced multi-fold self-sensing and programmable deployable lattice structure",
+    "url": "https://doi.org/10.1038/s41598-024-70607-z",
+    "date": "2026-08-02"
+  },
+  {
+    "paperId": "89216b57fa8b2a6c5537b9a6e4849a229f5e3685",
+    "title": "Bioactive prosthesis interface compositing variable-stiffness hydrogels regulates stem cells fates to facilitate osseointegration through mechanotransduction.",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2023.129073",
+    "date": "2026-08-02"
+  },
+  {
+    "paperId": "0f0a5648683501e840bbef415b9d41391ca4eb11",
+    "title": "From Gentle Touch to Sharp Scratch: A Shape-Changing Haptic Interface Driven by Shape-Memory Alloy for Affective Touch",
+    "url": "https://doi.org/10.1145/3746058.3758431",
+    "date": "2026-08-02"
+  },
+  {
+    "paperId": "1ed78589d65f55d30dcf76425b259e8b1783a04d",
+    "title": "Hybrid Soft Electrostatic Metamaterial Gripper for Multi-surface, Multi-object Adaptation",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522020",
+    "date": "2026-08-02"
   }
 ]
