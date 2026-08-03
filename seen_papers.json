@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "9601f46230b6f290a236c7fd801ffb8ac844cd37",
-    "title": "Ultralight Soft Wearable Haptic Interface with Shear\u2010Normal\u2010Vibration Feedback",
-    "url": "https://doi.org/10.1002/aisy.202500374",
-    "date": "2026-05-15"
-  },
-  {
-    "paperId": "85dc13d6310f1b04ac18bbb934ef0ef061f9ec54",
-    "title": "Variable-Diameter Deployable Structure Composite Preforms Made by Braiding and Needle-Punching Integrated Forming Technology",
-    "url": "https://doi.org/10.1186/s10033-024-01140-3",
-    "date": "2026-05-15"
-  },
-  {
-    "paperId": "1bb9e263d565426423cc555a78085a85530f5e66",
-    "title": "Localized oxygen control in a microfluidic osteochondral interface model recapitulates bone-cartilage crosstalk during osteoarthritis",
-    "url": "https://doi.org/10.1002/adfm.202315608",
-    "date": "2026-05-15"
-  },
-  {
-    "paperId": "1a32f92870f3faeab1166849928ac9c12df0cd95",
-    "title": "Tunable Bio\u2010Derived Skin\u2010Like Shape Memory Fibers for Smart Suturing",
-    "url": "https://doi.org/10.1002/adfm.202412565",
-    "date": "2026-05-15"
-  },
-  {
-    "paperId": "eaf69f83aeea22d11337f9fa87e62bb4c06bed15",
-    "title": "HaptoRoom: Designing Spatial and Reconfigurable Haptic Experience using Vibrotactile Floor Interface",
-    "url": "https://doi.org/10.1145/3689050.3704939",
-    "date": "2026-05-15"
-  },
-  {
     "paperId": "1010f5d7a781cc156419f205743b8373c2cb044c",
     "title": "Triboelectric sensor with ultra-wide linear range based on water-containing elastomer and ion-rich interface",
     "url": "https://doi.org/10.1038/s41467-024-54980-x",
@@ -2398,5 +2368,35 @@
     "title": "Hybrid Soft Electrostatic Metamaterial Gripper for Multi-surface, Multi-object Adaptation",
     "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522020",
     "date": "2026-08-02"
+  },
+  {
+    "paperId": "126f0a22daee9d511f3e1c17449bb8e6b4a2ed23",
+    "title": "A Wearable Soft Actuator for Directional Tactile Stimulation: Design and Testing",
+    "url": "https://doi.org/10.1002/aisy.202400899",
+    "date": "2026-08-03"
+  },
+  {
+    "paperId": "2f2b546d6b4cf481b3f38528db5df89215d09381",
+    "title": "Synthesis of PDMS Chain Structure with Introduced Dynamic Covalent Bonding for High\u2010Performance Rehealable Tactile Sensor Application",
+    "url": "https://doi.org/10.1002/smtd.202400163",
+    "date": "2026-08-03"
+  },
+  {
+    "paperId": "d05f9e0ae80c2c902a3ced6f7653740f700958b9",
+    "title": "Everything-Grasping Gripper: A Universal Gripper with Synergistic Suction\u2013Grasping Capabilities for Cross-Scale and Cross-State Manipulation",
+    "url": "https://doi.org/10.1177/21695172251400144",
+    "date": "2026-08-03"
+  },
+  {
+    "paperId": "5229381187b5dabce309166f682cc3d9d38e0d17",
+    "title": "Fibrous MXene Synapse-Based Biomimetic Tactile Nervous System for Multimodal Perception and Memory.",
+    "url": "https://doi.org/10.1002/smll.202400165",
+    "date": "2026-08-03"
+  },
+  {
+    "paperId": "4fa8e5360ae4317d2a61e7f08f5b8702e69c6a97",
+    "title": "Three-dimensional micro strain gauges as flexible, modular tactile sensors for versatile integration with micro- and macroelectronics",
+    "url": "https://doi.org/10.1126/sciadv.adp6094",
+    "date": "2026-08-03"
   }
 ]
