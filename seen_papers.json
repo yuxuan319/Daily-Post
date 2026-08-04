@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "1010f5d7a781cc156419f205743b8373c2cb044c",
-    "title": "Triboelectric sensor with ultra-wide linear range based on water-containing elastomer and ion-rich interface",
-    "url": "https://doi.org/10.1038/s41467-024-54980-x",
-    "date": "2026-05-16"
-  },
-  {
-    "paperId": "1927c4c8e78ac35e8523be4d835a5c7a7a979325",
-    "title": "Dancing with Inflatables: Design Bistable Inflatable Wearables for Choreographic Tools",
-    "url": "https://doi.org/10.1145/3746058.3758387",
-    "date": "2026-05-16"
-  },
-  {
-    "paperId": "cdb8ef70f4d89e33b9cfff299382edfd6e9998cc",
-    "title": "A Physically Intelligent, Multimodal Universal Soft Gripper Using Granular Materials",
-    "url": "https://doi.org/10.1002/adfm.202418549",
-    "date": "2026-05-16"
-  },
-  {
-    "paperId": "d14ee458ef79c3a6c1fa59bf0a385fbb765bb5bc",
-    "title": "Programmable Multimodal Shape Evolution of Shape Memory Polymers Through Non\u2010Equilibrium Processes",
-    "url": "https://doi.org/10.1002/adfm.202524981",
-    "date": "2026-05-16"
-  },
-  {
-    "paperId": "f71e1f2d7d8a3f1a7af875b07cad3824bb2cf190",
-    "title": "Metamaterial Soft Snake Robot for Rectilinear Locomotion",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522037",
-    "date": "2026-05-16"
-  },
-  {
     "paperId": "988917fef81b219c9f2e1f874bacc15aa1a859a4",
     "title": "A Spatially Selective Electroactive\u2010Actuating Adhesive Electronics for Multi\u2010Object Manipulation and Adaptive Haptic Interaction",
     "url": "https://doi.org/10.1002/adfm.202308747",
@@ -2398,5 +2368,35 @@
     "title": "Three-dimensional micro strain gauges as flexible, modular tactile sensors for versatile integration with micro- and macroelectronics",
     "url": "https://doi.org/10.1126/sciadv.adp6094",
     "date": "2026-08-03"
+  },
+  {
+    "paperId": "4b25049ba109a0ca753abc3e167f142a564c3e78",
+    "title": "Highly Stretchable Thermoelectric Fiber with Embedded Copper(I) Iodide Nanoparticles for a Multimodal Temperature, Strain, and Pressure Sensor in Wearable Electronics",
+    "url": "https://doi.org/10.1002/adfm.202407759",
+    "date": "2026-08-04"
+  },
+  {
+    "paperId": "66c9ca7431865f4d883c18f90c8d3222950b139c",
+    "title": "A DNA origami device spatially controls CD95 signalling to induce immune tolerance in rheumatoid arthritis",
+    "url": "https://doi.org/10.1038/s41563-024-01865-5",
+    "date": "2026-08-04"
+  },
+  {
+    "paperId": "75462f81afdec9c207b568e65410f029e7b2e083",
+    "title": "Tremendous Stiffness\u2010Changing Polymer Networks Enabled by Touch\u2010Induced Crystallization",
+    "url": "https://doi.org/10.1002/adfm.202411560",
+    "date": "2026-08-04"
+  },
+  {
+    "paperId": "d1b5294bd40df254e34f3e50d9d241e852307f25",
+    "title": "Soft Artificial Muscle Based on Pre-Detwinned Shape Memory Alloy Spring Actuator Achieving High Passive Assistive Torque for Wearable Robot",
+    "url": "https://doi.org/10.1089/soro.2023.0154",
+    "date": "2026-08-04"
+  },
+  {
+    "paperId": "b1d6ae9c8844a4d5fc0fc2fa5f527a83ba4b8302",
+    "title": "Knitting Multistability",
+    "url": "https://doi.org/10.1002/adfm.76385",
+    "date": "2026-08-04"
   }
 ]
