@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "636a6abc2456b3cacaad82528ec5ee79bab27fd9",
-    "title": "Achieving tissue-level softness on stretchable electronics through a generalizable soft interlayer design",
-    "url": "https://doi.org/10.1038/s41467-023-40191-3",
-    "date": "2026-05-19"
-  },
-  {
-    "paperId": "1ca91fabde31b16e4f3f1bfb3943bec31de76200",
-    "title": "Info-Motion: Using the Metaphor of Plant Motion for Information Communication in Shape-changing Interface: Info-motion",
-    "url": "https://doi.org/10.1145/3623509.3633397",
-    "date": "2026-05-19"
-  },
-  {
-    "paperId": "d5f7ddba698ede0334c0f4cd78456c26e6dcd40a",
-    "title": "PnuTac: A Vision-Based Pneumatic Tactile Sensor for Slip Detection and Object Classification",
-    "url": "https://doi.org/10.1109/M2VIP58386.2023.10413420",
-    "date": "2026-05-19"
-  },
-  {
-    "paperId": "096a1fb19c9fe51c889c8dcc66e09f45670295ad",
-    "title": "Evaluating Affective Touch Generated via a Shape-Memory-Alloy Arm-Sleeve by Subjective Report and Facial Muscle Activity",
-    "url": "https://doi.org/10.1109/TOH.2024.3502785",
-    "date": "2026-05-19"
-  },
-  {
-    "paperId": "637468ba5e1bc2dcd797be08d899a47c35cbf982",
-    "title": "Wearable Haptic Devices for Realistic Scenario Applications",
-    "url": "https://doi.org/10.1007/978-3-031-70539-7",
-    "date": "2026-05-19"
-  },
-  {
     "paperId": "e0a579b26d5c61b1ba7600b630440bafc2d7ff35",
     "title": "Recent Advances in Wearable Thermal Devices for Virtual and Augmented Reality",
     "url": "https://doi.org/10.3390/mi16040383",
@@ -2398,5 +2368,35 @@
     "title": "TacEx: GelSight Tactile Simulation in Isaac Sim - Combining Soft-Body and Visuotactile Simulators",
     "url": "https://doi.org/10.48550/arXiv.2411.04776",
     "date": "2026-08-06"
+  },
+  {
+    "paperId": "2e3f419d402528c34606ec7c9985e63b6c484ab5",
+    "title": "Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove",
+    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520848",
+    "date": "2026-08-07"
+  },
+  {
+    "paperId": "c19d6a2c88cd92180063894c26a03573427156a3",
+    "title": "MilliWare: Parametric Modeling and Simulation of Millifluidic Shape-changing Interface",
+    "url": "https://doi.org/10.1145/3629606.3629654",
+    "date": "2026-08-07"
+  },
+  {
+    "paperId": "1bb9e263d565426423cc555a78085a85530f5e66",
+    "title": "Localized oxygen control in a microfluidic osteochondral interface model recapitulates bone-cartilage crosstalk during osteoarthritis",
+    "url": "https://doi.org/10.1002/adfm.202315608",
+    "date": "2026-08-07"
+  },
+  {
+    "paperId": "41eecae2f4e87e1c478fd1f06d1e5159f935d6a6",
+    "title": "In\u2010Sensor Tactile Fusion and Logic for Accurate Intention Recognition",
+    "url": "https://doi.org/10.1002/adma.202407329",
+    "date": "2026-08-07"
+  },
+  {
+    "paperId": "11710e53c156ecadecf8976e812f558f7ec17057",
+    "title": "Integrated mechanical computing for autonomous soft machines",
+    "url": "https://doi.org/10.1038/s41467-024-47201-y",
+    "date": "2026-08-07"
   }
 ]
