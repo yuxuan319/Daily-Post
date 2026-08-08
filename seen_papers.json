@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "e0a579b26d5c61b1ba7600b630440bafc2d7ff35",
-    "title": "Recent Advances in Wearable Thermal Devices for Virtual and Augmented Reality",
-    "url": "https://doi.org/10.3390/mi16040383",
-    "date": "2026-05-20"
-  },
-  {
-    "paperId": "dfc9e444dbb9eefde7660934290be9acd21e2522",
-    "title": "Self-powered electrotactile textile haptic glove for enhanced human-machine interface",
-    "url": "https://doi.org/10.1126/sciadv.adt0318",
-    "date": "2026-05-20"
-  },
-  {
-    "paperId": "7e4183ef3ed10ec83450b6a09e9492bae6167c50",
-    "title": "An Electric Self\u2010Sensing and Variable\u2010Stiffness Artificial Muscle",
-    "url": "https://doi.org/10.1002/aisy.202300131",
-    "date": "2026-05-20"
-  },
-  {
-    "paperId": "a8f437118568bf906e880605c7ffb246bffde0d1",
-    "title": "Easy\u2010To\u2010Wear Auxetic SMA Knot\u2010Architecture for Spatiotemporal and Multimodal Haptic Feedbacks",
-    "url": "https://doi.org/10.1002/adma.202304442",
-    "date": "2026-05-20"
-  },
-  {
-    "paperId": "a7b0a53792768744fef4c55d7168bb2dba78dfb6",
-    "title": "Mechanical self-adaptive porous valve relying on surface tension for energy harvesting from low-flux bubbles",
-    "url": "https://doi.org/10.1038/s41467-025-66500-6",
-    "date": "2026-05-20"
-  },
-  {
     "paperId": "7c8b5d98f2aef502f52ee322b26285326805d504",
     "title": "Nucleobase\u2010Driven Wearable Ionogel Electronics for Long\u2010Term Human Motion Detection and Electrophysiological Signal Monitoring",
     "url": "https://doi.org/10.1002/adfm.202412244",
@@ -2398,5 +2368,35 @@
     "title": "Integrated mechanical computing for autonomous soft machines",
     "url": "https://doi.org/10.1038/s41467-024-47201-y",
     "date": "2026-08-07"
+  },
+  {
+    "paperId": "c91479a9c65b52addea8beaae3cefe2404c7f7d1",
+    "title": "A Pneumatic Glove with Closed-Loop Control and Bidirectional Actuation for Real-Time Pose Synchronization",
+    "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00306",
+    "date": "2026-08-08"
+  },
+  {
+    "paperId": "d3d62c349a2935f1aecaa9018e0e76410e9a6d8a",
+    "title": "A Flexible Bidirectional Interface with Integrated Multimodal Sensing and Haptic Feedback for Closed\u2010Loop Human\u2013Machine Interaction",
+    "url": "https://doi.org/10.1002/aisy.202300291",
+    "date": "2026-08-08"
+  },
+  {
+    "paperId": "f29487e767295ff57c79e817f901b9bbc84f4c31",
+    "title": "Flexible Electrical Energy Storage Structure with Variable Stiffness for Soft Robotics and Wearable Electronics",
+    "url": "https://doi.org/10.1089/soro.2024.0098",
+    "date": "2026-08-08"
+  },
+  {
+    "paperId": "da856272326402d9d22d8cfe72d39f7ef5bfe31a",
+    "title": "A Multi-Layer Stacked Microfluidic Tactile Display With High Spatial Resolution",
+    "url": "https://doi.org/10.1109/TOH.2024.3367708",
+    "date": "2026-08-08"
+  },
+  {
+    "paperId": "78079a7d0c16b669b379103a38e929c12142090a",
+    "title": "A robust near-field body area network based on coaxially-shielded textile metamaterial",
+    "url": "https://doi.org/10.1038/s41467-024-51061-x",
+    "date": "2026-08-08"
   }
 ]
