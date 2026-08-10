@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "25c7761ae093327b1bc76870b9621d334c38d02d",
-    "title": "A Hybrid Haptic Device Integrating Pneumatic and Electromagnetic Actuators for Realistic Tactile Signal Feedback",
-    "url": "https://doi.org/10.1002/aisy.202400674",
-    "date": "2026-05-22"
-  },
-  {
-    "paperId": "4bae62a05ade5217f4614aba708d897361f3f1b2",
-    "title": "A Kirigami\u2010Driven Stretchable Paper\u2010Based Hydrovoltaic Electricity Generator",
-    "url": "https://doi.org/10.1002/adfm.202419753",
-    "date": "2026-05-22"
-  },
-  {
-    "paperId": "a13e763191484df60cf4eb3fc6094ab5321f6001",
-    "title": "All-fiber anti-jamming capacitive pressure sensors based on liquid metals",
-    "url": "https://doi.org/10.1007/s12598-024-03071-3",
-    "date": "2026-05-22"
-  },
-  {
-    "paperId": "f777607990ea8a19272f8bd2067f11e70ed3cb62",
-    "title": "Recent Advances in Polymer Nanocomposites: Unveiling the Frontier of Shape Memory and Self-Healing Properties\u2014A Comprehensive Review",
-    "url": "https://doi.org/10.3390/molecules29061267",
-    "date": "2026-05-22"
-  },
-  {
-    "paperId": "96f60189fca43c1e6f7cef692b2b4c202d2b5c6c",
-    "title": "Self\u2010Sensing Bandgap\u2010Tunable Multistable Metamaterials for Vibration Suppression",
-    "url": "https://doi.org/10.1002/admt.70985",
-    "date": "2026-05-22"
-  },
-  {
     "paperId": "04d3d877c329649f54298cb83b265631c5f7c047",
     "title": "AcousTac: Tactile Sensing with Acoustic Resonance for Electronics-Free Soft Skin",
     "url": "https://doi.org/10.1089/soro.2023.0082",
@@ -2398,5 +2368,35 @@
     "title": "Multistable nonlinear energy sinks: a state-of-the-art review",
     "url": "https://doi.org/10.1007/s40435-025-01911-3",
     "date": "2026-08-09"
+  },
+  {
+    "paperId": "da602daa1580b3a952893732de0cc3f3d70d1a31",
+    "title": "Compact Soft Tactile Actuator Based on Stacked Electroosmotic Pumps for Wearable Haptics",
+    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495463",
+    "date": "2026-08-10"
+  },
+  {
+    "paperId": "9601f46230b6f290a236c7fd801ffb8ac844cd37",
+    "title": "Ultralight Soft Wearable Haptic Interface with Shear\u2010Normal\u2010Vibration Feedback",
+    "url": "https://doi.org/10.1002/aisy.202500374",
+    "date": "2026-08-10"
+  },
+  {
+    "paperId": "ce3db6d325d1e43578722b475993f62c5c688462",
+    "title": "A Multi-Curvature Soft Gripper Based on Segmented Variable Stiffness Structure Inspired by Snake Scales",
+    "url": "https://doi.org/10.1089/soro.2024.0043",
+    "date": "2026-08-10"
+  },
+  {
+    "paperId": "a8f437118568bf906e880605c7ffb246bffde0d1",
+    "title": "Easy\u2010To\u2010Wear Auxetic SMA Knot\u2010Architecture for Spatiotemporal and Multimodal Haptic Feedbacks",
+    "url": "https://doi.org/10.1002/adma.202304442",
+    "date": "2026-08-10"
+  },
+  {
+    "paperId": "eaf69f83aeea22d11337f9fa87e62bb4c06bed15",
+    "title": "HaptoRoom: Designing Spatial and Reconfigurable Haptic Experience using Vibrotactile Floor Interface",
+    "url": "https://doi.org/10.1145/3689050.3704939",
+    "date": "2026-08-10"
   }
 ]
