@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "04d3d877c329649f54298cb83b265631c5f7c047",
-    "title": "AcousTac: Tactile Sensing with Acoustic Resonance for Electronics-Free Soft Skin",
-    "url": "https://doi.org/10.1089/soro.2023.0082",
-    "date": "2026-05-23"
-  },
-  {
-    "paperId": "c84e0258196fc93b6aa1da33ff8769856d14ed11",
-    "title": "Adhesive Double\u2010Network Granular Organogel E\u2010Skin",
-    "url": "https://doi.org/10.1002/admt.202502608",
-    "date": "2026-05-23"
-  },
-  {
-    "paperId": "fd43e2edda035eb8c6d0a7d2d9dd11e421b52db0",
-    "title": "HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience",
-    "url": "https://doi.org/10.1007/s10055-023-00910-z",
-    "date": "2026-05-23"
-  },
-  {
-    "paperId": "758139bd5054d80cf28eedf4c7a6bde15f58425c",
-    "title": "Influence of Vibrotactile Signal Parameters on Human Perceptual and Behavioral Responses for Forearm-Wearable Devices",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123215",
-    "date": "2026-05-23"
-  },
-  {
-    "paperId": "a7d22f7b45224177d93f29fd904502d3e800cbec",
-    "title": "FingerWrap: A High-Density Finger-Enveloping Tactile Display",
-    "url": "https://doi.org/10.1109/TOH.2026.3660473",
-    "date": "2026-05-23"
-  },
-  {
     "paperId": "184bc017097de1e9de74993bc9bc4950ecf1cdbb",
     "title": "Anisotropic Fluorinated\u2010Elastomer\u2010Blended Micro\u2010Dominoes for Wearable Triboelectric Nanogenerators",
     "url": "https://doi.org/10.1002/adfm.202316288",
@@ -2398,5 +2368,35 @@
     "title": "HaptoRoom: Designing Spatial and Reconfigurable Haptic Experience using Vibrotactile Floor Interface",
     "url": "https://doi.org/10.1145/3689050.3704939",
     "date": "2026-08-10"
+  },
+  {
+    "paperId": "7d9a436b0e3555004d37c2c8b19ee1f5c614458d",
+    "title": "SWIMVR: Simulating Water Interaction Using Multimodal Vibro-Thermal Rendering",
+    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495451",
+    "date": "2026-08-11"
+  },
+  {
+    "paperId": "cf50e8b4c9e45f852d8267f471b9ec98d6f022c6",
+    "title": "The HapticSpider: A 7-DoF Wearable Device for Cutaneous Interaction with the Palm",
+    "url": "https://doi.org/10.1007/978-3-031-70058-3_23",
+    "date": "2026-08-11"
+  },
+  {
+    "paperId": "6115230beedde3eb57f318aafd0b76be88a8722a",
+    "title": "Design and Characterisation of Particle Jamming-Based Variable Stiffness Displays using Non-pneumatic Actuators",
+    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520854",
+    "date": "2026-08-11"
+  },
+  {
+    "paperId": "cd9e16e9bd57c20484b1162598afe04c52de14a0",
+    "title": "A wearable assistive system for the visually impaired using object detection, distance measurement and tactile presentation",
+    "url": "https://doi.org/10.20517/ir.2023.24",
+    "date": "2026-08-11"
+  },
+  {
+    "paperId": "e2d7758c83d5dbe232c6fed09088559d1d0d2b94",
+    "title": "Bidirectional Zero Poisson's Ratio Elastomers with Self\u2010Deformable Soft Mechanical Metamaterials for Stretchable Displays",
+    "url": "https://doi.org/10.1002/adfm.202406725",
+    "date": "2026-08-11"
   }
 ]
