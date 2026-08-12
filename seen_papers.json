@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "184bc017097de1e9de74993bc9bc4950ecf1cdbb",
-    "title": "Anisotropic Fluorinated\u2010Elastomer\u2010Blended Micro\u2010Dominoes for Wearable Triboelectric Nanogenerators",
-    "url": "https://doi.org/10.1002/adfm.202316288",
-    "date": "2026-05-24"
-  },
-  {
-    "paperId": "c13aaaa9a57b6134afa52f3eb13c96ad43af7720",
-    "title": "Pneumatic Laser Origami: Rapid and Large-Scale Fabrication of Laser-Welded Pouch Motors for Shape-Changing Products",
-    "url": "https://doi.org/10.1145/3689050.3704956",
-    "date": "2026-05-24"
-  },
-  {
-    "paperId": "58fb35695379654927df9354c53390e72b24f5dc",
-    "title": "Bioinspired Superhydrophobic and Conductive Janus Asymmetric Triboelectric Materials for Intelligent Tactile Perception",
-    "url": "https://doi.org/10.1002/adfm.202526356",
-    "date": "2026-05-24"
-  },
-  {
-    "paperId": "155df6f5d5970a375a16f9b5726edfaecf35bead",
-    "title": "Shape Memory Alloy Actuators for Haptic Wearables: A Review",
-    "url": "https://doi.org/10.1016/j.matdes.2023.112264",
-    "date": "2026-05-24"
-  },
-  {
-    "paperId": "f3cccfb5f9401fcae28ded67829fef01bab5f69f",
-    "title": "Fluidically programmed wearable haptic textiles",
-    "url": "https://doi.org/10.1016/j.device.2023.100059",
-    "date": "2026-05-24"
-  },
-  {
     "paperId": "52e7334ff1fd9db2732ddc09f3a981c719c2971f",
     "title": "Exo-Glove Poly III: Grasp Assistance by Modulating Thumb and Finger Motion Sequence with a Single Actuator",
     "url": "https://doi.org/10.1089/soro.2024.0113",
@@ -2398,5 +2368,35 @@
     "title": "Bidirectional Zero Poisson's Ratio Elastomers with Self\u2010Deformable Soft Mechanical Metamaterials for Stretchable Displays",
     "url": "https://doi.org/10.1002/adfm.202406725",
     "date": "2026-08-11"
+  },
+  {
+    "paperId": "dc646efd9d3c534078882dd4aa53e2be6ba50621",
+    "title": "A Modular Haptic Display With Reconfigurable Signals for Personalized Information Transfer",
+    "url": "https://doi.org/10.1109/TOH.2026.3650759",
+    "date": "2026-08-12"
+  },
+  {
+    "paperId": "12c2b33f79d9822275e7b694a77c9c3029f26679",
+    "title": "Design and Fabrication of Silicone Kirigami-inspired structures for Soft Robotic Applications",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020925",
+    "date": "2026-08-12"
+  },
+  {
+    "paperId": "fa76035aa27a9d1fce32c9ae4fcebf7e33c15002",
+    "title": "TacFR-Gripper: A Reconfigurable Fin-Ray-Based Gripper with Tactile Skin for In-Hand Manipulation",
+    "url": "https://doi.org/10.3390/act13120521",
+    "date": "2026-08-12"
+  },
+  {
+    "paperId": "719a6d9e4e29c32fdab40dc557e03ba6ba710d1a",
+    "title": "Advancing Robotic Fruit Picking: Adaptive End-Effector Approach",
+    "url": "https://doi.org/10.54097/mysdej46",
+    "date": "2026-08-12"
+  },
+  {
+    "paperId": "e2fa076744da2ac036f7d379e39e84d3b64ed163",
+    "title": "An Evaluation of VR Games and Haptic Feedback for Upper Limb Rehabilitation for Individuals with Parkinson\u2019s Disease",
+    "url": "https://doi.org/10.3390/machines13100930",
+    "date": "2026-08-12"
   }
 ]
