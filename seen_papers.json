@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "293f6fa51fcd28981952c1a5e89644130be3236a",
-    "title": "The Snail: A Wearable Actuated Prop to Simulate Grasp of Rigid and Soft Objects in Virtual Reality",
-    "url": "https://doi.org/10.1109/TOH.2025.3548478",
-    "date": "2026-05-26"
-  },
-  {
-    "paperId": "741d7d88213eabaaeb4f1bf51b10844569c7c0af",
-    "title": "Aquatic Topological Liquid Crystal Gel Kirigami",
-    "url": "https://doi.org/10.1002/adfm.202512059",
-    "date": "2026-05-26"
-  },
-  {
-    "paperId": "dd97d0e0f49459f87fde88897d9d404bbf5ef254",
-    "title": "Variable Stiffness Woven Soft Active Textiles and Robots Using Thin McKibben Muscle.",
-    "url": "https://doi.org/10.1177/21695172251379609",
-    "date": "2026-05-26"
-  },
-  {
-    "paperId": "fde1b9c22f8287f3a9f876be6a359569dd38b658",
-    "title": "Mimosa: Modular Self-folding Hinges Kit for Creating Shape-changing Objects",
-    "url": "https://doi.org/10.1145/3623509.3633381",
-    "date": "2026-05-26"
-  },
-  {
-    "paperId": "32513e62a0a9c16431a35e3672501027a969e301",
-    "title": "A Reversible, Versatile Skin\u2010Attached Haptic Interface Platform with Bioinspired Interconnection Architectures Capable of Resisting Sweat and Vibration",
-    "url": "https://doi.org/10.1002/adfm.202311167",
-    "date": "2026-05-26"
-  },
-  {
     "paperId": "928e06068299b19fccdc4a8af58525d340246d61",
     "title": "Soft Flexible Magnetic Micro-Structures for a Haptic Surface",
     "url": "https://doi.org/10.1109/WHC64065.2025.11123415",
@@ -2398,5 +2368,35 @@
     "title": "Recent Advances in Wearable Electromechanical Sensors Based on Auxetic Textiles",
     "url": "https://doi.org/10.1002/adfm.202409242",
     "date": "2026-08-13"
+  },
+  {
+    "paperId": "fc82ec8a59646d75767daf70983ebe5a1dbfc32e",
+    "title": "ShapeShifter: A Dual-Channel Pneumatic Interface for Independent Control of Shape and Softness",
+    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495464",
+    "date": "2026-08-14"
+  },
+  {
+    "paperId": "3cd2eebc70cc2ab613eba8bd791aa4aa9094a6c5",
+    "title": "Highly Stretchable, Self\u2010Healable, and Conductive Gelatin Methacryloyl Hydrogel for Long\u2010Lasting Wearable Tactile Sensors",
+    "url": "https://doi.org/10.1002/advs.202502678",
+    "date": "2026-08-14"
+  },
+  {
+    "paperId": "a2b23aa8692c1f4034621c5f216f1718fd0d7061",
+    "title": "Stiffness-Tunable Soft Bellows Actuators by Cross-Fiber Jamming Effect for Robust Grasping",
+    "url": "https://doi.org/10.1109/TMECH.2023.3241844",
+    "date": "2026-08-14"
+  },
+  {
+    "paperId": "2127d71028a739f331803163e3302b17b8517872",
+    "title": "On the Impact of \u03b3\u00b4 Precipitates on the Transformation Temperatures in Fe\u2013Ni\u2013Co\u2013Al\u2013Ti\u2013B Shape Memory Alloy Wires",
+    "url": "https://doi.org/10.1007/s40830-023-00470-w",
+    "date": "2026-08-14"
+  },
+  {
+    "paperId": "96f60189fca43c1e6f7cef692b2b4c202d2b5c6c",
+    "title": "Self\u2010Sensing Bandgap\u2010Tunable Multistable Metamaterials for Vibration Suppression",
+    "url": "https://doi.org/10.1002/admt.70985",
+    "date": "2026-08-14"
   }
 ]
