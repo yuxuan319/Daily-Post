@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "928e06068299b19fccdc4a8af58525d340246d61",
-    "title": "Soft Flexible Magnetic Micro-Structures for a Haptic Surface",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123415",
-    "date": "2026-05-27"
-  },
-  {
-    "paperId": "c427d71471e7e994dd3557b82f15636b55408d61",
-    "title": "Origami-based Haptic Syringe for Local Anesthesia Simulator.",
-    "url": "https://doi.org/10.1109/TOH.2024.3353924",
-    "date": "2026-05-27"
-  },
-  {
-    "paperId": "5556a8f8de54cbb25c2febc4d92c2c655194ca50",
-    "title": "Thermoelectric\u2010Thermochromic Dual\u2010Mode Passive Flexible Tactile Sensor for Fine Liquid Recognition Under Non\u2010Contact Mode",
-    "url": "https://doi.org/10.1002/adfm.202514339",
-    "date": "2026-05-27"
-  },
-  {
-    "paperId": "8fd4868c3eaf563c133ba674069e1771302a2b21",
-    "title": "Modeling and Application of an SMA-Actuated Lightweight Human-Inspired Gripper for Aerial Manipulation",
-    "url": "https://doi.org/10.3390/machines11090859",
-    "date": "2026-05-27"
-  },
-  {
-    "paperId": "7063bfe2df6d3b01cdf238d15630bd3b8c7373d2",
-    "title": "ROMEO: Towards the Design of Robot with Haptic Mediation for Remote Conflict",
-    "url": "https://doi.org/10.1145/3613905.3650781",
-    "date": "2026-05-27"
-  },
-  {
     "paperId": "455e7dc6797482c5f74130484b63ac36cd319682",
     "title": "Multimodal Haptic Perception Through Synergistic Nanocomposite Sensor Arrays",
     "url": "https://doi.org/10.1002/admt.202600010",
@@ -2398,5 +2368,35 @@
     "title": "Self\u2010Sensing Bandgap\u2010Tunable Multistable Metamaterials for Vibration Suppression",
     "url": "https://doi.org/10.1002/admt.70985",
     "date": "2026-08-14"
+  },
+  {
+    "paperId": "e097b0268779b7dde958dd44a0ffec9baf843d7e",
+    "title": "A novel theta-controlled vibrotactile brain\u2013computer interface to treat chronic pain: a pilot study",
+    "url": "https://doi.org/10.1038/s41598-024-53261-3",
+    "date": "2026-08-15"
+  },
+  {
+    "paperId": "f5dd4859821b890694cab55cd63ce0832fd493b2",
+    "title": "Skin-interfaced multimodal sensing and tactile feedback system as enhanced human-machine interface for closed-loop drone control",
+    "url": "https://doi.org/10.1126/sciadv.adt6041",
+    "date": "2026-08-15"
+  },
+  {
+    "paperId": "44315b575fd7aa156925970f0d43a63d73209f51",
+    "title": "Flexible phase change film with motion sensing and tactile recognition for wearable thermal management",
+    "url": "https://doi.org/10.1016/j.cej.2024.153271",
+    "date": "2026-08-15"
+  },
+  {
+    "paperId": "b13fb55e4347328a07aada20804f5f6372ba52ff",
+    "title": "Tailoring Photoweldable Shape Memory Polyurethane with Intrinsic Photothermal / Fluorescence Via Engineering Metal\u2010Phenolic Systems",
+    "url": "https://doi.org/10.1002/adfm.202402592",
+    "date": "2026-08-15"
+  },
+  {
+    "paperId": "f71e1f2d7d8a3f1a7af875b07cad3824bb2cf190",
+    "title": "Metamaterial Soft Snake Robot for Rectilinear Locomotion",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522037",
+    "date": "2026-08-15"
   }
 ]
