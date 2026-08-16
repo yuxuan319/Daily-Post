@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "455e7dc6797482c5f74130484b63ac36cd319682",
-    "title": "Multimodal Haptic Perception Through Synergistic Nanocomposite Sensor Arrays",
-    "url": "https://doi.org/10.1002/admt.202600010",
-    "date": "2026-05-28"
-  },
-  {
-    "paperId": "29cc9d8ffb0454b772f003e0ad68f884fb709a30",
-    "title": "Structural flexible magnetic films for biometric encryption and tactile interaction in wearable devices",
-    "url": "https://doi.org/10.1038/s41528-025-00391-x",
-    "date": "2026-05-28"
-  },
-  {
-    "paperId": "0c89a6f7061eedda5e906e78c7d71523ced31bb1",
-    "title": "A Feedback-Controlled Jamming Approach for Variable-Stiffness Actuators in Untethered Soft Robots",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020902",
-    "date": "2026-05-28"
-  },
-  {
-    "paperId": "d01a09f9680aba6078a95dade9f3ecee4e6d5227",
-    "title": "A Triple Shape Memory Material of Trans\u2010Polyisoprene/Polycaprolactone with Customizable Response Temperature Controlled by Crosslinking Density",
-    "url": "https://doi.org/10.1002/adfm.202400245",
-    "date": "2026-05-28"
-  },
-  {
-    "paperId": "bada194de3eb4bc00eb78a1e83b80b7773756b0f",
-    "title": "Studying the Perception of Vibrotactile Stimulation on the Arm via a Modular Wearable Sleeve",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123226",
-    "date": "2026-05-28"
-  },
-  {
     "paperId": "e38dcbdf77b0db4f250f5515463eba8a9e5344eb",
     "title": "Microfluidic-enabled three-dimensional stretchable thermoelectrics",
     "url": "https://doi.org/10.1038/s41528-025-00429-0",
@@ -2398,5 +2368,35 @@
     "title": "Metamaterial Soft Snake Robot for Rectilinear Locomotion",
     "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522037",
     "date": "2026-08-15"
+  },
+  {
+    "paperId": "b80828cf159f5491f36de47b7222bdced1c570bc",
+    "title": "Strain-invariant stretchable radio-frequency electronics",
+    "url": "https://doi.org/10.1038/s41586-024-07383-3",
+    "date": "2026-08-16"
+  },
+  {
+    "paperId": "5799d73bc480eddf8af77a82cddd365620407f90",
+    "title": "ExCell: High Expansion Ratio Moisture-Responsive Wooden Actuators for DIY Shape-Changing and Deployable Structures",
+    "url": "https://doi.org/10.1145/3613904.3642565",
+    "date": "2026-08-16"
+  },
+  {
+    "paperId": "3ac42039546160c0ee2fc0bbf90207c02a1bc042",
+    "title": "Laboratory Experiments Reveal Transient Fluctuations in Ice M\u00e9lange Velocity and Stress During Periods of Quasistatic Flow",
+    "url": "https://doi.org/10.1029/2024JF008071",
+    "date": "2026-08-16"
+  },
+  {
+    "paperId": "b7c16b686ece39cc0795fecbaa5303d38f1ea125",
+    "title": "4D Printing of 3D Carbon\u2010Medium Reinforced Thermosetting Shape Memory Polymer Composites with Superior Load\u2010Bearing and Fast\u2010Response Shape Reconfiguration",
+    "url": "https://doi.org/10.1002/adfm.202409611",
+    "date": "2026-08-16"
+  },
+  {
+    "paperId": "77ca645cde5436479b098b0a5816060427379db0",
+    "title": "Rubik\u2019s cube as in-situ programmable matter and a reconfigurable mechanical metamaterial",
+    "url": "https://doi.org/10.1007/s11431-024-2681-1",
+    "date": "2026-08-16"
   }
 ]
