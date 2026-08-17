@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "e38dcbdf77b0db4f250f5515463eba8a9e5344eb",
-    "title": "Microfluidic-enabled three-dimensional stretchable thermoelectrics",
-    "url": "https://doi.org/10.1038/s41528-025-00429-0",
-    "date": "2026-05-29"
-  },
-  {
-    "paperId": "b70399e1e81688d5d644c34fa39ad4abd27ab487",
-    "title": "Templated Laser-Induced-Graphene-Based Tactile Sensors Enable Wearable Health Monitoring and Texture Recognition via Deep Neural Network.",
-    "url": "https://doi.org/10.1021/acsnano.3c05838",
-    "date": "2026-05-29"
-  },
-  {
-    "paperId": "59435d1b6fb8db60967dcae0f897006e3015877e",
-    "title": "A Wearable Triboelectric\u2010Iontronic Hybrid Smart Finger Ring with Self\u2010Powered Static\u2010Dynamic Tactile Sensing for Advanced Human\u2010Machine Interactions",
-    "url": "https://doi.org/10.1002/adfm.202527394",
-    "date": "2026-05-29"
-  },
-  {
-    "paperId": "94320a807f6c10ac560ffc4dfeccd01b96f7ba2b",
-    "title": "4D Printing of Magnetically Responsive Shape Memory Polymers: Toward Sustainable Solutions in Soft Robotics, Wearables, and Biomedical Devices",
-    "url": "https://doi.org/10.1002/advs.202513091",
-    "date": "2026-05-29"
-  },
-  {
-    "paperId": "0f353a857aa3f0fa905139b6c6d5df53448da704",
-    "title": "MagSnap: Electromagnetically Controlled Bistable Transition Dynamics for Expressive Tactile Feedback",
-    "url": "https://doi.org/10.1145/3772363.3799080",
-    "date": "2026-05-29"
-  },
-  {
     "paperId": "3ad2b247f11999764e3a18de13d9322a1db0d236",
     "title": "HaptiYarn: Development of an Actuator Yarn That Can Transform Everyday Textiles Into Haptic Devices",
     "url": "https://doi.org/10.1109/TOH.2024.3371831",
@@ -2398,5 +2368,35 @@
     "title": "Rubik\u2019s cube as in-situ programmable matter and a reconfigurable mechanical metamaterial",
     "url": "https://doi.org/10.1007/s11431-024-2681-1",
     "date": "2026-08-16"
+  },
+  {
+    "paperId": "f0cf9eeb92ea45a89f89f97f6b0f41460b8f46ff",
+    "title": "Polymer Materials for Stretchable Electronics Encapsulation",
+    "url": "https://doi.org/10.1007/s40242-025-5234-2",
+    "date": "2026-08-17"
+  },
+  {
+    "paperId": "85dc13d6310f1b04ac18bbb934ef0ef061f9ec54",
+    "title": "Variable-Diameter Deployable Structure Composite Preforms Made by Braiding and Needle-Punching Integrated Forming Technology",
+    "url": "https://doi.org/10.1186/s10033-024-01140-3",
+    "date": "2026-08-17"
+  },
+  {
+    "paperId": "fa7b61522a9b5489dfb66d750be500dc9baef17b",
+    "title": "Bioinspired Soft Tube-Foot Array With Variable Stiffness: Design, Characterization, and Application",
+    "url": "https://doi.org/10.1109/TMECH.2023.3317576",
+    "date": "2026-08-17"
+  },
+  {
+    "paperId": "29cc9d8ffb0454b772f003e0ad68f884fb709a30",
+    "title": "Structural flexible magnetic films for biometric encryption and tactile interaction in wearable devices",
+    "url": "https://doi.org/10.1038/s41528-025-00391-x",
+    "date": "2026-08-17"
+  },
+  {
+    "paperId": "38ad84c5833667773c88005e838eaf98b04f2c08",
+    "title": "Prototyping and Evaluation of Emotionally Resonant Vibrotactile Comfort Objects as a Calming Social Anxiety Intervention",
+    "url": "https://doi.org/10.1145/3648615",
+    "date": "2026-08-17"
   }
 ]
