@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "7334daa1273ef4c06843d62a4625a30544c45795",
-    "title": "Digital Light Processing 3D\u2010Printed Multilayer Dielectric Elastomer Actuator for Vibrotactile Device",
-    "url": "https://doi.org/10.1002/admt.202301642",
-    "date": "2026-05-31"
-  },
-  {
-    "paperId": "509fed11e173299d66a3361603df574bdbc5fa69",
-    "title": "Bio-inspired artificial mechanoreceptors with built-in synaptic functions for intelligent tactile skin",
-    "url": "https://doi.org/10.1038/s41563-025-02204-y",
-    "date": "2026-05-31"
-  },
-  {
-    "paperId": "3405f030edd9b12797513f3eaccc2211410c37cd",
-    "title": "BBAD: Blockchain-Backed Assault Detection for Cyber Physical Systems",
-    "url": "https://doi.org/10.1109/ACCESS.2024.3404656",
-    "date": "2026-05-31"
-  },
-  {
-    "paperId": "74632a8c8b13b6f5c18dfefc0afbfc89966160ea",
-    "title": "Numerical and Experimental Study of a Wearable Exo-Glove for Telerehabilitation Application Using Shape Memory Alloy Actuators",
-    "url": "https://doi.org/10.3390/act13100409",
-    "date": "2026-05-31"
-  },
-  {
-    "paperId": "51f48962b3877d98bbad1f678a7367fe2042c9f8",
-    "title": "Haptic Interface With Force and Torque Feedback for Robot-Assisted Endovascular Catheterization",
-    "url": "https://doi.org/10.1109/TMECH.2023.3290492",
-    "date": "2026-05-31"
-  },
-  {
     "paperId": "6c78d9c0f5e47f26d067c66fdf3bd64cba70cba4",
     "title": "Omnidirectionally Strain\u2010Unperturbed Tactile Array from Modulus Regulation in Quasi\u2010Homogeneous Elastomer Meshes",
     "url": "https://doi.org/10.1002/adfm.202307475",
@@ -2398,5 +2368,35 @@
     "title": "Multifunctional Multi\u2010Scale 3D Hilbert Metamaterial With Integrated Mechanical\u2010Sensing Capabilities",
     "url": "https://doi.org/10.1002/adfm.202525154",
     "date": "2026-08-18"
+  },
+  {
+    "paperId": "29f465a2163e60225e3cb80bbeaab762bfb5bcba",
+    "title": "A Skin-Inspired Multifunctional Soft Actuator based on PVDF/MXene with Fast Response, Large Deformation, and High Stability",
+    "url": "https://doi.org/10.1016/j.nanoen.2025.110994",
+    "date": "2026-08-19"
+  },
+  {
+    "paperId": "59435d1b6fb8db60967dcae0f897006e3015877e",
+    "title": "A Wearable Triboelectric\u2010Iontronic Hybrid Smart Finger Ring with Self\u2010Powered Static\u2010Dynamic Tactile Sensing for Advanced Human\u2010Machine Interactions",
+    "url": "https://doi.org/10.1002/adfm.202527394",
+    "date": "2026-08-19"
+  },
+  {
+    "paperId": "58fb35695379654927df9354c53390e72b24f5dc",
+    "title": "Bioinspired Superhydrophobic and Conductive Janus Asymmetric Triboelectric Materials for Intelligent Tactile Perception",
+    "url": "https://doi.org/10.1002/adfm.202526356",
+    "date": "2026-08-19"
+  },
+  {
+    "paperId": "11de7e8e5dc6d31abf4ae939731db7da7f26acd5",
+    "title": "Shape Memory Alloy-Based Reactive Tubular (SMART) Brake for Compact and Energy-Efficient Wearable Robot Design",
+    "url": "https://doi.org/10.1021/acsami.3c15179",
+    "date": "2026-08-19"
+  },
+  {
+    "paperId": "32513e62a0a9c16431a35e3672501027a969e301",
+    "title": "A Reversible, Versatile Skin\u2010Attached Haptic Interface Platform with Bioinspired Interconnection Architectures Capable of Resisting Sweat and Vibration",
+    "url": "https://doi.org/10.1002/adfm.202311167",
+    "date": "2026-08-19"
   }
 ]
