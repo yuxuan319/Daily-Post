@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "157e22dcecb2dac91e68e0ef73de131c2f3873e0",
-    "title": "Silicone-Based Haptic Interfaces: Enhancing Multimodal Interactions through Pneumatic Tactile Feedback",
-    "url": "https://doi.org/10.1109/IHMSC62065.2024.00039",
-    "date": "2026-06-02"
-  },
-  {
-    "paperId": "3226698f52c0a36a4d7c28f18862c9c32be6f15c",
-    "title": "ThreadTessel: A Modularized Tangible Toolkit Leveraging Origami Tessellation for Designing Thread-actuated Shape-changing Structures",
-    "url": "https://doi.org/10.1145/3689050.3704929",
-    "date": "2026-06-02"
-  },
-  {
-    "paperId": "cb16539a28aa8862d548a0843fe60dc5e9b0f2bb",
-    "title": "Stiffening iron particles to modulate physical interactions",
-    "url": "https://doi.org/10.1038/s41467-025-65479-4",
-    "date": "2026-06-02"
-  },
-  {
-    "paperId": "f1dae50b8f8bd5ac06b1b1ee0a09a8149396b7f8",
-    "title": "FIRE: Mid-Air Thermo-Tactile Display",
-    "url": "https://doi.org/10.1145/3610541.3614584",
-    "date": "2026-06-02"
-  },
-  {
-    "paperId": "50d0a4844a059d90700a98e25a8c8f251ada186b",
-    "title": "Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications",
-    "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522837",
-    "date": "2026-06-02"
-  },
-  {
     "paperId": "f067b52da208c6a996d9a8b6edb4ce0a39fae5d9",
     "title": "Understanding Affective Responses to Directional Tactile Motion via a Wearable Pneumatic Interface",
     "url": "https://doi.org/10.1145/3746058.3758383",
@@ -2398,5 +2368,35 @@
     "title": "Acceptance and Usability of a Soft Robotic, Haptic Feedback Seat for Autonomy Level Transitions in Highly Automated Vehicles",
     "url": "https://doi.org/10.1109/TOH.2024.3392473",
     "date": "2026-08-20"
+  },
+  {
+    "paperId": "ae07d7bd79cc604f0bb1676f9dce4b17a9ca45a3",
+    "title": "Wearable flexible ultrasound microneedle patch for cancer immunotherapy",
+    "url": "https://doi.org/10.1038/s41467-025-58075-z",
+    "date": "2026-08-21"
+  },
+  {
+    "paperId": "c13aaaa9a57b6134afa52f3eb13c96ad43af7720",
+    "title": "Pneumatic Laser Origami: Rapid and Large-Scale Fabrication of Laser-Welded Pouch Motors for Shape-Changing Products",
+    "url": "https://doi.org/10.1145/3689050.3704956",
+    "date": "2026-08-21"
+  },
+  {
+    "paperId": "f8e595c6b756775e6cee83c97d9475ae9b3a1adf",
+    "title": "Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels",
+    "url": "https://doi.org/10.1089/soro.2023.0185",
+    "date": "2026-08-21"
+  },
+  {
+    "paperId": "476c01ac76ba76d1f09a8d3cd1746e2757a1b1c0",
+    "title": "Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction",
+    "url": "https://doi.org/10.1145/3654777.3676460",
+    "date": "2026-08-21"
+  },
+  {
+    "paperId": "b5a1638a0fc3795545303867251006a5d8b1b0f9",
+    "title": "A fully integrated breathable haptic textile",
+    "url": "https://doi.org/10.1126/sciadv.adq9575",
+    "date": "2026-08-21"
   }
 ]
