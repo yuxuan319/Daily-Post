@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "f067b52da208c6a996d9a8b6edb4ce0a39fae5d9",
-    "title": "Understanding Affective Responses to Directional Tactile Motion via a Wearable Pneumatic Interface",
-    "url": "https://doi.org/10.1145/3746058.3758383",
-    "date": "2026-06-03"
-  },
-  {
-    "paperId": "6d75d9daa61b0fd929604cfbcef98f557f4519ff",
-    "title": "Communication is a Two-Way Street: Negotiating Driving Intent through a Shape-Changing Steering Wheel",
-    "url": "https://doi.org/10.1109/WHC56415.2023.10224458",
-    "date": "2026-06-03"
-  },
-  {
-    "paperId": "24e861df0db8ab1a767934d9cae57254b5c0bbdb",
-    "title": "Exploring the Impact of a Liquid-Based System on Full-Body Weight Perception in Weighted Exercise within Virtual Reality",
-    "url": "https://doi.org/10.1145/3746058.3758361",
-    "date": "2026-06-03"
-  },
-  {
-    "paperId": "879311afe5f119998e95398640852b3b812298ca",
-    "title": "4D printing of dual\u2010responsive high\u2010performance shape memory polymer inspired by sunflowers",
-    "url": "https://doi.org/10.1002/app.55557",
-    "date": "2026-06-03"
-  },
-  {
-    "paperId": "bd0850fcea51767a8c37f02af1b9377ec7bcef37",
-    "title": "Force and Speed in a Soft Stewart Platform",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020875",
-    "date": "2026-06-03"
-  },
-  {
     "paperId": "998c7920d630ee5ffa8ae37bf758b8a849e81bb8",
     "title": "Stretchable p/n\u2010Pair Thermoelectric Fibers Based on Core (Ag)\u2013Shell (Ag2Se) Structure for Wearable Electronics",
     "url": "https://doi.org/10.1002/adfm.202521163",
@@ -2398,5 +2368,35 @@
     "title": "A fully integrated breathable haptic textile",
     "url": "https://doi.org/10.1126/sciadv.adq9575",
     "date": "2026-08-21"
+  },
+  {
+    "paperId": "157e22dcecb2dac91e68e0ef73de131c2f3873e0",
+    "title": "Silicone-Based Haptic Interfaces: Enhancing Multimodal Interactions through Pneumatic Tactile Feedback",
+    "url": "https://doi.org/10.1109/IHMSC62065.2024.00039",
+    "date": "2026-08-22"
+  },
+  {
+    "paperId": "1bc6ee6c1eb9bf1caf757ae310016606e5e53888",
+    "title": "Enhancing stroke rehabilitation with whole-hand haptic rendering: development and clinical usability evaluation of a novel upper-limb rehabilitation device",
+    "url": "https://doi.org/10.1186/s12984-024-01439-1",
+    "date": "2026-08-22"
+  },
+  {
+    "paperId": "7860703d62107a36e7d573a7b52e293c86196c55",
+    "title": "Soft Wearable Haptic Display and Flexible 3D Force Sensor for Teleoperated Surgical Systems",
+    "url": "https://doi.org/10.1002/adsr.202300105",
+    "date": "2026-08-22"
+  },
+  {
+    "paperId": "74632a8c8b13b6f5c18dfefc0afbfc89966160ea",
+    "title": "Numerical and Experimental Study of a Wearable Exo-Glove for Telerehabilitation Application Using Shape Memory Alloy Actuators",
+    "url": "https://doi.org/10.3390/act13100409",
+    "date": "2026-08-22"
+  },
+  {
+    "paperId": "7063bfe2df6d3b01cdf238d15630bd3b8c7373d2",
+    "title": "ROMEO: Towards the Design of Robot with Haptic Mediation for Remote Conflict",
+    "url": "https://doi.org/10.1145/3613905.3650781",
+    "date": "2026-08-22"
   }
 ]
