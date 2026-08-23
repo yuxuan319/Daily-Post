@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "998c7920d630ee5ffa8ae37bf758b8a849e81bb8",
-    "title": "Stretchable p/n\u2010Pair Thermoelectric Fibers Based on Core (Ag)\u2013Shell (Ag2Se) Structure for Wearable Electronics",
-    "url": "https://doi.org/10.1002/adfm.202521163",
-    "date": "2026-06-04"
-  },
-  {
-    "paperId": "8d19d0b985e89ba95de0e34d13566cf885f30bb5",
-    "title": "Origami Twist\u2010Inspired Microbuilding Blocks for Multifunctional Shape\u2010Morphing Micromachines",
-    "url": "https://doi.org/10.1002/adfm.202517157",
-    "date": "2026-06-04"
-  },
-  {
-    "paperId": "9f0ddd8cef64cf715817b1d2f9735afd98f3e72c",
-    "title": "A Wearable Fingertip Force Feedback Device System for Object Stiffness Sensing",
-    "url": "https://doi.org/10.3390/mi15060693",
-    "date": "2026-06-04"
-  },
-  {
-    "paperId": "dfdd55322f4e74204e5e14204762908dd8866968",
-    "title": "High Output Tactile Display Using Sma Thick Film Actuator Array with Improved Thermal and Frequency Response",
-    "url": "https://www.semanticscholar.org/paper/dfdd55322f4e74204e5e14204762908dd8866968",
-    "date": "2026-06-04"
-  },
-  {
-    "paperId": "41b2e4fc3dd9c453fe3e7678370e7bce5ee9a01c",
-    "title": "High\u2010Compliance, Self\u2010Sustained Flexible Thermoelectric Systems for Wearable Biosignal Tracking and Tactile Feedback",
-    "url": "https://doi.org/10.1002/adfm.75016",
-    "date": "2026-06-04"
-  },
-  {
     "paperId": "608ed058983ee90262da81664fbd0aa73d60315d",
     "title": "3D Printed Elastomer\u2010Hydrogel Composite Meniscal Scaffolds with Biomimetic Gradient Structure and Robust Interface for Preventing Osteoarthritis and Repairing Meniscal Injuries",
     "url": "https://doi.org/10.1002/adfm.202315580",
@@ -2398,5 +2368,35 @@
     "title": "ROMEO: Towards the Design of Robot with Haptic Mediation for Remote Conflict",
     "url": "https://doi.org/10.1145/3613905.3650781",
     "date": "2026-08-22"
+  },
+  {
+    "paperId": "7c8b5d98f2aef502f52ee322b26285326805d504",
+    "title": "Nucleobase\u2010Driven Wearable Ionogel Electronics for Long\u2010Term Human Motion Detection and Electrophysiological Signal Monitoring",
+    "url": "https://doi.org/10.1002/adfm.202412244",
+    "date": "2026-08-23"
+  },
+  {
+    "paperId": "c427d71471e7e994dd3557b82f15636b55408d61",
+    "title": "Origami-based Haptic Syringe for Local Anesthesia Simulator.",
+    "url": "https://doi.org/10.1109/TOH.2024.3353924",
+    "date": "2026-08-23"
+  },
+  {
+    "paperId": "4da68d7c9eca88c28fbb4aeaf8a4a3c4480c21b1",
+    "title": "Impedance for Assistance: Upper-Limb Assistive Soft Robotic Suit Using Linked-Layer Jamming Mechanisms",
+    "url": "https://doi.org/10.1089/soro.2023.0146",
+    "date": "2026-08-23"
+  },
+  {
+    "paperId": "a9c031f291ab29e8ae9189a1cc06c02e99b21f6c",
+    "title": "Shape-memory polyurethanes for polar wearables with ultrasensitive multi-monitoring",
+    "url": "https://doi.org/10.1038/s41467-025-66422-3",
+    "date": "2026-08-23"
+  },
+  {
+    "paperId": "758139bd5054d80cf28eedf4c7a6bde15f58425c",
+    "title": "Influence of Vibrotactile Signal Parameters on Human Perceptual and Behavioral Responses for Forearm-Wearable Devices",
+    "url": "https://doi.org/10.1109/WHC64065.2025.11123215",
+    "date": "2026-08-23"
   }
 ]
