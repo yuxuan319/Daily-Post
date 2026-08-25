@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "34590433d6c4e1bbaab1d408ffa12f2b2bc83750",
-    "title": "A universal packaging substrate for mechanically stable assembly of stretchable electronics",
-    "url": "https://doi.org/10.1038/s41467-024-50494-8",
-    "date": "2026-06-06"
-  },
-  {
-    "paperId": "898d6e66aeb51508ca792d2e757c8a33d3cfe04e",
-    "title": "Funabot-Sleeve: A Wearable Device Employing McKibben Artificial Muscles for Haptic Sensation in the Forearm",
-    "url": "https://doi.org/10.1109/LRA.2025.3528229",
-    "date": "2026-06-06"
-  },
-  {
-    "paperId": "e36b22db43b5db8dfdca2829233222a12c96a8a1",
-    "title": "Haptic Acuity During Shared Grasp Experiences in Virtual Reality",
-    "url": "https://doi.org/10.1109/TOH.2026.3654548",
-    "date": "2026-06-06"
-  },
-  {
-    "paperId": "df725087e20d36cee43f613a4ab1fb7b5e8c3661",
-    "title": "Application of Shape Memory and Self-Healable Polymers/Composites in the Biomedical Field: A Review",
-    "url": "https://doi.org/10.1021/acsomega.3c04569",
-    "date": "2026-06-06"
-  },
-  {
-    "paperId": "84c83d25ba5432fdc36de8cccc948ccde64c991e",
-    "title": "A Soft Robot Tactile Finger Using Oxidation-Reduction Graphene\u2013Polyurethane Conductive Sponge",
-    "url": "https://doi.org/10.3390/mi15050628",
-    "date": "2026-06-06"
-  },
-  {
     "paperId": "0c5fe77685b9ea510c5020fc61931e6bda74f6d3",
     "title": "Pressure Stimuli and Spatiotemporal Illusions on the Forearm",
     "url": "https://doi.org/10.1109/TOH.2024.3399394",
@@ -2398,5 +2368,35 @@
     "title": "Mechanical self-adaptive porous valve relying on surface tension for energy harvesting from low-flux bubbles",
     "url": "https://doi.org/10.1038/s41467-025-66500-6",
     "date": "2026-08-24"
+  },
+  {
+    "paperId": "7334daa1273ef4c06843d62a4625a30544c45795",
+    "title": "Digital Light Processing 3D\u2010Printed Multilayer Dielectric Elastomer Actuator for Vibrotactile Device",
+    "url": "https://doi.org/10.1002/admt.202301642",
+    "date": "2026-08-25"
+  },
+  {
+    "paperId": "c48cdfa04183f516e6431796fab58c43861a6583",
+    "title": "Dynamically reconfigurable shape-morphing and tactile display via hydraulically coupled mergeable and splittable PVC gel actuator",
+    "url": "https://doi.org/10.1126/sciadv.adq2024",
+    "date": "2026-08-25"
+  },
+  {
+    "paperId": "9f0ddd8cef64cf715817b1d2f9735afd98f3e72c",
+    "title": "A Wearable Fingertip Force Feedback Device System for Object Stiffness Sensing",
+    "url": "https://doi.org/10.3390/mi15060693",
+    "date": "2026-08-25"
+  },
+  {
+    "paperId": "d01a09f9680aba6078a95dade9f3ecee4e6d5227",
+    "title": "A Triple Shape Memory Material of Trans\u2010Polyisoprene/Polycaprolactone with Customizable Response Temperature Controlled by Crosslinking Density",
+    "url": "https://doi.org/10.1002/adfm.202400245",
+    "date": "2026-08-25"
+  },
+  {
+    "paperId": "5ce8007513983f36a4a6f4bda3958672ca1b1ada",
+    "title": "Enabling Tactile Internet via 6G: Application Characteristics, Requirements, and Design Considerations",
+    "url": "https://doi.org/10.3390/fi17030122",
+    "date": "2026-08-25"
   }
 ]
