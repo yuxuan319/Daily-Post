@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "21fe5ae15026152864c9dd6cbc0f198235490a29",
-    "title": "A Large Area Soft Robotic Haptic Display",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522012",
-    "date": "2026-06-08"
-  },
-  {
-    "paperId": "7f218a58acbf16f631832c812839236fc4ee0581",
-    "title": "A solar/radiative cooling dual-regulation smart window based on shape-morphing kirigami structures.",
-    "url": "https://doi.org/10.1039/d3mh00671a",
-    "date": "2026-06-08"
-  },
-  {
-    "paperId": "8c7a128c88c49c55bd8bd18e43e97731810f525d",
-    "title": "The cLVSM: A Novel Compact Linear Variable Stiffness Mechanism Based on Circular Beams",
-    "url": "https://doi.org/10.1186/s10033-024-01098-2",
-    "date": "2026-06-08"
-  },
-  {
-    "paperId": "e0701a773f1d33f11339908a4b8e0075652fb22a",
-    "title": "From Sea Cucumbers to Soft Robots: A Photothermal-Responsive Hydrogel Actuator with Shape Memory.",
-    "url": "https://doi.org/10.1021/acsami.4c21626",
-    "date": "2026-06-08"
-  },
-  {
-    "paperId": "1a587d189451d2f5d2628dc7030dbe2f6b858bbe",
-    "title": "Perception of Paired Vibrotactile Stimulus on the Upper Limb: Implications for the Design of Wearable Technology",
-    "url": "https://doi.org/10.1007/978-3-031-70058-3_34",
-    "date": "2026-06-08"
-  },
-  {
     "paperId": "38229d31e96f1eff5915cd39c1d31c3a1f77f9b0",
     "title": "A skin-inspired, capacitive array for tactile modulus detection via a scalable rigid-island architecture",
     "url": "https://doi.org/10.1038/s41528-025-00503-7",
@@ -2398,5 +2368,35 @@
     "title": "Soft robotics for personalized and sustainable wearables",
     "url": "https://doi.org/10.1038/s44222-025-00359-6",
     "date": "2026-08-26"
+  },
+  {
+    "paperId": "9f007638db375085ccaedb83ecc28e6b27f98971",
+    "title": "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices",
+    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520855",
+    "date": "2026-08-27"
+  },
+  {
+    "paperId": "509fed11e173299d66a3361603df574bdbc5fa69",
+    "title": "Bio-inspired artificial mechanoreceptors with built-in synaptic functions for intelligent tactile skin",
+    "url": "https://doi.org/10.1038/s41563-025-02204-y",
+    "date": "2026-08-27"
+  },
+  {
+    "paperId": "e36b22db43b5db8dfdca2829233222a12c96a8a1",
+    "title": "Haptic Acuity During Shared Grasp Experiences in Virtual Reality",
+    "url": "https://doi.org/10.1109/TOH.2026.3654548",
+    "date": "2026-08-27"
+  },
+  {
+    "paperId": "91a825325551072dcc2c24de5fecb0b53d79dff1",
+    "title": "Chemically crosslinked flexible polymer phase change material with self-healing, self-adaptive, and shape-memory properties for thermal interface applications.",
+    "url": "https://doi.org/10.1016/j.jcis.2025.137831",
+    "date": "2026-08-27"
+  },
+  {
+    "paperId": "ffecd2e3075bec4c5c39bfdf69a0b3a1f699d049",
+    "title": "Meta-Ori: monolithic meta-origami for nonlinear inflatable soft actuators",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020947",
+    "date": "2026-08-27"
   }
 ]
