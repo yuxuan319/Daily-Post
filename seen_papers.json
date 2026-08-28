@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "38229d31e96f1eff5915cd39c1d31c3a1f77f9b0",
-    "title": "A skin-inspired, capacitive array for tactile modulus detection via a scalable rigid-island architecture",
-    "url": "https://doi.org/10.1038/s41528-025-00503-7",
-    "date": "2026-06-09"
-  },
-  {
-    "paperId": "612eb1f5acbedff51c2dbd391564b867d080c88d",
-    "title": "Pop-up kirigami thermoelectric generator with high stretchability and conformal thermal interfaces",
-    "url": "https://doi.org/10.1038/s41528-025-00454-z",
-    "date": "2026-06-09"
-  },
-  {
-    "paperId": "573e97ef23636f8b928b7aea76a1d9032ffa081e",
-    "title": "Bimanual Intravenous Needle Insertion Simulation Using Nonhomogeneous Haptic Device Integrated into Mixed Reality",
-    "url": "https://doi.org/10.3390/s23156697",
-    "date": "2026-06-09"
-  },
-  {
-    "paperId": "009a5fa118e4cd57c36273de76013aacf98c9239",
-    "title": "Reversible Stepless Multiple Shape Memory Polymer Comprising Amorphous Region as Switching Phase",
-    "url": "https://doi.org/10.1002/adfm.202500230",
-    "date": "2026-06-09"
-  },
-  {
-    "paperId": "0cd28459f0c208d456b5bb6e90fecf4c8f6ded40",
-    "title": "Auxetic cTPU Soft Strain Sensor Augmented with Artificial Intelligence for Human Gait Analytics",
-    "url": "https://doi.org/10.1109/ICHMS65439.2025.11154316",
-    "date": "2026-06-09"
-  },
-  {
     "paperId": "37c15d9e77ec1203f0e9ce090a527fb0a1a1d49b",
     "title": "Fishbone and nettle fiber inspired stretchable strain sensor with high sensitivity and wide sensing range for wearable electronics",
     "url": "https://doi.org/10.1016/j.cej.2024.152281",
@@ -2398,5 +2368,35 @@
     "title": "Meta-Ori: monolithic meta-origami for nonlinear inflatable soft actuators",
     "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020947",
     "date": "2026-08-27"
+  },
+  {
+    "paperId": "1342c819ce6c4a662d7d07b4fe77bb4c36e577ca",
+    "title": "Advanced Stretchable Aerogels and Foams for Flexible Electronics and Beyond",
+    "url": "https://doi.org/10.1002/adfm.202408707",
+    "date": "2026-08-28"
+  },
+  {
+    "paperId": "8aed1568e99aee6265988c3264796baea216246d",
+    "title": "Toward human-resolution haptics: A high-bandwidth, high-density, wearable tactile display",
+    "url": "https://doi.org/10.1126/sciadv.adz5937",
+    "date": "2026-08-28"
+  },
+  {
+    "paperId": "5c3b0cedcc21171fe8d85fe81e3ae83671d2e0ab",
+    "title": "ThermOuch: A Wearable Thermo-Haptic Device for Inducing Pain Sensation in Virtual Reality through Thermal Grill Illusion",
+    "url": "https://doi.org/10.1145/3680528.3687620",
+    "date": "2026-08-28"
+  },
+  {
+    "paperId": "fd43e2edda035eb8c6d0a7d2d9dd11e421b52db0",
+    "title": "HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience",
+    "url": "https://doi.org/10.1007/s10055-023-00910-z",
+    "date": "2026-08-28"
+  },
+  {
+    "paperId": "c4d8b5d002cd26e25a5d0e567d05ce5dab915199",
+    "title": "A Flexible, Architected Soft Robotic Actuator for Motorized Extensional Motion",
+    "url": "https://doi.org/10.1002/aisy.202300866",
+    "date": "2026-08-28"
   }
 ]
