@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "37c15d9e77ec1203f0e9ce090a527fb0a1a1d49b",
-    "title": "Fishbone and nettle fiber inspired stretchable strain sensor with high sensitivity and wide sensing range for wearable electronics",
-    "url": "https://doi.org/10.1016/j.cej.2024.152281",
-    "date": "2026-06-10"
-  },
-  {
-    "paperId": "e32d6056e9296eb9992c7fb0bce2ab9093c33f1b",
-    "title": "Perceptually Inspired C0-Continuity Haptic Shape Display with Trichamber Soft Actuators",
-    "url": "https://doi.org/10.1089/soro.2023.0148",
-    "date": "2026-06-10"
-  },
-  {
-    "paperId": "23647175626672603a7d2cdb4bd74be0884dec15",
-    "title": "A Variable Stiffness Bioinspired Swallowing Gripper Based on Particle Jamming",
-    "url": "https://doi.org/10.1089/soro.2023.0241",
-    "date": "2026-06-10"
-  },
-  {
-    "paperId": "5005f8f7c0d08b9e25a6a9651a9c0680bf7283f1",
-    "title": "Wet\u2010Spinning Carbon Nanotube/Shape Memory Polymer Composite Fibers with High Actuation Stress and Predesigned Shape Change",
-    "url": "https://doi.org/10.1002/advs.202404913",
-    "date": "2026-06-10"
-  },
-  {
-    "paperId": "4beb1fc208fa17b836a05e05f0bb80e81655d562",
-    "title": "ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface",
-    "url": "https://doi.org/10.48550/arXiv.2504.06156",
-    "date": "2026-06-10"
-  },
-  {
     "paperId": "b3f8c994b2819580c42ba1df854a496ba02f81f1",
     "title": "Hydrogel\u2013elastomer-based conductive nanomembranes for soft bioelectronics",
     "url": "https://doi.org/10.1038/s41565-025-02031-x",
@@ -2398,5 +2368,35 @@
     "title": "A Flexible, Architected Soft Robotic Actuator for Motorized Extensional Motion",
     "url": "https://doi.org/10.1002/aisy.202300866",
     "date": "2026-08-28"
+  },
+  {
+    "paperId": "3bb8e7356385f57f1a5a9a0c975bfe1eb19bdacc",
+    "title": "Microstructured Polyelectrolyte Elastomer\u2010Based Ionotronic Sensors with High Sensitivities and Excellent Stability for Artificial Skins",
+    "url": "https://doi.org/10.1002/adma.202310429",
+    "date": "2026-08-29"
+  },
+  {
+    "paperId": "51f48962b3877d98bbad1f678a7367fe2042c9f8",
+    "title": "Haptic Interface With Force and Torque Feedback for Robot-Assisted Endovascular Catheterization",
+    "url": "https://doi.org/10.1109/TMECH.2023.3290492",
+    "date": "2026-08-29"
+  },
+  {
+    "paperId": "300587ac34dc1ecce4984c88ee84471fd1b06f78",
+    "title": "Spatial tactile localization depends on sensorimotor binding: preliminary evidence from virtual reality",
+    "url": "https://doi.org/10.3389/fnhum.2024.1354633",
+    "date": "2026-08-29"
+  },
+  {
+    "paperId": "009a5fa118e4cd57c36273de76013aacf98c9239",
+    "title": "Reversible Stepless Multiple Shape Memory Polymer Comprising Amorphous Region as Switching Phase",
+    "url": "https://doi.org/10.1002/adfm.202500230",
+    "date": "2026-08-29"
+  },
+  {
+    "paperId": "e1545000e186233eedcdb4bdf0c4effb1e46923e",
+    "title": "Symmetry Breaking Metamaterial Sleeve Actuators",
+    "url": "https://doi.org/10.1002/aisy.202500157",
+    "date": "2026-08-29"
   }
 ]
