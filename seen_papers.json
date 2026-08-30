@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "b3f8c994b2819580c42ba1df854a496ba02f81f1",
-    "title": "Hydrogel\u2013elastomer-based conductive nanomembranes for soft bioelectronics",
-    "url": "https://doi.org/10.1038/s41565-025-02031-x",
-    "date": "2026-06-11"
-  },
-  {
-    "paperId": "ea99c25954a9098d893fbeac2aa5b6dbf79f85f1",
-    "title": "Rapid Fabrication of Haptic and Electric Input Interfaces using 4D Printed Origami",
-    "url": "https://doi.org/10.1145/3613905.3651022",
-    "date": "2026-06-11"
-  },
-  {
-    "paperId": "7627ccbb274d47cb96a499c83fe2e21632472e5a",
-    "title": "Physical Maxillofacial Simulator with Variable-Stiffness Sensorized Soft Tissues",
-    "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522826",
-    "date": "2026-06-11"
-  },
-  {
-    "paperId": "3ccad3010b2d96fa409029608b151e01330b94a3",
-    "title": "A self-damping triboelectric tactile patch for self-powered wearable electronics",
-    "url": "https://doi.org/10.1016/j.esci.2024.100324",
-    "date": "2026-06-11"
-  },
-  {
-    "paperId": "0aeadd602a05b318dcaf1c1530856f0ce4c81f51",
-    "title": "Active magneto-mechanical metamaterial with the wave transmission and Poisson\u2019s ratio controlled via the magnetic field",
-    "url": "https://doi.org/10.1016/j.jsv.2024.118784",
-    "date": "2026-06-11"
-  },
-  {
     "paperId": "3fdb3c9a416b4edc9aeed1f8bb6b82469d94aa13",
     "title": "Soft and flexible robot skin actuator using multilayer 3D pneumatic network",
     "url": "https://doi.org/10.1038/s41467-025-60496-9",
@@ -2398,5 +2368,35 @@
     "title": "Symmetry Breaking Metamaterial Sleeve Actuators",
     "url": "https://doi.org/10.1002/aisy.202500157",
     "date": "2026-08-29"
+  },
+  {
+    "paperId": "011c27ce5602deeb4e966036b1bd5e163de1002b",
+    "title": "The effect a soft pneumatic glove game-based rehabilitation on grip strength, hand function, and cognitive function in older adults with mild cognitive impairment: A single-blind, randomized controlled pilot study",
+    "url": "https://doi.org/10.1016/j.arrct.2026.100694",
+    "date": "2026-08-30"
+  },
+  {
+    "paperId": "898d6e66aeb51508ca792d2e757c8a33d3cfe04e",
+    "title": "Funabot-Sleeve: A Wearable Device Employing McKibben Artificial Muscles for Haptic Sensation in the Forearm",
+    "url": "https://doi.org/10.1109/LRA.2025.3528229",
+    "date": "2026-08-30"
+  },
+  {
+    "paperId": "cdb8ef70f4d89e33b9cfff299382edfd6e9998cc",
+    "title": "A Physically Intelligent, Multimodal Universal Soft Gripper Using Granular Materials",
+    "url": "https://doi.org/10.1002/adfm.202418549",
+    "date": "2026-08-30"
+  },
+  {
+    "paperId": "1e0c831b1d34b1e7c5922d1d20b7dfa1c762a851",
+    "title": "Reconfigurable 4D printing via mechanically robust covalent adaptable network shape memory polymer",
+    "url": "https://doi.org/10.1126/sciadv.adl4387",
+    "date": "2026-08-30"
+  },
+  {
+    "paperId": "e3c563506087a62b8530b33ed1f523ad2ead9992",
+    "title": "Miniature deep-sea morphable robot with multimodal locomotion",
+    "url": "https://doi.org/10.1126/scirobotics.adp7821",
+    "date": "2026-08-30"
   }
 ]
