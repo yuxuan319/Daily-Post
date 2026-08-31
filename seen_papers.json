@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "3fdb3c9a416b4edc9aeed1f8bb6b82469d94aa13",
-    "title": "Soft and flexible robot skin actuator using multilayer 3D pneumatic network",
-    "url": "https://doi.org/10.1038/s41467-025-60496-9",
-    "date": "2026-06-12"
-  },
-  {
-    "paperId": "645483913e2c513800e223163675dd07eae0ac62",
-    "title": "Soft Tactile Sensing for Object Classification and Fine Grasping Adjustment Using a Pneumatic Hand With an Inflatable Palm",
-    "url": "https://doi.org/10.1109/TIE.2023.3279554",
-    "date": "2026-06-12"
-  },
-  {
-    "paperId": "769312003e687d0d7fcfe71187b0a77e295494c4",
-    "title": "Research on Tactile Media Simulation Practice System under Computer Virtual Reality Technology",
-    "url": "https://doi.org/10.1109/ICTEI60496.2023.00141",
-    "date": "2026-06-12"
-  },
-  {
-    "paperId": "9230ebad1c3cde42cee76010526cec7e3a60f085",
-    "title": "Enhancing the lubricity and wear resistance of shape-memory-polymer via titanium carbide-based MAX and MXene",
-    "url": "https://doi.org/10.1016/j.carbon.2024.118790",
-    "date": "2026-06-12"
-  },
-  {
-    "paperId": "56e1e2115c7810628ea9c8170ed91d25bc7d31b0",
-    "title": "Biomimetic soft crawling robot with non-contact sensing for confined spaces",
-    "url": "https://doi.org/10.1007/s40843-024-3219-9",
-    "date": "2026-06-12"
-  },
-  {
     "paperId": "8f6761098c5f47129a5a2605a1ea98dacaab4e67",
     "title": "Nanolayer\u2010Encapsulated Stretchable Liquid\u2010Metal Sheets for Thermal Management",
     "url": "https://doi.org/10.1002/adfm.202527281",
@@ -2398,5 +2368,35 @@
     "title": "Miniature deep-sea morphable robot with multimodal locomotion",
     "url": "https://doi.org/10.1126/scirobotics.adp7821",
     "date": "2026-08-30"
+  },
+  {
+    "paperId": "6c78d9c0f5e47f26d067c66fdf3bd64cba70cba4",
+    "title": "Omnidirectionally Strain\u2010Unperturbed Tactile Array from Modulus Regulation in Quasi\u2010Homogeneous Elastomer Meshes",
+    "url": "https://doi.org/10.1002/adfm.202307475",
+    "date": "2026-08-31"
+  },
+  {
+    "paperId": "ea99c25954a9098d893fbeac2aa5b6dbf79f85f1",
+    "title": "Rapid Fabrication of Haptic and Electric Input Interfaces using 4D Printed Origami",
+    "url": "https://doi.org/10.1145/3613905.3651022",
+    "date": "2026-08-31"
+  },
+  {
+    "paperId": "dd97d0e0f49459f87fde88897d9d404bbf5ef254",
+    "title": "Variable Stiffness Woven Soft Active Textiles and Robots Using Thin McKibben Muscle.",
+    "url": "https://doi.org/10.1177/21695172251379609",
+    "date": "2026-08-31"
+  },
+  {
+    "paperId": "36751f8fa529b9980c28ab2832ba2f4fb6234c75",
+    "title": "Two\u2010Way Shape Memory Polymer Composite Gripper for Adaptive Robotic Applications",
+    "url": "https://doi.org/10.1002/admt.202500614",
+    "date": "2026-08-31"
+  },
+  {
+    "paperId": "a1be3c4be178276c30f50af97b106e01f617f1c3",
+    "title": "Presentation of Robot-Intended Handover Position Using Vibrotactile Interface During Robot-to-Human Handover Task",
+    "url": "https://doi.org/10.1145/3610977.3634935",
+    "date": "2026-08-31"
   }
 ]
