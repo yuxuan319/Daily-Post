@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "4ed76ea1382775b0381d308faafa09a0e2e71fd4",
-    "title": "Multi-actuator Haptic Handle Using Soft Material for Vibration Isolation",
-    "url": "https://doi.org/10.1007/978-3-031-70061-3_21",
-    "date": "2026-06-14"
-  },
-  {
-    "paperId": "99d4e841cdace7796c3aef599ecae1fba8e8416e",
-    "title": "HaptOGrasp: A Soft Haptic Origami Grasper for Rendering Grip Force Feedback",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020970",
-    "date": "2026-06-14"
-  },
-  {
-    "paperId": "8a71e6454eaf5876086e0ad685347c5dd27ae6af",
-    "title": "Sensitive, Robust, Wide-Range, and High-Consistency Capacitive Tactile Sensors with Ordered Porous Dielectric Microstructures.",
-    "url": "https://doi.org/10.1021/acsami.3c15368",
-    "date": "2026-06-14"
-  },
-  {
-    "paperId": "c7a26489f8c8c9e1b02c7b8be94363ecf98a267c",
-    "title": "Post-processing treatment of Wire Arc Additive Manufactured NiTi shape memory alloy using laser shock peening process: a study on tensile behavior and fractography analysis",
-    "url": "https://doi.org/10.1007/s00170-025-15058-0",
-    "date": "2026-06-14"
-  },
-  {
-    "paperId": "2174457c4a66b69f6ad174726cba45a8c8012cbe",
-    "title": "Vibration analysis of smart sandwich nanoplate incorporating butterfly auxetic core and piezoelectric face layers under thermal field",
-    "url": "https://doi.org/10.1007/s00707-025-04338-1",
-    "date": "2026-06-14"
-  },
-  {
     "paperId": "0adea79274ed4ea1b801968ab827c991073cad43",
     "title": "A Lightweight Haptic Feedback Glove Employing Normal Indentation, Lateral Skin Stretch and both Softness and Hardness Rendering",
     "url": "https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00113",
@@ -2398,5 +2368,35 @@
     "title": "Active Haptic Feedback for a Virtual Wrist-Anchored User Interface",
     "url": "https://doi.org/10.1145/3672539.3686765",
     "date": "2026-09-01"
+  },
+  {
+    "paperId": "36143d92b66f409ec94dcc967667826be90f8307",
+    "title": "A sense-drive-feedback integrated soft tactile actuator for bionic flytrap with high sensitivity, large deformation, and low-power consumption",
+    "url": "https://doi.org/10.1016/j.cej.2024.153123",
+    "date": "2026-09-02"
+  },
+  {
+    "paperId": "4beb1fc208fa17b836a05e05f0bb80e81655d562",
+    "title": "ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface",
+    "url": "https://doi.org/10.48550/arXiv.2504.06156",
+    "date": "2026-09-02"
+  },
+  {
+    "paperId": "176c0696ef73904057e2c34e4fe73aecc39750ad",
+    "title": "Crip Haptic Jam: Vibrotactile Composition for Disability-Centered Dance.",
+    "url": "https://doi.org/10.1109/TOH.2026.3709095",
+    "date": "2026-09-02"
+  },
+  {
+    "paperId": "637468ba5e1bc2dcd797be08d899a47c35cbf982",
+    "title": "Wearable Haptic Devices for Realistic Scenario Applications",
+    "url": "https://doi.org/10.1007/978-3-031-70539-7",
+    "date": "2026-09-02"
+  },
+  {
+    "paperId": "653d6dd4bc25b6ecf28b086d25091785699ec726",
+    "title": "Auxetic Structure\u2010Assisted Triboelectric Nanogenerators for Efficient Energy Collection and Wearable Sensing",
+    "url": "https://doi.org/10.1002/aenm.202400212",
+    "date": "2026-09-02"
   }
 ]
