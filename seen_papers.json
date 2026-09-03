@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "0adea79274ed4ea1b801968ab827c991073cad43",
-    "title": "A Lightweight Haptic Feedback Glove Employing Normal Indentation, Lateral Skin Stretch and both Softness and Hardness Rendering",
-    "url": "https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00113",
-    "date": "2026-06-15"
-  },
-  {
-    "paperId": "daebbbe5c543674714f483f90589d322a32bd467",
-    "title": "A Review of Multimaterial Additively Manufactured Electronics and 4-D Printing/Origami Shape-Memory Devices: Design, Fabrication, and Implementation",
-    "url": "https://doi.org/10.1109/JPROC.2024.3471849",
-    "date": "2026-06-15"
-  },
-  {
-    "paperId": "d3c54e0e6dd74e3351a0a447c71e479865f4fd30",
-    "title": "The T-Blep: A Soft Optical Sensor for Stiffness and Contact Force Measurement",
-    "url": "https://doi.org/10.3390/mi15020233",
-    "date": "2026-06-15"
-  },
-  {
-    "paperId": "9b5adc4c948dbe8f5effb3a83f6c7c095bcc1790",
-    "title": "Shape Memory Polymers with Patternable Recovery Onset Regulated by Light",
-    "url": "https://doi.org/10.1002/adma.202408324",
-    "date": "2026-06-15"
-  },
-  {
-    "paperId": "8be14880d2e94d6666f14ce705bf61eb63416096",
-    "title": "Damping Optimization and Energy Absorption of Mechanical Metamaterials for Enhanced Vibration Control Applications: A Critical Review",
-    "url": "https://doi.org/10.3390/polym17020237",
-    "date": "2026-06-15"
-  },
-  {
     "paperId": "9b9a3e5ca4d1eaf14ce408b75bfa37a3ec897aef",
     "title": "Bioinspired interfacial engineering for highly stretchable electronics",
     "url": "https://doi.org/10.1038/s41467-025-56502-9",
@@ -2398,5 +2368,35 @@
     "title": "Auxetic Structure\u2010Assisted Triboelectric Nanogenerators for Efficient Energy Collection and Wearable Sensing",
     "url": "https://doi.org/10.1002/aenm.202400212",
     "date": "2026-09-02"
+  },
+  {
+    "paperId": "4bae62a05ade5217f4614aba708d897361f3f1b2",
+    "title": "A Kirigami\u2010Driven Stretchable Paper\u2010Based Hydrovoltaic Electricity Generator",
+    "url": "https://doi.org/10.1002/adfm.202419753",
+    "date": "2026-09-03"
+  },
+  {
+    "paperId": "b70399e1e81688d5d644c34fa39ad4abd27ab487",
+    "title": "Templated Laser-Induced-Graphene-Based Tactile Sensors Enable Wearable Health Monitoring and Texture Recognition via Deep Neural Network.",
+    "url": "https://doi.org/10.1021/acsnano.3c05838",
+    "date": "2026-09-03"
+  },
+  {
+    "paperId": "0c89a6f7061eedda5e906e78c7d71523ced31bb1",
+    "title": "A Feedback-Controlled Jamming Approach for Variable-Stiffness Actuators in Untethered Soft Robots",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020902",
+    "date": "2026-09-03"
+  },
+  {
+    "paperId": "94320a807f6c10ac560ffc4dfeccd01b96f7ba2b",
+    "title": "4D Printing of Magnetically Responsive Shape Memory Polymers: Toward Sustainable Solutions in Soft Robotics, Wearables, and Biomedical Devices",
+    "url": "https://doi.org/10.1002/advs.202513091",
+    "date": "2026-09-03"
+  },
+  {
+    "paperId": "ae128445cb81beea1bd359fffb0df679474e741f",
+    "title": "High\u2010Load Capable Soft Tactile Sensors: Incorporating Magnetorheological Elastomer for Accurate Contact Detection and Classification of Asymmetric Mechanical Components",
+    "url": "https://doi.org/10.1002/aisy.202400275",
+    "date": "2026-09-03"
   }
 ]
