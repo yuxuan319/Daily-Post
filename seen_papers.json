@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "9b9a3e5ca4d1eaf14ce408b75bfa37a3ec897aef",
-    "title": "Bioinspired interfacial engineering for highly stretchable electronics",
-    "url": "https://doi.org/10.1038/s41467-025-56502-9",
-    "date": "2026-06-16"
-  },
-  {
-    "paperId": "bc2e9e974ccbe88b9ff462afc0ffc0cf1c716ef5",
-    "title": "Embrogami: Shape-Changing Textiles with Machine Embroidery",
-    "url": "https://doi.org/10.1145/3654777.3676431",
-    "date": "2026-06-16"
-  },
-  {
-    "paperId": "70204c1c184828799bc7cfde05461b9154456479",
-    "title": "Granular jamming for soft robotics: experiments and modelling of cyclic loading",
-    "url": "https://doi.org/10.1007/s43452-025-01176-9",
-    "date": "2026-06-16"
-  },
-  {
-    "paperId": "91e7124bb2d12ac8981438ebdf1e935165e7d270",
-    "title": "A soft wearable exoglove for rehabilitation assistance: a novel application of knitted shape-memory alloy as a flexible actuator",
-    "url": "https://doi.org/10.1186/s40691-024-00377-9",
-    "date": "2026-06-16"
-  },
-  {
-    "paperId": "a2903bacb11ab7867d1e46f271ac9bad158bc322",
-    "title": "Demonstration of Meta-antenna: Mechanically Frequency Reconfigurable Metamaterial Antennas",
-    "url": "https://doi.org/10.1145/3746058.3758991",
-    "date": "2026-06-16"
-  },
-  {
     "paperId": "06730834100b15e19d26175b70a751d9cd915eac",
     "title": "Soft tactile chip with in-situ sensing for haptic rendering and reverse feedback enhanced gross to fine teleoperation.",
     "url": "https://doi.org/10.1038/s41467-026-73000-8",
@@ -2398,5 +2368,35 @@
     "title": "High\u2010Load Capable Soft Tactile Sensors: Incorporating Magnetorheological Elastomer for Accurate Contact Detection and Classification of Asymmetric Mechanical Components",
     "url": "https://doi.org/10.1002/aisy.202400275",
     "date": "2026-09-03"
+  },
+  {
+    "paperId": "988917fef81b219c9f2e1f874bacc15aa1a859a4",
+    "title": "A Spatially Selective Electroactive\u2010Actuating Adhesive Electronics for Multi\u2010Object Manipulation and Adaptive Haptic Interaction",
+    "url": "https://doi.org/10.1002/adfm.202308747",
+    "date": "2026-09-04"
+  },
+  {
+    "paperId": "a4c0f5f18dc26b4f981b4ea634e4b8d7fce3fbc4",
+    "title": "Zero\u2010Biased Bionic Fingertip E\u2010Skin with Multimodal Tactile Perception and Artificial Intelligence for Augmented Touch Awareness",
+    "url": "https://doi.org/10.1002/adma.202406778",
+    "date": "2026-09-04"
+  },
+  {
+    "paperId": "d5f7ddba698ede0334c0f4cd78456c26e6dcd40a",
+    "title": "PnuTac: A Vision-Based Pneumatic Tactile Sensor for Slip Detection and Object Classification",
+    "url": "https://doi.org/10.1109/M2VIP58386.2023.10413420",
+    "date": "2026-09-04"
+  },
+  {
+    "paperId": "6b8452cdb28d619425f16b7960ddb01ed246fe69",
+    "title": "Displaying Tactile Sensation by SMA-Driven Vibration and Controlled Temperature for Cutaneous Sensation Assessment",
+    "url": "https://doi.org/10.3390/act13110463",
+    "date": "2026-09-04"
+  },
+  {
+    "paperId": "647c798daff107b35730988fd14dfc196cda8df3",
+    "title": "Low-frequency multiple topological interface modes in metamaterial beams with quasi-zero-stiffness resonators",
+    "url": "https://doi.org/10.1080/15376494.2024.2383317",
+    "date": "2026-09-04"
   }
 ]
