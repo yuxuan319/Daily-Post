@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "06730834100b15e19d26175b70a751d9cd915eac",
-    "title": "Soft tactile chip with in-situ sensing for haptic rendering and reverse feedback enhanced gross to fine teleoperation.",
-    "url": "https://doi.org/10.1038/s41467-026-73000-8",
-    "date": "2026-06-17"
-  },
-  {
-    "paperId": "392684c2cdb4b485a11077cb91b56e79a419b85a",
-    "title": "TacSuit: A Wearable Large-Area, Bioinspired Multimodal Tactile Skin for Collaborative Robots",
-    "url": "https://doi.org/10.1109/TIE.2023.3253921",
-    "date": "2026-06-17"
-  },
-  {
-    "paperId": "22e2d1b2854d29f452b4e9afc3eb3641e31797a8",
-    "title": "Haptic Feedback Device Using 3D-Printed Flexible, Multilayered Piezoelectric Coating for In-Car Touchscreen Interface",
-    "url": "https://doi.org/10.3390/mi14081553",
-    "date": "2026-06-17"
-  },
-  {
-    "paperId": "b75b41d3e0e226908ab9bf2f1359bb86b6416f06",
-    "title": "Design and Evaluation of Smart Textile Actuator with Chain Structure",
-    "url": "https://doi.org/10.3390/ma16165517",
-    "date": "2026-06-17"
-  },
-  {
-    "paperId": "093e9fc0ccca3c08c2109fc0c88f617347223675",
-    "title": "Highly Programmable Haptic Decoding and Self\u2010Adaptive Spatiotemporal Feedback Toward Embodied Intelligence",
-    "url": "https://doi.org/10.1002/adfm.202500633",
-    "date": "2026-06-17"
-  },
-  {
     "paperId": "2258341d97b6bdbe17fa07aefda7133580e9f159",
     "title": "Predictive Thermal Feedback via an Encountered-Type Haptic Display",
     "url": "https://doi.org/10.1145/3746058.3758396",
@@ -2398,5 +2368,35 @@
     "title": "Low-frequency multiple topological interface modes in metamaterial beams with quasi-zero-stiffness resonators",
     "url": "https://doi.org/10.1080/15376494.2024.2383317",
     "date": "2026-09-04"
+  },
+  {
+    "paperId": "1010f5d7a781cc156419f205743b8373c2cb044c",
+    "title": "Triboelectric sensor with ultra-wide linear range based on water-containing elastomer and ion-rich interface",
+    "url": "https://doi.org/10.1038/s41467-024-54980-x",
+    "date": "2026-09-05"
+  },
+  {
+    "paperId": "2bfb528a09b8bb33b9d485d83b291ece4e5f5038",
+    "title": "MorphMatrix: A Toolkit Facilitating Shape-Changing Interface Design",
+    "url": "https://doi.org/10.1145/3623509.3633383",
+    "date": "2026-09-05"
+  },
+  {
+    "paperId": "24e861df0db8ab1a767934d9cae57254b5c0bbdb",
+    "title": "Exploring the Impact of a Liquid-Based System on Full-Body Weight Perception in Weighted Exercise within Virtual Reality",
+    "url": "https://doi.org/10.1145/3746058.3758361",
+    "date": "2026-09-05"
+  },
+  {
+    "paperId": "1671165ab6f4aa7aef350e6e88be4a4c8835e73a",
+    "title": "3D Reconfigurable Display Devices Enabled by a Composite Emissive Layer with Integrated Electroluminescent and Shape\u2010Memory Functions",
+    "url": "https://doi.org/10.1002/adfm.77845",
+    "date": "2026-09-05"
+  },
+  {
+    "paperId": "a36e1a7886b21634244f0b9bac0b7686685ffbd3",
+    "title": "Architected Elastomers as Load Bearing Actuators for Untethered Soft Robot Walking",
+    "url": "https://doi.org/10.1002/admt.202500503",
+    "date": "2026-09-05"
   }
 ]
