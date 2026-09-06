@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "2258341d97b6bdbe17fa07aefda7133580e9f159",
-    "title": "Predictive Thermal Feedback via an Encountered-Type Haptic Display",
-    "url": "https://doi.org/10.1145/3746058.3758396",
-    "date": "2026-06-18"
-  },
-  {
-    "paperId": "8e145dac270589a44c16e1451c356753ed21307d",
-    "title": "Recent Progress on Flexible Self-Powered Tactile Sensing Platforms for Health Monitoring and Robotics.",
-    "url": "https://doi.org/10.1002/smll.202405520",
-    "date": "2026-06-18"
-  },
-  {
-    "paperId": "d1c4e038379ddfb73e9b921778bb8ed6f615068f",
-    "title": "Active Fabrics With Controllable Stiffness for Robotic Assistive Interfaces",
-    "url": "https://doi.org/10.1002/adma.202404502",
-    "date": "2026-06-18"
-  },
-  {
-    "paperId": "fb7a5b1e0261b5794a3b884712aa2e098fa65a53",
-    "title": "Electro\u2010thermo\u2010mechanical characterization of shape memory alloy wires for actuator and sensor applications\u2014Part 1: The effects of training",
-    "url": "https://doi.org/10.1002/eng2.12867",
-    "date": "2026-06-18"
-  },
-  {
-    "paperId": "c69d3bbb2781ab4235f59550b8f3eb4c7e9ed8dd",
-    "title": "A Direct-Drive, Wearable Armband Device to Experiment Combined Continuous and Vibrotactile Haptic Feedback for Guidance in Motor Tasks",
-    "url": "https://doi.org/10.1007/978-3-031-70061-3_18",
-    "date": "2026-06-18"
-  },
-  {
     "paperId": "bc15bcb7e8564b910c3d3c2dd6b792a173cc441d",
     "title": "Rapidly Gelling, Highly Adhesive, and Mechanically Robust Ionogels for Stretchable and Wireless Electronics",
     "url": "https://doi.org/10.1002/adfm.202310963",
@@ -2398,5 +2368,35 @@
     "title": "Architected Elastomers as Load Bearing Actuators for Untethered Soft Robot Walking",
     "url": "https://doi.org/10.1002/admt.202500503",
     "date": "2026-09-05"
+  },
+  {
+    "paperId": "3fdb3c9a416b4edc9aeed1f8bb6b82469d94aa13",
+    "title": "Soft and flexible robot skin actuator using multilayer 3D pneumatic network",
+    "url": "https://doi.org/10.1038/s41467-025-60496-9",
+    "date": "2026-09-06"
+  },
+  {
+    "paperId": "392684c2cdb4b485a11077cb91b56e79a419b85a",
+    "title": "TacSuit: A Wearable Large-Area, Bioinspired Multimodal Tactile Skin for Collaborative Robots",
+    "url": "https://doi.org/10.1109/TIE.2023.3253921",
+    "date": "2026-09-06"
+  },
+  {
+    "paperId": "70204c1c184828799bc7cfde05461b9154456479",
+    "title": "Granular jamming for soft robotics: experiments and modelling of cyclic loading",
+    "url": "https://doi.org/10.1007/s43452-025-01176-9",
+    "date": "2026-09-06"
+  },
+  {
+    "paperId": "8bff30f959b257080fee31ca24cdae6e318187fa",
+    "title": "Tactile Sensor using Shape-memory Alloy Wires for Human-like Tactile Perception",
+    "url": "https://doi.org/10.1109/ICMA61710.2024.10633044",
+    "date": "2026-09-06"
+  },
+  {
+    "paperId": "bada194de3eb4bc00eb78a1e83b80b7773756b0f",
+    "title": "Studying the Perception of Vibrotactile Stimulation on the Arm via a Modular Wearable Sleeve",
+    "url": "https://doi.org/10.1109/WHC64065.2025.11123226",
+    "date": "2026-09-06"
   }
 ]
