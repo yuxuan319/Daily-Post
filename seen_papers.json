@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "bc15bcb7e8564b910c3d3c2dd6b792a173cc441d",
-    "title": "Rapidly Gelling, Highly Adhesive, and Mechanically Robust Ionogels for Stretchable and Wireless Electronics",
-    "url": "https://doi.org/10.1002/adfm.202310963",
-    "date": "2026-06-19"
-  },
-  {
-    "paperId": "5b66bfd87f4bd888e1fbe6f47e9e275c6fdf3735",
-    "title": "Programmable Telescopic Soft Pneumatic Actuators for Deployable and Shape Morphing Soft Robots",
-    "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522841",
-    "date": "2026-06-19"
-  },
-  {
-    "paperId": "34ea15e7c2ca71668bf3396aa00b6421bc0b6ce5",
-    "title": "Injection\u2010on\u2010Skin Granular Adhesive for Interactive Human\u2013Machine Interface",
-    "url": "https://doi.org/10.1002/adma.202307070",
-    "date": "2026-06-19"
-  },
-  {
-    "paperId": "e911da544452e6fbc88dc7ee74c963859b1ab498",
-    "title": "Effect of Post-treatments on the Thermomechanical Behavior of NiTiHf High-Temperature Shape Memory Alloy Fabricated with Laser Powder Bed Fusion",
-    "url": "https://doi.org/10.1007/s40830-023-00472-8",
-    "date": "2026-06-19"
-  },
-  {
-    "paperId": "d70d521ce7702aa1ee34f621db4ec1bdd36a4b67",
-    "title": "Vibration\u2013Color\u2013Emotion Correspondences for Affective Haptic Feedback",
-    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495492",
-    "date": "2026-06-19"
-  },
-  {
     "paperId": "2447ea4df85d9e666c69550e32d40ed0eac3a445",
     "title": "AI-Infused Soft Fluidic Tactile Sensing",
     "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522049",
@@ -2398,5 +2368,35 @@
     "title": "Studying the Perception of Vibrotactile Stimulation on the Arm via a Modular Wearable Sleeve",
     "url": "https://doi.org/10.1109/WHC64065.2025.11123226",
     "date": "2026-09-06"
+  },
+  {
+    "paperId": "0c5fe77685b9ea510c5020fc61931e6bda74f6d3",
+    "title": "Pressure Stimuli and Spatiotemporal Illusions on the Forearm",
+    "url": "https://doi.org/10.1109/TOH.2024.3399394",
+    "date": "2026-09-07"
+  },
+  {
+    "paperId": "7da2d969ac69b2085a7f5d579aa09abca5d26179",
+    "title": "Optoelectronically navigated nano-kirigami microrotors",
+    "url": "https://doi.org/10.1126/sciadv.adn7582",
+    "date": "2026-09-07"
+  },
+  {
+    "paperId": "8aef965ddf839e1e516050655f0a8660bc44be46",
+    "title": "Haptic Human-Human Interaction During an Ankle Tracking Task: Effects of Virtual Connection Stiffness",
+    "url": "https://doi.org/10.1109/TNSRE.2023.3319291",
+    "date": "2026-09-07"
+  },
+  {
+    "paperId": "b18237b75311e50b91c743ae1dad953bca878769",
+    "title": "Stroke Imprint: Knitting Reassurance into Anxious Moments",
+    "url": "https://doi.org/10.1145/3721250.3743045",
+    "date": "2026-09-07"
+  },
+  {
+    "paperId": "ee42dd6c1c79034a0b79438ce9550246c488717c",
+    "title": "Enhancing haptic continuity in virtual reality using a continuity reinforcement skeleton",
+    "url": "https://doi.org/10.1038/s41467-025-58318-z",
+    "date": "2026-09-07"
   }
 ]
