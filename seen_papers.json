@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "2447ea4df85d9e666c69550e32d40ed0eac3a445",
-    "title": "AI-Infused Soft Fluidic Tactile Sensing",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522049",
-    "date": "2026-06-20"
-  },
-  {
-    "paperId": "fdb304ecea1a7919da3bfeabf3b2b1c921734469",
-    "title": "3D dual-mode tactile sensor with decoupled temperature and pressure sensing: Toward biological skins for wearable devices and smart robotics",
-    "url": "https://doi.org/10.1016/j.snb.2023.135255",
-    "date": "2026-06-20"
-  },
-  {
-    "paperId": "ab989b80e6644d258cd4397e564b0e2ac5ac060b",
-    "title": "A Woven Soft Wrist-Gripper Composite End-Effector with Variable Stiffness: Design, Modeling, and Characterization",
-    "url": "https://doi.org/10.3390/machines13111042",
-    "date": "2026-06-20"
-  },
-  {
-    "paperId": "3de068a583fcb7146298c253e61ad06344121fed",
-    "title": "Wearable High-Performance MWCNTs/PDMS Nanocomposite-Based Triboelectric Nanogenerators for Haptic Applications",
-    "url": "https://doi.org/10.1109/JFLEX.2024.3446756",
-    "date": "2026-06-20"
-  },
-  {
-    "paperId": "3340701d14015a8244d5748eaa9c0bc0146fcdd2",
-    "title": "A Single-Wire Soft Sensor for Seamless Multimodal Tactile Sensing",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020975",
-    "date": "2026-06-20"
-  },
-  {
     "paperId": "a4c4fe4a731fc3251b3b786b6955e5d36ca71364",
     "title": "A Miniature Direct-Drive Hydraulic Actuator for Wearable Haptic Devices based on Ferrofluid Magnetohydrodynamic Levitation",
     "url": "https://doi.org/10.1109/WHC56415.2023.10224414",
@@ -2398,5 +2368,35 @@
     "title": "Enhancing haptic continuity in virtual reality using a continuity reinforcement skeleton",
     "url": "https://doi.org/10.1038/s41467-025-58318-z",
     "date": "2026-09-07"
+  },
+  {
+    "paperId": "0bddf030edfe5032538fa61dfd1847f0d953478c",
+    "title": "Recyclable and Binder\u2010Free EGaIn\u2013Carbon Liquid Metal Composite: A Sustainable Approach for High\u2010Performance Stretchable Electronics, Thermal\u2010Interfacing and EMI\u2010Shielding",
+    "url": "https://doi.org/10.1002/admt.202502405",
+    "date": "2026-09-08"
+  },
+  {
+    "paperId": "96be80dfa12a83eb792a8c378eeeff4f4e855f9b",
+    "title": "Demonstrating VRScroll: A Shape-Changing Device for Precise Sketching in Virtual Reality",
+    "url": "https://doi.org/10.1145/3613905.3648662",
+    "date": "2026-09-08"
+  },
+  {
+    "paperId": "1779477674d57d9b79c62b0fd45b586994986ddc",
+    "title": "Visual-to-Haptic Augmentation in XR: A Wearable Glove for Perceptual Grounding in Multimodal Interaction",
+    "url": "https://www.semanticscholar.org/paper/1779477674d57d9b79c62b0fd45b586994986ddc",
+    "date": "2026-09-08"
+  },
+  {
+    "paperId": "5f01e003e0830a7818dee68e6dae44e3070ab06b",
+    "title": "Shape memory polymer adhesives for on-demand, low-force detachment in skin-interfaced devices",
+    "url": "https://doi.org/10.1038/s41467-026-76622-0",
+    "date": "2026-09-08"
+  },
+  {
+    "paperId": "1a587d189451d2f5d2628dc7030dbe2f6b858bbe",
+    "title": "Perception of Paired Vibrotactile Stimulus on the Upper Limb: Implications for the Design of Wearable Technology",
+    "url": "https://doi.org/10.1007/978-3-031-70058-3_34",
+    "date": "2026-09-08"
   }
 ]
