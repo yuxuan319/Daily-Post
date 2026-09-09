@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "a4c4fe4a731fc3251b3b786b6955e5d36ca71364",
-    "title": "A Miniature Direct-Drive Hydraulic Actuator for Wearable Haptic Devices based on Ferrofluid Magnetohydrodynamic Levitation",
-    "url": "https://doi.org/10.1109/WHC56415.2023.10224414",
-    "date": "2026-06-21"
-  },
-  {
-    "paperId": "65314fe76922a9b25e404af299d2f5d30dfa5b5c",
-    "title": "Development of Second Prototype of Twin-Driven Magnetorheological Fluid Actuator for Haptic Device",
-    "url": "https://doi.org/10.3390/mi15101184",
-    "date": "2026-06-21"
-  },
-  {
-    "paperId": "3da693b40dc7bf9fa342d06ee51538c6ddfcb0a4",
-    "title": "Hybrid-Driven Origami Gripper with Variable Stiffness and Finger Length",
-    "url": "https://doi.org/10.34133/cbsystems.0103",
-    "date": "2026-06-21"
-  },
-  {
-    "paperId": "2c8cb745234a455d92cda9b910800db8d79b5077",
-    "title": "SHAPE-IT: Exploring Text-to-Shape-Display for Generative Shape-Changing Behaviors with LLMs",
-    "url": "https://doi.org/10.1145/3654777.3676348",
-    "date": "2026-06-21"
-  },
-  {
-    "paperId": "09feacfb83ddee416f04b6333710e4f5069d036c",
-    "title": "Shape-adaptable and wearable strain sensor based on braided auxetic yarns for monitoring large human motions",
-    "url": "https://doi.org/10.1016/j.apmt.2023.101996",
-    "date": "2026-06-21"
-  },
-  {
     "paperId": "596b05d76b69211070a2ffd890af55d2108ff91b",
     "title": "Skin-attached haptic patch for versatile and augmented tactile interaction",
     "url": "https://doi.org/10.1126/sciadv.adt4839",
@@ -2398,5 +2368,35 @@
     "title": "Perception of Paired Vibrotactile Stimulus on the Upper Limb: Implications for the Design of Wearable Technology",
     "url": "https://doi.org/10.1007/978-3-031-70058-3_34",
     "date": "2026-09-08"
+  },
+  {
+    "paperId": "4ed76ea1382775b0381d308faafa09a0e2e71fd4",
+    "title": "Multi-actuator Haptic Handle Using Soft Material for Vibration Isolation",
+    "url": "https://doi.org/10.1007/978-3-031-70061-3_21",
+    "date": "2026-09-09"
+  },
+  {
+    "paperId": "5b66bfd87f4bd888e1fbe6f47e9e275c6fdf3735",
+    "title": "Programmable Telescopic Soft Pneumatic Actuators for Deployable and Shape Morphing Soft Robots",
+    "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522841",
+    "date": "2026-09-09"
+  },
+  {
+    "paperId": "e668ff89a66fe687c162c4c7db1bd8e177948fc1",
+    "title": "VSTaI: Design and Characterization of Variable-Stiffness Tactile Interfaces Based on 3D-Printed Structured Fabrics",
+    "url": "https://doi.org/10.1007/978-3-032-32350-7_38",
+    "date": "2026-09-09"
+  },
+  {
+    "paperId": "fcc129ba9a8d058b282cb34adfd77afc0d557416",
+    "title": "Advances in shape memory alloy textiles for wearable applications: A critical review",
+    "url": "https://doi.org/10.1177/15280837251324899",
+    "date": "2026-09-09"
+  },
+  {
+    "paperId": "d70d521ce7702aa1ee34f621db4ec1bdd36a4b67",
+    "title": "Vibration\u2013Color\u2013Emotion Correspondences for Affective Haptic Feedback",
+    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495492",
+    "date": "2026-09-09"
   }
 ]
