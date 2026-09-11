@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c46fa939907b96c65a7941c68f757d84e9b994bc",
-    "title": "Perceived Intensity of Pneumatic Vibrotactile Stimuli: Effects of Pressure, Frequency, and Stiffness",
-    "url": "https://doi.org/10.1109/TOH.2025.3648538",
-    "date": "2026-06-23"
-  },
-  {
-    "paperId": "c60249046fa2cde4b9bc7dd741210e3673a68be3",
-    "title": "Bioinspired Shape Reconfigurable, Printable, and Conductive \u201cE\u2010Skin\u201d Patch with Robust Antibacterial Properties for Human Health Sensing",
-    "url": "https://doi.org/10.1002/adfm.202504088",
-    "date": "2026-06-23"
-  },
-  {
-    "paperId": "f81194939b15d458fa21558a4d097e6867be14ec",
-    "title": "EMG-Based Variable Impedance Control for Enhanced Haptic Feedback in Real-Time Material Recognition",
-    "url": "https://doi.org/10.1109/TOH.2024.3524023",
-    "date": "2026-06-23"
-  },
-  {
-    "paperId": "42725be10da6a34c56341bda7a372ebbde4d1a67",
-    "title": "Flextiles: Designing Customisable Shape-Change in Textiles with SMA-Actuated Smocking Patterns",
-    "url": "https://doi.org/10.1145/3613904.3642848",
-    "date": "2026-06-23"
-  },
-  {
-    "paperId": "c463d1c5079174456cdc152d5dbc905dc76d1e57",
-    "title": "Soft Vision-Based Tactile-Enabled SixthFinger: Advancing Daily Objects Manipulation for Stroke Survivors",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020866",
-    "date": "2026-06-23"
-  },
-  {
     "paperId": "98f9dbe6be6f31ed2dcf77bd050a62b6b66682a5",
     "title": "Fluid Reality: High-Resolution, Untethered Haptic Gloves using Electroosmotic Pump Arrays",
     "url": "https://doi.org/10.1145/3586183.3606771",
@@ -2398,5 +2368,35 @@
     "title": "A self-damping triboelectric tactile patch for self-powered wearable electronics",
     "url": "https://doi.org/10.1016/j.esci.2024.100324",
     "date": "2026-09-10"
+  },
+  {
+    "paperId": "293f6fa51fcd28981952c1a5e89644130be3236a",
+    "title": "The Snail: A Wearable Actuated Prop to Simulate Grasp of Rigid and Soft Objects in Virtual Reality",
+    "url": "https://doi.org/10.1109/TOH.2025.3548478",
+    "date": "2026-09-11"
+  },
+  {
+    "paperId": "1927c4c8e78ac35e8523be4d835a5c7a7a979325",
+    "title": "Dancing with Inflatables: Design Bistable Inflatable Wearables for Choreographic Tools",
+    "url": "https://doi.org/10.1145/3746058.3758387",
+    "date": "2026-09-11"
+  },
+  {
+    "paperId": "d3c54e0e6dd74e3351a0a447c71e479865f4fd30",
+    "title": "The T-Blep: A Soft Optical Sensor for Stiffness and Contact Force Measurement",
+    "url": "https://doi.org/10.3390/mi15020233",
+    "date": "2026-09-11"
+  },
+  {
+    "paperId": "ad6962df11d2e081ebe3d72da14cf8f5494a74b7",
+    "title": "Tactile-Conditioned Diffusion Policy for Force-Aware Robotic Manipulation",
+    "url": "https://doi.org/10.48550/arXiv.2510.13324",
+    "date": "2026-09-11"
+  },
+  {
+    "paperId": "093e9fc0ccca3c08c2109fc0c88f617347223675",
+    "title": "Highly Programmable Haptic Decoding and Self\u2010Adaptive Spatiotemporal Feedback Toward Embodied Intelligence",
+    "url": "https://doi.org/10.1002/adfm.202500633",
+    "date": "2026-09-11"
   }
 ]
