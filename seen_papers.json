@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "98f9dbe6be6f31ed2dcf77bd050a62b6b66682a5",
-    "title": "Fluid Reality: High-Resolution, Untethered Haptic Gloves using Electroosmotic Pump Arrays",
-    "url": "https://doi.org/10.1145/3586183.3606771",
-    "date": "2026-06-24"
-  },
-  {
-    "paperId": "9a99aee4db1d70f575b4eb8c3582e23d6ecc7e79",
-    "title": "A Flexible Capacitive Pressure Sensor with Adjustable Detection Range Based on the Inflatable Dielectric Layer for Human-Computer Interaction.",
-    "url": "https://doi.org/10.1021/acsami.4c08387",
-    "date": "2026-06-24"
-  },
-  {
-    "paperId": "0b1f468a783596c0a8865fa5f611bc53594dddc4",
-    "title": "Hydrogel\u2010Based 3D\u2010Printable Stretchable Pressure Sensor",
-    "url": "https://doi.org/10.1002/admt.202501019",
-    "date": "2026-06-24"
-  },
-  {
-    "paperId": "6fd3f51c26ae41abe83568cfc619d9a2b015df21",
-    "title": "A Self\u2010Powered, Shapeable, and Wearable Sensor for Effective Hazard Prevention and Biomechanical Monitoring",
-    "url": "https://doi.org/10.1002/sys3.3",
-    "date": "2026-06-24"
-  },
-  {
-    "paperId": "839ba346fbdaae586d7522f8b27dd5f63b58c8c1",
-    "title": "Robotic skins inspired by auxetic metamaterials for programmable bending of soft actuators",
-    "url": "https://doi.org/10.1016/j.matdes.2024.113334",
-    "date": "2026-06-24"
-  },
-  {
     "paperId": "888bb9f3d091089338ac843a118b0f0679533fb3",
     "title": "Stretchable all-gel organic electrochemical transistors",
     "url": "https://doi.org/10.1038/s41467-025-59240-0",
@@ -2398,5 +2368,35 @@
     "title": "Highly Programmable Haptic Decoding and Self\u2010Adaptive Spatiotemporal Feedback Toward Embodied Intelligence",
     "url": "https://doi.org/10.1002/adfm.202500633",
     "date": "2026-09-11"
+  },
+  {
+    "paperId": "e38dcbdf77b0db4f250f5515463eba8a9e5344eb",
+    "title": "Microfluidic-enabled three-dimensional stretchable thermoelectrics",
+    "url": "https://doi.org/10.1038/s41528-025-00429-0",
+    "date": "2026-09-12"
+  },
+  {
+    "paperId": "741d7d88213eabaaeb4f1bf51b10844569c7c0af",
+    "title": "Aquatic Topological Liquid Crystal Gel Kirigami",
+    "url": "https://doi.org/10.1002/adfm.202512059",
+    "date": "2026-09-12"
+  },
+  {
+    "paperId": "34ea15e7c2ca71668bf3396aa00b6421bc0b6ce5",
+    "title": "Injection\u2010on\u2010Skin Granular Adhesive for Interactive Human\u2013Machine Interface",
+    "url": "https://doi.org/10.1002/adma.202307070",
+    "date": "2026-09-12"
+  },
+  {
+    "paperId": "164921532905e18a4e9a8c5c1abe734e1211db1d",
+    "title": "Recent Advances in 4D\u2010Printed Shape Memory Actuators",
+    "url": "https://doi.org/10.1002/marc.202401141",
+    "date": "2026-09-12"
+  },
+  {
+    "paperId": "a3dd4695849b4f2688e10c26e806fb30a1088545",
+    "title": "A Star\u2010Nose\u2010Inspired Bionic Soft Robot for Nonvisual Spatial Detection and Reconstruction",
+    "url": "https://doi.org/10.1002/aisy.202400601",
+    "date": "2026-09-12"
   }
 ]
