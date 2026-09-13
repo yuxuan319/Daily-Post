@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "888bb9f3d091089338ac843a118b0f0679533fb3",
-    "title": "Stretchable all-gel organic electrochemical transistors",
-    "url": "https://doi.org/10.1038/s41467-025-59240-0",
-    "date": "2026-06-25"
-  },
-  {
-    "paperId": "91201fef3c831bc7f47257665b19b621a48fdc37",
-    "title": "Cutaneous Electrohydraulic (CUTE) Wearable Devices for Pleasant Broad\u2010Bandwidth Haptic Cues",
-    "url": "https://doi.org/10.1002/advs.202402461",
-    "date": "2026-06-25"
-  },
-  {
-    "paperId": "823ee0c797e65c25c576198b10e7b356fea79d42",
-    "title": "UNICORN: URLLC Network Traffic Classification and OOD Detection for O-RAN",
-    "url": "https://doi.org/10.1109/ICMLCN64995.2025.11140471",
-    "date": "2026-06-25"
-  },
-  {
-    "paperId": "3333ed2bc52f13b61eafb08abcb5c672b96ffbb5",
-    "title": "Application areas, novel constitutive models, challenges and opportunities of shape memory polymer composites: a review",
-    "url": "https://doi.org/10.1680/jemmr.23.00116",
-    "date": "2026-06-25"
-  },
-  {
-    "paperId": "4205dcda4c8e2b24ebc9e88a56cf017db680a3ee",
-    "title": "Omnidirectional Configuration of Stretchable Strain Sensor Enabled by the Strain Engineering with Chiral Auxetic Metamaterial.",
-    "url": "https://doi.org/10.1021/acsnano.3c08624",
-    "date": "2026-06-25"
-  },
-  {
     "paperId": "0d7f1abb811af57a1c4c2e18eca528e5d3687917",
     "title": "Semi\u2010Solid Stretchable Carbon Nanotubes Inkpad for Hand\u2010Based Haptic Interaction",
     "url": "https://doi.org/10.1002/admt.202301877",
@@ -2398,5 +2368,35 @@
     "title": "A Star\u2010Nose\u2010Inspired Bionic Soft Robot for Nonvisual Spatial Detection and Reconstruction",
     "url": "https://doi.org/10.1002/aisy.202400601",
     "date": "2026-09-12"
+  },
+  {
+    "paperId": "c46fa939907b96c65a7941c68f757d84e9b994bc",
+    "title": "Perceived Intensity of Pneumatic Vibrotactile Stimuli: Effects of Pressure, Frequency, and Stiffness",
+    "url": "https://doi.org/10.1109/TOH.2025.3648538",
+    "date": "2026-09-13"
+  },
+  {
+    "paperId": "1ca91fabde31b16e4f3f1bfb3943bec31de76200",
+    "title": "Info-Motion: Using the Metaphor of Plant Motion for Information Communication in Shape-changing Interface: Info-motion",
+    "url": "https://doi.org/10.1145/3623509.3633397",
+    "date": "2026-09-13"
+  },
+  {
+    "paperId": "eff0745fdae10edd3b97899d1889befa110deee1",
+    "title": "Teleoperation With Haptic Sensor-Aided Variable Impedance Control Based on Environment and Human Stiffness Estimation",
+    "url": "https://doi.org/10.1109/JSEN.2024.3369758",
+    "date": "2026-09-13"
+  },
+  {
+    "paperId": "596b05d76b69211070a2ffd890af55d2108ff91b",
+    "title": "Skin-attached haptic patch for versatile and augmented tactile interaction",
+    "url": "https://doi.org/10.1126/sciadv.adt4839",
+    "date": "2026-09-13"
+  },
+  {
+    "paperId": "50d0a4844a059d90700a98e25a8c8f251ada186b",
+    "title": "Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications",
+    "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522837",
+    "date": "2026-09-13"
   }
 ]
