@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "0d7f1abb811af57a1c4c2e18eca528e5d3687917",
-    "title": "Semi\u2010Solid Stretchable Carbon Nanotubes Inkpad for Hand\u2010Based Haptic Interaction",
-    "url": "https://doi.org/10.1002/admt.202301877",
-    "date": "2026-06-26"
-  },
-  {
-    "paperId": "06436fdef0667440684903693210e6e22131eaa9",
-    "title": "Wearable microfluidic biosensors with haptic feedback for continuous monitoring of hydration biomarkers in workers",
-    "url": "https://doi.org/10.1038/s41746-025-01466-9",
-    "date": "2026-06-26"
-  },
-  {
-    "paperId": "fc660aa606ee653299aa7f57f6c78792062cd87b",
-    "title": "Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System",
-    "url": "https://doi.org/10.1109/IROS58592.2024.10801731",
-    "date": "2026-06-26"
-  },
-  {
-    "paperId": "79652b5e4a33b8bd27a18e2b652ae107935997e2",
-    "title": "The Sea\u2010Island Structured EPDM/PP TPV With Shape Memory Performance In\u00a0Situ Compatibilized by Magnesium Maleic and Maleic Anhydride",
-    "url": "https://doi.org/10.1002/app.56813",
-    "date": "2026-06-26"
-  },
-  {
-    "paperId": "c82754b63788648529ba0f6f43ba7c489299efe4",
-    "title": "Architected Design and Fabrication of Soft Mechanical Metamaterials",
-    "url": "https://doi.org/10.1002/aisy.202400514",
-    "date": "2026-06-26"
-  },
-  {
     "paperId": "8a672e847bea74fe668756ddf4379510bee833c4",
     "title": "A Wearable Shoulder Skin-Deformation Device Generating Illusory Forces for Posture Correction.",
     "url": "https://doi.org/10.1109/toh.2026.3686631",
@@ -2398,5 +2368,35 @@
     "title": "Soft Surfaced Vision-Based Tactile Sensing for Bipedal Robot Applications",
     "url": "https://doi.org/10.1109/RoboSoft67810.2026.11522837",
     "date": "2026-09-13"
+  },
+  {
+    "paperId": "2258341d97b6bdbe17fa07aefda7133580e9f159",
+    "title": "Predictive Thermal Feedback via an Encountered-Type Haptic Display",
+    "url": "https://doi.org/10.1145/3746058.3758396",
+    "date": "2026-09-14"
+  },
+  {
+    "paperId": "417a58cbfd0c6fcdbc0a3e5b2e455a08c654deb0",
+    "title": "Origami-inspired soft fluidic actuation for minimally invasive large-area electrocorticography",
+    "url": "https://doi.org/10.1038/s41467-024-50597-2",
+    "date": "2026-09-14"
+  },
+  {
+    "paperId": "3da693b40dc7bf9fa342d06ee51538c6ddfcb0a4",
+    "title": "Hybrid-Driven Origami Gripper with Variable Stiffness and Finger Length",
+    "url": "https://doi.org/10.34133/cbsystems.0103",
+    "date": "2026-09-14"
+  },
+  {
+    "paperId": "5f28c9a378b5283998a6e881946b876f86710016",
+    "title": "Reconfigurable, Adhesive-Free, Wearable Skin Strain Device",
+    "url": "https://doi.org/10.1145/3594739.3610777",
+    "date": "2026-09-14"
+  },
+  {
+    "paperId": "f46c9db3189a5dc3d90404d1107445e91bfdb901",
+    "title": "Strain\u2010Activated Mechanical Metamaterial With Programmable Dual\u2010Phase Stiffness and Enhanced Energy Absorption",
+    "url": "https://doi.org/10.1002/admt.71216",
+    "date": "2026-09-14"
   }
 ]
