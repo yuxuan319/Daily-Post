@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "8a672e847bea74fe668756ddf4379510bee833c4",
-    "title": "A Wearable Shoulder Skin-Deformation Device Generating Illusory Forces for Posture Correction.",
-    "url": "https://doi.org/10.1109/toh.2026.3686631",
-    "date": "2026-06-27"
-  },
-  {
-    "paperId": "fde314481b3f5b22471cda92215f8bfec07c99eb",
-    "title": "Haptic In\u2010Sensor Computing Device Based on CNT/PDMS Nanocomposite Physical Reservoir",
-    "url": "https://doi.org/10.1002/aisy.202400640",
-    "date": "2026-06-27"
-  },
-  {
-    "paperId": "b1313a37e3dfbe4ddeb761d12fcbe5acdcef1b26",
-    "title": "Motionless Movement: Towards Vibrotactile Kinesthetic Displays",
-    "url": "https://doi.org/10.1145/3613904.3642499",
-    "date": "2026-06-27"
-  },
-  {
-    "paperId": "9e6d33adf9d561eb7c3bc4afcba45f9b4fdd9491",
-    "title": "Shape Memory Polymer Composites: 4D Printing, Smart Structures, and Applications",
-    "url": "https://doi.org/10.34133/research.0234",
-    "date": "2026-06-27"
-  },
-  {
-    "paperId": "38859941070a050754b476e9bfceea1e180cfe11",
-    "title": "Optical Micro/Nanofiber Enabled Multiaxial Force Sensor for Tactile Visualization and Human\u2013Machine Interface",
-    "url": "https://doi.org/10.1002/advs.202404343",
-    "date": "2026-06-27"
-  },
-  {
     "paperId": "80b82ce1c1b57534863d354c2dbaae447ab0bd93",
     "title": "Soft Elastic, Thermally Conductive, Electrically Insulating h\u2010BN@EGaIn/Ecoflex Composites as Encapsulation and Thermal Interface Materials Applicated in Wearable Electronics",
     "url": "https://doi.org/10.1002/admt.202401365",
@@ -2398,5 +2368,35 @@
     "title": "Strain\u2010Activated Mechanical Metamaterial With Programmable Dual\u2010Phase Stiffness and Enhanced Energy Absorption",
     "url": "https://doi.org/10.1002/admt.71216",
     "date": "2026-09-14"
+  },
+  {
+    "paperId": "bb260a80d23358766f877d5f8ec0a0d3c9dd0a6d",
+    "title": "Soft Skin\u2010Attachable Haptic Interfaces for User\u2010Friendly Immersive Metaverse",
+    "url": "https://doi.org/10.1002/admt.202502580",
+    "date": "2026-09-15"
+  },
+  {
+    "paperId": "3740c86e3e4e09c2df14d3614bd7636a2600c82e",
+    "title": "From Origami to Bistable and Laminate Structures: A Review for Multifunctional Applications from Structural Perspective of Shape\u2010Changing Structures",
+    "url": "https://doi.org/10.1002/aisy.202500505",
+    "date": "2026-09-15"
+  },
+  {
+    "paperId": "bdec922222a4db9347afad3281cbbbe3caed90fa",
+    "title": "Soft Gripper With Movable Variable Stiffness Mechanism and Embedded Soft Sensors for Adaptive Grasping Strategies",
+    "url": "https://doi.org/10.1109/LRA.2025.3534058",
+    "date": "2026-09-15"
+  },
+  {
+    "paperId": "37ba9b93f200a985ff64bb1dc8f15b6cf9238ffc",
+    "title": "Ensemble-Based Machine Learning Prediction of the Temperature-Induced Properties of Ti-Based High-Temperature Shape Memory Alloy",
+    "url": "https://doi.org/10.1007/s40830-025-00557-6",
+    "date": "2026-09-15"
+  },
+  {
+    "paperId": "0cd28459f0c208d456b5bb6e90fecf4c8f6ded40",
+    "title": "Auxetic cTPU Soft Strain Sensor Augmented with Artificial Intelligence for Human Gait Analytics",
+    "url": "https://doi.org/10.1109/ICHMS65439.2025.11154316",
+    "date": "2026-09-15"
   }
 ]
