@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "80b82ce1c1b57534863d354c2dbaae447ab0bd93",
-    "title": "Soft Elastic, Thermally Conductive, Electrically Insulating h\u2010BN@EGaIn/Ecoflex Composites as Encapsulation and Thermal Interface Materials Applicated in Wearable Electronics",
-    "url": "https://doi.org/10.1002/admt.202401365",
-    "date": "2026-06-28"
-  },
-  {
-    "paperId": "f38b4d41f62a7d377bf19c2fb6ae9d1cf3e40934",
-    "title": "Haptic interface with multimodal tactile sensing and feedback for human\u2013robot interaction",
-    "url": "https://doi.org/10.1186/s40486-024-00199-w",
-    "date": "2026-06-28"
-  },
-  {
-    "paperId": "0debc788a05bde4c762fd2218ad9e4181e8ad019",
-    "title": "A Soft Variable Stiffness Gripper with Magnetorheological Fluids for Robust and Reliable Grasping",
-    "url": "https://doi.org/10.1109/LRA.2024.3382424",
-    "date": "2026-06-28"
-  },
-  {
-    "paperId": "8d7c1c7f20d825d6b2508a4cac484cd3c6d10ec2",
-    "title": "Wearable Soft Robots: Case Study of Using Shape Memory Alloys in Rehabilitation",
-    "url": "https://doi.org/10.3390/bioengineering12030276",
-    "date": "2026-06-28"
-  },
-  {
-    "paperId": "af14b816aa439f7082723329da23e53ce38422e9",
-    "title": "On\u2010demand Reprogrammable Mechanical Metamaterial Driven by Structure Performance Relations",
-    "url": "https://doi.org/10.1002/adma.202410865",
-    "date": "2026-06-28"
-  },
-  {
     "paperId": "84a4e1688af05352d0815c2c879d16c119f2cc6c",
     "title": "Fully flexible wearable pouch pneumatic artificial muscle based on asymmetric expansion",
     "url": "https://doi.org/10.1016/j.cjme.2025.100085",
@@ -2398,5 +2368,35 @@
     "title": "Auxetic cTPU Soft Strain Sensor Augmented with Artificial Intelligence for Human Gait Analytics",
     "url": "https://doi.org/10.1109/ICHMS65439.2025.11154316",
     "date": "2026-09-15"
+  },
+  {
+    "paperId": "43d923d48eadc4e1363293f5e0aa4fd8fece5b85",
+    "title": "A Powerful Customized Fabric-Based Soft Robotic Glove for Assistance and Rehabilitation",
+    "url": "https://doi.org/10.1109/ICORR66766.2025.11063169",
+    "date": "2026-09-16"
+  },
+  {
+    "paperId": "ba3ceffef5c1570c563dd807aef0c922a6622670",
+    "title": "Rationally designed multimeric nanovaccines using icosahedral DNA origami for display of SARS-CoV-2 receptor binding domain",
+    "url": "https://doi.org/10.1038/s41467-024-53937-4",
+    "date": "2026-09-16"
+  },
+  {
+    "paperId": "f81194939b15d458fa21558a4d097e6867be14ec",
+    "title": "EMG-Based Variable Impedance Control for Enhanced Haptic Feedback in Real-Time Material Recognition",
+    "url": "https://doi.org/10.1109/TOH.2024.3524023",
+    "date": "2026-09-16"
+  },
+  {
+    "paperId": "5005f8f7c0d08b9e25a6a9651a9c0680bf7283f1",
+    "title": "Wet\u2010Spinning Carbon Nanotube/Shape Memory Polymer Composite Fibers with High Actuation Stress and Predesigned Shape Change",
+    "url": "https://doi.org/10.1002/advs.202404913",
+    "date": "2026-09-16"
+  },
+  {
+    "paperId": "3384d27cb7e07b142b6495f0d88507d59083ee37",
+    "title": "PopTouch: A Submillimeter Thick Dynamically Reconfigured Haptic Interface with Pressable Buttons",
+    "url": "https://doi.org/10.1002/adma.202307636",
+    "date": "2026-09-16"
   }
 ]
