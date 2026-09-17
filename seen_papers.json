@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "84a4e1688af05352d0815c2c879d16c119f2cc6c",
-    "title": "Fully flexible wearable pouch pneumatic artificial muscle based on asymmetric expansion",
-    "url": "https://doi.org/10.1016/j.cjme.2025.100085",
-    "date": "2026-06-29"
-  },
-  {
-    "paperId": "2535c40b6b33a0720c003202f1567d8e68e93800",
-    "title": "A Soft and Inflatable Vision-Based Tactile Sensor for Inspection of Constrained and Confined Spaces",
-    "url": "https://doi.org/10.1109/JSEN.2023.3324930",
-    "date": "2026-06-29"
-  },
-  {
-    "paperId": "506f326feebb4a7e5cd509b836cb5d8515541351",
-    "title": "A shape-changing haptic navigation interface for vision impairment",
-    "url": "https://doi.org/10.1038/s41598-024-79845-7",
-    "date": "2026-06-29"
-  },
-  {
-    "paperId": "83e553d40130e3719675bf8ad2944b0a54955188",
-    "title": "Wearable Haptics for Orthotropic Actuation Based on Perpendicularly Nested Auxetic SMA Knotting",
-    "url": "https://doi.org/10.1002/adma.202411353",
-    "date": "2026-06-29"
-  },
-  {
-    "paperId": "272685414b81ddc95836b24a5fc6a688149a4a2c",
-    "title": "A Review of Trans\u2010Dimensional Kirigami: From Compliant Mechanism to Multifunctional Robot",
-    "url": "https://doi.org/10.1002/aisy.202500714",
-    "date": "2026-06-29"
-  },
-  {
     "paperId": "ec14e18589a97e98f3d49312172b72f95868435c",
     "title": "Constructing out-of-plane oriented two-dimensional covalent organic framework films for stretchable electronics",
     "url": "https://doi.org/10.1038/s41467-025-67231-4",
@@ -2398,5 +2368,35 @@
     "title": "PopTouch: A Submillimeter Thick Dynamically Reconfigured Haptic Interface with Pressable Buttons",
     "url": "https://doi.org/10.1002/adma.202307636",
     "date": "2026-09-16"
+  },
+  {
+    "paperId": "06c53cd664f589f7c9f08197de047fcef8d1307d",
+    "title": "Ultra-Stretchable, Tough, and Self-Healing Polyurethane with Tunable Microphase Separation for Flexible Wearable Electronics",
+    "url": "https://doi.org/10.1016/j.nanoen.2025.110908",
+    "date": "2026-09-17"
+  },
+  {
+    "paperId": "38859941070a050754b476e9bfceea1e180cfe11",
+    "title": "Optical Micro/Nanofiber Enabled Multiaxial Force Sensor for Tactile Visualization and Human\u2013Machine Interface",
+    "url": "https://doi.org/10.1002/advs.202404343",
+    "date": "2026-09-17"
+  },
+  {
+    "paperId": "0b1f468a783596c0a8865fa5f611bc53594dddc4",
+    "title": "Hydrogel\u2010Based 3D\u2010Printable Stretchable Pressure Sensor",
+    "url": "https://doi.org/10.1002/admt.202501019",
+    "date": "2026-09-17"
+  },
+  {
+    "paperId": "23e761daea2bdff4ad36d5a2099892dc07695baf",
+    "title": "4D-Printed Shape Memory Polymer Composites: Innovations in Smart Structures, Processing Strategies, and Application Prospects",
+    "url": "https://doi.org/10.1021/acsapm.5c02816",
+    "date": "2026-09-17"
+  },
+  {
+    "paperId": "41b2e4fc3dd9c453fe3e7678370e7bce5ee9a01c",
+    "title": "High\u2010Compliance, Self\u2010Sustained Flexible Thermoelectric Systems for Wearable Biosignal Tracking and Tactile Feedback",
+    "url": "https://doi.org/10.1002/adfm.75016",
+    "date": "2026-09-17"
   }
 ]
