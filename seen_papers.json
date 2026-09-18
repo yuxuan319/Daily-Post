@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "ec14e18589a97e98f3d49312172b72f95868435c",
-    "title": "Constructing out-of-plane oriented two-dimensional covalent organic framework films for stretchable electronics",
-    "url": "https://doi.org/10.1038/s41467-025-67231-4",
-    "date": "2026-06-30"
-  },
-  {
-    "paperId": "d4dccfac2eb9a9369f3ff3eeadce69d43ed37b51",
-    "title": "Advancing haptic interfaces for immersive experiences in the metaverse",
-    "url": "https://doi.org/10.1016/j.device.2024.100365",
-    "date": "2026-06-30"
-  },
-  {
-    "paperId": "c25a66e043a40ca799bc97be0b2efdc6aec88259",
-    "title": "Universal Jamming Gripper: Experimental Analysis on Envelope and Granular Materials",
-    "url": "https://doi.org/10.3390/machines12010052",
-    "date": "2026-06-30"
-  },
-  {
-    "paperId": "477ac1205469512d0010cc0e4f869585dfc65b32",
-    "title": "Stiffness Tunable Magnetic Actuators Based on Shape Memory Polymer/NdFeB Composite for Segmental Controllable Motion",
-    "url": "https://doi.org/10.1089/soro.2023.0184",
-    "date": "2026-06-30"
-  },
-  {
-    "paperId": "ffdeefba52ec722694992588af648e62634d8dd3",
-    "title": "Programmable Shape\u2010Preserving Soft Robotics Arm via Multimodal Multistability",
-    "url": "https://doi.org/10.1002/adfm.202407651",
-    "date": "2026-06-30"
-  },
-  {
     "paperId": "fb39d206ca245abd3c650a7fbb47620c13c912e9",
     "title": "Magnetic Hair Tactile Sensor for Directional Pressure Detection",
     "url": "https://doi.org/10.1002/aisy.202400106",
@@ -2398,5 +2368,35 @@
     "title": "High\u2010Compliance, Self\u2010Sustained Flexible Thermoelectric Systems for Wearable Biosignal Tracking and Tactile Feedback",
     "url": "https://doi.org/10.1002/adfm.75016",
     "date": "2026-09-17"
+  },
+  {
+    "paperId": "38229d31e96f1eff5915cd39c1d31c3a1f77f9b0",
+    "title": "A skin-inspired, capacitive array for tactile modulus detection via a scalable rigid-island architecture",
+    "url": "https://doi.org/10.1038/s41528-025-00503-7",
+    "date": "2026-09-18"
+  },
+  {
+    "paperId": "bc2e9e974ccbe88b9ff462afc0ffc0cf1c716ef5",
+    "title": "Embrogami: Shape-Changing Textiles with Machine Embroidery",
+    "url": "https://doi.org/10.1145/3654777.3676431",
+    "date": "2026-09-18"
+  },
+  {
+    "paperId": "f82085b515eeb875980ec898a62264b0735fe988",
+    "title": "Stiffness and Interface Engineered Soft Electronics with Large\u2010Scale Robust Deformability",
+    "url": "https://doi.org/10.1002/adma.202407886",
+    "date": "2026-09-18"
+  },
+  {
+    "paperId": "79ae9641e0a6b2facff52cb4484479c41132175d",
+    "title": "Enabling Tunable Stiffness, Adhesive Grasping, and Interaction-Driven Reconfiguration: A Shape-Memory-Polymer-Enhanced Fin-Ray Gripper",
+    "url": "https://doi.org/10.1177/21695172251381461",
+    "date": "2026-09-18"
+  },
+  {
+    "paperId": "f890029a9592b572d17ce346b3eef9b7a5366323",
+    "title": "Exploring wave propagation and attenuation in a metamaterial bar using dual-action vibration absorber with multifrequency resonators",
+    "url": "https://doi.org/10.1080/15397734.2024.2320745",
+    "date": "2026-09-18"
   }
 ]
