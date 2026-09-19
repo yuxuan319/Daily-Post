@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "fb39d206ca245abd3c650a7fbb47620c13c912e9",
-    "title": "Magnetic Hair Tactile Sensor for Directional Pressure Detection",
-    "url": "https://doi.org/10.1002/aisy.202400106",
-    "date": "2026-07-01"
-  },
-  {
-    "paperId": "e91057b25d725b359e0762ca4fd88a190121c4d7",
-    "title": "Mechanical Metamaterial With Shape\u2010Encoded Reprogrammable Properties",
-    "url": "https://doi.org/10.1002/adfm.75001",
-    "date": "2026-07-01"
-  },
-  {
-    "paperId": "358f592dae89e289a0fe59680f36525b05f05eb3",
-    "title": "TactPrint: 3D Printing Lattice-based Tactile Displays with Optimized and Local Vibration",
-    "url": "https://doi.org/10.1145/3613905.3648665",
-    "date": "2026-07-01"
-  },
-  {
-    "paperId": "fa6d01432133e86a4209b0dfd74b76c1e5f36453",
-    "title": "Skin\u2010Inspired Capacitive Flexible Tactile Sensor with an Asymmetric Structure for Detecting Directional Shear Forces",
-    "url": "https://doi.org/10.1002/advs.202305883",
-    "date": "2026-07-01"
-  },
-  {
-    "paperId": "fc5a5552161ff642b323418011d455b0705a5684",
-    "title": "Ion trap and release dynamics enables nonintrusive tactile augmentation in monolithic sensory neuron",
-    "url": "https://doi.org/10.1126/sciadv.adi3827",
-    "date": "2026-07-01"
-  },
-  {
     "paperId": "5eb891a1572eb83026c85c317d057f259b68b990",
     "title": "Low-dimensional nanostructures for monolithic 3D-integrated flexible and stretchable electronics.",
     "url": "https://doi.org/10.1039/d3cs00918a",
@@ -2398,5 +2368,35 @@
     "title": "Exploring wave propagation and attenuation in a metamaterial bar using dual-action vibration absorber with multifrequency resonators",
     "url": "https://doi.org/10.1080/15397734.2024.2320745",
     "date": "2026-09-18"
+  },
+  {
+    "paperId": "9b9a3e5ca4d1eaf14ce408b75bfa37a3ec897aef",
+    "title": "Bioinspired interfacial engineering for highly stretchable electronics",
+    "url": "https://doi.org/10.1038/s41467-025-56502-9",
+    "date": "2026-09-19"
+  },
+  {
+    "paperId": "3226698f52c0a36a4d7c28f18862c9c32be6f15c",
+    "title": "ThreadTessel: A Modularized Tangible Toolkit Leveraging Origami Tessellation for Designing Thread-actuated Shape-changing Structures",
+    "url": "https://doi.org/10.1145/3689050.3704929",
+    "date": "2026-09-19"
+  },
+  {
+    "paperId": "0debc788a05bde4c762fd2218ad9e4181e8ad019",
+    "title": "A Soft Variable Stiffness Gripper with Magnetorheological Fluids for Robust and Reliable Grasping",
+    "url": "https://doi.org/10.1109/LRA.2024.3382424",
+    "date": "2026-09-19"
+  },
+  {
+    "paperId": "c7a26489f8c8c9e1b02c7b8be94363ecf98a267c",
+    "title": "Post-processing treatment of Wire Arc Additive Manufactured NiTi shape memory alloy using laser shock peening process: a study on tensile behavior and fractography analysis",
+    "url": "https://doi.org/10.1007/s00170-025-15058-0",
+    "date": "2026-09-19"
+  },
+  {
+    "paperId": "c82754b63788648529ba0f6f43ba7c489299efe4",
+    "title": "Architected Design and Fabrication of Soft Mechanical Metamaterials",
+    "url": "https://doi.org/10.1002/aisy.202400514",
+    "date": "2026-09-19"
   }
 ]
