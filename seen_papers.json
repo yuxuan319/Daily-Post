@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "5eb891a1572eb83026c85c317d057f259b68b990",
-    "title": "Low-dimensional nanostructures for monolithic 3D-integrated flexible and stretchable electronics.",
-    "url": "https://doi.org/10.1039/d3cs00918a",
-    "date": "2026-07-02"
-  },
-  {
-    "paperId": "9ddf2bba911962c59f8b3d2729cf3d725fad8168",
-    "title": "Enhancing the recognition accuracy of tactile sensor through electrode and triboelectric material interface structure management strategy",
-    "url": "https://doi.org/10.1016/j.nanoen.2024.109353",
-    "date": "2026-07-02"
-  },
-  {
-    "paperId": "6e97daf6091a60a350c795f3dcf3e1f6dff2ea51",
-    "title": "Flip-Pelt: Motor-Driven Peltier Elements for Rapid Thermal Stimulation and Congruent Pressure Feedback in Virtual Reality",
-    "url": "https://doi.org/10.1145/3654777.3676363",
-    "date": "2026-07-02"
-  },
-  {
-    "paperId": "26b019994d3a26e9ccfe21c2402e5b6d7884a8c0",
-    "title": "Experimental investigation into mechanical, thermal, and shape memory behavior of thermoresponsive PU/MXene shape memory polymer nanocomposite",
-    "url": "https://doi.org/10.1016/j.heliyon.2024.e24014",
-    "date": "2026-07-02"
-  },
-  {
-    "paperId": "4072c5b585d62ed5d4a1341848fa3d6ae608b874",
-    "title": "Multiple broadband gaps and vibration suppression mechanisms for innovative star shaped metamaterial structures with triangular characteristics",
-    "url": "https://doi.org/10.1080/15376494.2023.2280250",
-    "date": "2026-07-02"
-  },
-  {
     "paperId": "38eed8dc1f5236a8f94d9fab9298e71acaf3a315",
     "title": "Design and Characterisation of Salt-E-Skin: Soft Saline-Filled Large-Scale Tactile E-Skin",
     "url": "https://doi.org/10.1109/RoboSoft60065.2024.10521940",
@@ -2398,5 +2368,35 @@
     "title": "Architected Design and Fabrication of Soft Mechanical Metamaterials",
     "url": "https://doi.org/10.1002/aisy.202400514",
     "date": "2026-09-19"
+  },
+  {
+    "paperId": "30b3c35dcc55650cdbb071be7ee4f79f2fa76005",
+    "title": "Creep-free polyelectrolyte elastomer for drift-free iontronic sensing",
+    "url": "https://doi.org/10.1038/s41563-024-01848-6",
+    "date": "2026-09-20"
+  },
+  {
+    "paperId": "5c9c866a57785a3ae662a8a1c31c4916eec1f2f4",
+    "title": "Deformable materials and structures in wearable haptic interfaces",
+    "url": "https://doi.org/10.1038/s41578-025-00877-0",
+    "date": "2026-09-20"
+  },
+  {
+    "paperId": "c25a66e043a40ca799bc97be0b2efdc6aec88259",
+    "title": "Universal Jamming Gripper: Experimental Analysis on Envelope and Granular Materials",
+    "url": "https://doi.org/10.3390/machines12010052",
+    "date": "2026-09-20"
+  },
+  {
+    "paperId": "85783c6485d75d819b0721c7561ba69f5f12ec66",
+    "title": "Fingertip haptic interaction via a serpentine SMA actuator for VR/AR and assistive technologies",
+    "url": "https://doi.org/10.1007/s40843-025-3896-7",
+    "date": "2026-09-20"
+  },
+  {
+    "paperId": "06436fdef0667440684903693210e6e22131eaa9",
+    "title": "Wearable microfluidic biosensors with haptic feedback for continuous monitoring of hydration biomarkers in workers",
+    "url": "https://doi.org/10.1038/s41746-025-01466-9",
+    "date": "2026-09-20"
   }
 ]
