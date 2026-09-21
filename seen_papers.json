@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "38eed8dc1f5236a8f94d9fab9298e71acaf3a315",
-    "title": "Design and Characterisation of Salt-E-Skin: Soft Saline-Filled Large-Scale Tactile E-Skin",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10521940",
-    "date": "2026-07-03"
-  },
-  {
-    "paperId": "3e67279da4d6bff5960b98309eeee91b42a04a74",
-    "title": "Shape and topology morphing of closed surfaces integrating origami and kirigami",
-    "url": "https://doi.org/10.1126/sciadv.ads5659",
-    "date": "2026-07-03"
-  },
-  {
-    "paperId": "8dcc3ade7deec5000df6363dac16cab49928a9ca",
-    "title": "A Multi-Line Refreshable Braille Device Using a Variable Stiffness Polymer and Stretchable Joule Heating Electrodes",
-    "url": "https://doi.org/10.1109/TOH.2026.3681194",
-    "date": "2026-07-03"
-  },
-  {
-    "paperId": "3b965c72c862a6a6a179e7d852c432ec076669ed",
-    "title": "A Review of the Current State of Research and Future Prospectives on Stimulus-Responsive Shape Memory Polymer Composite and Its Blends",
-    "url": "https://doi.org/10.3390/jcs8080324",
-    "date": "2026-07-03"
-  },
-  {
-    "paperId": "f26decc212ca06e511f3e14861aeb6604b5c6d8b",
-    "title": "Skin-integrated haptic interface system based on a stretchable pressure sensor array for wireless tactile visualization applications",
-    "url": "https://doi.org/10.1016/j.nanoen.2025.110911",
-    "date": "2026-07-03"
-  },
-  {
     "paperId": "929f2a80c6871c9ac59615d43399f588b932c336",
     "title": "Soft Nanomembrane Sensor-Enabled Wearable Multimodal Sensing and Feedback System for Upper-Limb Sensory Impairment Assistance",
     "url": "https://doi.org/10.1021/acsnano.4c15530",
@@ -2398,5 +2368,35 @@
     "title": "Wearable microfluidic biosensors with haptic feedback for continuous monitoring of hydration biomarkers in workers",
     "url": "https://doi.org/10.1038/s41746-025-01466-9",
     "date": "2026-09-20"
+  },
+  {
+    "paperId": "c31a65a906ac6503b1b27dffa553eab73be5f3c7",
+    "title": "Connective tissue inspired elastomer-based hydrogel for artificial skin via radiation-indued penetrating polymerization",
+    "url": "https://doi.org/10.1038/s41467-024-44949-1",
+    "date": "2026-09-21"
+  },
+  {
+    "paperId": "d52031553c69e011ef02073e55d040469207ff9f",
+    "title": "A Biomimetic Ionic Hydrogel Synapse for Self\u2010Powered Tactile\u2010Visual Fusion Perception",
+    "url": "https://doi.org/10.1002/adfm.202500048",
+    "date": "2026-09-21"
+  },
+  {
+    "paperId": "3af07642c6549bc570065018573919ec72839022",
+    "title": "Deep Learning\u2013Powered Robust Tactile Perception: Bridging Graphene Electronic Skin and Dynamic Decoding",
+    "url": "https://doi.org/10.1002/aisy.202400909",
+    "date": "2026-09-21"
+  },
+  {
+    "paperId": "3de068a583fcb7146298c253e61ad06344121fed",
+    "title": "Wearable High-Performance MWCNTs/PDMS Nanocomposite-Based Triboelectric Nanogenerators for Haptic Applications",
+    "url": "https://doi.org/10.1109/JFLEX.2024.3446756",
+    "date": "2026-09-21"
+  },
+  {
+    "paperId": "c69d3bbb2781ab4235f59550b8f3eb4c7e9ed8dd",
+    "title": "A Direct-Drive, Wearable Armband Device to Experiment Combined Continuous and Vibrotactile Haptic Feedback for Guidance in Motor Tasks",
+    "url": "https://doi.org/10.1007/978-3-031-70061-3_18",
+    "date": "2026-09-21"
   }
 ]
