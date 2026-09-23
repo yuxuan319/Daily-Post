@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "fb1afc9cfd8c47d0f314b701007c3731764767a5",
-    "title": "A universal method for constructing stretchable and conductive connections in flexible electronics",
-    "url": "https://doi.org/10.1038/s41528-025-00449-w",
-    "date": "2026-07-05"
-  },
-  {
-    "paperId": "dc2a6126803f85408532ad85193a0ccfec7b5867",
-    "title": "InflatableBots: Inflatable Shape-Changing Mobile Robots for Large-Scale Encountered-Type Haptics in VR",
-    "url": "https://doi.org/10.1145/3613904.3642069",
-    "date": "2026-07-05"
-  },
-  {
-    "paperId": "baa44fb67e6b1a2b702d04069db50d5fef46efc4",
-    "title": "Tactile-Transparent Wearable Sensor for Clinician-Friendly Pulse Wave Velocity Monitoring and Cardiovascular Risk Profiling",
-    "url": "https://doi.org/10.1021/acsnano.5c11375",
-    "date": "2026-07-05"
-  },
-  {
-    "paperId": "2f31f98b91b6632379883b011ab946f150af9fff",
-    "title": "DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove",
-    "url": "https://doi.org/10.48550/arXiv.2502.07730",
-    "date": "2026-07-05"
-  },
-  {
-    "paperId": "65a02b84e28e226d1b40538402b078806d493c6a",
-    "title": "Vision-based tactile intelligence with soft robotic metamaterial",
-    "url": "https://doi.org/10.1016/j.matdes.2024.112629",
-    "date": "2026-07-05"
-  },
-  {
     "paperId": "c33f3184042af9d7e0d7b1772a3b3243990d5928",
     "title": "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers",
     "url": "https://doi.org/10.1038/s41528-025-00493-6",
@@ -2398,5 +2368,35 @@
     "title": "MagSnap: Electromagnetically Controlled Bistable Transition Dynamics for Expressive Tactile Feedback",
     "url": "https://doi.org/10.1145/3772363.3799080",
     "date": "2026-09-22"
+  },
+  {
+    "paperId": "06730834100b15e19d26175b70a751d9cd915eac",
+    "title": "Soft tactile chip with in-situ sensing for haptic rendering and reverse feedback enhanced gross to fine teleoperation",
+    "url": "https://doi.org/10.1038/s41467-026-73000-8",
+    "date": "2026-09-23"
+  },
+  {
+    "paperId": "c60249046fa2cde4b9bc7dd741210e3673a68be3",
+    "title": "Bioinspired Shape Reconfigurable, Printable, and Conductive \u201cE\u2010Skin\u201d Patch with Robust Antibacterial Properties for Human Health Sensing",
+    "url": "https://doi.org/10.1002/adfm.202504088",
+    "date": "2026-09-23"
+  },
+  {
+    "paperId": "0ba143a97c43422aff33e0e5f831e1e23d3b931b",
+    "title": "A liquid metal film-based passive tactile sensor for robotic perception",
+    "url": "https://doi.org/10.1007/s11431-025-3177-6",
+    "date": "2026-09-23"
+  },
+  {
+    "paperId": "26b019994d3a26e9ccfe21c2402e5b6d7884a8c0",
+    "title": "Experimental investigation into mechanical, thermal, and shape memory behavior of thermoresponsive PU/MXene shape memory polymer nanocomposite",
+    "url": "https://doi.org/10.1016/j.heliyon.2024.e24014",
+    "date": "2026-09-23"
+  },
+  {
+    "paperId": "56e1e2115c7810628ea9c8170ed91d25bc7d31b0",
+    "title": "Biomimetic soft crawling robot with non-contact sensing for confined spaces",
+    "url": "https://doi.org/10.1007/s40843-024-3219-9",
+    "date": "2026-09-23"
   }
 ]
