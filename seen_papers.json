@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "30bd1174147e6bd09939b09b4d54e08522846790",
-    "title": "Sign Language Vocabulary Recognition Only with Tactile Sensing Glove",
-    "url": "https://doi.org/10.1109/MCSoC64144.2024.00029",
-    "date": "2026-07-07"
-  },
-  {
-    "paperId": "e0ae67443cc54777a6810d1ca5e8c95bc486d5d0",
-    "title": "A Review of Olfactory Display Designs for Virtual Reality Environments",
-    "url": "https://doi.org/10.1145/3665243",
-    "date": "2026-07-07"
-  },
-  {
-    "paperId": "31137812e0d61dff9879a5bfc40ebe150b5059eb",
-    "title": "Wearable bioadhesive ultrasound shear wave elastography",
-    "url": "https://doi.org/10.1126/sciadv.adk8426",
-    "date": "2026-07-07"
-  },
-  {
-    "paperId": "f12de9c01d70f399e3036912a2d536f7204c869d",
-    "title": "A review of electro-active shape memory polymer composites: Materials engineering strategies for shape memory enhancement",
-    "url": "https://doi.org/10.1016/j.eurpolymj.2024.112861",
-    "date": "2026-07-07"
-  },
-  {
-    "paperId": "0999946f9557ed78f04667cb0ca37cac2e99abac",
-    "title": "Advances in Piezoelectret Materials\u2010Based Bidirectional Haptic Communication Devices",
-    "url": "https://doi.org/10.1002/adma.202405308",
-    "date": "2026-07-07"
-  },
-  {
     "paperId": "56143c7fb04029c6779a5e29a33dfba6e0115d60",
     "title": "Tough soldering for stretchable electronics by small-molecule modulated interfacial assemblies",
     "url": "https://doi.org/10.1038/s41467-023-43574-8",
@@ -2398,5 +2368,35 @@
     "title": "Soft Vision-Based Tactile-Enabled SixthFinger: Advancing Daily Objects Manipulation for Stroke Survivors",
     "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020866",
     "date": "2026-09-24"
+  },
+  {
+    "paperId": "973fe6f46f691f2757947e61143d946a389d29f9",
+    "title": "Mechanotransducing Organic Electrochemical Diode for Crosstalk\u2010Inhibited Artificial Skin",
+    "url": "https://doi.org/10.1002/adfm.202519881",
+    "date": "2026-09-25"
+  },
+  {
+    "paperId": "8d19d0b985e89ba95de0e34d13566cf885f30bb5",
+    "title": "Origami Twist\u2010Inspired Microbuilding Blocks for Multifunctional Shape\u2010Morphing Micromachines",
+    "url": "https://doi.org/10.1002/adfm.202517157",
+    "date": "2026-09-25"
+  },
+  {
+    "paperId": "17d3323864db66ee112796d72175d6a5ccaeef92",
+    "title": "Enhancing dexterity: Soft pneumatic actuation utilizing granular jamming for a human finger flexo-extension",
+    "url": "https://doi.org/10.1017/wtc.2024.29",
+    "date": "2026-09-25"
+  },
+  {
+    "paperId": "478a5c54235f0339ffaf79fc44b6223b6f4a62e6",
+    "title": "Shape Memory Elastomers: A Review of Molecular Structures, Stimulus Mechanisms, and Emerging Applications",
+    "url": "https://doi.org/10.1021/polymscitech.4c00035",
+    "date": "2026-09-25"
+  },
+  {
+    "paperId": "91201fef3c831bc7f47257665b19b621a48fdc37",
+    "title": "Cutaneous Electrohydraulic (CUTE) Wearable Devices for Pleasant Broad\u2010Bandwidth Haptic Cues",
+    "url": "https://doi.org/10.1002/advs.202402461",
+    "date": "2026-09-25"
   }
 ]
