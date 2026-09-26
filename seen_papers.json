@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "56143c7fb04029c6779a5e29a33dfba6e0115d60",
-    "title": "Tough soldering for stretchable electronics by small-molecule modulated interfacial assemblies",
-    "url": "https://doi.org/10.1038/s41467-023-43574-8",
-    "date": "2026-07-08"
-  },
-  {
-    "paperId": "983b2f020b89a2288881eb7b064ce2279f3b14c7",
-    "title": "Design and Development of a Novel Soft and Inflatable Tactile Sensing Balloon for Early Diagnosis of Colorectal Cancer Polyps",
-    "url": "https://doi.org/10.1109/IROS55552.2023.10342343",
-    "date": "2026-07-08"
-  },
-  {
-    "paperId": "bd5ad067a91229d08bd9cdb6e80673080ad2f803",
-    "title": "Immersive Learning: A Systematic Literature Review on Transforming Engineering Education Through Virtual Reality",
-    "url": "https://doi.org/10.3390/virtualworlds3040026",
-    "date": "2026-07-08"
-  },
-  {
-    "paperId": "2b8926463bd709d0d1a1a90b643f2ca92034d007",
-    "title": "Review of Shape-Memory Polymer Nanocomposites and Their Applications",
-    "url": "https://doi.org/10.3390/app15052419",
-    "date": "2026-07-08"
-  },
-  {
-    "paperId": "184cabee46dac54ac8312382fe64c527ce7599fa",
-    "title": "Functional Tactile Sensor Based on Arrayed Triboelectric Nanogenerators",
-    "url": "https://doi.org/10.1002/aenm.202403289",
-    "date": "2026-07-08"
-  },
-  {
     "paperId": "876acdd2c3f0e73520231fbf3fb349f371c78b3b",
     "title": "An Ultrathin and Lightweight Soft Inflatable Actuator for Natural Tactile Sensory Feedback",
     "url": "https://doi.org/10.1002/aisy.202500262",
@@ -2398,5 +2368,35 @@
     "title": "Cutaneous Electrohydraulic (CUTE) Wearable Devices for Pleasant Broad\u2010Bandwidth Haptic Cues",
     "url": "https://doi.org/10.1002/advs.202402461",
     "date": "2026-09-25"
+  },
+  {
+    "paperId": "fb1afc9cfd8c47d0f314b701007c3731764767a5",
+    "title": "A universal method for constructing stretchable and conductive connections in flexible electronics",
+    "url": "https://doi.org/10.1038/s41528-025-00449-w",
+    "date": "2026-09-26"
+  },
+  {
+    "paperId": "bfeb9923146ecb496427e16ffdbdcfca8e5bc4c3",
+    "title": "Programmable and Surface\u2010Conformable Origami Design for Thermoelectric Devices",
+    "url": "https://doi.org/10.1002/advs.202309052",
+    "date": "2026-09-26"
+  },
+  {
+    "paperId": "8dcc3ade7deec5000df6363dac16cab49928a9ca",
+    "title": "A Multi-line Refreshable Braille Device using a Variable Stiffness Polymer and Stretchable Joule Heating Electrodes",
+    "url": "https://doi.org/10.1109/TOH.2026.3681194",
+    "date": "2026-09-26"
+  },
+  {
+    "paperId": "f12de9c01d70f399e3036912a2d536f7204c869d",
+    "title": "A review of electro-active shape memory polymer composites: Materials engineering strategies for shape memory enhancement",
+    "url": "https://doi.org/10.1016/j.eurpolymj.2024.112861",
+    "date": "2026-09-26"
+  },
+  {
+    "paperId": "84c83d25ba5432fdc36de8cccc948ccde64c991e",
+    "title": "A Soft Robot Tactile Finger Using Oxidation-Reduction Graphene\u2013Polyurethane Conductive Sponge",
+    "url": "https://doi.org/10.3390/mi15050628",
+    "date": "2026-09-26"
   }
 ]
