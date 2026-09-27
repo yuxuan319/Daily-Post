@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "876acdd2c3f0e73520231fbf3fb349f371c78b3b",
-    "title": "An Ultrathin and Lightweight Soft Inflatable Actuator for Natural Tactile Sensory Feedback",
-    "url": "https://doi.org/10.1002/aisy.202500262",
-    "date": "2026-07-09"
-  },
-  {
-    "paperId": "f8969a370e48cbcc0deb191bb8fbdbdd84fb89ca",
-    "title": "Untethered shape-changing devices in the gastrointestinal tract",
-    "url": "https://doi.org/10.1080/17425247.2023.2291450",
-    "date": "2026-07-09"
-  },
-  {
-    "paperId": "37f3a7855140f4ee2d24f83381c98a1c30bb2088",
-    "title": "SGPL: An Intelligent Game-Based Secure Collaborative Communication Scheme for Metaverse Over 5G and Beyond Networks",
-    "url": "https://doi.org/10.1109/JSAC.2023.3345403",
-    "date": "2026-07-09"
-  },
-  {
-    "paperId": "7b8097273646c89ccaab5d2c048b1248a0cc992e",
-    "title": "Switchable Adhesive Based on Shape Memory Polymer with Micropillars of Different Heights for Laser-Driven Noncontact Transfer Printing.",
-    "url": "https://doi.org/10.1021/acsami.3c16282",
-    "date": "2026-07-09"
-  },
-  {
-    "paperId": "e1c63e8034cdb43520d639ee8de7123fad458471",
-    "title": "Soft multistable magnetic-responsive metamaterials",
-    "url": "https://doi.org/10.1126/sciadv.adu3749",
-    "date": "2026-07-09"
-  },
-  {
     "paperId": "c3b86a5b16da2ef23e2a6d0eb3585b89f901eea7",
     "title": "A skin-integrated multimodal haptic interface for immersive tactile feedback",
     "url": "https://doi.org/10.1038/s41928-023-01074-z",
@@ -2398,5 +2368,35 @@
     "title": "A Soft Robot Tactile Finger Using Oxidation-Reduction Graphene\u2013Polyurethane Conductive Sponge",
     "url": "https://doi.org/10.3390/mi15050628",
     "date": "2026-09-26"
+  },
+  {
+    "paperId": "888bb9f3d091089338ac843a118b0f0679533fb3",
+    "title": "Stretchable all-gel organic electrochemical transistors",
+    "url": "https://doi.org/10.1038/s41467-025-59240-0",
+    "date": "2026-09-27"
+  },
+  {
+    "paperId": "99d4e841cdace7796c3aef599ecae1fba8e8416e",
+    "title": "HaptOGrasp: A Soft Haptic Origami Grasper for Rendering Grip Force Feedback",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020970",
+    "date": "2026-09-27"
+  },
+  {
+    "paperId": "8c2a7767cf32936e0a5f195a763f3168b4ca8871",
+    "title": "Layer jamming skin\u2010based bionic webbed foot soft gripper with variable stiffness and envelopment",
+    "url": "https://doi.org/10.1016/j.compstruct.2024.118215",
+    "date": "2026-09-27"
+  },
+  {
+    "paperId": "1a32f92870f3faeab1166849928ac9c12df0cd95",
+    "title": "Tunable Bio\u2010Derived Skin\u2010Like Shape Memory Fibers for Smart Suturing",
+    "url": "https://doi.org/10.1002/adfm.202412565",
+    "date": "2026-09-27"
+  },
+  {
+    "paperId": "2174457c4a66b69f6ad174726cba45a8c8012cbe",
+    "title": "Vibration analysis of smart sandwich nanoplate incorporating butterfly auxetic core and piezoelectric face layers under thermal field",
+    "url": "https://doi.org/10.1007/s00707-025-04338-1",
+    "date": "2026-09-27"
   }
 ]
