@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c3b86a5b16da2ef23e2a6d0eb3585b89f901eea7",
-    "title": "A skin-integrated multimodal haptic interface for immersive tactile feedback",
-    "url": "https://doi.org/10.1038/s41928-023-01074-z",
-    "date": "2026-07-10"
-  },
-  {
-    "paperId": "c92fef4b106cfac0bdf0f9b9554470937c6af117",
-    "title": "Tactile Sensing and Rendering Patch with Dynamic and Static Sensing and Haptic Feedback for Immersive Communication.",
-    "url": "https://doi.org/10.1021/acsami.4c11050",
-    "date": "2026-07-10"
-  },
-  {
-    "paperId": "6d31ed9a5d49e1ab6c3a609321dea26b9c0e1d94",
-    "title": "Design, Control, and Applications of Granular Jamming Grippers in Soft Robotics",
-    "url": "https://doi.org/10.3390/robotics14100132",
-    "date": "2026-07-10"
-  },
-  {
-    "paperId": "5211419791890c84f7c624b01aea3e07515cc54d",
-    "title": "Tuning the Properties of Multi\u2010Stable Structures Post\u2010Fabrication Via the Two\u2010Way Shape Memory Polymer Effect",
-    "url": "https://doi.org/10.1002/advs.202308903",
-    "date": "2026-07-10"
-  },
-  {
-    "paperId": "74011a4ad39160f9e012ef2e70574e5c5b4888ef",
-    "title": "Soft robotic hand with tactile palm-finger coordination",
-    "url": "https://doi.org/10.1038/s41467-025-57741-6",
-    "date": "2026-07-10"
-  },
-  {
     "paperId": "0189285990176f7b04f49149716191e51acc8291",
     "title": "A Soft Robotic Glove Providing Proprioceptive Feedback for Grip Force Regulation Training",
     "url": "https://doi.org/10.1109/robosoft67810.2026.11522873",
@@ -2398,5 +2368,35 @@
     "title": "Vibration analysis of smart sandwich nanoplate incorporating butterfly auxetic core and piezoelectric face layers under thermal field",
     "url": "https://doi.org/10.1007/s00707-025-04338-1",
     "date": "2026-09-27"
+  },
+  {
+    "paperId": "d6bbeeaf2a553fef7c82cc90460d360749dc129c",
+    "title": "Capturing forceful interaction with deformable objects using a deep learning-powered stretchable tactile array",
+    "url": "https://doi.org/10.1038/s41467-024-53654-y",
+    "date": "2026-09-28"
+  },
+  {
+    "paperId": "ecd07bf2c07d906ff0a239d69279de65ee8a29f2",
+    "title": "Highly stretchable kirigami-patterned nanofiber-based nanogenerators for harvesting human motion energy to power wearable electronics",
+    "url": "https://doi.org/10.1088/2752-5724/ad2f6a",
+    "date": "2026-09-28"
+  },
+  {
+    "paperId": "9e464c6342de96f8bda0de597e8d0fbbdd1e1673",
+    "title": "A variable stiffness robotic gripper based on parallel beam with vision-based force sensing for flexible grasping",
+    "url": "https://doi.org/10.1017/S026357472300156X",
+    "date": "2026-09-28"
+  },
+  {
+    "paperId": "c251938dfc080b1a6850a95ad573a22f9cf68dbe",
+    "title": "Motion\u2010Adaptive Tessellated Skin Patches With Switchable Adhesion for Wearable Electronics",
+    "url": "https://doi.org/10.1002/adma.202412271",
+    "date": "2026-09-28"
+  },
+  {
+    "paperId": "1e0c5cb37a4f50ef6fb90285454086a003983ac0",
+    "title": "A Lightweight and Affordable Wearable Haptic Controller for Robot-Assisted Microsurgery",
+    "url": "https://doi.org/10.3390/s24092676",
+    "date": "2026-09-28"
   }
 ]
