@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "2c2c1620c8333aeae8c3892bed25bd660a6102e3",
-    "title": "Perception Threshold for Pressure by a Soft Textile Actuator",
-    "url": "https://doi.org/10.1109/TOH.2024.3370835",
-    "date": "2026-07-12"
-  },
-  {
-    "paperId": "ace3756fc453d1a40d1067be9a2674c29464e351",
-    "title": "Demonstrating the Octopi-1.5 Visual-Tactile-Language Model",
-    "url": "https://doi.org/10.48550/arXiv.2507.09985",
-    "date": "2026-07-12"
-  },
-  {
-    "paperId": "7eecfdac40c0797b77016ec0ea1e42df2e4bdd6b",
-    "title": "Embodied Auxetic Intelligence in a Glove\u2010Type Wearable Haptic Interface Connecting Humans to Robots and the Metaverse",
-    "url": "https://doi.org/10.1002/adfm.202502222",
-    "date": "2026-07-12"
-  },
-  {
-    "paperId": "49e6d8e909829224d56028bcf299bb4b699945cc",
-    "title": "4D printing and programming of continuous fibre-reinforced shape memory polymer composites",
-    "url": "https://doi.org/10.1016/j.eurpolymj.2024.112988",
-    "date": "2026-07-12"
-  },
-  {
-    "paperId": "b87a04d4a67c57d61259c442822792474e7b2dbe",
-    "title": "Metamaterial-Reinforced Origami Soft Actuators: Reconfigurable Stiffness and Deformation",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020826",
-    "date": "2026-07-12"
-  },
-  {
     "paperId": "75d66f119c8091786d1274cb4b2a59d134b02775",
     "title": "Wearable Haptic Feedback Interfaces for Augmenting Human Touch",
     "url": "https://doi.org/10.1002/adfm.202417906",
@@ -2398,5 +2368,35 @@
     "title": "A skin-integrated multimodal haptic interface for immersive tactile feedback",
     "url": "https://doi.org/10.1038/s41928-023-01074-z",
     "date": "2026-09-29"
+  },
+  {
+    "paperId": "49aa2139a9d64fe83983e27e2803ba152ebcf0f1",
+    "title": "A Compact, Elastomeric Multimodal Sensor for Tactile Softness Discrimination",
+    "url": "https://doi.org/10.1002/admt.202501685",
+    "date": "2026-09-30"
+  },
+  {
+    "paperId": "7b95a39ca9cbc4969d0c697b0e2a4558737eefd9",
+    "title": "Highly biodegradable piezoelectric flexible wearable tactile sensors with amino acid crystals: a paradigm shift towards smart transient electronics",
+    "url": "https://doi.org/10.1016/j.cej.2025.162531",
+    "date": "2026-09-30"
+  },
+  {
+    "paperId": "fc660aa606ee653299aa7f57f6c78792062cd87b",
+    "title": "Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System",
+    "url": "https://doi.org/10.1109/IROS58592.2024.10801731",
+    "date": "2026-09-30"
+  },
+  {
+    "paperId": "2b8926463bd709d0d1a1a90b643f2ca92034d007",
+    "title": "Review of Shape-Memory Polymer Nanocomposites and Their Applications",
+    "url": "https://doi.org/10.3390/app15052419",
+    "date": "2026-09-30"
+  },
+  {
+    "paperId": "2ad050d60abbc2b7ce7bca5572b13e16314c471d",
+    "title": "Evaluation on Human Perception of Various Vibrotactile Encoding Methods Through a High Density Haptic Feedback Interface",
+    "url": "https://doi.org/10.1109/TOH.2025.3568705",
+    "date": "2026-09-30"
   }
 ]
