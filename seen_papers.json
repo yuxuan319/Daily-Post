@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "75d66f119c8091786d1274cb4b2a59d134b02775",
-    "title": "Wearable Haptic Feedback Interfaces for Augmenting Human Touch",
-    "url": "https://doi.org/10.1002/adfm.202417906",
-    "date": "2026-07-13"
-  },
-  {
-    "paperId": "e209477fa3457c412ae0ba5ab1b73eb5fbccc03c",
-    "title": "Dynamic braille display based on surface-structured PVC gel",
-    "url": "https://doi.org/10.1088/1361-665X/ad254b",
-    "date": "2026-07-13"
-  },
-  {
-    "paperId": "1f5f977fc1c60275c3132eea2e18f85f09f06c8b",
-    "title": "Plant-Inspired Elastic-Hydraulic Tactile Sensing Enables Quantitative Stiffness Estimation in Soft Robots.",
-    "url": "https://doi.org/10.1177/21695172261453210",
-    "date": "2026-07-13"
-  },
-  {
-    "paperId": "b3292e2254e9391f02d875f2896cfbf64c9b3428",
-    "title": "Bioelastic state recovery for haptic sensory substitution",
-    "url": "https://doi.org/10.1038/s41586-024-08155-9",
-    "date": "2026-07-13"
-  },
-  {
-    "paperId": "dca922247cc38d7e3bdb8cea42662d798485f06c",
-    "title": "Hierarchical Gradient Structural Porous Metamaterial with Selective Spectral Response for Daytime Passive Radiative Cooling",
-    "url": "https://doi.org/10.1002/adfm.202406393",
-    "date": "2026-07-13"
-  },
-  {
     "paperId": "8f906355bc306ad5d554baa5fc6c9b50bd4251d4",
     "title": "A skin-like multimodal haptic interface",
     "url": "https://doi.org/10.1038/s41928-023-01093-w",
@@ -2398,5 +2368,35 @@
     "title": "Evaluation on Human Perception of Various Vibrotactile Encoding Methods Through a High Density Haptic Feedback Interface",
     "url": "https://doi.org/10.1109/TOH.2025.3568705",
     "date": "2026-09-30"
+  },
+  {
+    "paperId": "21fe5ae15026152864c9dd6cbc0f198235490a29",
+    "title": "A Large Area Soft Robotic Haptic Display",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522012",
+    "date": "2026-10-01"
+  },
+  {
+    "paperId": "842e1f51c6b5ba0608b179f465e661076666f73a",
+    "title": "High Power Density Ag2Se/Sb1.5Bi0.5Te3\u2010Based Fully Printed Origami Thermoelectric Module for Low\u2010Grade Thermal Energy Harvesting",
+    "url": "https://doi.org/10.1002/adfm.202403646",
+    "date": "2026-10-01"
+  },
+  {
+    "paperId": "37f3a7855140f4ee2d24f83381c98a1c30bb2088",
+    "title": "SGPL: An Intelligent Game-Based Secure Collaborative Communication Scheme for Metaverse Over 5G and Beyond Networks",
+    "url": "https://doi.org/10.1109/JSAC.2023.3345403",
+    "date": "2026-10-01"
+  },
+  {
+    "paperId": "096a1fb19c9fe51c889c8dcc66e09f45670295ad",
+    "title": "Evaluating Affective Touch Generated via a Shape-Memory-Alloy Arm-Sleeve by Subjective Report and Facial Muscle Activity",
+    "url": "https://doi.org/10.1109/TOH.2024.3502785",
+    "date": "2026-10-01"
+  },
+  {
+    "paperId": "8be14880d2e94d6666f14ce705bf61eb63416096",
+    "title": "Damping Optimization and Energy Absorption of Mechanical Metamaterials for Enhanced Vibration Control Applications: A Critical Review",
+    "url": "https://doi.org/10.3390/polym17020237",
+    "date": "2026-10-01"
   }
 ]
