@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "8f906355bc306ad5d554baa5fc6c9b50bd4251d4",
-    "title": "A skin-like multimodal haptic interface",
-    "url": "https://doi.org/10.1038/s41928-023-01093-w",
-    "date": "2026-07-14"
-  },
-  {
-    "paperId": "810f1bbd7932f67e10bd331ad3e17ae84bd70b27",
-    "title": "Multimodal 5\u2010DOF Stretchable Electromagnetic Actuators toward Haptic Information Delivery",
-    "url": "https://doi.org/10.1002/adfm.202314515",
-    "date": "2026-07-14"
-  },
-  {
-    "paperId": "403fdcb070374f409763035e1144f070edb6121c",
-    "title": "Development of a Two-Finger Haptic Robotic Hand with Novel Stiffness Detection and Impedance Control",
-    "url": "https://doi.org/10.3390/s24082585",
-    "date": "2026-07-14"
-  },
-  {
-    "paperId": "4039a8dc1e166acd9b9772aa0f16974e403360b7",
-    "title": "Recent Advances in Shape Memory Polymers: Multifunctional Materials, Multiscale Structures, and Applications",
-    "url": "https://doi.org/10.1002/adfm.202312036",
-    "date": "2026-07-14"
-  },
-  {
-    "paperId": "879562c89d705f91e1aa61c68fef6a2f4532252a",
-    "title": "Soft tissue surgical robot for minimally invasive surgery: a review",
-    "url": "https://doi.org/10.1007/s13534-023-00326-3",
-    "date": "2026-07-14"
-  },
-  {
     "paperId": "fb38607cbab4c3fcdec6cb0c9d88787e2b7603d4",
     "title": "Simultaneous decoding of static, dynamic, and thermal tactile stimuli by using pulsed spike signals in ion-electronic skin",
     "url": "https://doi.org/10.1038/s41528-025-00490-9",
@@ -2398,5 +2368,35 @@
     "title": "Damping Optimization and Energy Absorption of Mechanical Metamaterials for Enhanced Vibration Control Applications: A Critical Review",
     "url": "https://doi.org/10.3390/polym17020237",
     "date": "2026-10-01"
+  },
+  {
+    "paperId": "d94bd48642e86f988c062e1408d99cc5d5af5486",
+    "title": "A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation",
+    "url": "https://doi.org/10.1007/978-3-032-32230-2_2",
+    "date": "2026-10-02"
+  },
+  {
+    "paperId": "b857e7bf649b0b3aaed4d519ead89ec8e1007582",
+    "title": "Anisotropic 3D-Knitted Sleeves as Inverse Pneumatic Artificial Muscles for Soft and Wearable Robotics",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020963",
+    "date": "2026-10-02"
+  },
+  {
+    "paperId": "6e97daf6091a60a350c795f3dcf3e1f6dff2ea51",
+    "title": "Flip-Pelt: Motor-Driven Peltier Elements for Rapid Thermal Stimulation and Congruent Pressure Feedback in Virtual Reality",
+    "url": "https://doi.org/10.1145/3654777.3676363",
+    "date": "2026-10-02"
+  },
+  {
+    "paperId": "3333ed2bc52f13b61eafb08abcb5c672b96ffbb5",
+    "title": "Application areas, novel constitutive models, challenges and opportunities of shape memory polymer composites: a review",
+    "url": "https://doi.org/10.1680/jemmr.23.00116",
+    "date": "2026-10-02"
+  },
+  {
+    "paperId": "b3292e2254e9391f02d875f2896cfbf64c9b3428",
+    "title": "Bioelastic state recovery for haptic sensory substitution",
+    "url": "https://doi.org/10.1038/s41586-024-08155-9",
+    "date": "2026-10-02"
   }
 ]
