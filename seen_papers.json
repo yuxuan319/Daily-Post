@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "ae7c605e83bab6187975fb70c04fb153bddb4602",
-    "title": "Large-area, untethered, metamorphic, and omnidirectionally stretchable multiplexing self-powered triboelectric skins",
-    "url": "https://doi.org/10.1038/s41467-024-45611-6",
-    "date": "2026-07-16"
-  },
-  {
-    "paperId": "7772d62340b0fb3d7c64f6906178e3a0c3d9b86e",
-    "title": "A flexible skin-mounted haptic interface for multimodal cutaneous feedback",
-    "url": "https://doi.org/10.1038/s41928-025-01443-w",
-    "date": "2026-07-16"
-  },
-  {
-    "paperId": "154b7e306ead1a675ad312e9af1b74d91f969f0a",
-    "title": "A Stiffness-Tunable Soft Actuator with Adjustable Jamming for Dexterous Manipulation.",
-    "url": "https://doi.org/10.1177/21695172251405996",
-    "date": "2026-07-16"
-  },
-  {
-    "paperId": "e12d11087b75064eb54ff91417c36de497bf1fa0",
-    "title": "Research on variable stiffness robotic joint actuator based on shape memory alloy",
-    "url": "https://doi.org/10.1007/s12206-025-0135-3",
-    "date": "2026-07-16"
-  },
-  {
-    "paperId": "d8c5441e8b04eeb3b5fd4a1cb5bcb3b08af7f47c",
-    "title": "Mechanical non-reciprocity programmed by shear jamming in soft composite solids",
-    "url": "https://doi.org/10.1038/s41563-025-02407-3",
-    "date": "2026-07-16"
-  },
-  {
     "paperId": "23008b24615b0713ff3b064b2ed774ffc0293806",
     "title": "Stretchable ionic\u2013electronic bilayer hydrogel electronics enable in situ detection of solid-state epidermal biomarkers",
     "url": "https://doi.org/10.1038/s41563-024-01918-9",
@@ -2398,5 +2368,35 @@
     "title": "A skin-like multimodal haptic interface",
     "url": "https://doi.org/10.1038/s41928-023-01093-w",
     "date": "2026-10-03"
+  },
+  {
+    "paperId": "6df8616c8b1c712a08659dd7b63f2eea6761b699",
+    "title": "Distant Handshakes: Conveying Social Intentions Through Multi-Modal Soft Haptic Gloves",
+    "url": "https://doi.org/10.1109/TAFFC.2024.3438761",
+    "date": "2026-10-04"
+  },
+  {
+    "paperId": "e3234777daa655560d39fee7fcc7a2f44e5cf9bc",
+    "title": "Synthetic nano-kirigami with high deformability for reconfigurable information displays",
+    "url": "https://doi.org/10.1038/s41467-025-63169-9",
+    "date": "2026-10-04"
+  },
+  {
+    "paperId": "fd68ff34d9da2b12618b48bf621937d630e9baf5",
+    "title": "A Novel Hybrid Variable Stiffness Mechanism: Synergistic Integration of Layer Jamming and Shape Memory Polymer",
+    "url": "https://doi.org/10.1109/LRA.2024.3357035",
+    "date": "2026-10-04"
+  },
+  {
+    "paperId": "5873241ca72836db687800c0540605c61427836c",
+    "title": "Microtetrahedral Electrode-Enhanced Wearable Capacitive Dual-Mode Sensor for Integrated Tactile Pressure and Proximity Detection.",
+    "url": "https://doi.org/10.1021/acssensors.5c03090",
+    "date": "2026-10-04"
+  },
+  {
+    "paperId": "ffdeefba52ec722694992588af648e62634d8dd3",
+    "title": "Programmable Shape\u2010Preserving Soft Robotics Arm via Multimodal Multistability",
+    "url": "https://doi.org/10.1002/adfm.202407651",
+    "date": "2026-10-04"
   }
 ]
