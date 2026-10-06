@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "6c5938dad35f1dc69ddb99d3f4a7f552ecd31ed9",
-    "title": "A temperature-adaptive component-dynamic-coordinated strategy for high-performance elastic conductive fibers",
-    "url": "https://doi.org/10.1038/s41467-025-62140-y",
-    "date": "2026-07-18"
-  },
-  {
-    "paperId": "259f85c32438e77fbc52249fdb6e702e23feb9ee",
-    "title": "A Fabric\u2010Based Multimodal Flexible Tactile Sensor With Precise Sensing and Discrimination Capabilities for Pressure\u2010Proximity\u2010Magnetic Field Signals",
-    "url": "https://doi.org/10.1002/adfm.202420445",
-    "date": "2026-07-18"
-  },
-  {
-    "paperId": "8ba5f12eb100c7075ad675a091abe3a16386bb1a",
-    "title": "Flexible Electromagnetic Tactile Sensor Based on Double\u2010Layer High\u2010Density MEMS Coils and Tilted Magnetic Column Array",
-    "url": "https://doi.org/10.1002/admt.202302076",
-    "date": "2026-07-18"
-  },
-  {
-    "paperId": "25afa467b99196db50faf82bc7273e69f3d9e6d6",
-    "title": "Adaptive tactile interaction transfer via digitally embroidered smart gloves",
-    "url": "https://doi.org/10.1038/s41467-024-45059-8",
-    "date": "2026-07-18"
-  },
-  {
-    "paperId": "5db424eb9c46fb10b9fb54053b4208d7a744d265",
-    "title": "Metamaterial\u2010Based Electronic Skin with Conformality and Multisensory Integration",
-    "url": "https://doi.org/10.1002/adfm.202406789",
-    "date": "2026-07-18"
-  },
-  {
     "paperId": "0ed2967bd31ca84738ecfa147eba166ef966a2fe",
     "title": "Active electronic skin: an interface towards ambient haptic feedback on physical surfaces",
     "url": "https://doi.org/10.1038/s41528-024-00311-5",
@@ -2398,5 +2368,35 @@
     "title": "3D dual-mode tactile sensor with decoupled temperature and pressure sensing: Toward biological skins for wearable devices and smart robotics",
     "url": "https://doi.org/10.1016/j.snb.2023.135255",
     "date": "2026-10-05"
+  },
+  {
+    "paperId": "7772d62340b0fb3d7c64f6906178e3a0c3d9b86e",
+    "title": "A flexible skin-mounted haptic interface for multimodal cutaneous feedback",
+    "url": "https://doi.org/10.1038/s41928-025-01443-w",
+    "date": "2026-10-06"
+  },
+  {
+    "paperId": "f7066b146367a0c3fd783c0839b3ff4f7330048f",
+    "title": "Sparsely actuated modular metamaterials for shape changing interfaces",
+    "url": "https://doi.org/10.1145/3689050.3704942",
+    "date": "2026-10-06"
+  },
+  {
+    "paperId": "f0871986c12ff23a86ace74a66a5ee70282d1d8a",
+    "title": "Energy-efficient dynamic 3D metasurfaces via spatiotemporal jamming interleaved assemblies for tactile interfaces",
+    "url": "https://doi.org/10.1038/s41467-024-51865-x",
+    "date": "2026-10-06"
+  },
+  {
+    "paperId": "4039a8dc1e166acd9b9772aa0f16974e403360b7",
+    "title": "Recent Advances in Shape Memory Polymers: Multifunctional Materials, Multiscale Structures, and Applications",
+    "url": "https://doi.org/10.1002/adfm.202312036",
+    "date": "2026-10-06"
+  },
+  {
+    "paperId": "272685414b81ddc95836b24a5fc6a688149a4a2c",
+    "title": "A Review of Trans\u2010Dimensional Kirigami: From Compliant Mechanism to Multifunctional Robot",
+    "url": "https://doi.org/10.1002/aisy.202500714",
+    "date": "2026-10-06"
   }
 ]
