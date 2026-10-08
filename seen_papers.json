@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "3a4c672122b5133876df3c65159004e13f3187c8",
-    "title": "Low-voltage wearable tactile display with thermo-pneumatic actuation",
-    "url": "https://doi.org/10.1038/s41528-025-00426-3",
-    "date": "2026-07-20"
-  },
-  {
-    "paperId": "b1b9f9f73ed826fd0844cef6e8bd7fc9904a05a5",
-    "title": "HiPalm: Wearable Device for Affective Tactile Interpersonal Communication",
-    "url": "https://doi.org/10.1145/3689050.3705974",
-    "date": "2026-07-20"
-  },
-  {
-    "paperId": "afa90b07d29e0b95b67bc44680e53ee258b27839",
-    "title": "An 18-g haptic feedback ring with a three-axis force-sensing skin",
-    "url": "https://doi.org/10.1038/s41928-025-01515-x",
-    "date": "2026-07-20"
-  },
-  {
-    "paperId": "96be4de724f6b3d9ade2735b51ef40931b71fd8f",
-    "title": "Design Models and Performance Analysis for a Novel Shape Memory Alloy-Actuated Wearable Hand Exoskeleton for Rehabilitation",
-    "url": "https://doi.org/10.1109/LRA.2024.3455901",
-    "date": "2026-07-20"
-  },
-  {
-    "paperId": "9fc9b425099931e6ef374b058817a12a7db5463a",
-    "title": "Free vibration and buckling analysis of FG graphene origami-enabled auxetic metamaterial beams in a thermal environment",
-    "url": "https://doi.org/10.1007/s00707-024-04197-2",
-    "date": "2026-07-20"
-  },
-  {
     "paperId": "dd05c78204c3cdb7d327d31d00809058f82763b2",
     "title": "A Reconfigurable Soft Actuator with Tunable Deformation and Stiffness",
     "url": "https://doi.org/10.1002/admt.202500772",
@@ -2398,5 +2368,35 @@
     "title": "Active magneto-mechanical metamaterial with the wave transmission and Poisson\u2019s ratio controlled via the magnetic field",
     "url": "https://doi.org/10.1016/j.jsv.2024.118784",
     "date": "2026-10-07"
+  },
+  {
+    "paperId": "0d7f1abb811af57a1c4c2e18eca528e5d3687917",
+    "title": "Semi\u2010Solid Stretchable Carbon Nanotubes Inkpad for Hand\u2010Based Haptic Interaction",
+    "url": "https://doi.org/10.1002/admt.202301877",
+    "date": "2026-10-08"
+  },
+  {
+    "paperId": "0ed2967bd31ca84738ecfa147eba166ef966a2fe",
+    "title": "Active electronic skin: an interface towards ambient haptic feedback on physical surfaces",
+    "url": "https://doi.org/10.1038/s41528-024-00311-5",
+    "date": "2026-10-08"
+  },
+  {
+    "paperId": "e8ab2f4d160bf873c0f39847ff76e0bd664cf20a",
+    "title": "EStatiG: Wearable Haptic Feedback with Multi-Phalanx Electrostatic Brake for Enhanced Object Perception in VR",
+    "url": "https://doi.org/10.1145/3678567",
+    "date": "2026-10-08"
+  },
+  {
+    "paperId": "46de4199278d1aa99d28c445c1b23a08a70232ac",
+    "title": "Flexible and Wearable Tactile Sensors for Intelligent Interfaces",
+    "url": "https://doi.org/10.3390/ma18174010",
+    "date": "2026-10-08"
+  },
+  {
+    "paperId": "7eecfdac40c0797b77016ec0ea1e42df2e4bdd6b",
+    "title": "Embodied Auxetic Intelligence in a Glove\u2010Type Wearable Haptic Interface Connecting Humans to Robots and the Metaverse",
+    "url": "https://doi.org/10.1002/adfm.202502222",
+    "date": "2026-10-08"
   }
 ]
