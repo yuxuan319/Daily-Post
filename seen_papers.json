@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "dd05c78204c3cdb7d327d31d00809058f82763b2",
-    "title": "A Reconfigurable Soft Actuator with Tunable Deformation and Stiffness",
-    "url": "https://doi.org/10.1002/admt.202500772",
-    "date": "2026-07-21"
-  },
-  {
-    "paperId": "974299a45d04bd3f000132bae2fb0377e0372045",
-    "title": "Haptic Sensing and Feedback Techniques toward Virtual Reality",
-    "url": "https://doi.org/10.34133/research.0333",
-    "date": "2026-07-21"
-  },
-  {
-    "paperId": "74f71490adb1f973718e436562340d1ab29a0861",
-    "title": "Perception of Soft Objects in Virtual Environments Under Conflicting Visual and Haptic Cues",
-    "url": "https://doi.org/10.1109/TOH.2023.3322189",
-    "date": "2026-07-21"
-  },
-  {
-    "paperId": "a9f52d736cda17a871956e4da1227035d6f57db4",
-    "title": "Fluxable: A Tool for Making 3D Printable Sensors and Actuators",
-    "url": "https://doi.org/10.1145/3672539.3686342",
-    "date": "2026-07-21"
-  },
-  {
-    "paperId": "805a1994e3cb8d25648cbb899ae243018fcd7c34",
-    "title": "3D-printed multifunctional chiral metamaterial with invariant sound absorption under large deformation and low-frequency vibration control",
-    "url": "https://doi.org/10.1080/17452759.2024.2425386",
-    "date": "2026-07-21"
-  },
-  {
     "paperId": "77b730645d9c3e204c07fa9f764f48efb02c8104",
     "title": "Origami-Inspired Vibrotactile Actuator (OriVib): Design and Characterization",
     "url": "https://doi.org/10.1109/TOH.2023.3348189",
@@ -2398,5 +2368,35 @@
     "title": "Embodied Auxetic Intelligence in a Glove\u2010Type Wearable Haptic Interface Connecting Humans to Robots and the Metaverse",
     "url": "https://doi.org/10.1002/adfm.202502222",
     "date": "2026-10-08"
+  },
+  {
+    "paperId": "3ad2b247f11999764e3a18de13d9322a1db0d236",
+    "title": "HaptiYarn: Development of an Actuator Yarn That Can Transform Everyday Textiles Into Haptic Devices",
+    "url": "https://doi.org/10.1109/TOH.2024.3371831",
+    "date": "2026-10-09"
+  },
+  {
+    "paperId": "04396540936df29af5f67b17fe150340a02c29cd",
+    "title": "SleeveIO: Modular and Reconfigurable Platform for Multimodal Wearable Haptic Feedback Interactions",
+    "url": "https://doi.org/10.1145/3586183.3606739",
+    "date": "2026-10-09"
+  },
+  {
+    "paperId": "8ba5f12eb100c7075ad675a091abe3a16386bb1a",
+    "title": "Flexible Electromagnetic Tactile Sensor Based on Double\u2010Layer High\u2010Density MEMS Coils and Tilted Magnetic Column Array",
+    "url": "https://doi.org/10.1002/admt.202302076",
+    "date": "2026-10-09"
+  },
+  {
+    "paperId": "83e553d40130e3719675bf8ad2944b0a54955188",
+    "title": "Wearable Haptics for Orthotropic Actuation Based on Perpendicularly Nested Auxetic SMA Knotting",
+    "url": "https://doi.org/10.1002/adma.202411353",
+    "date": "2026-10-09"
+  },
+  {
+    "paperId": "35c242fe7dffaa83ecafac9f549dd435528cbd0d",
+    "title": "Vibration Control in Bolted Joints with Locally Resonant Metamaterials",
+    "url": "https://doi.org/10.1016/j.ijmecsci.2025.109999",
+    "date": "2026-10-09"
   }
 ]
