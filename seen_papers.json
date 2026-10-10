@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "77b730645d9c3e204c07fa9f764f48efb02c8104",
-    "title": "Origami-Inspired Vibrotactile Actuator (OriVib): Design and Characterization",
-    "url": "https://doi.org/10.1109/TOH.2023.3348189",
-    "date": "2026-07-22"
-  },
-  {
-    "paperId": "0709687b8ab43b3db0d3191811f973d56afaba5b",
-    "title": "Preoperative interactive virtual simulation applying three-dimensional multifusion images using a haptic device for lumbosacral lipoma",
-    "url": "https://doi.org/10.1007/s00381-023-06234-2",
-    "date": "2026-07-22"
-  },
-  {
-    "paperId": "45fa6fbcfa16f908085c964a77e05d37ab921213",
-    "title": "An individual\u2019s skin stiffness predicts their tactile discrimination of compliance",
-    "url": "https://doi.org/10.1113/JP285271",
-    "date": "2026-07-22"
-  },
-  {
-    "paperId": "9468240bd1c618d494b2faa998c10b1cdbeef544",
-    "title": "Slip-actuated bionic tactile sensing system with dynamic DC generator integrated E-textile for dexterous robotic manipulation",
-    "url": "https://doi.org/10.1038/s41467-025-61843-6",
-    "date": "2026-07-22"
-  },
-  {
-    "paperId": "4b5700aaeb4a262b4be7cc3b4e7ab58dfcba2a35",
-    "title": "Bridging the digital\u2013physical divide using haptic and wearable technologies",
-    "url": "https://doi.org/10.1038/s41928-024-01325-7",
-    "date": "2026-07-22"
-  },
-  {
     "paperId": "c53e79e45db8131e99976a6946dc5354e3fc8897",
     "title": "Validation of a Soft Pneumatic Unit Cell (PUC) in a VR Experience: A Comparison Between Vibrotactile and Soft Pneumatic Haptic Feedback",
     "url": "https://doi.org/10.1109/TOH.2023.3307872",
@@ -2398,5 +2368,35 @@
     "title": "Vibration Control in Bolted Joints with Locally Resonant Metamaterials",
     "url": "https://doi.org/10.1016/j.ijmecsci.2025.109999",
     "date": "2026-10-09"
+  },
+  {
+    "paperId": "804d447efa51c35cb8bae2da6399c7ceddf532c1",
+    "title": "Novel Biomimetic \u201cSpider Web\u201d Robust, Super\u2010Contractile Liquid Crystal Elastomer Active Yarn Soft Actuator",
+    "url": "https://doi.org/10.1002/advs.202400557",
+    "date": "2026-10-10"
+  },
+  {
+    "paperId": "e32d6056e9296eb9992c7fb0bce2ab9093c33f1b",
+    "title": "Perceptually Inspired C0-Continuity Haptic Shape Display with Trichamber Soft Actuators",
+    "url": "https://doi.org/10.1089/soro.2023.0148",
+    "date": "2026-10-10"
+  },
+  {
+    "paperId": "afa90b07d29e0b95b67bc44680e53ee258b27839",
+    "title": "An 18-g haptic feedback ring with a three-axis force-sensing skin",
+    "url": "https://doi.org/10.1038/s41928-025-01515-x",
+    "date": "2026-10-10"
+  },
+  {
+    "paperId": "25afa467b99196db50faf82bc7273e69f3d9e6d6",
+    "title": "Adaptive tactile interaction transfer via digitally embroidered smart gloves",
+    "url": "https://doi.org/10.1038/s41467-024-45059-8",
+    "date": "2026-10-10"
+  },
+  {
+    "paperId": "6be327ff972378f13956c7de9d9a19c1b339b943",
+    "title": "Vibration Simulation of Sandwich Nano-Smart Plate with an Auxetic Core and Piezo-Electromagnetic Face Layers Based on Sinusoidal Higher-Order Theory",
+    "url": "https://doi.org/10.1007/s13369-024-09746-4",
+    "date": "2026-10-10"
   }
 ]
