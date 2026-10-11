@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c53e79e45db8131e99976a6946dc5354e3fc8897",
-    "title": "Validation of a Soft Pneumatic Unit Cell (PUC) in a VR Experience: A Comparison Between Vibrotactile and Soft Pneumatic Haptic Feedback",
-    "url": "https://doi.org/10.1109/TOH.2023.3307872",
-    "date": "2026-07-23"
-  },
-  {
-    "paperId": "d6ef28f951493f1ef505a124c931757ef79c2583",
-    "title": "breatHaptics: Enabling Granular Rendering of Breath Signals via Haptics using Shape-Changing Soft Interfaces",
-    "url": "https://doi.org/10.1145/3623509.3633372",
-    "date": "2026-07-23"
-  },
-  {
-    "paperId": "a6deab8efce378b032abb7ca53d62a4ef5175095",
-    "title": "Multimodal, Ultrasensitive, and Biomimetic Electronic Skin Based on Gradient Micro\u2010Frustum Ionogel for Imaginary Keyboard and Haptic Cognition",
-    "url": "https://doi.org/10.1002/adfm.202414936",
-    "date": "2026-07-23"
-  },
-  {
-    "paperId": "1d0237f05687c3991e2c440b2a87d1e11b6988f5",
-    "title": "Towards Multimodal Interaction with AI-Infused Shape-Changing Interfaces",
-    "url": "https://doi.org/10.1145/3672539.3686315",
-    "date": "2026-07-23"
-  },
-  {
-    "paperId": "501e6cbbca4d2c852e10185519a60d068b462ff2",
-    "title": "Extremely durable electrical impedance tomography\u2013based soft and ultrathin wearable e-skin for three-dimensional tactile interfaces",
-    "url": "https://doi.org/10.1126/sciadv.adr1099",
-    "date": "2026-07-23"
-  },
-  {
     "paperId": "256cedfe23b18bd3faf32a8198b7f3ea5ff82d18",
     "title": "Room\u2010Temperature, High\u2010Resolution Soft Anisotropic Conductive Film for Electrical Interfacing in Stretchable Electronics",
     "url": "https://doi.org/10.1002/adfm.202516217",
@@ -2398,5 +2368,35 @@
     "title": "Vibration Simulation of Sandwich Nano-Smart Plate with an Auxetic Core and Piezo-Electromagnetic Face Layers Based on Sinusoidal Higher-Order Theory",
     "url": "https://doi.org/10.1007/s13369-024-09746-4",
     "date": "2026-10-10"
+  },
+  {
+    "paperId": "5b5c2a3f0fdcc06016b11683970eba3e8c0c15a5",
+    "title": "Spiderweb\u2010Inspired Conformable Stretchable Electronic Skin for Tactile Force and Softness Perception",
+    "url": "https://doi.org/10.1002/adfm.78147",
+    "date": "2026-10-11"
+  },
+  {
+    "paperId": "0f28bd6b4ded72c17bc3ad1bf014a14ab1126b4e",
+    "title": "Diffusive kinks turn kirigami into machines",
+    "url": "https://doi.org/10.1038/s41467-024-45602-7",
+    "date": "2026-10-11"
+  },
+  {
+    "paperId": "1d05d6c4f305cc4484f3e10449b3c59a476cb5ab",
+    "title": "Dual-mode flexible sensor based on magnetic film for wearable smart finger sleeve",
+    "url": "https://doi.org/10.1088/1361-665X/ad6ecf",
+    "date": "2026-10-11"
+  },
+  {
+    "paperId": "96be4de724f6b3d9ade2735b51ef40931b71fd8f",
+    "title": "Design Models and Performance Analysis for a Novel Shape Memory Alloy-Actuated Wearable Hand Exoskeleton for Rehabilitation",
+    "url": "https://doi.org/10.1109/LRA.2024.3455901",
+    "date": "2026-10-11"
+  },
+  {
+    "paperId": "29331cca8fc71674cf0646243314e469292b0796",
+    "title": "Visual\u2013Tactile Fusion and SAC-Based Learning for Robot Peg-in-Hole Assembly in Uncertain Environments",
+    "url": "https://doi.org/10.3390/machines13070605",
+    "date": "2026-10-11"
   }
 ]
