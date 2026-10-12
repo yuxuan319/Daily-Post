@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "256cedfe23b18bd3faf32a8198b7f3ea5ff82d18",
-    "title": "Room\u2010Temperature, High\u2010Resolution Soft Anisotropic Conductive Film for Electrical Interfacing in Stretchable Electronics",
-    "url": "https://doi.org/10.1002/adfm.202516217",
-    "date": "2026-07-24"
-  },
-  {
-    "paperId": "d17ec05b0bc627d53de49929ba37d2de2cec55bd",
-    "title": "Modular shape-changing tensegrity-blocks enable self-assembling robotic structures",
-    "url": "https://doi.org/10.1038/s41467-025-60982-0",
-    "date": "2026-07-24"
-  },
-  {
-    "paperId": "fcc7224b13b36797774c14f4ffc4553a7f430141",
-    "title": "Reshaping the peripersonal space in virtual reality",
-    "url": "https://doi.org/10.1038/s41598-024-52383-y",
-    "date": "2026-07-24"
-  },
-  {
-    "paperId": "aaeacfe9124d7612803b60aed4b847d87c5684de",
-    "title": "Soft wearable thermo+touch haptic interface for virtual reality",
-    "url": "https://doi.org/10.1016/j.isci.2024.111303",
-    "date": "2026-07-24"
-  },
-  {
-    "paperId": "c6128aeae19673dd7564c85ce056f4bc28fbfb34",
-    "title": "A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation",
-    "url": "https://doi.org/10.3390/machines13010027",
-    "date": "2026-07-24"
-  },
-  {
     "paperId": "cc48c5c9289e338164c6a43fbeb0cc0e7d55332c",
     "title": "ReKnit-Care: A Seamless-Knitted Sensing Glove for Sensory Rehabilitation and Adaptive Haptic Feedback",
     "url": "https://doi.org/10.1145/3689050.3705979",
@@ -2398,5 +2368,35 @@
     "title": "Visual\u2013Tactile Fusion and SAC-Based Learning for Robot Peg-in-Hole Assembly in Uncertain Environments",
     "url": "https://doi.org/10.3390/machines13070605",
     "date": "2026-10-11"
+  },
+  {
+    "paperId": "a6deab8efce378b032abb7ca53d62a4ef5175095",
+    "title": "Multimodal, Ultrasensitive, and Biomimetic Electronic Skin Based on Gradient Micro\u2010Frustum Ionogel for Imaginary Keyboard and Haptic Cognition",
+    "url": "https://doi.org/10.1002/adfm.202414936",
+    "date": "2026-10-12"
+  },
+  {
+    "paperId": "c92fef4b106cfac0bdf0f9b9554470937c6af117",
+    "title": "Tactile Sensing and Rendering Patch with Dynamic and Static Sensing and Haptic Feedback for Immersive Communication.",
+    "url": "https://doi.org/10.1021/acsami.4c11050",
+    "date": "2026-10-12"
+  },
+  {
+    "paperId": "8c7a128c88c49c55bd8bd18e43e97731810f525d",
+    "title": "The cLVSM: A Novel Compact Linear Variable Stiffness Mechanism Based on Circular Beams",
+    "url": "https://doi.org/10.1186/s10033-024-01098-2",
+    "date": "2026-10-12"
+  },
+  {
+    "paperId": "a9f52d736cda17a871956e4da1227035d6f57db4",
+    "title": "Fluxable: A Tool for Making 3D Printable Sensors and Actuators",
+    "url": "https://doi.org/10.1145/3672539.3686342",
+    "date": "2026-10-12"
+  },
+  {
+    "paperId": "74011a4ad39160f9e012ef2e70574e5c5b4888ef",
+    "title": "Soft robotic hand with tactile palm-finger coordination",
+    "url": "https://doi.org/10.1038/s41467-025-57741-6",
+    "date": "2026-10-12"
   }
 ]
