@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "cc48c5c9289e338164c6a43fbeb0cc0e7d55332c",
-    "title": "ReKnit-Care: A Seamless-Knitted Sensing Glove for Sensory Rehabilitation and Adaptive Haptic Feedback",
-    "url": "https://doi.org/10.1145/3689050.3705979",
-    "date": "2026-07-25"
-  },
-  {
-    "paperId": "fa6d9d8521b8317c91f3e092c729acd8b36a3095",
-    "title": "Soft Growing Pin for High-Extension Shape-Changing Displays",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522001",
-    "date": "2026-07-25"
-  },
-  {
-    "paperId": "6bbffb10974e2437cdb97fec6bf088cd332a5881",
-    "title": "A Bioinspired Robotic Finger for Multimodal Tactile Sensing Powered by Fiber Optic Sensors",
-    "url": "https://doi.org/10.1002/aisy.202400175",
-    "date": "2026-07-25"
-  },
-  {
-    "paperId": "c744ce820a7abcf522d7d53c6b24dfb5f8722326",
-    "title": "Woven Fabric Muscle for Soft Wearable Robotic Application Using Two-Dimensional Zigzag Shape Memory Alloy Actuator",
-    "url": "https://doi.org/10.1089/soro.2023.0171",
-    "date": "2026-07-25"
-  },
-  {
-    "paperId": "edabf6f8c9715060eadd4fa1ee22a8afb20d3a09",
-    "title": "A Motion\u2010Sensing Integrated Soft Robot with Triboelectric Nanogenerator for Pipeline Inspection",
-    "url": "https://doi.org/10.1002/aisy.202400643",
-    "date": "2026-07-25"
-  },
-  {
     "paperId": "df0f1fcdbb3bf95c84a7b1f9a5ff20bafce64a3d",
     "title": "Vibration control of graphene-origami-enabled meta-material beams with magnetostrictive coatings under temperature gradient",
     "url": "https://doi.org/10.1007/s00707-023-03823-9",
@@ -2398,5 +2368,35 @@
     "title": "Soft robotic hand with tactile palm-finger coordination",
     "url": "https://doi.org/10.1038/s41467-025-57741-6",
     "date": "2026-10-12"
+  },
+  {
+    "paperId": "501e6cbbca4d2c852e10185519a60d068b462ff2",
+    "title": "Extremely durable electrical impedance tomography\u2013based soft and ultrathin wearable e-skin for three-dimensional tactile interfaces",
+    "url": "https://doi.org/10.1126/sciadv.adr1099",
+    "date": "2026-10-13"
+  },
+  {
+    "paperId": "d17ec05b0bc627d53de49929ba37d2de2cec55bd",
+    "title": "Modular shape-changing tensegrity-blocks enable self-assembling robotic structures",
+    "url": "https://doi.org/10.1038/s41467-025-60982-0",
+    "date": "2026-10-13"
+  },
+  {
+    "paperId": "23647175626672603a7d2cdb4bd74be0884dec15",
+    "title": "A Variable Stiffness Bioinspired Swallowing Gripper Based on Particle Jamming",
+    "url": "https://doi.org/10.1089/soro.2023.0241",
+    "date": "2026-10-13"
+  },
+  {
+    "paperId": "3b965c72c862a6a6a179e7d852c432ec076669ed",
+    "title": "A Review of the Current State of Research and Future Prospectives on Stimulus-Responsive Shape Memory Polymer Composite and Its Blends",
+    "url": "https://doi.org/10.3390/jcs8080324",
+    "date": "2026-10-13"
+  },
+  {
+    "paperId": "b1b9f9f73ed826fd0844cef6e8bd7fc9904a05a5",
+    "title": "HiPalm: Wearable Device for Affective Tactile Interpersonal Communication",
+    "url": "https://doi.org/10.1145/3689050.3705974",
+    "date": "2026-10-13"
   }
 ]
