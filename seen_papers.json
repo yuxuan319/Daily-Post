@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "df0f1fcdbb3bf95c84a7b1f9a5ff20bafce64a3d",
-    "title": "Vibration control of graphene-origami-enabled meta-material beams with magnetostrictive coatings under temperature gradient",
-    "url": "https://doi.org/10.1007/s00707-023-03823-9",
-    "date": "2026-07-26"
-  },
-  {
-    "paperId": "ec4cf37e226a1ea738a629a7bb699c24c3e61a1d",
-    "title": "Tactile Perception-Based Depth and Angle Control During Robot-Assisted Bent Bone Grinding",
-    "url": "https://doi.org/10.1109/TII.2023.3256369",
-    "date": "2026-07-26"
-  },
-  {
-    "paperId": "b39c8782a1090c40aab54c3873ad217578c92e09",
-    "title": "Machine learning-assisted investigation on nonlinear vibration analysis of bio-inspired auxetic tubes",
-    "url": "https://doi.org/10.1108/ijsi-12-2024-0206",
-    "date": "2026-07-26"
-  },
-  {
-    "paperId": "824b88d53b7fd5ba487e1c13397dc037f6c8e98b",
-    "title": "Thermomechanical active vibration control of auxetic plates with magnetostrictive layers",
-    "url": "https://doi.org/10.1007/s40430-023-04597-w",
-    "date": "2026-07-26"
-  },
-  {
-    "paperId": "644d3561e530c0b0fd16f98535b74460b2013911",
-    "title": "The effect of hexachiral auxetic metamaterial on the thermomechanical vibration response of doubly\u2010curved sandwich nanoplates with foam FGM face layers",
-    "url": "https://doi.org/10.1002/zamm.70202",
-    "date": "2026-07-26"
-  },
-  {
     "paperId": "160dc611076bc764247ff910006f82b696b24972",
     "title": "Haptiknit: Distributed stiffness knitting for wearable haptics",
     "url": "https://doi.org/10.1126/scirobotics.ado3887",
@@ -2398,5 +2368,35 @@
     "title": "HiPalm: Wearable Device for Affective Tactile Interpersonal Communication",
     "url": "https://doi.org/10.1145/3689050.3705974",
     "date": "2026-10-13"
+  },
+  {
+    "paperId": "a35ef120340c818aeab55fd6eab8540a471d3dbc",
+    "title": "Highly Hydrophobic, Self\u2010Healing, and Stretchable N\u2010type Ionogels for High\u2010Performance Wearable Thermoelectrics",
+    "url": "https://doi.org/10.1002/adfm.75062",
+    "date": "2026-10-14"
+  },
+  {
+    "paperId": "974299a45d04bd3f000132bae2fb0377e0372045",
+    "title": "Haptic Sensing and Feedback Techniques toward Virtual Reality",
+    "url": "https://doi.org/10.34133/research.0333",
+    "date": "2026-10-14"
+  },
+  {
+    "paperId": "c6128aeae19673dd7564c85ce056f4bc28fbfb34",
+    "title": "A Wearable Stiffness-Rendering Haptic Device with a Honeycomb Jamming Mechanism for Bilateral Teleoperation",
+    "url": "https://doi.org/10.3390/machines13010027",
+    "date": "2026-10-14"
+  },
+  {
+    "paperId": "7b8097273646c89ccaab5d2c048b1248a0cc992e",
+    "title": "Switchable Adhesive Based on Shape Memory Polymer with Micropillars of Different Heights for Laser-Driven Noncontact Transfer Printing.",
+    "url": "https://doi.org/10.1021/acsami.3c16282",
+    "date": "2026-10-14"
+  },
+  {
+    "paperId": "9fc9b425099931e6ef374b058817a12a7db5463a",
+    "title": "Free vibration and buckling analysis of FG graphene origami-enabled auxetic metamaterial beams in a thermal environment",
+    "url": "https://doi.org/10.1007/s00707-024-04197-2",
+    "date": "2026-10-14"
   }
 ]
