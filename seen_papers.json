@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "160dc611076bc764247ff910006f82b696b24972",
-    "title": "Haptiknit: Distributed stiffness knitting for wearable haptics",
-    "url": "https://doi.org/10.1126/scirobotics.ado3887",
-    "date": "2026-07-27"
-  },
-  {
-    "paperId": "eb0269c11531cf9a4a577678da21406e95e86363",
-    "title": "Robotecture: A Modular Shape-changing Interface Using Actuated Support Beams",
-    "url": "https://doi.org/10.1145/3689050.3704925",
-    "date": "2026-07-27"
-  },
-  {
-    "paperId": "56eabb3bf68d53963ac9e5b3e33df4336043ead8",
-    "title": "In-Hand Singulation and Scooping Manipulation with a 5 DOF Tactile Gripper",
-    "url": "https://doi.org/10.1109/IROS58592.2024.10801940",
-    "date": "2026-07-27"
-  },
-  {
-    "paperId": "80c87e64338b503202e9ebaa18d27ffb0e2e72b6",
-    "title": "Wearable Electrohydraulic Actuation For Salient Full\u2010Fingertip Haptic Feedback",
-    "url": "https://doi.org/10.1002/admt.202401525",
-    "date": "2026-07-27"
-  },
-  {
-    "paperId": "d5626f37c33a54b2dc89c7ef0fb91fd1bb0823b2",
-    "title": "Multistable Soft Robots Assembled from Bistable Auxetic Building Blocks",
-    "url": "https://doi.org/10.1002/aisy.202400529",
-    "date": "2026-07-27"
-  },
-  {
     "paperId": "62635f6630aed8d89bd6d58db37c96548e4e8095",
     "title": "MemoGlove: Capturing and Recreating XR Memory with Haptic Interaction Traces",
     "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00025",
@@ -2398,5 +2368,35 @@
     "title": "Free vibration and buckling analysis of FG graphene origami-enabled auxetic metamaterial beams in a thermal environment",
     "url": "https://doi.org/10.1007/s00707-024-04197-2",
     "date": "2026-10-14"
+  },
+  {
+    "paperId": "cc48c5c9289e338164c6a43fbeb0cc0e7d55332c",
+    "title": "ReKnit-Care: A Seamless-Knitted Sensing Glove for Sensory Rehabilitation and Adaptive Haptic Feedback",
+    "url": "https://doi.org/10.1145/3689050.3705979",
+    "date": "2026-10-15"
+  },
+  {
+    "paperId": "e0ae67443cc54777a6810d1ca5e8c95bc486d5d0",
+    "title": "A Review of Olfactory Display Designs for Virtual Reality Environments",
+    "url": "https://doi.org/10.1145/3665243",
+    "date": "2026-10-15"
+  },
+  {
+    "paperId": "810f1bbd7932f67e10bd331ad3e17ae84bd70b27",
+    "title": "Multimodal 5\u2010DOF Stretchable Electromagnetic Actuators toward Haptic Information Delivery",
+    "url": "https://doi.org/10.1002/adfm.202314515",
+    "date": "2026-10-15"
+  },
+  {
+    "paperId": "49e6d8e909829224d56028bcf299bb4b699945cc",
+    "title": "4D printing and programming of continuous fibre-reinforced shape memory polymer composites",
+    "url": "https://doi.org/10.1016/j.eurpolymj.2024.112988",
+    "date": "2026-10-15"
+  },
+  {
+    "paperId": "6c00d45bdc4d24e9b9c8589cab652eb306e37dc1",
+    "title": "Toward Sustainable Haptics: A Wearable Vibrotactile Solar\u2010Powered System with Biodegradable Components",
+    "url": "https://doi.org/10.1002/admt.202301265",
+    "date": "2026-10-15"
   }
 ]
