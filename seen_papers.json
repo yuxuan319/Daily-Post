@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "62635f6630aed8d89bd6d58db37c96548e4e8095",
-    "title": "MemoGlove: Capturing and Recreating XR Memory with Haptic Interaction Traces",
-    "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00025",
-    "date": "2026-07-28"
-  },
-  {
-    "paperId": "9660b5b96b351e159742768ed0133cb59efb08a7",
-    "title": "WireShape - A Hybrid Prototyping Process for Fast & Reliable Manufacturing of Inflatable Interface Props with CNC-Fabricated Heat\u2013Sealing Tools",
-    "url": "https://doi.org/10.1145/3623263.3623363",
-    "date": "2026-07-28"
-  },
-  {
-    "paperId": "dccbc07a9659cc727aa4375cd7bc8d256b34c1a9",
-    "title": "Tuning interfacial properties of phospholipid stabilised oil-water interfaces by changing the phospholipid headgroup or fatty acyl chain.",
-    "url": "https://doi.org/10.1016/j.jcis.2025.01.215",
-    "date": "2026-07-28"
-  },
-  {
-    "paperId": "53e05521336d93b6a767bd74ed8f579bf244af64",
-    "title": "Evaluating ActuAir: Building Occupants' Experiences of a Shape-Changing Air Quality Display",
-    "url": "https://doi.org/10.1145/3613904.3642396",
-    "date": "2026-07-28"
-  },
-  {
-    "paperId": "c9d325e8089b0c3582562ad01ffa2de151d1b0d9",
-    "title": "Integration of a Shape Memory Alloy with a Soft Pneumatic Actuator to Improve the Haptic Interaction Performance of a Soft Social Robot",
-    "url": "https://doi.org/10.1145/3613905.3650922",
-    "date": "2026-07-28"
-  },
-  {
     "paperId": "42f1f4aa366fd9a8fe4feefb4d4767d50b602ea5",
     "title": "A Real\u2010Time Imaging Sensing System to Visualize Elastomer Surface Profile Evolution for Dynamic Tactile Recognition",
     "url": "https://doi.org/10.1002/adfm.202416731",
@@ -2398,5 +2368,35 @@
     "title": "Toward Sustainable Haptics: A Wearable Vibrotactile Solar\u2010Powered System with Biodegradable Components",
     "url": "https://doi.org/10.1002/admt.202301265",
     "date": "2026-10-15"
+  },
+  {
+    "paperId": "8f6761098c5f47129a5a2605a1ea98dacaab4e67",
+    "title": "Nanolayer\u2010Encapsulated Stretchable Liquid\u2010Metal Sheets for Thermal Management",
+    "url": "https://doi.org/10.1002/adfm.202527281",
+    "date": "2026-10-16"
+  },
+  {
+    "paperId": "467c8ef9e35d229ba00ffaea5faa4adb36db229b",
+    "title": "A portable inflatable soft wearable robot to assist the shoulder during industrial work",
+    "url": "https://doi.org/10.1126/scirobotics.adi2377",
+    "date": "2026-10-16"
+  },
+  {
+    "paperId": "571054d344d8c0bddd59e603f22226e73cd8ccad",
+    "title": "Combining Augmented Reality Guidance and Virtual Constraints for Skilled Epidural Needle Placement",
+    "url": "https://doi.org/10.3390/machines14040446",
+    "date": "2026-10-16"
+  },
+  {
+    "paperId": "c744ce820a7abcf522d7d53c6b24dfb5f8722326",
+    "title": "Woven Fabric Muscle for Soft Wearable Robotic Application Using Two-Dimensional Zigzag Shape Memory Alloy Actuator",
+    "url": "https://doi.org/10.1089/soro.2023.0171",
+    "date": "2026-10-16"
+  },
+  {
+    "paperId": "b87a04d4a67c57d61259c442822792474e7b2dbe",
+    "title": "Metamaterial-Reinforced Origami Soft Actuators: Reconfigurable Stiffness and Deformation",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020826",
+    "date": "2026-10-16"
   }
 ]
