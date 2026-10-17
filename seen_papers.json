@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "42f1f4aa366fd9a8fe4feefb4d4767d50b602ea5",
-    "title": "A Real\u2010Time Imaging Sensing System to Visualize Elastomer Surface Profile Evolution for Dynamic Tactile Recognition",
-    "url": "https://doi.org/10.1002/adfm.202416731",
-    "date": "2026-07-29"
-  },
-  {
-    "paperId": "de86990a95949b7208c6e3bcc646eb13c86cb399",
-    "title": "Full freedom-of-motion actuators as advanced haptic interfaces.",
-    "url": "https://doi.org/10.1126/science.adt2481",
-    "date": "2026-07-29"
-  },
-  {
-    "paperId": "e316866c610c9cfad49a2601ecba1a6657e4f811",
-    "title": "VR Calm+: Furry Stress Ball as a Haptic Modality for Relaxation in Virtual Reality",
-    "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00128",
-    "date": "2026-07-29"
-  },
-  {
-    "paperId": "e0895fda844a2f3b45f10eb05eaf01d94c1439ca",
-    "title": "Design development and testing of a morphable vehicle underbody shield actuated by shape memory alloys",
-    "url": "https://doi.org/10.1088/1361-665X/addeb1",
-    "date": "2026-07-29"
-  },
-  {
-    "paperId": "9e72c3dd986cb2cadaf35668b916d8a731bb0962",
-    "title": "Multichannel Vibrotactile Glove: Validation of a New Device Designed to Sense Vibrations",
-    "url": "https://doi.org/10.1109/TOH.2024.3475740",
-    "date": "2026-07-29"
-  },
-  {
     "paperId": "a38be9634f88f9ff3e7db67660efb927ee963d89",
     "title": "Electroactive soft actuators utilizing PEDOT:PSS and 3D lithium-ion-conducting phosphate columnar liquid crystals embedded in a porous polyethylene membrane",
     "url": "https://doi.org/10.1080/14686996.2025.2475738",
@@ -2398,5 +2368,35 @@
     "title": "Metamaterial-Reinforced Origami Soft Actuators: Reconfigurable Stiffness and Deformation",
     "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020826",
     "date": "2026-10-16"
+  },
+  {
+    "paperId": "23008b24615b0713ff3b064b2ed774ffc0293806",
+    "title": "Stretchable ionic\u2013electronic bilayer hydrogel electronics enable in situ detection of solid-state epidermal biomarkers",
+    "url": "https://doi.org/10.1038/s41563-024-01918-9",
+    "date": "2026-10-17"
+  },
+  {
+    "paperId": "8e145dac270589a44c16e1451c356753ed21307d",
+    "title": "Recent Progress on Flexible Self-Powered Tactile Sensing Platforms for Health Monitoring and Robotics.",
+    "url": "https://doi.org/10.1002/smll.202405520",
+    "date": "2026-10-17"
+  },
+  {
+    "paperId": "a61bd8952f42d643e98e480b4e4b5601d207e90a",
+    "title": "The Feeling of Virtual: XR, Haptics, and 3D Graphics",
+    "url": "https://doi.org/10.1145/3750069.3757882",
+    "date": "2026-10-17"
+  },
+  {
+    "paperId": "8a9bf468f7ebb0e2eeeca9b3ded72b02705857bf",
+    "title": "Multishape Programming of Shape Memory Polymer Assemblies Fabricated by Vat Photopolymerization-Based 3D Printing and Interfacial Welding.",
+    "url": "https://doi.org/10.1021/acsami.3c14140",
+    "date": "2026-10-17"
+  },
+  {
+    "paperId": "e044e7cf0cd7b2b17fcdc2d374d91fc3d0bd2ff9",
+    "title": "Multistable nonlinear energy sink with variable stiffness of seismic vibration control",
+    "url": "https://doi.org/10.1016/j.engstruct.2024.119552",
+    "date": "2026-10-17"
   }
 ]
