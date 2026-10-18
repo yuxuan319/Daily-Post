@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "a38be9634f88f9ff3e7db67660efb927ee963d89",
-    "title": "Electroactive soft actuators utilizing PEDOT:PSS and 3D lithium-ion-conducting phosphate columnar liquid crystals embedded in a porous polyethylene membrane",
-    "url": "https://doi.org/10.1080/14686996.2025.2475738",
-    "date": "2026-07-30"
-  },
-  {
-    "paperId": "378b4cc29a196749dc516e07f3702513997f66fe",
-    "title": "Stretch-based kirigami structure with folding lines for stretchable electronics",
-    "url": "https://doi.org/10.1038/s41528-025-00409-4",
-    "date": "2026-07-30"
-  },
-  {
-    "paperId": "d3db554d16cee7dc9428e781bdb1e74d0e9f4557",
-    "title": "Co-Design of Soft Gripper with Neural Physics",
-    "url": "https://doi.org/10.48550/arXiv.2505.20404",
-    "date": "2026-07-30"
-  },
-  {
-    "paperId": "85c3b8431a1c4adf6eedb24ed1331481f7a88e90",
-    "title": "Shape-Adaptive Robotics: Programmable Morphing through SMA and SMP Integration.",
-    "url": "https://doi.org/10.1177/21695172261437932",
-    "date": "2026-07-30"
-  },
-  {
-    "paperId": "f6a059fd01f3ea43ba044ad73a5d452a18b0cf73",
-    "title": "Digital Mechanical Metamaterial: Encoding Mechanical Information with Graphical Stiffness Pattern for Adaptive Soft Machines",
-    "url": "https://doi.org/10.1002/adma.202304302",
-    "date": "2026-07-30"
-  },
-  {
     "paperId": "1ba2f877d52edd388aafb714e4a9d6b33a6f9ec1",
     "title": "Fiery Hands: Designing Thermal Glove through Thermal and Tactile Integration for Virtual Object Manipulation",
     "url": "https://doi.org/10.1145/3654777.3676457",
@@ -2398,5 +2368,35 @@
     "title": "Multistable nonlinear energy sink with variable stiffness of seismic vibration control",
     "url": "https://doi.org/10.1016/j.engstruct.2024.119552",
     "date": "2026-10-17"
+  },
+  {
+    "paperId": "998c7920d630ee5ffa8ae37bf758b8a849e81bb8",
+    "title": "Stretchable p/n\u2010Pair Thermoelectric Fibers Based on Core (Ag)\u2013Shell (Ag2Se) Structure for Wearable Electronics",
+    "url": "https://doi.org/10.1002/adfm.202521163",
+    "date": "2026-10-18"
+  },
+  {
+    "paperId": "fa6d9d8521b8317c91f3e092c729acd8b36a3095",
+    "title": "Soft Growing Pin for High-Extension Shape-Changing Displays",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522001",
+    "date": "2026-10-18"
+  },
+  {
+    "paperId": "d6ef28f951493f1ef505a124c931757ef79c2583",
+    "title": "breatHaptics: Enabling Granular Rendering of Breath Signals via Haptics using Shape-Changing Soft Interfaces",
+    "url": "https://doi.org/10.1145/3623509.3633372",
+    "date": "2026-10-18"
+  },
+  {
+    "paperId": "f0421d2b5c2b24d8030039c9bf990fa2a1bfc86d",
+    "title": "Variable Transparent POP Display Which Enables to Change Apparent Shape on Frame Design By Polarized Light Controls",
+    "url": "https://doi.org/10.36463/idw.2025.1197",
+    "date": "2026-10-18"
+  },
+  {
+    "paperId": "de86990a95949b7208c6e3bcc646eb13c86cb399",
+    "title": "Full freedom-of-motion actuators as advanced haptic interfaces.",
+    "url": "https://doi.org/10.1126/science.adt2481",
+    "date": "2026-10-18"
   }
 ]
