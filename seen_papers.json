@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "1ba2f877d52edd388aafb714e4a9d6b33a6f9ec1",
-    "title": "Fiery Hands: Designing Thermal Glove through Thermal and Tactile Integration for Virtual Object Manipulation",
-    "url": "https://doi.org/10.1145/3654777.3676457",
-    "date": "2026-07-31"
-  },
-  {
-    "paperId": "223b3f0a3600b0b8db677be59182573d952c6bd3",
-    "title": "Inflatable Textures: Creating Dynamic Haptic Surfaces with Inflatables",
-    "url": "https://doi.org/10.1145/3623509.3635268",
-    "date": "2026-07-31"
-  },
-  {
-    "paperId": "9e91e242c98057687cbad5e3e9310b67bfd53501",
-    "title": "Tactile Feedback in Upper Limb Prosthetics: A Pilot Study on Trans-Radial Amputees Comparing Different Haptic Modalities",
-    "url": "https://doi.org/10.1109/TOH.2023.3322559",
-    "date": "2026-07-31"
-  },
-  {
-    "paperId": "a0c9f20afa18c32530ed79d491f4f0717283213f",
-    "title": "Synergistic effects of strain rate and temperature on the superelastic\u2013plastic behaviors of nanocrystalline NiTi shape memory alloy: A molecular dynamic study",
-    "url": "https://doi.org/10.1063/5.0266283",
-    "date": "2026-07-31"
-  },
-  {
-    "paperId": "b9c9a2ca60b5094b1b970f6a5e7192be030aefb7",
-    "title": "Selective Actuation Enabled Multifunctional Magneto\u2010Mechanical Metamaterial for Programming Elastic Wave Propagation",
-    "url": "https://doi.org/10.1002/adfm.202422325",
-    "date": "2026-07-31"
-  },
-  {
     "paperId": "d314c3cdb03a58305d0fe27e36c47b415e61342a",
     "title": "Clutchable Fabric Actuator for Energy\u2010Efficient Wearable Robots",
     "url": "https://doi.org/10.1002/adfm.202415099",
@@ -2398,5 +2368,35 @@
     "title": "Full freedom-of-motion actuators as advanced haptic interfaces.",
     "url": "https://doi.org/10.1126/science.adt2481",
     "date": "2026-10-18"
+  },
+  {
+    "paperId": "4c6a94d2a2f928e7612cfec161c03a2a0a9824d4",
+    "title": "Damping Supramolecular Elastomer for Steady Hypothermic Sensing",
+    "url": "https://doi.org/10.1002/adfm.202424996",
+    "date": "2026-10-19"
+  },
+  {
+    "paperId": "75b0d43ed9ea53404f61add67b20f61a588f67cb",
+    "title": "A metre-scale vertical origami hydrogel panel for atmospheric water harvesting in Death Valley",
+    "url": "https://doi.org/10.1038/s44221-025-00447-2",
+    "date": "2026-10-19"
+  },
+  {
+    "paperId": "3405f030edd9b12797513f3eaccc2211410c37cd",
+    "title": "BBAD: Blockchain-Backed Assault Detection for Cyber Physical Systems",
+    "url": "https://doi.org/10.1109/ACCESS.2024.3404656",
+    "date": "2026-10-19"
+  },
+  {
+    "paperId": "fb7a5b1e0261b5794a3b884712aa2e098fa65a53",
+    "title": "Electro\u2010thermo\u2010mechanical characterization of shape memory alloy wires for actuator and sensor applications\u2014Part 1: The effects of training",
+    "url": "https://doi.org/10.1002/eng2.12867",
+    "date": "2026-10-19"
+  },
+  {
+    "paperId": "edabf6f8c9715060eadd4fa1ee22a8afb20d3a09",
+    "title": "A Motion\u2010Sensing Integrated Soft Robot with Triboelectric Nanogenerator for Pipeline Inspection",
+    "url": "https://doi.org/10.1002/aisy.202400643",
+    "date": "2026-10-19"
   }
 ]
