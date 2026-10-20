@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "d314c3cdb03a58305d0fe27e36c47b415e61342a",
-    "title": "Clutchable Fabric Actuator for Energy\u2010Efficient Wearable Robots",
-    "url": "https://doi.org/10.1002/adfm.202415099",
-    "date": "2026-08-01"
-  },
-  {
-    "paperId": "3786c8c12746cbcc7f8b8f3b425126d36fd81ca3",
-    "title": "MXene\u2010Assisted Rapid Gelation and Foaming of Gradient Hydrogel as Human\u2010Machine Interfaces with Regulated Charge Accumulation/Dissipation and Enhanced Tactile Sensing Capability",
-    "url": "https://doi.org/10.1002/adma.202510285",
-    "date": "2026-08-01"
-  },
-  {
-    "paperId": "bc7e70fbd447ee9249d6afe8b925028149e4601f",
-    "title": "HaPet: A desktop-level hemispherical encountered-type haptic display providing visuo-haptic feedback in virtual reality",
-    "url": "https://doi.org/10.1145/3758871.3758880",
-    "date": "2026-08-01"
-  },
-  {
-    "paperId": "0fb801de3df336803ee568422f77ad70d64e04cb",
-    "title": "FiDTouch: A 3D Wearable Haptic Display for the Finger Pad",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123306",
-    "date": "2026-08-01"
-  },
-  {
-    "paperId": "4b4ce63a8a5cdc98ed4dee072bc0ae261ab02466",
-    "title": "Recent Advances of Auxetic Metamaterials in Smart Materials and Structural Systems",
-    "url": "https://doi.org/10.1002/adfm.202421746",
-    "date": "2026-08-01"
-  },
-  {
     "paperId": "8fc011eb49bfafd5d36d7040067fd67e2fd47211",
     "title": "All-in-One Haptic Thimble for Vibration, Pressure, and Thermal Feedback: Investigating the Impact of Vibration Frequency on Thermal Perception",
     "url": "https://doi.org/10.1109/WHC64065.2025.11123341",
@@ -2398,5 +2368,35 @@
     "title": "A Motion\u2010Sensing Integrated Soft Robot with Triboelectric Nanogenerator for Pipeline Inspection",
     "url": "https://doi.org/10.1002/aisy.202400643",
     "date": "2026-10-19"
+  },
+  {
+    "paperId": "160dc611076bc764247ff910006f82b696b24972",
+    "title": "Haptiknit: Distributed stiffness knitting for wearable haptics",
+    "url": "https://doi.org/10.1126/scirobotics.ado3887",
+    "date": "2026-10-20"
+  },
+  {
+    "paperId": "3e67279da4d6bff5960b98309eeee91b42a04a74",
+    "title": "Shape and topology morphing of closed surfaces integrating origami and kirigami",
+    "url": "https://doi.org/10.1126/sciadv.ads5659",
+    "date": "2026-10-20"
+  },
+  {
+    "paperId": "1f5f977fc1c60275c3132eea2e18f85f09f06c8b",
+    "title": "Plant-Inspired Elastic-Hydraulic Tactile Sensing Enables Quantitative Stiffness Estimation in Soft Robots.",
+    "url": "https://doi.org/10.1177/21695172261453210",
+    "date": "2026-10-20"
+  },
+  {
+    "paperId": "c9d325e8089b0c3582562ad01ffa2de151d1b0d9",
+    "title": "Integration of a Shape Memory Alloy with a Soft Pneumatic Actuator to Improve the Haptic Interaction Performance of a Soft Social Robot",
+    "url": "https://doi.org/10.1145/3613905.3650922",
+    "date": "2026-10-20"
+  },
+  {
+    "paperId": "b9c9a2ca60b5094b1b970f6a5e7192be030aefb7",
+    "title": "Selective Actuation Enabled Multifunctional Magneto\u2010Mechanical Metamaterial for Programming Elastic Wave Propagation",
+    "url": "https://doi.org/10.1002/adfm.202422325",
+    "date": "2026-10-20"
   }
 ]
