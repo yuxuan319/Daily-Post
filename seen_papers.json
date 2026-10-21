@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "8fc011eb49bfafd5d36d7040067fd67e2fd47211",
-    "title": "All-in-One Haptic Thimble for Vibration, Pressure, and Thermal Feedback: Investigating the Impact of Vibration Frequency on Thermal Perception",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123341",
-    "date": "2026-08-02"
-  },
-  {
-    "paperId": "cee296661ae892a7cd386b61989ad855fa4967e7",
-    "title": "2D material-enhanced multi-fold self-sensing and programmable deployable lattice structure",
-    "url": "https://doi.org/10.1038/s41598-024-70607-z",
-    "date": "2026-08-02"
-  },
-  {
-    "paperId": "89216b57fa8b2a6c5537b9a6e4849a229f5e3685",
-    "title": "Bioactive prosthesis interface compositing variable-stiffness hydrogels regulates stem cells fates to facilitate osseointegration through mechanotransduction.",
-    "url": "https://doi.org/10.1016/j.ijbiomac.2023.129073",
-    "date": "2026-08-02"
-  },
-  {
-    "paperId": "0f0a5648683501e840bbef415b9d41391ca4eb11",
-    "title": "From Gentle Touch to Sharp Scratch: A Shape-Changing Haptic Interface Driven by Shape-Memory Alloy for Affective Touch",
-    "url": "https://doi.org/10.1145/3746058.3758431",
-    "date": "2026-08-02"
-  },
-  {
-    "paperId": "1ed78589d65f55d30dcf76425b259e8b1783a04d",
-    "title": "Hybrid Soft Electrostatic Metamaterial Gripper for Multi-surface, Multi-object Adaptation",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522020",
-    "date": "2026-08-02"
-  },
-  {
     "paperId": "126f0a22daee9d511f3e1c17449bb8e6b4a2ed23",
     "title": "A Wearable Soft Actuator for Directional Tactile Stimulation: Design and Testing",
     "url": "https://doi.org/10.1002/aisy.202400899",
@@ -2398,5 +2368,35 @@
     "title": "Selective Actuation Enabled Multifunctional Magneto\u2010Mechanical Metamaterial for Programming Elastic Wave Propagation",
     "url": "https://doi.org/10.1002/adfm.202422325",
     "date": "2026-10-20"
+  },
+  {
+    "paperId": "3a4c672122b5133876df3c65159004e13f3187c8",
+    "title": "Low-voltage wearable tactile display with thermo-pneumatic actuation",
+    "url": "https://doi.org/10.1038/s41528-025-00426-3",
+    "date": "2026-10-21"
+  },
+  {
+    "paperId": "eb0269c11531cf9a4a577678da21406e95e86363",
+    "title": "Robotecture: A Modular Shape-changing Interface Using Actuated Support Beams",
+    "url": "https://doi.org/10.1145/3689050.3704925",
+    "date": "2026-10-21"
+  },
+  {
+    "paperId": "31137812e0d61dff9879a5bfc40ebe150b5059eb",
+    "title": "Wearable bioadhesive ultrasound shear wave elastography",
+    "url": "https://doi.org/10.1126/sciadv.adk8426",
+    "date": "2026-10-21"
+  },
+  {
+    "paperId": "ab91e771c3e8e4748f318bed2a3f9ee8dc338d82",
+    "title": "A comparative analysis between deep neural network-based 1D-CNN and LSTM models to harness the self-sensing property of the shape memory alloy wire actuator for position estimation",
+    "url": "https://doi.org/10.1088/1361-665X/ad610c",
+    "date": "2026-10-21"
+  },
+  {
+    "paperId": "dca922247cc38d7e3bdb8cea42662d798485f06c",
+    "title": "Hierarchical Gradient Structural Porous Metamaterial with Selective Spectral Response for Daytime Passive Radiative Cooling",
+    "url": "https://doi.org/10.1002/adfm.202406393",
+    "date": "2026-10-21"
   }
 ]
