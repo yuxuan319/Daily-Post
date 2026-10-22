@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "126f0a22daee9d511f3e1c17449bb8e6b4a2ed23",
-    "title": "A Wearable Soft Actuator for Directional Tactile Stimulation: Design and Testing",
-    "url": "https://doi.org/10.1002/aisy.202400899",
-    "date": "2026-08-03"
-  },
-  {
-    "paperId": "2f2b546d6b4cf481b3f38528db5df89215d09381",
-    "title": "Synthesis of PDMS Chain Structure with Introduced Dynamic Covalent Bonding for High\u2010Performance Rehealable Tactile Sensor Application",
-    "url": "https://doi.org/10.1002/smtd.202400163",
-    "date": "2026-08-03"
-  },
-  {
-    "paperId": "d05f9e0ae80c2c902a3ced6f7653740f700958b9",
-    "title": "Everything-Grasping Gripper: A Universal Gripper with Synergistic Suction\u2013Grasping Capabilities for Cross-Scale and Cross-State Manipulation",
-    "url": "https://doi.org/10.1177/21695172251400144",
-    "date": "2026-08-03"
-  },
-  {
-    "paperId": "5229381187b5dabce309166f682cc3d9d38e0d17",
-    "title": "Fibrous MXene Synapse-Based Biomimetic Tactile Nervous System for Multimodal Perception and Memory.",
-    "url": "https://doi.org/10.1002/smll.202400165",
-    "date": "2026-08-03"
-  },
-  {
-    "paperId": "4fa8e5360ae4317d2a61e7f08f5b8702e69c6a97",
-    "title": "Three-dimensional micro strain gauges as flexible, modular tactile sensors for versatile integration with micro- and macroelectronics",
-    "url": "https://doi.org/10.1126/sciadv.adp6094",
-    "date": "2026-08-03"
-  },
-  {
     "paperId": "4b25049ba109a0ca753abc3e167f142a564c3e78",
     "title": "Highly Stretchable Thermoelectric Fiber with Embedded Copper(I) Iodide Nanoparticles for a Multimodal Temperature, Strain, and Pressure Sensor in Wearable Electronics",
     "url": "https://doi.org/10.1002/adfm.202407759",
@@ -2398,5 +2368,35 @@
     "title": "Hierarchical Gradient Structural Porous Metamaterial with Selective Spectral Response for Daytime Passive Radiative Cooling",
     "url": "https://doi.org/10.1002/adfm.202406393",
     "date": "2026-10-21"
+  },
+  {
+    "paperId": "a38be9634f88f9ff3e7db67660efb927ee963d89",
+    "title": "Electroactive soft actuators utilizing PEDOT:PSS and 3D lithium-ion-conducting phosphate columnar liquid crystals embedded in a porous polyethylene membrane",
+    "url": "https://doi.org/10.1080/14686996.2025.2475738",
+    "date": "2026-10-22"
+  },
+  {
+    "paperId": "0a8bf379c82e3abdb195af6723fa3e0098f6ed59",
+    "title": "4D printing of trigger-free shape-memory hydrogels towards self-adaptive substrates for bioelectronics",
+    "url": "https://doi.org/10.1038/s41467-025-67323-1",
+    "date": "2026-10-22"
+  },
+  {
+    "paperId": "d4ffa47d2d7305f51846903c46d5ce19bb2a69f8",
+    "title": "A Novel Design of Soft Pneumatic Actuator with Variable Stiffness Using Granular Jamming",
+    "url": "https://doi.org/10.1109/ICARM62033.2024.10715751",
+    "date": "2026-10-22"
+  },
+  {
+    "paperId": "6fd3f51c26ae41abe83568cfc619d9a2b015df21",
+    "title": "A Self\u2010Powered, Shapeable, and Wearable Sensor for Effective Hazard Prevention and Biomechanical Monitoring",
+    "url": "https://doi.org/10.1002/sys3.3",
+    "date": "2026-10-22"
+  },
+  {
+    "paperId": "8fc011eb49bfafd5d36d7040067fd67e2fd47211",
+    "title": "All-in-One Haptic Thimble for Vibration, Pressure, and Thermal Feedback: Investigating the Impact of Vibration Frequency on Thermal Perception",
+    "url": "https://doi.org/10.1109/WHC64065.2025.11123341",
+    "date": "2026-10-22"
   }
 ]
