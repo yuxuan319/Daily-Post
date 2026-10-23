@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "4b25049ba109a0ca753abc3e167f142a564c3e78",
-    "title": "Highly Stretchable Thermoelectric Fiber with Embedded Copper(I) Iodide Nanoparticles for a Multimodal Temperature, Strain, and Pressure Sensor in Wearable Electronics",
-    "url": "https://doi.org/10.1002/adfm.202407759",
-    "date": "2026-08-04"
-  },
-  {
-    "paperId": "66c9ca7431865f4d883c18f90c8d3222950b139c",
-    "title": "A DNA origami device spatially controls CD95 signalling to induce immune tolerance in rheumatoid arthritis",
-    "url": "https://doi.org/10.1038/s41563-024-01865-5",
-    "date": "2026-08-04"
-  },
-  {
-    "paperId": "75462f81afdec9c207b568e65410f029e7b2e083",
-    "title": "Tremendous Stiffness\u2010Changing Polymer Networks Enabled by Touch\u2010Induced Crystallization",
-    "url": "https://doi.org/10.1002/adfm.202411560",
-    "date": "2026-08-04"
-  },
-  {
-    "paperId": "d1b5294bd40df254e34f3e50d9d241e852307f25",
-    "title": "Soft Artificial Muscle Based on Pre-Detwinned Shape Memory Alloy Spring Actuator Achieving High Passive Assistive Torque for Wearable Robot",
-    "url": "https://doi.org/10.1089/soro.2023.0154",
-    "date": "2026-08-04"
-  },
-  {
-    "paperId": "b1d6ae9c8844a4d5fc0fc2fa5f527a83ba4b8302",
-    "title": "Knitting Multistability",
-    "url": "https://doi.org/10.1002/adfm.76385",
-    "date": "2026-08-04"
-  },
-  {
     "paperId": "0f46d869ce5696b3f0362ca53ed85ed99bd2ee57",
     "title": "Soft Electromagnetic Actuator and Oscillator",
     "url": "https://doi.org/10.1002/admt.202400982",
@@ -2398,5 +2368,35 @@
     "title": "All-in-One Haptic Thimble for Vibration, Pressure, and Thermal Feedback: Investigating the Impact of Vibration Frequency on Thermal Perception",
     "url": "https://doi.org/10.1109/WHC64065.2025.11123341",
     "date": "2026-10-22"
+  },
+  {
+    "paperId": "126f0a22daee9d511f3e1c17449bb8e6b4a2ed23",
+    "title": "A Wearable Soft Actuator for Directional Tactile Stimulation: Design and Testing",
+    "url": "https://doi.org/10.1002/aisy.202400899",
+    "date": "2026-10-23"
+  },
+  {
+    "paperId": "320178229978a5ef3ab4f772d9dfdb16dd1357c2",
+    "title": "Beyond Planar: An Additively Manufactured, Origami-Inspired Shape-Changing, and RFIC-Based Phased Array for Near-Limitless Radiation Pattern Reconfigurability in 5G/mm-Wave Applications",
+    "url": "https://doi.org/10.1109/LMWT.2024.3396026",
+    "date": "2026-10-23"
+  },
+  {
+    "paperId": "2efaf5b09f7652653ad2f9d51d7fdea9b8069a37",
+    "title": "TacDes: Design Interface toward Ubiquitous Tactile Sensing",
+    "url": "https://doi.org/10.1145/3706599.3719721",
+    "date": "2026-10-23"
+  },
+  {
+    "paperId": "85c3b8431a1c4adf6eedb24ed1331481f7a88e90",
+    "title": "Shape-Adaptive Robotics: Programmable Morphing through SMA and SMP Integration",
+    "url": "https://doi.org/10.1177/21695172261437932",
+    "date": "2026-10-23"
+  },
+  {
+    "paperId": "918c05be3b25d975720c5e88423203f8c9c85cf3",
+    "title": "Additively Manufactured 3D Auxetic Metamaterials for Structurally Guided Capacitive and Resistive Tactile Sensing",
+    "url": "https://doi.org/10.1002/adfm.202509704",
+    "date": "2026-10-23"
   }
 ]
