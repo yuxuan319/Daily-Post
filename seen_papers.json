@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "349653762db1e2667cb3ec4937d96e3bd97318f9",
-    "title": "Kirigami\u2010Inspired 3D\u2010Printable MXene Organohydrogels for Soft Electronics",
-    "url": "https://doi.org/10.1002/adfm.202308487",
-    "date": "2026-08-06"
-  },
-  {
-    "paperId": "34d9307ebd7d7945629f55936f3e02fbbc5a2c02",
-    "title": "A bio-inspired origami capacitive robotic e-skin with multimodal sensing capabilities",
-    "url": "https://doi.org/10.1038/s41528-026-00563-3",
-    "date": "2026-08-06"
-  },
-  {
-    "paperId": "fefeba43c4acabd33e9b3bc515b2b2d460a39804",
-    "title": "BiasBuzz: Combining Visual Guidance with Haptic Feedback to Increase Awareness of Analytic Behavior during Visual Data Analysis",
-    "url": "https://doi.org/10.1145/3613905.3651064",
-    "date": "2026-08-06"
-  },
-  {
-    "paperId": "a2e60ecd6df6b2a15ae49068cab389beb7a0baef",
-    "title": "4D Printing of Polyethylene Glycol\u2010Grafted Carbon Nanotube\u2010Reinforced Polyvinyl Chloride\u2013Polycaprolactone Composites for Enhanced Shape Recovery and Thermomechanical Performance",
-    "url": "https://doi.org/10.1002/aisy.202500113",
-    "date": "2026-08-06"
-  },
-  {
-    "paperId": "84d8c09356dc489259fb8c5f4b8eac3cfbf83011",
-    "title": "TacEx: GelSight Tactile Simulation in Isaac Sim - Combining Soft-Body and Visuotactile Simulators",
-    "url": "https://doi.org/10.48550/arXiv.2411.04776",
-    "date": "2026-08-06"
-  },
-  {
     "paperId": "2e3f419d402528c34606ec7c9985e63b6c484ab5",
     "title": "Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove",
     "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520848",
@@ -2398,5 +2368,35 @@
     "title": "Recent Advances of Auxetic Metamaterials in Smart Materials and Structural Systems",
     "url": "https://doi.org/10.1002/adfm.202421746",
     "date": "2026-10-24"
+  },
+  {
+    "paperId": "608ed058983ee90262da81664fbd0aa73d60315d",
+    "title": "3D Printed Elastomer\u2010Hydrogel Composite Meniscal Scaffolds with Biomimetic Gradient Structure and Robust Interface for Preventing Osteoarthritis and Repairing Meniscal Injuries",
+    "url": "https://doi.org/10.1002/adfm.202315580",
+    "date": "2026-10-25"
+  },
+  {
+    "paperId": "3b8c29b7ea58000546fa8cd5e33cc2083d850470",
+    "title": "Height-renderable morphable tactile display enabled by programmable modulation of local stiffness in photothermally active polymer",
+    "url": "https://doi.org/10.1038/s41467-024-46709-7",
+    "date": "2026-10-25"
+  },
+  {
+    "paperId": "bd5ad067a91229d08bd9cdb6e80673080ad2f803",
+    "title": "Immersive Learning: A Systematic Literature Review on Transforming Engineering Education Through Virtual Reality",
+    "url": "https://doi.org/10.3390/virtualworlds3040026",
+    "date": "2026-10-25"
+  },
+  {
+    "paperId": "80c87e64338b503202e9ebaa18d27ffb0e2e72b6",
+    "title": "Wearable Electrohydraulic Actuation For Salient Full\u2010Fingertip Haptic Feedback",
+    "url": "https://doi.org/10.1002/admt.202401525",
+    "date": "2026-10-25"
+  },
+  {
+    "paperId": "5353948527f4a5425a3d8f98ace404a16f72356b",
+    "title": "Metamaterial-based vibration control for offshore wind turbines operating under multiple hazard excitation forces",
+    "url": "https://doi.org/10.1016/j.renene.2024.120056",
+    "date": "2026-10-25"
   }
 ]
