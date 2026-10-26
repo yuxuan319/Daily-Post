@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "2e3f419d402528c34606ec7c9985e63b6c484ab5",
-    "title": "Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove",
-    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520848",
-    "date": "2026-08-07"
-  },
-  {
-    "paperId": "c19d6a2c88cd92180063894c26a03573427156a3",
-    "title": "MilliWare: Parametric Modeling and Simulation of Millifluidic Shape-changing Interface",
-    "url": "https://doi.org/10.1145/3629606.3629654",
-    "date": "2026-08-07"
-  },
-  {
-    "paperId": "1bb9e263d565426423cc555a78085a85530f5e66",
-    "title": "Localized oxygen control in a microfluidic osteochondral interface model recapitulates bone-cartilage crosstalk during osteoarthritis",
-    "url": "https://doi.org/10.1002/adfm.202315608",
-    "date": "2026-08-07"
-  },
-  {
-    "paperId": "41eecae2f4e87e1c478fd1f06d1e5159f935d6a6",
-    "title": "In\u2010Sensor Tactile Fusion and Logic for Accurate Intention Recognition",
-    "url": "https://doi.org/10.1002/adma.202407329",
-    "date": "2026-08-07"
-  },
-  {
-    "paperId": "11710e53c156ecadecf8976e812f558f7ec17057",
-    "title": "Integrated mechanical computing for autonomous soft machines",
-    "url": "https://doi.org/10.1038/s41467-024-47201-y",
-    "date": "2026-08-07"
-  },
-  {
     "paperId": "c91479a9c65b52addea8beaae3cefe2404c7f7d1",
     "title": "A Pneumatic Glove with Closed-Loop Control and Bidirectional Actuation for Real-Time Pose Synchronization",
     "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00306",
@@ -2398,5 +2368,35 @@
     "title": "Metamaterial-based vibration control for offshore wind turbines operating under multiple hazard excitation forces",
     "url": "https://doi.org/10.1016/j.renene.2024.120056",
     "date": "2026-10-25"
+  },
+  {
+    "paperId": "9e72c3dd986cb2cadaf35668b916d8a731bb0962",
+    "title": "Multichannel Vibrotactile Glove: Validation of a New Device Designed to Sense Vibrations",
+    "url": "https://doi.org/10.1109/TOH.2024.3475740",
+    "date": "2026-10-26"
+  },
+  {
+    "paperId": "602bc93b8024d1d59df652d5bea7bbd3d9be9560",
+    "title": "A bioinspired deep-sea iontronic skin for underwater robotic tactile sensing",
+    "url": "https://doi.org/10.1038/s41528-025-00508-2",
+    "date": "2026-10-26"
+  },
+  {
+    "paperId": "5f083ddfd0620403ba9c68fb86680274ab441ec5",
+    "title": "Utilizing Wearable Technologies to Foster Outcome-Based Education in Learning Factories",
+    "url": "https://doi.org/10.33050/itee.v3i2.793",
+    "date": "2026-10-26"
+  },
+  {
+    "paperId": "ace3756fc453d1a40d1067be9a2674c29464e351",
+    "title": "Demonstrating the Octopi-1.5 Visual-Tactile-Language Model",
+    "url": "https://doi.org/10.48550/arXiv.2507.09985",
+    "date": "2026-10-26"
+  },
+  {
+    "paperId": "d8c5441e8b04eeb3b5fd4a1cb5bcb3b08af7f47c",
+    "title": "Mechanical non-reciprocity programmed by shear jamming in soft composite solids",
+    "url": "https://doi.org/10.1038/s41563-025-02407-3",
+    "date": "2026-10-26"
   }
 ]
