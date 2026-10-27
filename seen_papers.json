@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "c91479a9c65b52addea8beaae3cefe2404c7f7d1",
-    "title": "A Pneumatic Glove with Closed-Loop Control and Bidirectional Actuation for Real-Time Pose Synchronization",
-    "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00306",
-    "date": "2026-08-08"
-  },
-  {
-    "paperId": "d3d62c349a2935f1aecaa9018e0e76410e9a6d8a",
-    "title": "A Flexible Bidirectional Interface with Integrated Multimodal Sensing and Haptic Feedback for Closed\u2010Loop Human\u2013Machine Interaction",
-    "url": "https://doi.org/10.1002/aisy.202300291",
-    "date": "2026-08-08"
-  },
-  {
-    "paperId": "f29487e767295ff57c79e817f901b9bbc84f4c31",
-    "title": "Flexible Electrical Energy Storage Structure with Variable Stiffness for Soft Robotics and Wearable Electronics",
-    "url": "https://doi.org/10.1089/soro.2024.0098",
-    "date": "2026-08-08"
-  },
-  {
-    "paperId": "da856272326402d9d22d8cfe72d39f7ef5bfe31a",
-    "title": "A Multi-Layer Stacked Microfluidic Tactile Display With High Spatial Resolution",
-    "url": "https://doi.org/10.1109/TOH.2024.3367708",
-    "date": "2026-08-08"
-  },
-  {
-    "paperId": "78079a7d0c16b669b379103a38e929c12142090a",
-    "title": "A robust near-field body area network based on coaxially-shielded textile metamaterial",
-    "url": "https://doi.org/10.1038/s41467-024-51061-x",
-    "date": "2026-08-08"
-  },
-  {
     "paperId": "c639be9482cc7c26971b429b0f1475acee95da3b",
     "title": "Stretchable and Leakage\u2010Free Liquid Metal Networks for Thermal Management",
     "url": "https://doi.org/10.1002/adfm.202420839",
@@ -2398,5 +2368,35 @@
     "title": "Mechanical non-reciprocity programmed by shear jamming in soft composite solids",
     "url": "https://doi.org/10.1038/s41563-025-02407-3",
     "date": "2026-10-26"
+  },
+  {
+    "paperId": "2f31f98b91b6632379883b011ab946f150af9fff",
+    "title": "DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove",
+    "url": "https://doi.org/10.48550/arXiv.2502.07730",
+    "date": "2026-10-27"
+  },
+  {
+    "paperId": "378b4cc29a196749dc516e07f3702513997f66fe",
+    "title": "Stretch-based kirigami structure with folding lines for stretchable electronics",
+    "url": "https://doi.org/10.1038/s41528-025-00409-4",
+    "date": "2026-10-27"
+  },
+  {
+    "paperId": "5850849850b80185653f48aeafb81927b6d20b45",
+    "title": "Biomimetic Wearable Flexible Pressure Sensor With Multilevel Microstructured Piezoresistive Layer",
+    "url": "https://doi.org/10.1109/JSEN.2024.3367900",
+    "date": "2026-10-27"
+  },
+  {
+    "paperId": "0fb801de3df336803ee568422f77ad70d64e04cb",
+    "title": "FiDTouch: A 3D Wearable Haptic Display for the Finger Pad",
+    "url": "https://doi.org/10.1109/WHC64065.2025.11123306",
+    "date": "2026-10-27"
+  },
+  {
+    "paperId": "d5626f37c33a54b2dc89c7ef0fb91fd1bb0823b2",
+    "title": "Multistable Soft Robots Assembled from Bistable Auxetic Building Blocks",
+    "url": "https://doi.org/10.1002/aisy.202400529",
+    "date": "2026-10-27"
   }
 ]
