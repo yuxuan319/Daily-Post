@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "da602daa1580b3a952893732de0cc3f3d70d1a31",
-    "title": "Compact Soft Tactile Actuator Based on Stacked Electroosmotic Pumps for Wearable Haptics",
-    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495463",
-    "date": "2026-08-10"
-  },
-  {
-    "paperId": "9601f46230b6f290a236c7fd801ffb8ac844cd37",
-    "title": "Ultralight Soft Wearable Haptic Interface with Shear\u2010Normal\u2010Vibration Feedback",
-    "url": "https://doi.org/10.1002/aisy.202500374",
-    "date": "2026-08-10"
-  },
-  {
-    "paperId": "ce3db6d325d1e43578722b475993f62c5c688462",
-    "title": "A Multi-Curvature Soft Gripper Based on Segmented Variable Stiffness Structure Inspired by Snake Scales",
-    "url": "https://doi.org/10.1089/soro.2024.0043",
-    "date": "2026-08-10"
-  },
-  {
-    "paperId": "a8f437118568bf906e880605c7ffb246bffde0d1",
-    "title": "Easy\u2010To\u2010Wear Auxetic SMA Knot\u2010Architecture for Spatiotemporal and Multimodal Haptic Feedbacks",
-    "url": "https://doi.org/10.1002/adma.202304442",
-    "date": "2026-08-10"
-  },
-  {
-    "paperId": "eaf69f83aeea22d11337f9fa87e62bb4c06bed15",
-    "title": "HaptoRoom: Designing Spatial and Reconfigurable Haptic Experience using Vibrotactile Floor Interface",
-    "url": "https://doi.org/10.1145/3689050.3704939",
-    "date": "2026-08-10"
-  },
-  {
     "paperId": "7d9a436b0e3555004d37c2c8b19ee1f5c614458d",
     "title": "SWIMVR: Simulating Water Interaction Using Multimodal Vibro-Thermal Rendering",
     "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495451",
@@ -2398,5 +2368,35 @@
     "title": "Knitting Multistability",
     "url": "https://doi.org/10.1002/adfm.76385",
     "date": "2026-10-28"
+  },
+  {
+    "paperId": "dd05c78204c3cdb7d327d31d00809058f82763b2",
+    "title": "A Reconfigurable Soft Actuator with Tunable Deformation and Stiffness",
+    "url": "https://doi.org/10.1002/admt.202500772",
+    "date": "2026-10-29"
+  },
+  {
+    "paperId": "612eb1f5acbedff51c2dbd391564b867d080c88d",
+    "title": "Pop-up kirigami thermoelectric generator with high stretchability and conformal thermal interfaces",
+    "url": "https://doi.org/10.1038/s41528-025-00454-z",
+    "date": "2026-10-29"
+  },
+  {
+    "paperId": "239bb7457c816c2887bbd9b840713d927e923560",
+    "title": "Flexible robotic hand harnesses large deformations for full-coverage human-like multimodal haptic perception",
+    "url": "https://doi.org/10.1038/s41467-025-67148-y",
+    "date": "2026-10-29"
+  },
+  {
+    "paperId": "9230ebad1c3cde42cee76010526cec7e3a60f085",
+    "title": "Enhancing the lubricity and wear resistance of shape-memory-polymer via titanium carbide-based MAX and MXene",
+    "url": "https://doi.org/10.1016/j.carbon.2024.118790",
+    "date": "2026-10-29"
+  },
+  {
+    "paperId": "1ed78589d65f55d30dcf76425b259e8b1783a04d",
+    "title": "Hybrid Soft Electrostatic Metamaterial Gripper for Multi-surface, Multi-object Adaptation",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522020",
+    "date": "2026-10-29"
   }
 ]
