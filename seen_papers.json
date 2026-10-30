@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "7d9a436b0e3555004d37c2c8b19ee1f5c614458d",
-    "title": "SWIMVR: Simulating Water Interaction Using Multimodal Vibro-Thermal Rendering",
-    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495451",
-    "date": "2026-08-11"
-  },
-  {
-    "paperId": "cf50e8b4c9e45f852d8267f471b9ec98d6f022c6",
-    "title": "The HapticSpider: A 7-DoF Wearable Device for Cutaneous Interaction with the Palm",
-    "url": "https://doi.org/10.1007/978-3-031-70058-3_23",
-    "date": "2026-08-11"
-  },
-  {
-    "paperId": "6115230beedde3eb57f318aafd0b76be88a8722a",
-    "title": "Design and Characterisation of Particle Jamming-Based Variable Stiffness Displays using Non-pneumatic Actuators",
-    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520854",
-    "date": "2026-08-11"
-  },
-  {
-    "paperId": "cd9e16e9bd57c20484b1162598afe04c52de14a0",
-    "title": "A wearable assistive system for the visually impaired using object detection, distance measurement and tactile presentation",
-    "url": "https://doi.org/10.20517/ir.2023.24",
-    "date": "2026-08-11"
-  },
-  {
-    "paperId": "e2d7758c83d5dbe232c6fed09088559d1d0d2b94",
-    "title": "Bidirectional Zero Poisson's Ratio Elastomers with Self\u2010Deformable Soft Mechanical Metamaterials for Stretchable Displays",
-    "url": "https://doi.org/10.1002/adfm.202406725",
-    "date": "2026-08-11"
-  },
-  {
     "paperId": "dc646efd9d3c534078882dd4aa53e2be6ba50621",
     "title": "A Modular Haptic Display With Reconfigurable Signals for Personalized Information Transfer",
     "url": "https://doi.org/10.1109/TOH.2026.3650759",
@@ -2398,5 +2368,35 @@
     "title": "Hybrid Soft Electrostatic Metamaterial Gripper for Multi-surface, Multi-object Adaptation",
     "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522020",
     "date": "2026-10-29"
+  },
+  {
+    "paperId": "f4600e2c3238bcbaccf58b36653382cf28b6a88a",
+    "title": "Fits like a Flex-Glove: Automatic Design of Personalized FPCB-Based Tactile Sensing Gloves",
+    "url": "https://doi.org/10.1145/3706599.3720147",
+    "date": "2026-10-30"
+  },
+  {
+    "paperId": "ce430a472bc6ae7e8b1154e0e9eabf38f5e1ea79",
+    "title": "Wearable flexible tactile triboelectric sensor Constructed with 3D printing for material perception",
+    "url": "https://doi.org/10.1016/j.cej.2025.163924",
+    "date": "2026-10-30"
+  },
+  {
+    "paperId": "cb16539a28aa8862d548a0843fe60dc5e9b0f2bb",
+    "title": "Stiffening iron particles to modulate physical interactions",
+    "url": "https://doi.org/10.1038/s41467-025-65479-4",
+    "date": "2026-10-30"
+  },
+  {
+    "paperId": "aaeacfe9124d7612803b60aed4b847d87c5684de",
+    "title": "Soft wearable thermo+touch haptic interface for virtual reality",
+    "url": "https://doi.org/10.1016/j.isci.2024.111303",
+    "date": "2026-10-30"
+  },
+  {
+    "paperId": "09feacfb83ddee416f04b6333710e4f5069d036c",
+    "title": "Shape-adaptable and wearable strain sensor based on braided auxetic yarns for monitoring large human motions",
+    "url": "https://doi.org/10.1016/j.apmt.2023.101996",
+    "date": "2026-10-30"
   }
 ]
