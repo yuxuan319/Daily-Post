@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "dc646efd9d3c534078882dd4aa53e2be6ba50621",
-    "title": "A Modular Haptic Display With Reconfigurable Signals for Personalized Information Transfer",
-    "url": "https://doi.org/10.1109/TOH.2026.3650759",
-    "date": "2026-08-12"
-  },
-  {
-    "paperId": "12c2b33f79d9822275e7b694a77c9c3029f26679",
-    "title": "Design and Fabrication of Silicone Kirigami-inspired structures for Soft Robotic Applications",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020925",
-    "date": "2026-08-12"
-  },
-  {
-    "paperId": "fa76035aa27a9d1fce32c9ae4fcebf7e33c15002",
-    "title": "TacFR-Gripper: A Reconfigurable Fin-Ray-Based Gripper with Tactile Skin for In-Hand Manipulation",
-    "url": "https://doi.org/10.3390/act13120521",
-    "date": "2026-08-12"
-  },
-  {
-    "paperId": "719a6d9e4e29c32fdab40dc557e03ba6ba710d1a",
-    "title": "Advancing Robotic Fruit Picking: Adaptive End-Effector Approach",
-    "url": "https://doi.org/10.54097/mysdej46",
-    "date": "2026-08-12"
-  },
-  {
-    "paperId": "e2fa076744da2ac036f7d379e39e84d3b64ed163",
-    "title": "An Evaluation of VR Games and Haptic Feedback for Upper Limb Rehabilitation for Individuals with Parkinson\u2019s Disease",
-    "url": "https://doi.org/10.3390/machines13100930",
-    "date": "2026-08-12"
-  },
-  {
     "paperId": "3eb8ca66bd18025487161ccd2014b354b41b5c8b",
     "title": "Flexible Tactile Actuator Arrays With Integrated Electroosmotic Pumps for Wearable Haptic Systems",
     "url": "https://doi.org/10.1002/admt.71205",
@@ -2398,5 +2368,35 @@
     "title": "Shape-adaptable and wearable strain sensor based on braided auxetic yarns for monitoring large human motions",
     "url": "https://doi.org/10.1016/j.apmt.2023.101996",
     "date": "2026-10-30"
+  },
+  {
+    "paperId": "0f46d869ce5696b3f0362ca53ed85ed99bd2ee57",
+    "title": "Soft Electromagnetic Actuator and Oscillator",
+    "url": "https://doi.org/10.1002/admt.202400982",
+    "date": "2026-10-31"
+  },
+  {
+    "paperId": "d37e3600a330904d61896210947c35beb8fabdd1",
+    "title": "Kirigami-enabled stretchable laser-induced graphene heaters for wearable thermotherapy.",
+    "url": "https://doi.org/10.1039/d3mh01884a",
+    "date": "2026-10-31"
+  },
+  {
+    "paperId": "7dbbea90e369298b68eda82eb0fbc06eee9a2646",
+    "title": "A Soft Robotic Gripper with Variable Grasping Force Based on Jamming Phenomenon",
+    "url": "https://doi.org/10.1109/ICMA65362.2025.11120829",
+    "date": "2026-10-31"
+  },
+  {
+    "paperId": "d1b5294bd40df254e34f3e50d9d241e852307f25",
+    "title": "Soft Artificial Muscle Based on Pre-Detwinned Shape Memory Alloy Spring Actuator Achieving High Passive Assistive Torque for Wearable Robot",
+    "url": "https://doi.org/10.1089/soro.2023.0154",
+    "date": "2026-10-31"
+  },
+  {
+    "paperId": "3340701d14015a8244d5748eaa9c0bc0146fcdd2",
+    "title": "A Single-Wire Soft Sensor for Seamless Multimodal Tactile Sensing",
+    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020975",
+    "date": "2026-10-31"
   }
 ]
