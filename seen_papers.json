@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "3eb8ca66bd18025487161ccd2014b354b41b5c8b",
-    "title": "Flexible Tactile Actuator Arrays With Integrated Electroosmotic Pumps for Wearable Haptic Systems",
-    "url": "https://doi.org/10.1002/admt.71205",
-    "date": "2026-08-13"
-  },
-  {
-    "paperId": "c2d5e7ba9ebc6fe844ed39d645140737dd13dbf4",
-    "title": "High\u2010Strength, Antiswelling Directional Layered PVA/MXene Hydrogel for Wearable Devices and Underwater Sensing",
-    "url": "https://doi.org/10.1002/advs.202405880",
-    "date": "2026-08-13"
-  },
-  {
-    "paperId": "4949f107cc937c202655b5847ac3bcc7a3e67263",
-    "title": "Miniaturized Variable Stiffness Gripper Locally Actuated by Magnetic Fields",
-    "url": "https://doi.org/10.1002/aisy.202400037",
-    "date": "2026-08-13"
-  },
-  {
-    "paperId": "179cef351d2661f27ebd3333211e5d8ffa59647e",
-    "title": "Friction and Wear Resistance of Nanostructured TiNi Shape Memory Alloy",
-    "url": "https://doi.org/10.3390/met14111248",
-    "date": "2026-08-13"
-  },
-  {
-    "paperId": "0d95760f9ac0a71ba51c9dc3bdd15a85f56d9651",
-    "title": "Recent Advances in Wearable Electromechanical Sensors Based on Auxetic Textiles",
-    "url": "https://doi.org/10.1002/adfm.202409242",
-    "date": "2026-08-13"
-  },
-  {
     "paperId": "fc82ec8a59646d75767daf70983ebe5a1dbfc32e",
     "title": "ShapeShifter: A Dual-Channel Pneumatic Interface for Independent Control of Shape and Softness",
     "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495464",
@@ -2398,5 +2368,35 @@
     "title": "A Single-Wire Soft Sensor for Seamless Multimodal Tactile Sensing",
     "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020975",
     "date": "2026-10-31"
+  },
+  {
+    "paperId": "2e3f419d402528c34606ec7c9985e63b6c484ab5",
+    "title": "Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove",
+    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520848",
+    "date": "2026-11-01"
+  },
+  {
+    "paperId": "9107c27912493f83b00527fc19389a990665d3e9",
+    "title": "Kiri-Spoon: A Soft Shape-Changing Utensil for Robot-Assisted Feeding",
+    "url": "https://doi.org/10.1109/IROS58592.2024.10801346",
+    "date": "2026-11-01"
+  },
+  {
+    "paperId": "fcc7224b13b36797774c14f4ffc4553a7f430141",
+    "title": "Reshaping the peripersonal space in virtual reality",
+    "url": "https://doi.org/10.1038/s41598-024-52383-y",
+    "date": "2026-11-01"
+  },
+  {
+    "paperId": "e0701a773f1d33f11339908a4b8e0075652fb22a",
+    "title": "From Sea Cucumbers to Soft Robots: A Photothermal-Responsive Hydrogel Actuator with Shape Memory.",
+    "url": "https://doi.org/10.1021/acsami.4c21626",
+    "date": "2026-11-01"
+  },
+  {
+    "paperId": "0f7bbfec5c2c98c498c8d55f06724a3a1f81edfa",
+    "title": "AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip",
+    "url": "https://doi.org/10.1145/3613904.3642536",
+    "date": "2026-11-01"
   }
 ]
