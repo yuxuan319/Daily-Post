@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "fc82ec8a59646d75767daf70983ebe5a1dbfc32e",
-    "title": "ShapeShifter: A Dual-Channel Pneumatic Interface for Independent Control of Shape and Softness",
-    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495464",
-    "date": "2026-08-14"
-  },
-  {
-    "paperId": "3cd2eebc70cc2ab613eba8bd791aa4aa9094a6c5",
-    "title": "Highly Stretchable, Self\u2010Healable, and Conductive Gelatin Methacryloyl Hydrogel for Long\u2010Lasting Wearable Tactile Sensors",
-    "url": "https://doi.org/10.1002/advs.202502678",
-    "date": "2026-08-14"
-  },
-  {
-    "paperId": "a2b23aa8692c1f4034621c5f216f1718fd0d7061",
-    "title": "Stiffness-Tunable Soft Bellows Actuators by Cross-Fiber Jamming Effect for Robust Grasping",
-    "url": "https://doi.org/10.1109/TMECH.2023.3241844",
-    "date": "2026-08-14"
-  },
-  {
-    "paperId": "2127d71028a739f331803163e3302b17b8517872",
-    "title": "On the Impact of \u03b3\u00b4 Precipitates on the Transformation Temperatures in Fe\u2013Ni\u2013Co\u2013Al\u2013Ti\u2013B Shape Memory Alloy Wires",
-    "url": "https://doi.org/10.1007/s40830-023-00470-w",
-    "date": "2026-08-14"
-  },
-  {
-    "paperId": "96f60189fca43c1e6f7cef692b2b4c202d2b5c6c",
-    "title": "Self\u2010Sensing Bandgap\u2010Tunable Multistable Metamaterials for Vibration Suppression",
-    "url": "https://doi.org/10.1002/admt.70985",
-    "date": "2026-08-14"
-  },
-  {
     "paperId": "e097b0268779b7dde958dd44a0ffec9baf843d7e",
     "title": "A novel theta-controlled vibrotactile brain\u2013computer interface to treat chronic pain: a pilot study",
     "url": "https://doi.org/10.1038/s41598-024-53261-3",
@@ -2398,5 +2368,35 @@
     "title": "AirPush: A Pneumatic Wearable Haptic Device Providing Multi-Dimensional Force Feedback on a Fingertip",
     "url": "https://doi.org/10.1145/3613904.3642536",
     "date": "2026-11-01"
+  },
+  {
+    "paperId": "2447ea4df85d9e666c69550e32d40ed0eac3a445",
+    "title": "AI-Infused Soft Fluidic Tactile Sensing",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522049",
+    "date": "2026-11-02"
+  },
+  {
+    "paperId": "a2e60ecd6df6b2a15ae49068cab389beb7a0baef",
+    "title": "4D Printing of Polyethylene Glycol\u2010Grafted Carbon Nanotube\u2010Reinforced Polyvinyl Chloride\u2013Polycaprolactone Composites for Enhanced Shape Recovery and Thermomechanical Performance",
+    "url": "https://doi.org/10.1002/aisy.202500113",
+    "date": "2026-11-02"
+  },
+  {
+    "paperId": "fefeba43c4acabd33e9b3bc515b2b2d460a39804",
+    "title": "BiasBuzz: Combining Visual Guidance with Haptic Feedback to Increase Awareness of Analytic Behavior during Visual Data Analysis",
+    "url": "https://doi.org/10.1145/3613905.3651064",
+    "date": "2026-11-02"
+  },
+  {
+    "paperId": "70c76c28930e6611fb56fce7f2ee90e990bbd3ad",
+    "title": "A Wearable Strain Sensor Utilizing Shape Memory Polymer/Carbon Nanotube Composites Measuring Respiration Movements",
+    "url": "https://doi.org/10.3390/polym16030373",
+    "date": "2026-11-02"
+  },
+  {
+    "paperId": "eaf69f83aeea22d11337f9fa87e62bb4c06bed15",
+    "title": "HaptoRoom: Designing Spatial and Reconfigurable Haptic Experience using Vibrotactile Floor Interface",
+    "url": "https://doi.org/10.1145/3689050.3704939",
+    "date": "2026-11-02"
   }
 ]
