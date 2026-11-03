@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "e097b0268779b7dde958dd44a0ffec9baf843d7e",
-    "title": "A novel theta-controlled vibrotactile brain\u2013computer interface to treat chronic pain: a pilot study",
-    "url": "https://doi.org/10.1038/s41598-024-53261-3",
-    "date": "2026-08-15"
-  },
-  {
-    "paperId": "f5dd4859821b890694cab55cd63ce0832fd493b2",
-    "title": "Skin-interfaced multimodal sensing and tactile feedback system as enhanced human-machine interface for closed-loop drone control",
-    "url": "https://doi.org/10.1126/sciadv.adt6041",
-    "date": "2026-08-15"
-  },
-  {
-    "paperId": "44315b575fd7aa156925970f0d43a63d73209f51",
-    "title": "Flexible phase change film with motion sensing and tactile recognition for wearable thermal management",
-    "url": "https://doi.org/10.1016/j.cej.2024.153271",
-    "date": "2026-08-15"
-  },
-  {
-    "paperId": "b13fb55e4347328a07aada20804f5f6372ba52ff",
-    "title": "Tailoring Photoweldable Shape Memory Polyurethane with Intrinsic Photothermal / Fluorescence Via Engineering Metal\u2010Phenolic Systems",
-    "url": "https://doi.org/10.1002/adfm.202402592",
-    "date": "2026-08-15"
-  },
-  {
-    "paperId": "f71e1f2d7d8a3f1a7af875b07cad3824bb2cf190",
-    "title": "Metamaterial Soft Snake Robot for Rectilinear Locomotion",
-    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522037",
-    "date": "2026-08-15"
-  },
-  {
     "paperId": "b80828cf159f5491f36de47b7222bdced1c570bc",
     "title": "Strain-invariant stretchable radio-frequency electronics",
     "url": "https://doi.org/10.1038/s41586-024-07383-3",
@@ -2398,5 +2368,35 @@
     "title": "HaptoRoom: Designing Spatial and Reconfigurable Haptic Experience using Vibrotactile Floor Interface",
     "url": "https://doi.org/10.1145/3689050.3704939",
     "date": "2026-11-02"
+  },
+  {
+    "paperId": "9601f46230b6f290a236c7fd801ffb8ac844cd37",
+    "title": "Ultralight Soft Wearable Haptic Interface with Shear\u2010Normal\u2010Vibration Feedback",
+    "url": "https://doi.org/10.1002/aisy.202500374",
+    "date": "2026-11-03"
+  },
+  {
+    "paperId": "3a4a8e46c86a556dbc211cfa2cef45ed180c91c1",
+    "title": "Bioinspired flexible piezoresistive sensor with cross-gradient architecture for high-performance tactile sensing.",
+    "url": "https://doi.org/10.1016/j.bios.2025.118023",
+    "date": "2026-11-03"
+  },
+  {
+    "paperId": "4949f107cc937c202655b5847ac3bcc7a3e67263",
+    "title": "Miniaturized Variable Stiffness Gripper Locally Actuated by Magnetic Fields",
+    "url": "https://doi.org/10.1002/aisy.202400037",
+    "date": "2026-11-03"
+  },
+  {
+    "paperId": "1e84c0efeb0ada89d2258c6b302b718c54e3195d",
+    "title": "A Roadmap for Implanting Electrode Arrays to Evoke Tactile Sensations Through Intracortical Stimulation",
+    "url": "https://doi.org/10.1002/hbm.70118",
+    "date": "2026-11-03"
+  },
+  {
+    "paperId": "e2d7758c83d5dbe232c6fed09088559d1d0d2b94",
+    "title": "Bidirectional Zero Poisson's Ratio Elastomers with Self\u2010Deformable Soft Mechanical Metamaterials for Stretchable Displays",
+    "url": "https://doi.org/10.1002/adfm.202406725",
+    "date": "2026-11-03"
   }
 ]
