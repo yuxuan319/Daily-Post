@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "f0cf9eeb92ea45a89f89f97f6b0f41460b8f46ff",
-    "title": "Polymer Materials for Stretchable Electronics Encapsulation",
-    "url": "https://doi.org/10.1007/s40242-025-5234-2",
-    "date": "2026-08-17"
-  },
-  {
-    "paperId": "85dc13d6310f1b04ac18bbb934ef0ef061f9ec54",
-    "title": "Variable-Diameter Deployable Structure Composite Preforms Made by Braiding and Needle-Punching Integrated Forming Technology",
-    "url": "https://doi.org/10.1186/s10033-024-01140-3",
-    "date": "2026-08-17"
-  },
-  {
-    "paperId": "fa7b61522a9b5489dfb66d750be500dc9baef17b",
-    "title": "Bioinspired Soft Tube-Foot Array With Variable Stiffness: Design, Characterization, and Application",
-    "url": "https://doi.org/10.1109/TMECH.2023.3317576",
-    "date": "2026-08-17"
-  },
-  {
-    "paperId": "29cc9d8ffb0454b772f003e0ad68f884fb709a30",
-    "title": "Structural flexible magnetic films for biometric encryption and tactile interaction in wearable devices",
-    "url": "https://doi.org/10.1038/s41528-025-00391-x",
-    "date": "2026-08-17"
-  },
-  {
-    "paperId": "38ad84c5833667773c88005e838eaf98b04f2c08",
-    "title": "Prototyping and Evaluation of Emotionally Resonant Vibrotactile Comfort Objects as a Calming Social Anxiety Intervention",
-    "url": "https://doi.org/10.1145/3648615",
-    "date": "2026-08-17"
-  },
-  {
     "paperId": "52e7334ff1fd9db2732ddc09f3a981c719c2971f",
     "title": "Exo-Glove Poly III: Grasp Assistance by Modulating Thumb and Finger Motion Sequence with a Single Actuator",
     "url": "https://doi.org/10.1089/soro.2024.0113",
@@ -2398,5 +2368,35 @@
     "title": "Multifunctional strut-plate composite lattice metamaterial for integrated acoustic, energy, and vibration management",
     "url": "https://doi.org/10.1080/17452759.2025.2499469",
     "date": "2026-11-04"
+  },
+  {
+    "paperId": "b80828cf159f5491f36de47b7222bdced1c570bc",
+    "title": "Strain-invariant stretchable radio-frequency electronics",
+    "url": "https://doi.org/10.1038/s41586-024-07383-3",
+    "date": "2026-11-05"
+  },
+  {
+    "paperId": "66c9ca7431865f4d883c18f90c8d3222950b139c",
+    "title": "A DNA origami device spatially controls CD95 signalling to induce immune tolerance in rheumatoid arthritis",
+    "url": "https://doi.org/10.1038/s41563-024-01865-5",
+    "date": "2026-11-05"
+  },
+  {
+    "paperId": "6115230beedde3eb57f318aafd0b76be88a8722a",
+    "title": "Design and Characterisation of Particle Jamming-Based Variable Stiffness Displays using Non-pneumatic Actuators",
+    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520854",
+    "date": "2026-11-05"
+  },
+  {
+    "paperId": "b13fb55e4347328a07aada20804f5f6372ba52ff",
+    "title": "Tailoring Photoweldable Shape Memory Polyurethane with Intrinsic Photothermal / Fluorescence Via Engineering Metal\u2010Phenolic Systems",
+    "url": "https://doi.org/10.1002/adfm.202402592",
+    "date": "2026-11-05"
+  },
+  {
+    "paperId": "f71e1f2d7d8a3f1a7af875b07cad3824bb2cf190",
+    "title": "Metamaterial Soft Snake Robot for Rectilinear Locomotion",
+    "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522037",
+    "date": "2026-11-05"
   }
 ]
