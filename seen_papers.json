@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "52e7334ff1fd9db2732ddc09f3a981c719c2971f",
-    "title": "Exo-Glove Poly III: Grasp Assistance by Modulating Thumb and Finger Motion Sequence with a Single Actuator",
-    "url": "https://doi.org/10.1089/soro.2024.0113",
-    "date": "2026-08-18"
-  },
-  {
-    "paperId": "e9e73c475b7a2c8d82702b3e347bd848fce25542",
-    "title": "Encountered-Type 3D Haptic Shape Display by Simulating Finger-Object Contact Regions.",
-    "url": "https://doi.org/10.1177/21695172261477712",
-    "date": "2026-08-18"
-  },
-  {
-    "paperId": "853eab039cff0d52f6a395fb8115f47e85d72a0e",
-    "title": "Novel Haptic Electronic Yarn for Wearable Textiles: Vibrotactile Feedback via Knitted Channels for Skin-Based Communication",
-    "url": "https://doi.org/10.1038/s41528-026-00613-w",
-    "date": "2026-08-18"
-  },
-  {
-    "paperId": "249812c63a1aeb84362211f07069069228e39239",
-    "title": "Shape memory polymer surfaces with controllable roughness for multiscale switchable dry adhesion",
-    "url": "https://doi.org/10.1038/s41467-025-60220-7",
-    "date": "2026-08-18"
-  },
-  {
-    "paperId": "711d5e64a06ebcdccddd140b6331620468023b20",
-    "title": "Multifunctional Multi\u2010Scale 3D Hilbert Metamaterial With Integrated Mechanical\u2010Sensing Capabilities",
-    "url": "https://doi.org/10.1002/adfm.202525154",
-    "date": "2026-08-18"
-  },
-  {
     "paperId": "29f465a2163e60225e3cb80bbeaab762bfb5bcba",
     "title": "A Skin-Inspired Multifunctional Soft Actuator based on PVDF/MXene with Fast Response, Large Deformation, and High Stability",
     "url": "https://doi.org/10.1016/j.nanoen.2025.110994",
@@ -2398,5 +2368,35 @@
     "title": "Metamaterial Soft Snake Robot for Rectilinear Locomotion",
     "url": "https://doi.org/10.1109/RoboSoft60065.2024.10522037",
     "date": "2026-11-05"
+  },
+  {
+    "paperId": "b3f8c994b2819580c42ba1df854a496ba02f81f1",
+    "title": "Hydrogel\u2013elastomer-based conductive nanomembranes for soft bioelectronics",
+    "url": "https://doi.org/10.1038/s41565-025-02031-x",
+    "date": "2026-11-06"
+  },
+  {
+    "paperId": "4fa8e5360ae4317d2a61e7f08f5b8702e69c6a97",
+    "title": "Three-dimensional micro strain gauges as flexible, modular tactile sensors for versatile integration with micro- and macroelectronics",
+    "url": "https://doi.org/10.1126/sciadv.adp6094",
+    "date": "2026-11-06"
+  },
+  {
+    "paperId": "f29487e767295ff57c79e817f901b9bbc84f4c31",
+    "title": "Flexible Electrical Energy Storage Structure with Variable Stiffness for Soft Robotics and Wearable Electronics",
+    "url": "https://doi.org/10.1089/soro.2024.0098",
+    "date": "2026-11-06"
+  },
+  {
+    "paperId": "8d7c1c7f20d825d6b2508a4cac484cd3c6d10ec2",
+    "title": "Wearable Soft Robots: Case Study of Using Shape Memory Alloys in Rehabilitation",
+    "url": "https://doi.org/10.3390/bioengineering12030276",
+    "date": "2026-11-06"
+  },
+  {
+    "paperId": "5db424eb9c46fb10b9fb54053b4208d7a744d265",
+    "title": "Metamaterial\u2010Based Electronic Skin with Conformality and Multisensory Integration",
+    "url": "https://doi.org/10.1002/adfm.202406789",
+    "date": "2026-11-06"
   }
 ]
