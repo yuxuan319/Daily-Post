@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "29f465a2163e60225e3cb80bbeaab762bfb5bcba",
-    "title": "A Skin-Inspired Multifunctional Soft Actuator based on PVDF/MXene with Fast Response, Large Deformation, and High Stability",
-    "url": "https://doi.org/10.1016/j.nanoen.2025.110994",
-    "date": "2026-08-19"
-  },
-  {
-    "paperId": "59435d1b6fb8db60967dcae0f897006e3015877e",
-    "title": "A Wearable Triboelectric\u2010Iontronic Hybrid Smart Finger Ring with Self\u2010Powered Static\u2010Dynamic Tactile Sensing for Advanced Human\u2010Machine Interactions",
-    "url": "https://doi.org/10.1002/adfm.202527394",
-    "date": "2026-08-19"
-  },
-  {
-    "paperId": "58fb35695379654927df9354c53390e72b24f5dc",
-    "title": "Bioinspired Superhydrophobic and Conductive Janus Asymmetric Triboelectric Materials for Intelligent Tactile Perception",
-    "url": "https://doi.org/10.1002/adfm.202526356",
-    "date": "2026-08-19"
-  },
-  {
-    "paperId": "11de7e8e5dc6d31abf4ae939731db7da7f26acd5",
-    "title": "Shape Memory Alloy-Based Reactive Tubular (SMART) Brake for Compact and Energy-Efficient Wearable Robot Design",
-    "url": "https://doi.org/10.1021/acsami.3c15179",
-    "date": "2026-08-19"
-  },
-  {
-    "paperId": "32513e62a0a9c16431a35e3672501027a969e301",
-    "title": "A Reversible, Versatile Skin\u2010Attached Haptic Interface Platform with Bioinspired Interconnection Architectures Capable of Resisting Sweat and Vibration",
-    "url": "https://doi.org/10.1002/adfm.202311167",
-    "date": "2026-08-19"
-  },
-  {
     "paperId": "dfc9e444dbb9eefde7660934290be9acd21e2522",
     "title": "Self-powered electrotactile textile haptic glove for enhanced human-machine interface",
     "url": "https://doi.org/10.1126/sciadv.adt0318",
@@ -2398,5 +2368,35 @@
     "title": "Metamaterial\u2010Based Electronic Skin with Conformality and Multisensory Integration",
     "url": "https://doi.org/10.1002/adfm.202406789",
     "date": "2026-11-06"
+  },
+  {
+    "paperId": "37c15d9e77ec1203f0e9ce090a527fb0a1a1d49b",
+    "title": "Fishbone and nettle fiber inspired stretchable strain sensor with high sensitivity and wide sensing range for wearable electronics",
+    "url": "https://doi.org/10.1016/j.cej.2024.152281",
+    "date": "2026-11-07"
+  },
+  {
+    "paperId": "29cc9d8ffb0454b772f003e0ad68f884fb709a30",
+    "title": "Structural flexible magnetic films for biometric encryption and tactile interaction in wearable devices",
+    "url": "https://doi.org/10.1038/s41528-025-00391-x",
+    "date": "2026-11-07"
+  },
+  {
+    "paperId": "89216b57fa8b2a6c5537b9a6e4849a229f5e3685",
+    "title": "Bioactive prosthesis interface compositing variable-stiffness hydrogels regulates stem cells fates to facilitate osseointegration through mechanotransduction.",
+    "url": "https://doi.org/10.1016/j.ijbiomac.2023.129073",
+    "date": "2026-11-07"
+  },
+  {
+    "paperId": "6a60bd8e40aa3aff7960de4876db9d87de199ec3",
+    "title": "Multiscale haptic interfaces for metaverse",
+    "url": "https://doi.org/10.1016/j.device.2024.100326",
+    "date": "2026-11-07"
+  },
+  {
+    "paperId": "0d95760f9ac0a71ba51c9dc3bdd15a85f56d9651",
+    "title": "Recent Advances in Wearable Electromechanical Sensors Based on Auxetic Textiles",
+    "url": "https://doi.org/10.1002/adfm.202409242",
+    "date": "2026-11-07"
   }
 ]
