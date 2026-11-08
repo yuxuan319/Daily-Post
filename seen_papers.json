@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "dfc9e444dbb9eefde7660934290be9acd21e2522",
-    "title": "Self-powered electrotactile textile haptic glove for enhanced human-machine interface",
-    "url": "https://doi.org/10.1126/sciadv.adt0318",
-    "date": "2026-08-20"
-  },
-  {
-    "paperId": "d3c851d23f5a3ca8c2078993093f295cf3fa98ae",
-    "title": "Magnetic kirigami dome metasheet with high deformability and stiffness for adaptive dynamic shape-shifting and multimodal manipulation",
-    "url": "https://doi.org/10.1126/sciadv.adr8421",
-    "date": "2026-08-20"
-  },
-  {
-    "paperId": "928e06068299b19fccdc4a8af58525d340246d61",
-    "title": "Soft Flexible Magnetic Micro-Structures for a Haptic Surface",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123415",
-    "date": "2026-08-20"
-  },
-  {
-    "paperId": "a45a0139d6cb9880055cab39eb847f3f138553ca",
-    "title": "Self-healing, adaptive and shape memory polymer-based thermal interface phase change materials via boron ester cross-linking",
-    "url": "https://doi.org/10.1016/j.cej.2024.153789",
-    "date": "2026-08-20"
-  },
-  {
-    "paperId": "f8b77c91e6b5c7f7b00789a5ab60e08b1c78f4ca",
-    "title": "Acceptance and Usability of a Soft Robotic, Haptic Feedback Seat for Autonomy Level Transitions in Highly Automated Vehicles",
-    "url": "https://doi.org/10.1109/TOH.2024.3392473",
-    "date": "2026-08-20"
-  },
-  {
     "paperId": "ae07d7bd79cc604f0bb1676f9dce4b17a9ca45a3",
     "title": "Wearable flexible ultrasound microneedle patch for cancer immunotherapy",
     "url": "https://doi.org/10.1038/s41467-025-58075-z",
@@ -2398,5 +2368,35 @@
     "title": "Recent Advances in Wearable Electromechanical Sensors Based on Auxetic Textiles",
     "url": "https://doi.org/10.1002/adfm.202409242",
     "date": "2026-11-07"
+  },
+  {
+    "paperId": "ac36053ce7a5607dfaa5e7663b0da2a39b51a3c7",
+    "title": "Bioinspired Ionic Elastomer with Skin\u2010Like Piezo\u2010Ionic Dynamics Enabled by a Self\u2010Confined Multi\u2010Interaction Network",
+    "url": "https://doi.org/10.1002/adfm.202418583",
+    "date": "2026-11-08"
+  },
+  {
+    "paperId": "7d70cb42dacd6efcb508188f15d2944056432eb5",
+    "title": "Manufacturing strategies for highly sensitive and self-powered piezoelectric and triboelectric tactile sensors",
+    "url": "https://doi.org/10.1088/2631-7990/ad88be",
+    "date": "2026-11-08"
+  },
+  {
+    "paperId": "ce3db6d325d1e43578722b475993f62c5c688462",
+    "title": "A Multi-Curvature Soft Gripper Based on Segmented Variable Stiffness Structure Inspired by Snake Scales",
+    "url": "https://doi.org/10.1089/soro.2024.0043",
+    "date": "2026-11-08"
+  },
+  {
+    "paperId": "d314c3cdb03a58305d0fe27e36c47b415e61342a",
+    "title": "Clutchable Fabric Actuator for Energy\u2010Efficient Wearable Robots",
+    "url": "https://doi.org/10.1002/adfm.202415099",
+    "date": "2026-11-08"
+  },
+  {
+    "paperId": "af14b816aa439f7082723329da23e53ce38422e9",
+    "title": "On\u2010demand Reprogrammable Mechanical Metamaterial Driven by Structure Performance Relations",
+    "url": "https://doi.org/10.1002/adma.202410865",
+    "date": "2026-11-08"
   }
 ]
