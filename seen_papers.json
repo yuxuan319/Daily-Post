@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "ae07d7bd79cc604f0bb1676f9dce4b17a9ca45a3",
-    "title": "Wearable flexible ultrasound microneedle patch for cancer immunotherapy",
-    "url": "https://doi.org/10.1038/s41467-025-58075-z",
-    "date": "2026-08-21"
-  },
-  {
-    "paperId": "c13aaaa9a57b6134afa52f3eb13c96ad43af7720",
-    "title": "Pneumatic Laser Origami: Rapid and Large-Scale Fabrication of Laser-Welded Pouch Motors for Shape-Changing Products",
-    "url": "https://doi.org/10.1145/3689050.3704956",
-    "date": "2026-08-21"
-  },
-  {
-    "paperId": "f8e595c6b756775e6cee83c97d9475ae9b3a1adf",
-    "title": "Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels",
-    "url": "https://doi.org/10.1089/soro.2023.0185",
-    "date": "2026-08-21"
-  },
-  {
-    "paperId": "476c01ac76ba76d1f09a8d3cd1746e2757a1b1c0",
-    "title": "Thermal In Motion: Designing Thermal Flow Illusions with Tactile and Thermal Interaction",
-    "url": "https://doi.org/10.1145/3654777.3676460",
-    "date": "2026-08-21"
-  },
-  {
-    "paperId": "b5a1638a0fc3795545303867251006a5d8b1b0f9",
-    "title": "A fully integrated breathable haptic textile",
-    "url": "https://doi.org/10.1126/sciadv.adq9575",
-    "date": "2026-08-21"
-  },
-  {
     "paperId": "157e22dcecb2dac91e68e0ef73de131c2f3873e0",
     "title": "Silicone-Based Haptic Interfaces: Enhancing Multimodal Interactions through Pneumatic Tactile Feedback",
     "url": "https://doi.org/10.1109/IHMSC62065.2024.00039",
@@ -2398,5 +2368,35 @@
     "title": "On\u2010demand Reprogrammable Mechanical Metamaterial Driven by Structure Performance Relations",
     "url": "https://doi.org/10.1002/adma.202410865",
     "date": "2026-11-08"
+  },
+  {
+    "paperId": "2c2c1620c8333aeae8c3892bed25bd660a6102e3",
+    "title": "Perception Threshold for Pressure by a Soft Textile Actuator",
+    "url": "https://doi.org/10.1109/TOH.2024.3370835",
+    "date": "2026-11-09"
+  },
+  {
+    "paperId": "59435d1b6fb8db60967dcae0f897006e3015877e",
+    "title": "A Wearable Triboelectric\u2010Iontronic Hybrid Smart Finger Ring with Self\u2010Powered Static\u2010Dynamic Tactile Sensing for Advanced Human\u2010Machine Interactions",
+    "url": "https://doi.org/10.1002/adfm.202527394",
+    "date": "2026-11-09"
+  },
+  {
+    "paperId": "d05f9e0ae80c2c902a3ced6f7653740f700958b9",
+    "title": "Everything-Grasping Gripper: A Universal Gripper with Synergistic Suction\u2013Grasping Capabilities for Cross-Scale and Cross-State Manipulation",
+    "url": "https://doi.org/10.1177/21695172251400144",
+    "date": "2026-11-09"
+  },
+  {
+    "paperId": "b7c16b686ece39cc0795fecbaa5303d38f1ea125",
+    "title": "4D Printing of 3D Carbon\u2010Medium Reinforced Thermosetting Shape Memory Polymer Composites with Superior Load\u2010Bearing and Fast\u2010Response Shape Reconfiguration",
+    "url": "https://doi.org/10.1002/adfm.202409611",
+    "date": "2026-11-09"
+  },
+  {
+    "paperId": "711d5e64a06ebcdccddd140b6331620468023b20",
+    "title": "Multifunctional Multi\u2010Scale 3D Hilbert Metamaterial With Integrated Mechanical\u2010Sensing Capabilities",
+    "url": "https://doi.org/10.1002/adfm.202525154",
+    "date": "2026-11-09"
   }
 ]
