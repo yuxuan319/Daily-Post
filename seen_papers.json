@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "157e22dcecb2dac91e68e0ef73de131c2f3873e0",
-    "title": "Silicone-Based Haptic Interfaces: Enhancing Multimodal Interactions through Pneumatic Tactile Feedback",
-    "url": "https://doi.org/10.1109/IHMSC62065.2024.00039",
-    "date": "2026-08-22"
-  },
-  {
-    "paperId": "1bc6ee6c1eb9bf1caf757ae310016606e5e53888",
-    "title": "Enhancing stroke rehabilitation with whole-hand haptic rendering: development and clinical usability evaluation of a novel upper-limb rehabilitation device",
-    "url": "https://doi.org/10.1186/s12984-024-01439-1",
-    "date": "2026-08-22"
-  },
-  {
-    "paperId": "7860703d62107a36e7d573a7b52e293c86196c55",
-    "title": "Soft Wearable Haptic Display and Flexible 3D Force Sensor for Teleoperated Surgical Systems",
-    "url": "https://doi.org/10.1002/adsr.202300105",
-    "date": "2026-08-22"
-  },
-  {
-    "paperId": "74632a8c8b13b6f5c18dfefc0afbfc89966160ea",
-    "title": "Numerical and Experimental Study of a Wearable Exo-Glove for Telerehabilitation Application Using Shape Memory Alloy Actuators",
-    "url": "https://doi.org/10.3390/act13100409",
-    "date": "2026-08-22"
-  },
-  {
-    "paperId": "7063bfe2df6d3b01cdf238d15630bd3b8c7373d2",
-    "title": "ROMEO: Towards the Design of Robot with Haptic Mediation for Remote Conflict",
-    "url": "https://doi.org/10.1145/3613905.3650781",
-    "date": "2026-08-22"
-  },
-  {
     "paperId": "7c8b5d98f2aef502f52ee322b26285326805d504",
     "title": "Nucleobase\u2010Driven Wearable Ionogel Electronics for Long\u2010Term Human Motion Detection and Electrophysiological Signal Monitoring",
     "url": "https://doi.org/10.1002/adfm.202412244",
@@ -2398,5 +2368,35 @@
     "title": "Multifunctional Multi\u2010Scale 3D Hilbert Metamaterial With Integrated Mechanical\u2010Sensing Capabilities",
     "url": "https://doi.org/10.1002/adfm.202525154",
     "date": "2026-11-09"
+  },
+  {
+    "paperId": "c639be9482cc7c26971b429b0f1475acee95da3b",
+    "title": "Stretchable and Leakage\u2010Free Liquid Metal Networks for Thermal Management",
+    "url": "https://doi.org/10.1002/adfm.202420839",
+    "date": "2026-11-10"
+  },
+  {
+    "paperId": "928e06068299b19fccdc4a8af58525d340246d61",
+    "title": "Soft Flexible Magnetic Micro-Structures for a Haptic Surface",
+    "url": "https://doi.org/10.1109/WHC64065.2025.11123415",
+    "date": "2026-11-10"
+  },
+  {
+    "paperId": "e316866c610c9cfad49a2601ecba1a6657e4f811",
+    "title": "VR Calm+: Furry Stress Ball as a Haptic Modality for Relaxation in Virtual Reality",
+    "url": "https://doi.org/10.1109/ISMAR-Adjunct68609.2025.00128",
+    "date": "2026-11-10"
+  },
+  {
+    "paperId": "fde1b9c22f8287f3a9f876be6a359569dd38b658",
+    "title": "Mimosa: Modular Self-folding Hinges Kit for Creating Shape-changing Objects",
+    "url": "https://doi.org/10.1145/3623509.3633381",
+    "date": "2026-11-10"
+  },
+  {
+    "paperId": "e91057b25d725b359e0762ca4fd88a190121c4d7",
+    "title": "Mechanical Metamaterial With Shape\u2010Encoded Reprogrammable Properties",
+    "url": "https://doi.org/10.1002/adfm.75001",
+    "date": "2026-11-10"
   }
 ]
