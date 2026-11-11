@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "7c8b5d98f2aef502f52ee322b26285326805d504",
-    "title": "Nucleobase\u2010Driven Wearable Ionogel Electronics for Long\u2010Term Human Motion Detection and Electrophysiological Signal Monitoring",
-    "url": "https://doi.org/10.1002/adfm.202412244",
-    "date": "2026-08-23"
-  },
-  {
-    "paperId": "c427d71471e7e994dd3557b82f15636b55408d61",
-    "title": "Origami-based Haptic Syringe for Local Anesthesia Simulator.",
-    "url": "https://doi.org/10.1109/TOH.2024.3353924",
-    "date": "2026-08-23"
-  },
-  {
-    "paperId": "4da68d7c9eca88c28fbb4aeaf8a4a3c4480c21b1",
-    "title": "Impedance for Assistance: Upper-Limb Assistive Soft Robotic Suit Using Linked-Layer Jamming Mechanisms",
-    "url": "https://doi.org/10.1089/soro.2023.0146",
-    "date": "2026-08-23"
-  },
-  {
-    "paperId": "a9c031f291ab29e8ae9189a1cc06c02e99b21f6c",
-    "title": "Shape-memory polyurethanes for polar wearables with ultrasensitive multi-monitoring",
-    "url": "https://doi.org/10.1038/s41467-025-66422-3",
-    "date": "2026-08-23"
-  },
-  {
-    "paperId": "758139bd5054d80cf28eedf4c7a6bde15f58425c",
-    "title": "Influence of Vibrotactile Signal Parameters on Human Perceptual and Behavioral Responses for Forearm-Wearable Devices",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123215",
-    "date": "2026-08-23"
-  },
-  {
     "paperId": "f067b52da208c6a996d9a8b6edb4ce0a39fae5d9",
     "title": "Understanding Affective Responses to Directional Tactile Motion via a Wearable Pneumatic Interface",
     "url": "https://doi.org/10.1145/3746058.3758383",
@@ -2398,5 +2368,35 @@
     "title": "Mechanical Metamaterial With Shape\u2010Encoded Reprogrammable Properties",
     "url": "https://doi.org/10.1002/adfm.75001",
     "date": "2026-11-10"
+  },
+  {
+    "paperId": "8e653077d7b7b5d59eb99fd2a523f828446b7bc3",
+    "title": "Li+ Ion-Dipole Interaction-Enabled a Dynamic Supramolecular Elastomer Interface Layer for Dendrite-Free Lithium Metal Anodes.",
+    "url": "https://doi.org/10.1021/jacs.4c08766",
+    "date": "2026-11-11"
+  },
+  {
+    "paperId": "cf50e8b4c9e45f852d8267f471b9ec98d6f022c6",
+    "title": "The HapticSpider: A 7-DoF Wearable Device for Cutaneous Interaction with the Palm",
+    "url": "https://doi.org/10.1007/978-3-031-70058-3_23",
+    "date": "2026-11-11"
+  },
+  {
+    "paperId": "154b7e306ead1a675ad312e9af1b74d91f969f0a",
+    "title": "A Stiffness-Tunable Soft Actuator with Adjustable Jamming for Dexterous Manipulation",
+    "url": "https://doi.org/10.1177/21695172251405996",
+    "date": "2026-11-11"
+  },
+  {
+    "paperId": "42725be10da6a34c56341bda7a372ebbde4d1a67",
+    "title": "Flextiles: Designing Customisable Shape-Change in Textiles with SMA-Actuated Smocking Patterns",
+    "url": "https://doi.org/10.1145/3613904.3642848",
+    "date": "2026-11-11"
+  },
+  {
+    "paperId": "dfc9e444dbb9eefde7660934290be9acd21e2522",
+    "title": "Self-powered electrotactile textile haptic glove for enhanced human-machine interface",
+    "url": "https://doi.org/10.1126/sciadv.adt0318",
+    "date": "2026-11-11"
   }
 ]
