@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "f067b52da208c6a996d9a8b6edb4ce0a39fae5d9",
-    "title": "Understanding Affective Responses to Directional Tactile Motion via a Wearable Pneumatic Interface",
-    "url": "https://doi.org/10.1145/3746058.3758383",
-    "date": "2026-08-24"
-  },
-  {
-    "paperId": "822ba5ca36e4ec5308b58c16c59a082610210c45",
-    "title": "Wearable interactive full-body motion tracking and haptic feedback network systems with deep learning",
-    "url": "https://doi.org/10.1038/s41467-025-63644-3",
-    "date": "2026-08-24"
-  },
-  {
-    "paperId": "44584669025a7011546cc024fdedebe1cd02206d",
-    "title": "Interface engineering in ZnO/CdO hybrid nanocomposites to enhanced resistive switching memory for neuromorphic computing.",
-    "url": "https://doi.org/10.1016/j.jcis.2023.12.084",
-    "date": "2026-08-24"
-  },
-  {
-    "paperId": "a989ea1f4bbd8470b5a4570fa13964f6a294c835",
-    "title": "4D Printing Micelle-enhanced Shape Memory Polymer for Minimally Invasive Implant",
-    "url": "https://doi.org/10.1007/s10118-025-3423-6",
-    "date": "2026-08-24"
-  },
-  {
-    "paperId": "a7b0a53792768744fef4c55d7168bb2dba78dfb6",
-    "title": "Mechanical self-adaptive porous valve relying on surface tension for energy harvesting from low-flux bubbles",
-    "url": "https://doi.org/10.1038/s41467-025-66500-6",
-    "date": "2026-08-24"
-  },
-  {
     "paperId": "7334daa1273ef4c06843d62a4625a30544c45795",
     "title": "Digital Light Processing 3D\u2010Printed Multilayer Dielectric Elastomer Actuator for Vibrotactile Device",
     "url": "https://doi.org/10.1002/admt.202301642",
@@ -2398,5 +2368,35 @@
     "title": "Self-powered electrotactile textile haptic glove for enhanced human-machine interface",
     "url": "https://doi.org/10.1126/sciadv.adt0318",
     "date": "2026-11-11"
+  },
+  {
+    "paperId": "3eb8ca66bd18025487161ccd2014b354b41b5c8b",
+    "title": "Flexible Tactile Actuator Arrays With Integrated Electroosmotic Pumps for Wearable Haptic Systems",
+    "url": "https://doi.org/10.1002/admt.71205",
+    "date": "2026-11-12"
+  },
+  {
+    "paperId": "3cd2eebc70cc2ab613eba8bd791aa4aa9094a6c5",
+    "title": "Highly Stretchable, Self\u2010Healable, and Conductive Gelatin Methacryloyl Hydrogel for Long\u2010Lasting Wearable Tactile Sensors",
+    "url": "https://doi.org/10.1002/advs.202502678",
+    "date": "2026-11-12"
+  },
+  {
+    "paperId": "c3f016f67d4ab74ad70aed3791b2bb78384b57fd",
+    "title": "Design Optimization of a Variable Stiffness Actuator for Knee Exoskeleton Application",
+    "url": "https://doi.org/10.1109/ACCESS.2023.3276417",
+    "date": "2026-11-12"
+  },
+  {
+    "paperId": "b6e9e3145127135a7af150d40dd7ef373a41bab6",
+    "title": "Star-PCL Shape Memory Polymer (SMP) Scaffolds with Tunable Transition Temperatures for Enhanced Utility",
+    "url": "https://doi.org/10.1039/d4tb00050a",
+    "date": "2026-11-12"
+  },
+  {
+    "paperId": "65a02b84e28e226d1b40538402b078806d493c6a",
+    "title": "Vision-based tactile intelligence with soft robotic metamaterial",
+    "url": "https://doi.org/10.1016/j.matdes.2024.112629",
+    "date": "2026-11-12"
   }
 ]
