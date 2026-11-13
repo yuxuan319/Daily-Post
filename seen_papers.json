@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "7334daa1273ef4c06843d62a4625a30544c45795",
-    "title": "Digital Light Processing 3D\u2010Printed Multilayer Dielectric Elastomer Actuator for Vibrotactile Device",
-    "url": "https://doi.org/10.1002/admt.202301642",
-    "date": "2026-08-25"
-  },
-  {
-    "paperId": "c48cdfa04183f516e6431796fab58c43861a6583",
-    "title": "Dynamically reconfigurable shape-morphing and tactile display via hydraulically coupled mergeable and splittable PVC gel actuator",
-    "url": "https://doi.org/10.1126/sciadv.adq2024",
-    "date": "2026-08-25"
-  },
-  {
-    "paperId": "9f0ddd8cef64cf715817b1d2f9735afd98f3e72c",
-    "title": "A Wearable Fingertip Force Feedback Device System for Object Stiffness Sensing",
-    "url": "https://doi.org/10.3390/mi15060693",
-    "date": "2026-08-25"
-  },
-  {
-    "paperId": "d01a09f9680aba6078a95dade9f3ecee4e6d5227",
-    "title": "A Triple Shape Memory Material of Trans\u2010Polyisoprene/Polycaprolactone with Customizable Response Temperature Controlled by Crosslinking Density",
-    "url": "https://doi.org/10.1002/adfm.202400245",
-    "date": "2026-08-25"
-  },
-  {
-    "paperId": "5ce8007513983f36a4a6f4bda3958672ca1b1ada",
-    "title": "Enabling Tactile Internet via 6G: Application Characteristics, Requirements, and Design Considerations",
-    "url": "https://doi.org/10.3390/fi17030122",
-    "date": "2026-08-25"
-  },
-  {
     "paperId": "5b7c56fbbe9bb45859366642f3921ff42b584823",
     "title": "Closed\u2010Loop Haptic\u2013Thermal Perception with Memristor\u2010Based Spiking Neurons for Embodied Neuromorphic Intelligence",
     "url": "https://doi.org/10.1002/adfm.202523270",
@@ -2398,5 +2368,35 @@
     "title": "Vision-based tactile intelligence with soft robotic metamaterial",
     "url": "https://doi.org/10.1016/j.matdes.2024.112629",
     "date": "2026-11-12"
+  },
+  {
+    "paperId": "81f3bb175ba2b475fce52daec32f53cfb47c22c1",
+    "title": "Anti-friction gold-based stretchable electronics enabled by interfacial diffusion-induced cohesion",
+    "url": "https://doi.org/10.1038/s41467-024-45393-x",
+    "date": "2026-11-13"
+  },
+  {
+    "paperId": "853eab039cff0d52f6a395fb8115f47e85d72a0e",
+    "title": "Novel Haptic Electronic Yarn for Wearable Textiles: Vibrotactile Feedback via Knitted Channels for Skin-Based Communication",
+    "url": "https://doi.org/10.1038/s41528-026-00613-w",
+    "date": "2026-11-13"
+  },
+  {
+    "paperId": "97afa9c21679a03b8181deee9797732cd0739c49",
+    "title": "Jamming Giant Molecules at Interface in Organic Photovoltaics to Improve Performance and Stability",
+    "url": "https://doi.org/10.1002/adma.202407297",
+    "date": "2026-11-13"
+  },
+  {
+    "paperId": "a9c031f291ab29e8ae9189a1cc06c02e99b21f6c",
+    "title": "Shape-memory polyurethanes for polar wearables with ultrasensitive multi-monitoring",
+    "url": "https://doi.org/10.1038/s41467-025-66422-3",
+    "date": "2026-11-13"
+  },
+  {
+    "paperId": "32513e62a0a9c16431a35e3672501027a969e301",
+    "title": "A Reversible, Versatile Skin\u2010Attached Haptic Interface Platform with Bioinspired Interconnection Architectures Capable of Resisting Sweat and Vibration",
+    "url": "https://doi.org/10.1002/adfm.202311167",
+    "date": "2026-11-13"
   }
 ]
