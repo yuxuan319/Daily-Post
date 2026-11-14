@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "5b7c56fbbe9bb45859366642f3921ff42b584823",
-    "title": "Closed\u2010Loop Haptic\u2013Thermal Perception with Memristor\u2010Based Spiking Neurons for Embodied Neuromorphic Intelligence",
-    "url": "https://doi.org/10.1002/adfm.202523270",
-    "date": "2026-08-26"
-  },
-  {
-    "paperId": "b15bc5dbfb3fa8caaba351ee9069befd47e49861",
-    "title": "Conveying Emotions through Shape-changing to Children with and without Visual Impairment",
-    "url": "https://doi.org/10.1145/3613904.3642525",
-    "date": "2026-08-26"
-  },
-  {
-    "paperId": "acf8645ce335c807c17d412ead6f3ba766778b9b",
-    "title": "Empowering Particle Jamming Soft Gripper with Tactility via Stretchable Optoelectronic Sensing Skin",
-    "url": "https://doi.org/10.1002/aisy.202400285",
-    "date": "2026-08-26"
-  },
-  {
-    "paperId": "f777607990ea8a19272f8bd2067f11e70ed3cb62",
-    "title": "Recent Advances in Polymer Nanocomposites: Unveiling the Frontier of Shape Memory and Self-Healing Properties\u2014A Comprehensive Review",
-    "url": "https://doi.org/10.3390/molecules29061267",
-    "date": "2026-08-26"
-  },
-  {
-    "paperId": "62c66473c39b25504d142a03dcaa6b1bdfe7ef4c",
-    "title": "Soft robotics for personalized and sustainable wearables",
-    "url": "https://doi.org/10.1038/s44222-025-00359-6",
-    "date": "2026-08-26"
-  },
-  {
     "paperId": "9f007638db375085ccaedb83ecc28e6b27f98971",
     "title": "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices",
     "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520855",
@@ -2398,5 +2368,35 @@
     "title": "A Reversible, Versatile Skin\u2010Attached Haptic Interface Platform with Bioinspired Interconnection Architectures Capable of Resisting Sweat and Vibration",
     "url": "https://doi.org/10.1002/adfm.202311167",
     "date": "2026-11-13"
+  },
+  {
+    "paperId": "73007cdbccd3068f8df08028d85484278706e025",
+    "title": "An environment-friendly gradient double-layer wearable hydrogel strain sensor for human motion monitoring and deformation recognition actuator",
+    "url": "https://doi.org/10.1007/s40843-024-3227-7",
+    "date": "2026-11-14"
+  },
+  {
+    "paperId": "c48cdfa04183f516e6431796fab58c43861a6583",
+    "title": "Dynamically reconfigurable shape-morphing and tactile display via hydraulically coupled mergeable and splittable PVC gel actuator",
+    "url": "https://doi.org/10.1126/sciadv.adq2024",
+    "date": "2026-11-14"
+  },
+  {
+    "paperId": "25b33a4549d98f084e076f5ed6d9f3ef75abf71e",
+    "title": "Fatigue\u2010Resistant Mechanoresponsive Color\u2010Changing Hydrogels for Vision\u2010Based Tactile Robots",
+    "url": "https://doi.org/10.1002/adma.202407925",
+    "date": "2026-11-14"
+  },
+  {
+    "paperId": "719a6d9e4e29c32fdab40dc557e03ba6ba710d1a",
+    "title": "Advancing Robotic Fruit Picking: Adaptive End-Effector Approach",
+    "url": "https://doi.org/10.54097/mysdej46",
+    "date": "2026-11-14"
+  },
+  {
+    "paperId": "f8b77c91e6b5c7f7b00789a5ab60e08b1c78f4ca",
+    "title": "Acceptance and Usability of a Soft Robotic, Haptic Feedback Seat for Autonomy Level Transitions in Highly Automated Vehicles",
+    "url": "https://doi.org/10.1109/TOH.2024.3392473",
+    "date": "2026-11-14"
   }
 ]
