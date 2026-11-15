@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "9f007638db375085ccaedb83ecc28e6b27f98971",
-    "title": "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices",
-    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520855",
-    "date": "2026-08-27"
-  },
-  {
-    "paperId": "509fed11e173299d66a3361603df574bdbc5fa69",
-    "title": "Bio-inspired artificial mechanoreceptors with built-in synaptic functions for intelligent tactile skin",
-    "url": "https://doi.org/10.1038/s41563-025-02204-y",
-    "date": "2026-08-27"
-  },
-  {
-    "paperId": "e36b22db43b5db8dfdca2829233222a12c96a8a1",
-    "title": "Haptic Acuity During Shared Grasp Experiences in Virtual Reality",
-    "url": "https://doi.org/10.1109/TOH.2026.3654548",
-    "date": "2026-08-27"
-  },
-  {
-    "paperId": "91a825325551072dcc2c24de5fecb0b53d79dff1",
-    "title": "Chemically crosslinked flexible polymer phase change material with self-healing, self-adaptive, and shape-memory properties for thermal interface applications.",
-    "url": "https://doi.org/10.1016/j.jcis.2025.137831",
-    "date": "2026-08-27"
-  },
-  {
-    "paperId": "ffecd2e3075bec4c5c39bfdf69a0b3a1f699d049",
-    "title": "Meta-Ori: monolithic meta-origami for nonlinear inflatable soft actuators",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020947",
-    "date": "2026-08-27"
-  },
-  {
     "paperId": "1342c819ce6c4a662d7d07b4fe77bb4c36e577ca",
     "title": "Advanced Stretchable Aerogels and Foams for Flexible Electronics and Beyond",
     "url": "https://doi.org/10.1002/adfm.202408707",
@@ -2398,5 +2368,35 @@
     "title": "Acceptance and Usability of a Soft Robotic, Haptic Feedback Seat for Autonomy Level Transitions in Highly Automated Vehicles",
     "url": "https://doi.org/10.1109/TOH.2024.3392473",
     "date": "2026-11-14"
+  },
+  {
+    "paperId": "b3de03bd12d627366df99611db966ceca032d897",
+    "title": "Robust, Self-Healing, and Multi-Use Poly(Urethane-Urea-Imide) Elastomer as a Durable Adhesive for Thermal Interface Materials.",
+    "url": "https://doi.org/10.1002/smll.202401815",
+    "date": "2026-11-15"
+  },
+  {
+    "paperId": "c13aaaa9a57b6134afa52f3eb13c96ad43af7720",
+    "title": "Pneumatic Laser Origami: Rapid and Large-Scale Fabrication of Laser-Welded Pouch Motors for Shape-Changing Products",
+    "url": "https://doi.org/10.1145/3689050.3704956",
+    "date": "2026-11-15"
+  },
+  {
+    "paperId": "f8e595c6b756775e6cee83c97d9475ae9b3a1adf",
+    "title": "Model-Based Design of Variable Stiffness Soft Gripper Actuated by Smart Hydrogels",
+    "url": "https://doi.org/10.1089/soro.2023.0185",
+    "date": "2026-11-15"
+  },
+  {
+    "paperId": "74632a8c8b13b6f5c18dfefc0afbfc89966160ea",
+    "title": "Numerical and Experimental Study of a Wearable Exo-Glove for Telerehabilitation Application Using Shape Memory Alloy Actuators",
+    "url": "https://doi.org/10.3390/act13100409",
+    "date": "2026-11-15"
+  },
+  {
+    "paperId": "44315b575fd7aa156925970f0d43a63d73209f51",
+    "title": "Flexible phase change film with motion sensing and tactile recognition for wearable thermal management",
+    "url": "https://doi.org/10.1016/j.cej.2024.153271",
+    "date": "2026-11-15"
   }
 ]
