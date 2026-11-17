@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "3bb8e7356385f57f1a5a9a0c975bfe1eb19bdacc",
-    "title": "Microstructured Polyelectrolyte Elastomer\u2010Based Ionotronic Sensors with High Sensitivities and Excellent Stability for Artificial Skins",
-    "url": "https://doi.org/10.1002/adma.202310429",
-    "date": "2026-08-29"
-  },
-  {
-    "paperId": "51f48962b3877d98bbad1f678a7367fe2042c9f8",
-    "title": "Haptic Interface With Force and Torque Feedback for Robot-Assisted Endovascular Catheterization",
-    "url": "https://doi.org/10.1109/TMECH.2023.3290492",
-    "date": "2026-08-29"
-  },
-  {
-    "paperId": "300587ac34dc1ecce4984c88ee84471fd1b06f78",
-    "title": "Spatial tactile localization depends on sensorimotor binding: preliminary evidence from virtual reality",
-    "url": "https://doi.org/10.3389/fnhum.2024.1354633",
-    "date": "2026-08-29"
-  },
-  {
-    "paperId": "009a5fa118e4cd57c36273de76013aacf98c9239",
-    "title": "Reversible Stepless Multiple Shape Memory Polymer Comprising Amorphous Region as Switching Phase",
-    "url": "https://doi.org/10.1002/adfm.202500230",
-    "date": "2026-08-29"
-  },
-  {
-    "paperId": "e1545000e186233eedcdb4bdf0c4effb1e46923e",
-    "title": "Symmetry Breaking Metamaterial Sleeve Actuators",
-    "url": "https://doi.org/10.1002/aisy.202500157",
-    "date": "2026-08-29"
-  },
-  {
     "paperId": "011c27ce5602deeb4e966036b1bd5e163de1002b",
     "title": "The effect a soft pneumatic glove game-based rehabilitation on grip strength, hand function, and cognitive function in older adults with mild cognitive impairment: A single-blind, randomized controlled pilot study",
     "url": "https://doi.org/10.1016/j.arrct.2026.100694",
@@ -2398,5 +2368,35 @@
     "title": "An Evaluation of VR Games and Haptic Feedback for Upper Limb Rehabilitation for Individuals with Parkinson\u2019s Disease",
     "url": "https://doi.org/10.3390/machines13100930",
     "date": "2026-11-16"
+  },
+  {
+    "paperId": "1d30c5947f7d7a81556386aac38d041957d57856",
+    "title": "Atmospheric Doping of Stretchable Polymer Semiconductors for Skin Electronics",
+    "url": "https://doi.org/10.1002/adfm.202506882",
+    "date": "2026-11-17"
+  },
+  {
+    "paperId": "d3c851d23f5a3ca8c2078993093f295cf3fa98ae",
+    "title": "Magnetic kirigami dome metasheet with high deformability and stiffness for adaptive dynamic shape-shifting and multimodal manipulation",
+    "url": "https://doi.org/10.1126/sciadv.adr8421",
+    "date": "2026-11-17"
+  },
+  {
+    "paperId": "e3773d5bc7f797ab257f886c8220bd3feeb998ea",
+    "title": "Hierarchical Learning Based on Visual-Haptic Perception for Robotic Variable Impedance Control",
+    "url": "https://doi.org/10.1109/TIE.2025.3558080",
+    "date": "2026-11-17"
+  },
+  {
+    "paperId": "e911da544452e6fbc88dc7ee74c963859b1ab498",
+    "title": "Effect of Post-treatments on the Thermomechanical Behavior of NiTiHf High-Temperature Shape Memory Alloy Fabricated with Laser Powder Bed Fusion",
+    "url": "https://doi.org/10.1007/s40830-023-00472-8",
+    "date": "2026-11-17"
+  },
+  {
+    "paperId": "822ba5ca36e4ec5308b58c16c59a082610210c45",
+    "title": "Wearable interactive full-body motion tracking and haptic feedback network systems with deep learning",
+    "url": "https://doi.org/10.1038/s41467-025-63644-3",
+    "date": "2026-11-17"
   }
 ]
