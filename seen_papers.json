@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "6c78d9c0f5e47f26d067c66fdf3bd64cba70cba4",
-    "title": "Omnidirectionally Strain\u2010Unperturbed Tactile Array from Modulus Regulation in Quasi\u2010Homogeneous Elastomer Meshes",
-    "url": "https://doi.org/10.1002/adfm.202307475",
-    "date": "2026-08-31"
-  },
-  {
-    "paperId": "ea99c25954a9098d893fbeac2aa5b6dbf79f85f1",
-    "title": "Rapid Fabrication of Haptic and Electric Input Interfaces using 4D Printed Origami",
-    "url": "https://doi.org/10.1145/3613905.3651022",
-    "date": "2026-08-31"
-  },
-  {
-    "paperId": "dd97d0e0f49459f87fde88897d9d404bbf5ef254",
-    "title": "Variable Stiffness Woven Soft Active Textiles and Robots Using Thin McKibben Muscle.",
-    "url": "https://doi.org/10.1177/21695172251379609",
-    "date": "2026-08-31"
-  },
-  {
-    "paperId": "36751f8fa529b9980c28ab2832ba2f4fb6234c75",
-    "title": "Two\u2010Way Shape Memory Polymer Composite Gripper for Adaptive Robotic Applications",
-    "url": "https://doi.org/10.1002/admt.202500614",
-    "date": "2026-08-31"
-  },
-  {
-    "paperId": "a1be3c4be178276c30f50af97b106e01f617f1c3",
-    "title": "Presentation of Robot-Intended Handover Position Using Vibrotactile Interface During Robot-to-Human Handover Task",
-    "url": "https://doi.org/10.1145/3610977.3634935",
-    "date": "2026-08-31"
-  },
-  {
     "paperId": "f057033f30b69f6ecd26be8a29acf082f9c60d28",
     "title": "Development of an Intuitive Interface With Haptic Enhancement for Robot-Assisted Endovascular Intervention",
     "url": "https://doi.org/10.1109/TOH.2023.3346479",
@@ -2398,5 +2368,35 @@
     "title": "ROMEO: Towards the Design of Robot with Haptic Mediation for Remote Conflict",
     "url": "https://doi.org/10.1145/3613905.3650781",
     "date": "2026-11-18"
+  },
+  {
+    "paperId": "8e9fc153bd72c74b2c6f962bda7b60cc88656643",
+    "title": "A multimodal magnetoelastic artificial skin for underwater haptic sensing",
+    "url": "https://doi.org/10.1126/sciadv.adj8567",
+    "date": "2026-11-19"
+  },
+  {
+    "paperId": "fd43e2edda035eb8c6d0a7d2d9dd11e421b52db0",
+    "title": "HapMotion: motion-to-tactile framework with wearable haptic devices for immersive VR performance experience",
+    "url": "https://doi.org/10.1007/s10055-023-00910-z",
+    "date": "2026-11-19"
+  },
+  {
+    "paperId": "9f0ddd8cef64cf715817b1d2f9735afd98f3e72c",
+    "title": "A Wearable Fingertip Force Feedback Device System for Object Stiffness Sensing",
+    "url": "https://doi.org/10.3390/mi15060693",
+    "date": "2026-11-19"
+  },
+  {
+    "paperId": "d01a09f9680aba6078a95dade9f3ecee4e6d5227",
+    "title": "A Triple Shape Memory Material of Trans\u2010Polyisoprene/Polycaprolactone with Customizable Response Temperature Controlled by Crosslinking Density",
+    "url": "https://doi.org/10.1002/adfm.202400245",
+    "date": "2026-11-19"
+  },
+  {
+    "paperId": "77ca645cde5436479b098b0a5816060427379db0",
+    "title": "Rubik\u2019s cube as in-situ programmable matter and a reconfigurable mechanical metamaterial",
+    "url": "https://doi.org/10.1007/s11431-024-2681-1",
+    "date": "2026-11-19"
   }
 ]
