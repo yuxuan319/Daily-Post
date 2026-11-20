@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "f057033f30b69f6ecd26be8a29acf082f9c60d28",
-    "title": "Development of an Intuitive Interface With Haptic Enhancement for Robot-Assisted Endovascular Intervention",
-    "url": "https://doi.org/10.1109/TOH.2023.3346479",
-    "date": "2026-09-01"
-  },
-  {
-    "paperId": "dada35d0feea3e3d404d5f3cebed04126d0a93ec",
-    "title": "StringTouch: A Non-occlusive 3DoF Haptic Interface Using String Structures for Modulating Finger Sensations",
-    "url": "https://doi.org/10.1145/3746059.3747658",
-    "date": "2026-09-01"
-  },
-  {
-    "paperId": "8dc18e7bfc375d06d6cb0b42aed5e0773e661ebf",
-    "title": "Soft haptic interface for multidimensional cutaneous feedback in virtual and augmented reality",
-    "url": "https://doi.org/10.1117/12.3050326",
-    "date": "2026-09-01"
-  },
-  {
-    "paperId": "b33266570f626e47a05e2c07c908290a3cd7232c",
-    "title": "Wearable haptic interfaces based on Auxetic knot-architectured SMA",
-    "url": "https://doi.org/10.1117/12.3056751",
-    "date": "2026-09-01"
-  },
-  {
-    "paperId": "4bff2536940f6d34c5aa379c75107c77a610157f",
-    "title": "Active Haptic Feedback for a Virtual Wrist-Anchored User Interface",
-    "url": "https://doi.org/10.1145/3672539.3686765",
-    "date": "2026-09-01"
-  },
-  {
     "paperId": "36143d92b66f409ec94dcc967667826be90f8307",
     "title": "A sense-drive-feedback integrated soft tactile actuator for bionic flytrap with high sensitivity, large deformation, and low-power consumption",
     "url": "https://doi.org/10.1016/j.cej.2024.153123",
@@ -2398,5 +2368,35 @@
     "title": "Rubik\u2019s cube as in-situ programmable matter and a reconfigurable mechanical metamaterial",
     "url": "https://doi.org/10.1007/s11431-024-2681-1",
     "date": "2026-11-19"
+  },
+  {
+    "paperId": "da602daa1580b3a952893732de0cc3f3d70d1a31",
+    "title": "Compact Soft Tactile Actuator Based on Stacked Electroosmotic Pumps for Wearable Haptics",
+    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495463",
+    "date": "2026-11-20"
+  },
+  {
+    "paperId": "df92cd03cfde5538ee75a8d29f7781d6f3fcaa66",
+    "title": "Highly stretchable and flexible kirigami patterned silver electrodes for wearable electronics",
+    "url": "https://doi.org/10.1016/j.sna.2024.115813",
+    "date": "2026-11-20"
+  },
+  {
+    "paperId": "dd97d0e0f49459f87fde88897d9d404bbf5ef254",
+    "title": "Variable Stiffness Woven Soft Active Textiles and Robots Using Thin McKibben Muscle.",
+    "url": "https://doi.org/10.1177/21695172251379609",
+    "date": "2026-11-20"
+  },
+  {
+    "paperId": "a0c9f20afa18c32530ed79d491f4f0717283213f",
+    "title": "Synergistic effects of strain rate and temperature on the superelastic\u2013plastic behaviors of nanocrystalline NiTi shape memory alloy: A molecular dynamic study",
+    "url": "https://doi.org/10.1063/5.0266283",
+    "date": "2026-11-20"
+  },
+  {
+    "paperId": "11710e53c156ecadecf8976e812f558f7ec17057",
+    "title": "Integrated mechanical computing for autonomous soft machines",
+    "url": "https://doi.org/10.1038/s41467-024-47201-y",
+    "date": "2026-11-20"
   }
 ]
