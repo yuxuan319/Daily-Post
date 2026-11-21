@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "36143d92b66f409ec94dcc967667826be90f8307",
-    "title": "A sense-drive-feedback integrated soft tactile actuator for bionic flytrap with high sensitivity, large deformation, and low-power consumption",
-    "url": "https://doi.org/10.1016/j.cej.2024.153123",
-    "date": "2026-09-02"
-  },
-  {
-    "paperId": "4beb1fc208fa17b836a05e05f0bb80e81655d562",
-    "title": "ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface",
-    "url": "https://doi.org/10.48550/arXiv.2504.06156",
-    "date": "2026-09-02"
-  },
-  {
-    "paperId": "176c0696ef73904057e2c34e4fe73aecc39750ad",
-    "title": "Crip Haptic Jam: Vibrotactile Composition for Disability-Centered Dance.",
-    "url": "https://doi.org/10.1109/TOH.2026.3709095",
-    "date": "2026-09-02"
-  },
-  {
-    "paperId": "637468ba5e1bc2dcd797be08d899a47c35cbf982",
-    "title": "Wearable Haptic Devices for Realistic Scenario Applications",
-    "url": "https://doi.org/10.1007/978-3-031-70539-7",
-    "date": "2026-09-02"
-  },
-  {
-    "paperId": "653d6dd4bc25b6ecf28b086d25091785699ec726",
-    "title": "Auxetic Structure\u2010Assisted Triboelectric Nanogenerators for Efficient Energy Collection and Wearable Sensing",
-    "url": "https://doi.org/10.1002/aenm.202400212",
-    "date": "2026-09-02"
-  },
-  {
     "paperId": "4bae62a05ade5217f4614aba708d897361f3f1b2",
     "title": "A Kirigami\u2010Driven Stretchable Paper\u2010Based Hydrovoltaic Electricity Generator",
     "url": "https://doi.org/10.1002/adfm.202419753",
@@ -2398,5 +2368,35 @@
     "title": "Integrated mechanical computing for autonomous soft machines",
     "url": "https://doi.org/10.1038/s41467-024-47201-y",
     "date": "2026-11-20"
+  },
+  {
+    "paperId": "9f007638db375085ccaedb83ecc28e6b27f98971",
+    "title": "Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-Worn Haptic Devices",
+    "url": "https://doi.org/10.1109/HAPTICS59260.2024.10520855",
+    "date": "2026-11-21"
+  },
+  {
+    "paperId": "52b244b3e2d4f93ea81070769eced327052008d6",
+    "title": "Shape-morphing metamaterials",
+    "url": "https://doi.org/10.1038/s41578-025-00828-9",
+    "date": "2026-11-21"
+  },
+  {
+    "paperId": "cdb8ef70f4d89e33b9cfff299382edfd6e9998cc",
+    "title": "A Physically Intelligent, Multimodal Universal Soft Gripper Using Granular Materials",
+    "url": "https://doi.org/10.1002/adfm.202418549",
+    "date": "2026-11-21"
+  },
+  {
+    "paperId": "11de7e8e5dc6d31abf4ae939731db7da7f26acd5",
+    "title": "Shape Memory Alloy-Based Reactive Tubular (SMART) Brake for Compact and Energy-Efficient Wearable Robot Design",
+    "url": "https://doi.org/10.1021/acsami.3c15179",
+    "date": "2026-11-21"
+  },
+  {
+    "paperId": "644d3561e530c0b0fd16f98535b74460b2013911",
+    "title": "The effect of hexachiral auxetic metamaterial on the thermomechanical vibration response of doubly\u2010curved sandwich nanoplates with foam FGM face layers",
+    "url": "https://doi.org/10.1002/zamm.70202",
+    "date": "2026-11-21"
   }
 ]
