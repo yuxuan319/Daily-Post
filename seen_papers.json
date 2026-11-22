@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "4bae62a05ade5217f4614aba708d897361f3f1b2",
-    "title": "A Kirigami\u2010Driven Stretchable Paper\u2010Based Hydrovoltaic Electricity Generator",
-    "url": "https://doi.org/10.1002/adfm.202419753",
-    "date": "2026-09-03"
-  },
-  {
-    "paperId": "b70399e1e81688d5d644c34fa39ad4abd27ab487",
-    "title": "Templated Laser-Induced-Graphene-Based Tactile Sensors Enable Wearable Health Monitoring and Texture Recognition via Deep Neural Network.",
-    "url": "https://doi.org/10.1021/acsnano.3c05838",
-    "date": "2026-09-03"
-  },
-  {
-    "paperId": "0c89a6f7061eedda5e906e78c7d71523ced31bb1",
-    "title": "A Feedback-Controlled Jamming Approach for Variable-Stiffness Actuators in Untethered Soft Robots",
-    "url": "https://doi.org/10.1109/RoboSoft63089.2025.11020902",
-    "date": "2026-09-03"
-  },
-  {
-    "paperId": "94320a807f6c10ac560ffc4dfeccd01b96f7ba2b",
-    "title": "4D Printing of Magnetically Responsive Shape Memory Polymers: Toward Sustainable Solutions in Soft Robotics, Wearables, and Biomedical Devices",
-    "url": "https://doi.org/10.1002/advs.202513091",
-    "date": "2026-09-03"
-  },
-  {
-    "paperId": "ae128445cb81beea1bd359fffb0df679474e741f",
-    "title": "High\u2010Load Capable Soft Tactile Sensors: Incorporating Magnetorheological Elastomer for Accurate Contact Detection and Classification of Asymmetric Mechanical Components",
-    "url": "https://doi.org/10.1002/aisy.202400275",
-    "date": "2026-09-03"
-  },
-  {
     "paperId": "988917fef81b219c9f2e1f874bacc15aa1a859a4",
     "title": "A Spatially Selective Electroactive\u2010Actuating Adhesive Electronics for Multi\u2010Object Manipulation and Adaptive Haptic Interaction",
     "url": "https://doi.org/10.1002/adfm.202308747",
@@ -2398,5 +2368,35 @@
     "title": "The effect of hexachiral auxetic metamaterial on the thermomechanical vibration response of doubly\u2010curved sandwich nanoplates with foam FGM face layers",
     "url": "https://doi.org/10.1002/zamm.70202",
     "date": "2026-11-21"
+  },
+  {
+    "paperId": "f067b52da208c6a996d9a8b6edb4ce0a39fae5d9",
+    "title": "Understanding Affective Responses to Directional Tactile Motion via a Wearable Pneumatic Interface",
+    "url": "https://doi.org/10.1145/3746058.3758383",
+    "date": "2026-11-22"
+  },
+  {
+    "paperId": "85dc13d6310f1b04ac18bbb934ef0ef061f9ec54",
+    "title": "Variable-Diameter Deployable Structure Composite Preforms Made by Braiding and Needle-Punching Integrated Forming Technology",
+    "url": "https://doi.org/10.1186/s10033-024-01140-3",
+    "date": "2026-11-22"
+  },
+  {
+    "paperId": "176c0696ef73904057e2c34e4fe73aecc39750ad",
+    "title": "Crip Haptic Jam: Vibrotactile Composition for Disability-Centered Dance.",
+    "url": "https://doi.org/10.1109/TOH.2026.3709095",
+    "date": "2026-11-22"
+  },
+  {
+    "paperId": "76e7bada1bfd2d5546f7281070d1ed203838ef86",
+    "title": "Pose\u2010Independent Soft Haptic Ring for Joint\u2010Centered Directional Guidance via Multichannel Shape Memory Alloy Actuators",
+    "url": "https://doi.org/10.1002/sstr.202600017",
+    "date": "2026-11-22"
+  },
+  {
+    "paperId": "805a1994e3cb8d25648cbb899ae243018fcd7c34",
+    "title": "3D-printed multifunctional chiral metamaterial with invariant sound absorption under large deformation and low-frequency vibration control",
+    "url": "https://doi.org/10.1080/17452759.2024.2425386",
+    "date": "2026-11-22"
   }
 ]
