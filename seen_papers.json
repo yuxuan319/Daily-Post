@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "3fdb3c9a416b4edc9aeed1f8bb6b82469d94aa13",
-    "title": "Soft and flexible robot skin actuator using multilayer 3D pneumatic network",
-    "url": "https://doi.org/10.1038/s41467-025-60496-9",
-    "date": "2026-09-06"
-  },
-  {
-    "paperId": "392684c2cdb4b485a11077cb91b56e79a419b85a",
-    "title": "TacSuit: A Wearable Large-Area, Bioinspired Multimodal Tactile Skin for Collaborative Robots",
-    "url": "https://doi.org/10.1109/TIE.2023.3253921",
-    "date": "2026-09-06"
-  },
-  {
-    "paperId": "70204c1c184828799bc7cfde05461b9154456479",
-    "title": "Granular jamming for soft robotics: experiments and modelling of cyclic loading",
-    "url": "https://doi.org/10.1007/s43452-025-01176-9",
-    "date": "2026-09-06"
-  },
-  {
-    "paperId": "8bff30f959b257080fee31ca24cdae6e318187fa",
-    "title": "Tactile Sensor using Shape-memory Alloy Wires for Human-like Tactile Perception",
-    "url": "https://doi.org/10.1109/ICMA61710.2024.10633044",
-    "date": "2026-09-06"
-  },
-  {
-    "paperId": "bada194de3eb4bc00eb78a1e83b80b7773756b0f",
-    "title": "Studying the Perception of Vibrotactile Stimulation on the Arm via a Modular Wearable Sleeve",
-    "url": "https://doi.org/10.1109/WHC64065.2025.11123226",
-    "date": "2026-09-06"
-  },
-  {
     "paperId": "0c5fe77685b9ea510c5020fc61931e6bda74f6d3",
     "title": "Pressure Stimuli and Spatiotemporal Illusions on the Forearm",
     "url": "https://doi.org/10.1109/TOH.2024.3399394",
@@ -2398,5 +2368,35 @@
     "title": "ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface",
     "url": "https://doi.org/10.48550/arXiv.2504.06156",
     "date": "2026-11-24"
+  },
+  {
+    "paperId": "bd67e289367fae1e4e7dcc75511b5320731231bc",
+    "title": "Sealing the Deal: Effects of Fabrication Parameters on the Performance of Textile Pneumatic Haptic Actuators",
+    "url": "https://www.semanticscholar.org/paper/bd67e289367fae1e4e7dcc75511b5320731231bc",
+    "date": "2026-11-25"
+  },
+  {
+    "paperId": "4bae62a05ade5217f4614aba708d897361f3f1b2",
+    "title": "A Kirigami\u2010Driven Stretchable Paper\u2010Based Hydrovoltaic Electricity Generator",
+    "url": "https://doi.org/10.1002/adfm.202419753",
+    "date": "2026-11-25"
+  },
+  {
+    "paperId": "24e861df0db8ab1a767934d9cae57254b5c0bbdb",
+    "title": "Exploring the Impact of a Liquid-Based System on Full-Body Weight Perception in Weighted Exercise within Virtual Reality",
+    "url": "https://doi.org/10.1145/3746058.3758361",
+    "date": "2026-11-25"
+  },
+  {
+    "paperId": "a592b2b85225ec658bf60442fc5a3e7ba599609e",
+    "title": "Origami-Inspired Wearable Robot for Shoulder Abduction Assistance: A Double-Petal Mechanism Utilizing Shape Memory Alloy Actuators",
+    "url": "https://doi.org/10.1109/LRA.2023.3341751",
+    "date": "2026-11-25"
+  },
+  {
+    "paperId": "637468ba5e1bc2dcd797be08d899a47c35cbf982",
+    "title": "Wearable Haptic Devices for Realistic Scenario Applications",
+    "url": "https://doi.org/10.1007/978-3-031-70539-7",
+    "date": "2026-11-25"
   }
 ]
