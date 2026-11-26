@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "0c5fe77685b9ea510c5020fc61931e6bda74f6d3",
-    "title": "Pressure Stimuli and Spatiotemporal Illusions on the Forearm",
-    "url": "https://doi.org/10.1109/TOH.2024.3399394",
-    "date": "2026-09-07"
-  },
-  {
-    "paperId": "7da2d969ac69b2085a7f5d579aa09abca5d26179",
-    "title": "Optoelectronically navigated nano-kirigami microrotors",
-    "url": "https://doi.org/10.1126/sciadv.adn7582",
-    "date": "2026-09-07"
-  },
-  {
-    "paperId": "8aef965ddf839e1e516050655f0a8660bc44be46",
-    "title": "Haptic Human-Human Interaction During an Ankle Tracking Task: Effects of Virtual Connection Stiffness",
-    "url": "https://doi.org/10.1109/TNSRE.2023.3319291",
-    "date": "2026-09-07"
-  },
-  {
-    "paperId": "b18237b75311e50b91c743ae1dad953bca878769",
-    "title": "Stroke Imprint: Knitting Reassurance into Anxious Moments",
-    "url": "https://doi.org/10.1145/3721250.3743045",
-    "date": "2026-09-07"
-  },
-  {
-    "paperId": "ee42dd6c1c79034a0b79438ce9550246c488717c",
-    "title": "Enhancing haptic continuity in virtual reality using a continuity reinforcement skeleton",
-    "url": "https://doi.org/10.1038/s41467-025-58318-z",
-    "date": "2026-09-07"
-  },
-  {
     "paperId": "0bddf030edfe5032538fa61dfd1847f0d953478c",
     "title": "Recyclable and Binder\u2010Free EGaIn\u2013Carbon Liquid Metal Composite: A Sustainable Approach for High\u2010Performance Stretchable Electronics, Thermal\u2010Interfacing and EMI\u2010Shielding",
     "url": "https://doi.org/10.1002/admt.202502405",
@@ -2398,5 +2368,35 @@
     "title": "Wearable Haptic Devices for Realistic Scenario Applications",
     "url": "https://doi.org/10.1007/978-3-031-70539-7",
     "date": "2026-11-25"
+  },
+  {
+    "paperId": "3fdb3c9a416b4edc9aeed1f8bb6b82469d94aa13",
+    "title": "Soft and flexible robot skin actuator using multilayer 3D pneumatic network",
+    "url": "https://doi.org/10.1038/s41467-025-60496-9",
+    "date": "2026-11-26"
+  },
+  {
+    "paperId": "8c65252f5c2f6325d9f92f4e7a0f119ea6d1673b",
+    "title": "Design and Evaluation of a Cost-Effective Toolkit for Modular Haptic Harnesses in Wearable Devices",
+    "url": "https://doi.org/10.1109/HAPTICS66823.2026.11495496",
+    "date": "2026-11-26"
+  },
+  {
+    "paperId": "1d6d38783a49557a445763003b2cc310eb38e1b2",
+    "title": "A novel approach to enhancing smart stiffness of soft robotic gripper fingers for wider grasping capability",
+    "url": "https://doi.org/10.1007/s41315-024-00398-z",
+    "date": "2026-11-26"
+  },
+  {
+    "paperId": "8b9a91918254ea71c7a894ab468d539f9839b85c",
+    "title": "Mechano-gated iontronic piezomemristor for temporal-tactile neuromorphic plasticity",
+    "url": "https://doi.org/10.1038/s41467-025-56393-w",
+    "date": "2026-11-26"
+  },
+  {
+    "paperId": "96f60189fca43c1e6f7cef692b2b4c202d2b5c6c",
+    "title": "Self\u2010Sensing Bandgap\u2010Tunable Multistable Metamaterials for Vibration Suppression",
+    "url": "https://doi.org/10.1002/admt.70985",
+    "date": "2026-11-26"
   }
 ]
