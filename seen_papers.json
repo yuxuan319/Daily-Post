@@ -1,35 +1,5 @@
 [
   {
-    "paperId": "0bddf030edfe5032538fa61dfd1847f0d953478c",
-    "title": "Recyclable and Binder\u2010Free EGaIn\u2013Carbon Liquid Metal Composite: A Sustainable Approach for High\u2010Performance Stretchable Electronics, Thermal\u2010Interfacing and EMI\u2010Shielding",
-    "url": "https://doi.org/10.1002/admt.202502405",
-    "date": "2026-09-08"
-  },
-  {
-    "paperId": "96be80dfa12a83eb792a8c378eeeff4f4e855f9b",
-    "title": "Demonstrating VRScroll: A Shape-Changing Device for Precise Sketching in Virtual Reality",
-    "url": "https://doi.org/10.1145/3613905.3648662",
-    "date": "2026-09-08"
-  },
-  {
-    "paperId": "1779477674d57d9b79c62b0fd45b586994986ddc",
-    "title": "Visual-to-Haptic Augmentation in XR: A Wearable Glove for Perceptual Grounding in Multimodal Interaction",
-    "url": "https://www.semanticscholar.org/paper/1779477674d57d9b79c62b0fd45b586994986ddc",
-    "date": "2026-09-08"
-  },
-  {
-    "paperId": "5f01e003e0830a7818dee68e6dae44e3070ab06b",
-    "title": "Shape memory polymer adhesives for on-demand, low-force detachment in skin-interfaced devices",
-    "url": "https://doi.org/10.1038/s41467-026-76622-0",
-    "date": "2026-09-08"
-  },
-  {
-    "paperId": "1a587d189451d2f5d2628dc7030dbe2f6b858bbe",
-    "title": "Perception of Paired Vibrotactile Stimulus on the Upper Limb: Implications for the Design of Wearable Technology",
-    "url": "https://doi.org/10.1007/978-3-031-70058-3_34",
-    "date": "2026-09-08"
-  },
-  {
     "paperId": "4ed76ea1382775b0381d308faafa09a0e2e71fd4",
     "title": "Multi-actuator Haptic Handle Using Soft Material for Vibration Isolation",
     "url": "https://doi.org/10.1007/978-3-031-70061-3_21",
@@ -2398,5 +2368,35 @@
     "title": "Self\u2010Sensing Bandgap\u2010Tunable Multistable Metamaterials for Vibration Suppression",
     "url": "https://doi.org/10.1002/admt.70985",
     "date": "2026-11-26"
+  },
+  {
+    "paperId": "52e7334ff1fd9db2732ddc09f3a981c719c2971f",
+    "title": "Exo-Glove Poly III: Grasp Assistance by Modulating Thumb and Finger Motion Sequence with a Single Actuator",
+    "url": "https://doi.org/10.1089/soro.2024.0113",
+    "date": "2026-11-27"
+  },
+  {
+    "paperId": "2bfb528a09b8bb33b9d485d83b291ece4e5f5038",
+    "title": "MorphMatrix: A Toolkit Facilitating Shape-Changing Interface Design",
+    "url": "https://doi.org/10.1145/3623509.3633383",
+    "date": "2026-11-27"
+  },
+  {
+    "paperId": "4da68d7c9eca88c28fbb4aeaf8a4a3c4480c21b1",
+    "title": "Impedance for Assistance: Upper-Limb Assistive Soft Robotic Suit Using Linked-Layer Jamming Mechanisms",
+    "url": "https://doi.org/10.1089/soro.2023.0146",
+    "date": "2026-11-27"
+  },
+  {
+    "paperId": "009a5fa118e4cd57c36273de76013aacf98c9239",
+    "title": "Reversible Stepless Multiple Shape Memory Polymer Comprising Amorphous Region as Switching Phase",
+    "url": "https://doi.org/10.1002/adfm.202500230",
+    "date": "2026-11-27"
+  },
+  {
+    "paperId": "a9ec5d6703ba5479f82300a18d13f06df325f09d",
+    "title": "Mxene-based wearable self-powered and photothermal triboelectric nanogenerator patches for wound healing acceleration and tactile sensing",
+    "url": "https://doi.org/10.1016/j.cej.2024.148949",
+    "date": "2026-11-27"
   }
 ]
